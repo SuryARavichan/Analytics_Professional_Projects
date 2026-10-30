@@ -1,0 +1,8 @@
+rank,epic,story,reach,impact,confidence,effort,sprint,points,rice_score
+1,Reliability & Bug Triage,Retry a failed message send without duplicating it,8,3,90,3,1,5,7.2
+2,Reliability & Bug Triage,Show a clear error state (network vs server vs input) instead of a silent failure,8,2,80,2,1,3,6.4
+3,Transparent Paywall & Usage Limits,"Show which features require upgrading before the user attempts them, not after",4,2,85,2,1,3,3.4
+4,Conversation Memory & Consistency,Warn the user before a long chat's context window truncates,5,3,70,5,1,8,2.1
+5,Frictionless Onboarding,Let a new user send their first message before requiring account sign-in,7,2,60,5,2,8,1.7
+6,Conversation Memory & Consistency,Keep the fix to a corrected error from being repeated later in the same chat,5,2,60,5,2,8,1.2
+7,Answer Accuracy & Trust Signals,Flag lower-confidence answers on factual / diagram-based questions,6,3,50,8,2,13,1.1

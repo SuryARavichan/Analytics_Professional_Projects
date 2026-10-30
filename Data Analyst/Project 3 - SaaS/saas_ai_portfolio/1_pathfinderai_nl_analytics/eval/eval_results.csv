@@ -1,0 +1,21 @@
+id,difficulty,question,correct,gold_result,predicted_result,gold_error,predicted_error,failure_note
+q01,easy,How many accounts signed up in Q3 2025 (Jul-Sep)?,True,"[(473,)]","[(473,)]",,,
+q02,easy,What is the overall trial activation rate?,True,"[(55.88,)]","[(55.88,)]",,,
+q03,medium,What is the trial-to-paid conversion rate by acquisition channel?,True,"[('Referral', 30.4), ('Product Hunt/Community', 21.71), ('Organic Search', 20.98), ('Content/SEO', 20.15), ('Paid Search', 11.35)]","[('Referral', 30.4), ('Product Hunt/Community', 21.71), ('Organic Search', 20.98), ('Content/SEO', 20.15), ('Paid Search', 11.35)]",,,
+q04,easy,What is the current total MRR (Monthly Recurring Revenue)?,True,"[(220117.23,)]","[(220117.23,)]",,,
+q05,medium,Which plan tier has the highest churn rate?,True,"[('Starter', 23.18), ('Growth', 8.03), ('Enterprise', 2.88)]","[('Starter', 23.18), ('Growth', 8.03), ('Enterprise', 2.88)]",,,
+q06,medium,What are the top 5 most-adopted features by number of unique accounts using them?,True,"[('task_board', 1567), ('team_chat', 1216), ('reporting_dashboard', 903), ('integrations', 643), ('automation_rules', 589)]","[('task_board', 1567), ('team_chat', 1216), ('reporting_dashboard', 903), ('integrations', 643), ('automation_rules', 589)]",,,
+q07,hard,How many unique accounts used the 'automation_rules' feature?,False,"[(589,)]","[(2972,)]",,,"Missing DISTINCT: an account that used the feature many times (the data logs every usage event) is counted once per event instead of once per account, inflating the 'unique accounts' answer."
+q08,medium,What is the activation rate for accounts acquired via Referral?,True,"[(70.04,)]","[(70.04,)]",,,
+q09,easy,What is the average MRR by plan tier for active accounts?,True,"[('Enterprise', 1483.77), ('Growth', 252.28), ('Starter', 30.1)]","[('Enterprise', 1483.77), ('Growth', 252.28), ('Starter', 30.1)]",,,
+q10,easy,What percentage of paid accounts are on annual billing?,True,"[(35.38,)]","[(35.38,)]",,,
+q11,hard,What is the total current MRR by plan tier?,False,"[('Enterprise', 149860.43), ('Growth', 63575.52), ('Starter', 6681.28)]","[('Enterprise', 154178.64), ('Growth', 68977.47), ('Starter', 8543.73)]",,,"Stale-data filter error: this includes Churned accounts (WHERE mrr>0 doesn't exclude them -- their mrr column still holds the value from when they were paying), overstating CURRENT MRR by including revenue from accounts that already cancelled."
+q12,easy,How many accounts are in the '1000+' employee size bracket?,True,"[(95,)]","[(95,)]",,,
+q13,hard,How many Enterprise accounts do we have?,False,"[(104,)]","[(95,)]",,,"Ambiguous SaaS terminology resolved the wrong way: 'Enterprise accounts' in a subscription-business context almost always means accounts on the Enterprise PRICING PLAN, but the model resolved it to company employee-size instead -- a different, silently plausible interpretation that materially changes the answer (these are not the same set of accounts)."
+q14,hard,"What is the average time from signup to activation, in days?",True,"[(3.01,)]","[(3.01,)]",,,
+q15,medium,Which industry has the highest paid conversion rate?,True,"[('E-commerce', 22.88)]","[('E-commerce', 22.88)]",,,
+q16,hard,What percentage of activated accounts convert to paid?,False,"[(33.39,)]","[(34.55,)]",,,"Grain/denominator error: joins the raw product_events table (many rows per account -- every feature use, not just the one 'activated' row) instead of a deduplicated activated-accounts set, so the denominator massively overcounts and the percentage is systematically wrong."
+q17,easy,What is the total number of feature-usage events per month?,True,"[('2024-04', 119), ('2024-05', 296), ('2024-06', 497), ('2024-07', 705), ('2024-08', 849)]","[('2024-04', 119), ('2024-05', 296), ('2024-06', 497), ('2024-07', 705), ('2024-08', 849)]",,,
+q18,medium,Which acquisition channel produces the highest average MRR per converted account?,True,"[('Product Hunt/Community', 454.83)]","[('Product Hunt/Community', 454.83)]",,,
+q19,medium,How many accounts churned within 90 days of converting to paid?,True,"[(15,)]","[(15,)]",,,
+q20,hard,What is the feature adoption rate (as a % of activated accounts) for 'api_access'?,True,"[(12.42,)]","[(12.42,)]",,,

@@ -1,0 +1,76 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>QueryMind — NL-to-SQL Copilot Demo</title>
+<style>
+  body { font-family: Inter, 'Segoe UI', Arial, sans-serif; margin:0; background:#F4F6F8; color:#1a1a1a; }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 24px; }
+  h1 { font-size: 22px; margin-bottom:2px; }
+  .sub { color:#666; font-size:14px; margin-bottom: 18px; }
+  .kpis { display:flex; gap:16px; margin-bottom: 18px; flex-wrap: wrap; }
+  .kpi { background:white; border-radius:10px; padding:14px 20px; box-shadow:0 1px 4px rgba(0,0,0,0.08); flex:1; min-width:160px; }
+  .kpi .val { font-size:22px; font-weight:700; color:#2E86AB; }
+  .kpi .lbl { font-size:11px; color:#666; text-transform:uppercase; letter-spacing:0.03em; }
+  .layout { display:flex; gap:20px; align-items:flex-start; }
+  .sidebar { width: 300px; flex-shrink:0; }
+  .sidebar h3 { font-size:13px; text-transform:uppercase; color:#888; margin: 4px 0 8px; }
+  .qbtn { display:block; width:100%; text-align:left; background:white; border:1px solid #e2e2e2; border-radius:8px;
+           padding:10px 12px; margin-bottom:8px; font-size:13px; cursor:pointer; transition: all .15s; }
+  .qbtn:hover { border-color:#2E86AB; background:#EAF4FA; }
+  .qbtn.active { background:#2E86AB; color:white; border-color:#2E86AB; }
+  .chat { flex:1; background:white; border-radius:12px; box-shadow:0 1px 4px rgba(0,0,0,0.08); padding:24px; min-height: 480px; }
+  .bubble-user { background:#2E86AB; color:white; padding:10px 16px; border-radius:14px 14px 4px 14px; display:inline-block; max-width:85%; margin-bottom:16px; font-size:14px; }
+  .stage { margin-bottom: 16px; }
+  .stage-label { font-size:11px; text-transform:uppercase; letter-spacing:0.04em; color:#999; margin-bottom:4px; font-weight:600; }
+  pre { background:#1e1e2e; color:#cdd6f4; padding:12px 14px; border-radius:8px; font-size:12.5px; overflow-x:auto; margin:0; }
+  table { border-collapse:collapse; font-size:13px; margin-top:4px; }
+  th, td { border:1px solid #e2e2e2; padding:6px 12px; text-align:left; }
+  th { background:#F4F6F8; }
+  .insight-box { background:#FFF7E6; border-left:4px solid #E8A33D; padding:12px 16px; border-radius:6px; font-size:14px; }
+  .placeholder { color:#999; text-align:center; padding: 100px 0; font-size:14px; }
+  .badge { display:inline-block; padding:2px 8px; border-radius:10px; font-size:11px; font-weight:600; background:#EAF4FA; color:#2E86AB; margin-left:6px; }
+  footer { font-size:12px; color:#888; text-align:center; padding: 24px 0; }
+</style></head>
+<body><div class="wrap">
+  <h1>🧠 QueryMind — Natural-Language-to-SQL Analytics Copilot</h1>
+  <div class="sub">Click a question to see the full pipeline: NL question → generated SQL → executed result → AI-written insight.</div>
+  <div class="kpis">
+    <div class="kpi"><div class="val">80%</div><div class="lbl">Eval Accuracy (20 Qs)</div></div>
+    <div class="kpi"><div class="val">5</div><div class="lbl">Joined Tables</div></div>
+    <div class="kpi"><div class="val">100%</div><div class="lbl">Unsafe Queries Blocked</div></div>
+    <div class="kpi"><div class="val">42K</div><div class="lbl">Transactions Queryable</div></div>
+  </div>
+  <div class="layout">
+    <div class="sidebar">
+      <h3>Try a question</h3>
+      <button class="qbtn" data-idx="0">What was total sales revenue in Q4 2025 (Oct-Dec)?</button><button class="qbtn" data-idx="1">Which store had the highest total revenue in 2025?</button><button class="qbtn" data-idx="2">What is the average transaction value by channel?</button><button class="qbtn" data-idx="3">How many loyalty members made a purchase in November 2025?</button><button class="qbtn" data-idx="4">What are the top 5 best-selling products by quantity sold?</button><button class="qbtn" data-idx="5">Which product category generates the most revenue?</button><button class="qbtn" data-idx="6">What is the average discount percentage applied on transactions in the West region?</button><button class="qbtn" data-idx="7">Which region has the highest average transaction value?</button><button class="qbtn" data-idx="8">What's the return rate by store type?</button><button class="qbtn" data-idx="9">List the top 3 products by revenue in the Footwear category.</button><button class="qbtn" data-idx="10">What is the loyalty membership rate among customers who made a purchase in the South region?</button><button class="qbtn" data-idx="11">What's total revenue by payment method, from highest to lowest?</button>
+    </div>
+    <div class="chat" id="chat">
+      <div class="placeholder">👈 Click a question to run it through QueryMind</div>
+    </div>
+  </div>
+  <footer>Cached-mode demo (see README) — full pipeline code in <code>/pipeline</code>, eval harness in <code>/eval</code>, executed notebook in <code>/notebook/analysis.ipynb</code></footer>
+</div>
+<script>
+const DEMO = [{"id": "q01", "question": "What was total sales revenue in Q4 2025 (Oct-Dec)?", "sql": "SELECT ROUND(SUM(si.line_total),2) AS total_revenue\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' AND t.transaction_date BETWEEN '2025-10-01' AND '2025-12-31';", "columns": ["total_revenue"], "rows": [[1912295.82]], "insight": "Q4 2025 generated $1,912,295.82 in completed-sale revenue, the strongest quarter in the dataset -- consistent with the built-in holiday-season seasonality (Nov/Dec are weighted ~35-55% above baseline)."}, {"id": "q02", "question": "Which store had the highest total revenue in 2025?", "sql": "SELECT s.store_name, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 JOIN stores s ON s.store_id=t.store_id\n                 WHERE t.status='Completed' AND t.transaction_date BETWEEN '2025-01-01' AND '2025-12-31'\n                 GROUP BY s.store_id ORDER BY revenue DESC LIMIT 1;", "columns": ["store_name", "revenue"], "rows": [["Store #106", 336698.92]], "insight": "Store #106 leads all 24 stores with $336,698.92 in 2025 revenue, roughly 8% ahead of the next-highest store -- worth understanding whether that's driven by store type, region, or local demand before using it as a template for underperforming stores."}, {"id": "q03", "question": "What is the average transaction value by channel?", "sql": "WITH txn_totals AS (\n                     SELECT t.transaction_id, t.channel, SUM(si.line_total) AS txn_total\n                     FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                     WHERE t.status='Completed' GROUP BY t.transaction_id)\n                 SELECT channel, ROUND(AVG(txn_total),2) AS avg_transaction_value FROM txn_totals GROUP BY channel;", "columns": ["channel", "avg_transaction_value"], "rows": [["In-Store", 312.12], ["Online", 311.92]], "insight": "Average transaction value is nearly identical between In-Store ($312.12) and Online ($311.92) -- channel doesn't meaningfully affect basket size here, so channel-mix shifts should be evaluated on cost-to-serve and conversion, not AOV."}, {"id": "q04", "question": "How many loyalty members made a purchase in November 2025?", "sql": "SELECT COUNT(DISTINCT t.customer_id)\n                 FROM sales_transactions t JOIN customers c ON c.customer_id=t.customer_id\n                 WHERE c.loyalty_member=1 AND t.status='Completed'\n                   AND t.transaction_date BETWEEN '2025-11-01' AND '2025-11-30';", "columns": ["COUNT(DISTINCT t.customer_id)"], "rows": [[724]], "insight": "724 loyalty members purchased in November 2025, giving Marketing a concrete, addressable list size for any holiday-season loyalty campaign targeting."}, {"id": "q05", "question": "What are the top 5 best-selling products by quantity sold?", "sql": "SELECT p.product_name, SUM(si.quantity) AS total_qty\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' GROUP BY p.product_id ORDER BY total_qty DESC LIMIT 5;", "columns": ["product_name", "total_qty"], "rows": [["Accessories Item 5125", 562], ["Apparel Item 5195", 546], ["Outdoor Gear Item 5169", 546], ["Outdoor Gear Item 5116", 545], ["Outdoor Gear Item 5035", 539]], "insight": "The top 5 best-sellers by units are led by an Accessories item (562 units) but are otherwise dominated by Outdoor Gear (3 of 5 spots) -- Outdoor Gear is punching above its ~16% share of the product catalog in unit velocity."}, {"id": "q06", "question": "Which product category generates the most revenue?", "sql": "SELECT p.category, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' GROUP BY p.category ORDER BY revenue DESC LIMIT 1;", "columns": ["category", "revenue"], "rows": [["Electronics", 3163854.1]], "insight": "Electronics is the top-revenue category at $3,163,854.10, despite representing only ~12% of the product catalog -- its high average selling price is doing the work; a unit-volume ranking would likely tell a different story."}, {"id": "q08", "question": "What is the average discount percentage applied on transactions in the West region?", "sql": "SELECT ROUND(AVG(si.discount_pct)*100,2) AS avg_discount_pct\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 JOIN stores s ON s.store_id=t.store_id WHERE s.region='West';", "columns": ["avg_discount_pct"], "rows": [[4.43]], "insight": "Transactions in the West region carry a 4.43% average discount, in line with the other regions -- there's no evidence West is being over-discounted relative to the rest of the chain."}, {"id": "q11", "question": "Which region has the highest average transaction value?", "sql": "WITH txn_totals AS (\n                     SELECT t.transaction_id, s.region, SUM(si.line_total) AS txn_total\n                     FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                     JOIN stores s ON s.store_id=t.store_id WHERE t.status='Completed' GROUP BY t.transaction_id)\n                 SELECT region, ROUND(AVG(txn_total),2) AS avg_txn_value FROM txn_totals\n                 GROUP BY region ORDER BY avg_txn_value DESC LIMIT 1;", "columns": ["region", "avg_txn_value"], "rows": [["South", 313.43]], "insight": "The South region has the highest average transaction value at $313.43, only marginally above the other regions (~$310-312) -- not a large enough gap to be a standalone strategic signal on its own."}, {"id": "q12", "question": "What's the return rate by store type?", "sql": "SELECT s.store_type, ROUND(100.0*SUM(CASE WHEN t.status='Returned' THEN 1 ELSE 0 END)/COUNT(*),2) AS return_rate_pct\n                 FROM sales_transactions t JOIN stores s ON s.store_id=t.store_id\n                 GROUP BY s.store_type ORDER BY return_rate_pct DESC;", "columns": ["store_type", "return_rate_pct"], "rows": [["Flagship", 6.48], ["Strip Mall", 6.04], ["Mall", 6.02], ["Outlet", 5.73]], "insight": "Return rates are tightly clustered across store types (5.7%-6.5%), with Flagship stores highest at 6.48% -- close enough that this likely reflects overall product/category mix rather than a store-type-specific service issue."}, {"id": "q17", "question": "List the top 3 products by revenue in the Footwear category.", "sql": "SELECT p.product_name, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE p.category='Footwear' AND t.status='Completed'\n                 GROUP BY p.product_id ORDER BY revenue DESC LIMIT 3;", "columns": ["product_name", "revenue"], "rows": [["Footwear Item 5170", 90788.17], ["Footwear Item 5177", 90604.12], ["Footwear Item 5037", 88120.09]], "insight": "The top 3 Footwear products by revenue are within 3% of each other ($88.1K-$90.8K) -- a genuinely competitive category rather than one dominated by a single hero SKU."}, {"id": "q19", "question": "What is the loyalty membership rate among customers who made a purchase in the South region?", "sql": "WITH south_customers AS (\n                     SELECT DISTINCT t.customer_id FROM sales_transactions t JOIN stores s ON s.store_id=t.store_id\n                     WHERE s.region='South' AND t.status='Completed')\n                 SELECT ROUND(100.0*SUM(c.loyalty_member)/COUNT(*),2) AS loyalty_rate_pct\n                 FROM south_customers sc JOIN customers c ON c.customer_id=sc.customer_id;", "columns": ["loyalty_rate_pct"], "rows": [[38.73]], "insight": "38.73% of South-region purchasers are loyalty members, in line with the ~38% loyalty rate in the customer base overall -- the South region isn't under- or over-indexed on loyalty enrollment among buyers."}, {"id": "q20", "question": "What's total revenue by payment method, from highest to lowest?", "sql": "SELECT t.payment_method, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                 WHERE t.status='Completed' GROUP BY t.payment_method ORDER BY revenue DESC;", "columns": ["payment_method", "revenue"], "rows": [["Credit Card", 6008036.55], ["Debit Card", 3243917.15], ["Cash", 1668233.85], ["Gift Card", 987521.87]], "insight": "Credit Card is the dominant payment method at $6.0M (46% of revenue), more than 3x Cash ($1.67M) -- any payment-processing fee renegotiation should prioritize the Credit Card rate given its outsized share."}];
+
+function fmtRow(r) { return r.map(v => typeof v === 'number' ? v.toLocaleString(undefined, {maximumFractionDigits:2}) : v); }
+
+function render(idx) {
+  const d = DEMO[idx];
+  document.querySelectorAll('.qbtn').forEach((b,i) => b.classList.toggle('active', i===idx));
+  let rowsHtml = '<table><tr>' + d.columns.map(c => `<th>${c}</th>`).join('') + '</tr>';
+  d.rows.forEach(r => { rowsHtml += '<tr>' + fmtRow(r).map(v => `<td>${v}</td>`).join('') + '</tr>'; });
+  rowsHtml += '</table>';
+
+  document.getElementById('chat').innerHTML = `
+    <div class="bubble-user">${d.question}</div>
+    <div class="stage"><div class="stage-label">Generated SQL <span class="badge">schema-aware · safety-checked</span></div>
+      <pre>${d.sql.replace(/</g,'&lt;')}</pre></div>
+    <div class="stage"><div class="stage-label">Query Result (${d.rows.length} row${d.rows.length===1?'':'s'})</div>${rowsHtml}</div>
+    <div class="stage"><div class="stage-label">AI-Generated Insight</div><div class="insight-box">${d.insight}</div></div>
+  `;
+}
+
+document.querySelectorAll('.qbtn').forEach((b,i) => b.addEventListener('click', () => render(i)));
+render(0);
+</script>
+</body></html>

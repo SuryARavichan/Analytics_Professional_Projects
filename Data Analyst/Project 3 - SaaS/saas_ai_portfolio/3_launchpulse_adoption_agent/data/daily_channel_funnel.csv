@@ -1,0 +1,2189 @@
+date,channel,signups,activations
+2024-01-01,Organic Search,220,123
+2024-01-01,Paid Search,166,100
+2024-01-01,Paid Social,151,91
+2024-01-01,Referral,116,65
+2024-01-02,Organic Search,304,164
+2024-01-02,Paid Search,150,93
+2024-01-02,Paid Social,166,103
+2024-01-02,Referral,166,96
+2024-01-03,Organic Search,265,169
+2024-01-03,Paid Search,160,93
+2024-01-03,Paid Social,142,90
+2024-01-03,Referral,147,90
+2024-01-04,Organic Search,308,186
+2024-01-04,Paid Search,203,122
+2024-01-04,Paid Social,182,113
+2024-01-04,Referral,118,70
+2024-01-05,Organic Search,225,136
+2024-01-05,Paid Search,175,96
+2024-01-05,Paid Social,119,60
+2024-01-05,Referral,117,70
+2024-01-06,Organic Search,105,63
+2024-01-06,Paid Search,87,53
+2024-01-06,Paid Social,98,60
+2024-01-06,Referral,63,38
+2024-01-07,Organic Search,108,64
+2024-01-07,Paid Search,87,54
+2024-01-07,Paid Social,69,39
+2024-01-07,Referral,58,36
+2024-01-08,Organic Search,417,228
+2024-01-08,Paid Search,248,143
+2024-01-08,Paid Social,159,97
+2024-01-08,Referral,105,57
+2024-01-09,Organic Search,314,196
+2024-01-09,Paid Search,209,124
+2024-01-09,Paid Social,181,107
+2024-01-09,Referral,145,82
+2024-01-10,Organic Search,376,232
+2024-01-10,Paid Search,243,154
+2024-01-10,Paid Social,179,108
+2024-01-10,Referral,171,113
+2024-01-11,Organic Search,343,216
+2024-01-11,Paid Search,230,138
+2024-01-11,Paid Social,183,110
+2024-01-11,Referral,165,96
+2024-01-12,Organic Search,336,184
+2024-01-12,Paid Search,231,139
+2024-01-12,Paid Social,181,109
+2024-01-12,Referral,135,82
+2024-01-13,Organic Search,161,87
+2024-01-13,Paid Search,92,55
+2024-01-13,Paid Social,99,61
+2024-01-13,Referral,72,41
+2024-01-14,Organic Search,152,96
+2024-01-14,Paid Search,94,52
+2024-01-14,Paid Social,72,40
+2024-01-14,Referral,61,35
+2024-01-15,Organic Search,274,161
+2024-01-15,Paid Search,202,117
+2024-01-15,Paid Social,161,84
+2024-01-15,Referral,178,95
+2024-01-16,Organic Search,359,205
+2024-01-16,Paid Search,203,120
+2024-01-16,Paid Social,204,110
+2024-01-16,Referral,168,100
+2024-01-17,Organic Search,440,256
+2024-01-17,Paid Search,274,157
+2024-01-17,Paid Social,155,88
+2024-01-17,Referral,177,107
+2024-01-18,Organic Search,343,197
+2024-01-18,Paid Search,218,136
+2024-01-18,Paid Social,219,111
+2024-01-18,Referral,167,102
+2024-01-19,Organic Search,375,215
+2024-01-19,Paid Search,145,79
+2024-01-19,Paid Social,143,86
+2024-01-19,Referral,152,86
+2024-01-20,Organic Search,163,111
+2024-01-20,Paid Search,113,67
+2024-01-20,Paid Social,87,48
+2024-01-20,Referral,79,44
+2024-01-21,Organic Search,147,82
+2024-01-21,Paid Search,111,62
+2024-01-21,Paid Social,84,49
+2024-01-21,Referral,68,38
+2024-01-22,Organic Search,364,210
+2024-01-22,Paid Search,235,137
+2024-01-22,Paid Social,183,97
+2024-01-22,Referral,161,91
+2024-01-23,Organic Search,307,182
+2024-01-23,Paid Search,225,133
+2024-01-23,Paid Social,161,92
+2024-01-23,Referral,175,93
+2024-01-24,Organic Search,356,207
+2024-01-24,Paid Search,224,139
+2024-01-24,Paid Social,186,108
+2024-01-24,Referral,199,117
+2024-01-25,Organic Search,343,201
+2024-01-25,Paid Search,276,150
+2024-01-25,Paid Social,202,114
+2024-01-25,Referral,162,95
+2024-01-26,Organic Search,331,176
+2024-01-26,Paid Search,208,124
+2024-01-26,Paid Social,170,104
+2024-01-26,Referral,149,82
+2024-01-27,Organic Search,161,95
+2024-01-27,Paid Search,125,63
+2024-01-27,Paid Social,104,58
+2024-01-27,Referral,85,51
+2024-01-28,Organic Search,182,108
+2024-01-28,Paid Search,138,86
+2024-01-28,Paid Social,97,52
+2024-01-28,Referral,69,42
+2024-01-29,Organic Search,335,210
+2024-01-29,Paid Search,163,95
+2024-01-29,Paid Social,202,130
+2024-01-29,Referral,151,80
+2024-01-30,Organic Search,325,181
+2024-01-30,Paid Search,319,195
+2024-01-30,Paid Social,218,135
+2024-01-30,Referral,172,99
+2024-01-31,Organic Search,426,247
+2024-01-31,Paid Search,203,116
+2024-01-31,Paid Social,246,138
+2024-01-31,Referral,147,86
+2024-02-01,Organic Search,347,224
+2024-02-01,Paid Search,171,106
+2024-02-01,Paid Social,183,105
+2024-02-01,Referral,162,92
+2024-02-02,Organic Search,269,159
+2024-02-02,Paid Search,167,99
+2024-02-02,Paid Social,167,102
+2024-02-02,Referral,132,82
+2024-02-03,Organic Search,142,79
+2024-02-03,Paid Search,114,65
+2024-02-03,Paid Social,89,49
+2024-02-03,Referral,99,60
+2024-02-04,Organic Search,180,103
+2024-02-04,Paid Search,121,71
+2024-02-04,Paid Social,83,48
+2024-02-04,Referral,79,46
+2024-02-05,Organic Search,328,193
+2024-02-05,Paid Search,238,131
+2024-02-05,Paid Social,216,122
+2024-02-05,Referral,165,97
+2024-02-06,Organic Search,381,216
+2024-02-06,Paid Search,228,126
+2024-02-06,Paid Social,203,116
+2024-02-06,Referral,149,81
+2024-02-07,Organic Search,384,229
+2024-02-07,Paid Search,242,144
+2024-02-07,Paid Social,186,106
+2024-02-07,Referral,150,95
+2024-02-08,Organic Search,354,211
+2024-02-08,Paid Search,268,160
+2024-02-08,Paid Social,184,107
+2024-02-08,Referral,161,95
+2024-02-09,Organic Search,300,168
+2024-02-09,Paid Search,168,96
+2024-02-09,Paid Social,195,109
+2024-02-09,Referral,130,77
+2024-02-10,Organic Search,207,117
+2024-02-10,Paid Search,110,62
+2024-02-10,Paid Social,102,62
+2024-02-10,Referral,85,48
+2024-02-11,Organic Search,151,93
+2024-02-11,Paid Search,95,61
+2024-02-11,Paid Social,103,58
+2024-02-11,Referral,80,45
+2024-02-12,Organic Search,387,205
+2024-02-12,Paid Search,237,134
+2024-02-12,Paid Social,216,122
+2024-02-12,Referral,169,108
+2024-02-13,Organic Search,352,218
+2024-02-13,Paid Search,256,156
+2024-02-13,Paid Social,194,112
+2024-02-13,Referral,159,94
+2024-02-14,Organic Search,370,207
+2024-02-14,Paid Search,285,144
+2024-02-14,Paid Social,171,95
+2024-02-14,Referral,146,87
+2024-02-15,Organic Search,382,216
+2024-02-15,Paid Search,248,131
+2024-02-15,Paid Social,193,115
+2024-02-15,Referral,174,95
+2024-02-16,Organic Search,285,169
+2024-02-16,Paid Search,197,109
+2024-02-16,Paid Social,143,87
+2024-02-16,Referral,156,93
+2024-02-17,Organic Search,156,90
+2024-02-17,Paid Search,119,68
+2024-02-17,Paid Social,109,63
+2024-02-17,Referral,66,39
+2024-02-18,Organic Search,179,109
+2024-02-18,Paid Search,110,70
+2024-02-18,Paid Social,76,40
+2024-02-18,Referral,80,45
+2024-02-19,Organic Search,328,180
+2024-02-19,Paid Search,185,98
+2024-02-19,Paid Social,211,131
+2024-02-19,Referral,158,89
+2024-02-20,Organic Search,472,266
+2024-02-20,Paid Search,262,146
+2024-02-20,Paid Social,158,85
+2024-02-20,Referral,166,96
+2024-02-21,Organic Search,392,218
+2024-02-21,Paid Search,250,141
+2024-02-21,Paid Social,203,116
+2024-02-21,Referral,161,95
+2024-02-22,Organic Search,383,218
+2024-02-22,Paid Search,214,115
+2024-02-22,Paid Social,247,150
+2024-02-22,Referral,156,80
+2024-02-23,Organic Search,279,168
+2024-02-23,Paid Search,175,99
+2024-02-23,Paid Social,142,82
+2024-02-23,Referral,140,79
+2024-02-24,Organic Search,171,101
+2024-02-24,Paid Search,105,61
+2024-02-24,Paid Social,69,42
+2024-02-24,Referral,86,47
+2024-02-25,Organic Search,167,97
+2024-02-25,Paid Search,105,66
+2024-02-25,Paid Social,93,51
+2024-02-25,Referral,82,48
+2024-02-26,Organic Search,300,179
+2024-02-26,Paid Search,245,132
+2024-02-26,Paid Social,172,95
+2024-02-26,Referral,130,76
+2024-02-27,Organic Search,328,180
+2024-02-27,Paid Search,245,138
+2024-02-27,Paid Social,198,115
+2024-02-27,Referral,152,86
+2024-02-28,Organic Search,374,226
+2024-02-28,Paid Search,188,109
+2024-02-28,Paid Social,263,147
+2024-02-28,Referral,188,120
+2024-02-29,Organic Search,456,278
+2024-02-29,Paid Search,222,132
+2024-02-29,Paid Social,201,102
+2024-02-29,Referral,173,105
+2024-03-01,Organic Search,277,176
+2024-03-01,Paid Search,220,137
+2024-03-01,Paid Social,136,85
+2024-03-01,Referral,122,66
+2024-03-02,Organic Search,160,96
+2024-03-02,Paid Search,98,59
+2024-03-02,Paid Social,102,60
+2024-03-02,Referral,80,41
+2024-03-03,Organic Search,151,91
+2024-03-03,Paid Search,113,63
+2024-03-03,Paid Social,89,51
+2024-03-03,Referral,69,41
+2024-03-04,Organic Search,452,280
+2024-03-04,Paid Search,247,155
+2024-03-04,Paid Social,202,115
+2024-03-04,Referral,145,85
+2024-03-05,Organic Search,372,212
+2024-03-05,Paid Search,210,124
+2024-03-05,Paid Social,195,111
+2024-03-05,Referral,157,87
+2024-03-06,Organic Search,393,233
+2024-03-06,Paid Search,224,129
+2024-03-06,Paid Social,177,101
+2024-03-06,Referral,173,103
+2024-03-07,Organic Search,403,227
+2024-03-07,Paid Search,244,152
+2024-03-07,Paid Social,198,117
+2024-03-07,Referral,141,77
+2024-03-08,Organic Search,263,139
+2024-03-08,Paid Search,190,106
+2024-03-08,Paid Social,214,128
+2024-03-08,Referral,139,80
+2024-03-09,Organic Search,183,101
+2024-03-09,Paid Search,105,56
+2024-03-09,Paid Social,99,59
+2024-03-09,Referral,81,48
+2024-03-10,Organic Search,181,97
+2024-03-10,Paid Search,120,72
+2024-03-10,Paid Social,88,48
+2024-03-10,Referral,75,44
+2024-03-11,Organic Search,422,242
+2024-03-11,Paid Search,247,135
+2024-03-11,Paid Social,213,119
+2024-03-11,Referral,172,100
+2024-03-12,Organic Search,329,190
+2024-03-12,Paid Search,204,124
+2024-03-12,Paid Social,186,111
+2024-03-12,Referral,148,91
+2024-03-13,Organic Search,374,218
+2024-03-13,Paid Search,252,141
+2024-03-13,Paid Social,230,138
+2024-03-13,Referral,201,117
+2024-03-14,Organic Search,364,191
+2024-03-14,Paid Search,225,127
+2024-03-14,Paid Social,242,123
+2024-03-14,Referral,163,94
+2024-03-15,Organic Search,328,202
+2024-03-15,Paid Search,159,93
+2024-03-15,Paid Social,181,98
+2024-03-15,Referral,138,85
+2024-03-16,Organic Search,178,99
+2024-03-16,Paid Search,126,75
+2024-03-16,Paid Social,80,47
+2024-03-16,Referral,80,47
+2024-03-17,Organic Search,188,104
+2024-03-17,Paid Search,99,54
+2024-03-17,Paid Social,96,53
+2024-03-17,Referral,68,44
+2024-03-18,Organic Search,369,209
+2024-03-18,Paid Search,225,123
+2024-03-18,Paid Social,173,104
+2024-03-18,Referral,128,71
+2024-03-19,Organic Search,388,224
+2024-03-19,Paid Search,256,143
+2024-03-19,Paid Social,231,138
+2024-03-19,Referral,174,92
+2024-03-20,Organic Search,362,187
+2024-03-20,Paid Search,249,141
+2024-03-20,Paid Social,215,121
+2024-03-20,Referral,166,96
+2024-03-21,Organic Search,351,209
+2024-03-21,Paid Search,249,135
+2024-03-21,Paid Social,214,126
+2024-03-21,Referral,147,87
+2024-03-22,Organic Search,275,170
+2024-03-22,Paid Search,187,109
+2024-03-22,Paid Social,168,97
+2024-03-22,Referral,138,78
+2024-03-23,Organic Search,175,95
+2024-03-23,Paid Search,112,65
+2024-03-23,Paid Social,110,65
+2024-03-23,Referral,83,50
+2024-03-24,Organic Search,174,95
+2024-03-24,Paid Search,118,67
+2024-03-24,Paid Social,86,48
+2024-03-24,Referral,81,47
+2024-03-25,Organic Search,359,210
+2024-03-25,Paid Search,207,112
+2024-03-25,Paid Social,187,107
+2024-03-25,Referral,173,105
+2024-03-26,Organic Search,377,207
+2024-03-26,Paid Search,287,171
+2024-03-26,Paid Social,186,98
+2024-03-26,Referral,182,117
+2024-03-27,Organic Search,439,249
+2024-03-27,Paid Search,206,113
+2024-03-27,Paid Social,196,110
+2024-03-27,Referral,163,91
+2024-03-28,Organic Search,405,236
+2024-03-28,Paid Search,223,137
+2024-03-28,Paid Social,190,113
+2024-03-28,Referral,166,93
+2024-03-29,Organic Search,315,173
+2024-03-29,Paid Search,188,114
+2024-03-29,Paid Social,149,79
+2024-03-29,Referral,111,66
+2024-03-30,Organic Search,184,107
+2024-03-30,Paid Search,119,67
+2024-03-30,Paid Social,112,68
+2024-03-30,Referral,72,45
+2024-03-31,Organic Search,165,87
+2024-03-31,Paid Search,96,54
+2024-03-31,Paid Social,96,55
+2024-03-31,Referral,74,42
+2024-04-01,Organic Search,314,172
+2024-04-01,Paid Search,205,119
+2024-04-01,Paid Social,198,111
+2024-04-01,Referral,134,78
+2024-04-02,Organic Search,340,192
+2024-04-02,Paid Search,252,150
+2024-04-02,Paid Social,216,131
+2024-04-02,Referral,164,98
+2024-04-03,Organic Search,369,224
+2024-04-03,Paid Search,244,152
+2024-04-03,Paid Social,191,110
+2024-04-03,Referral,149,84
+2024-04-04,Organic Search,401,229
+2024-04-04,Paid Search,267,168
+2024-04-04,Paid Social,243,150
+2024-04-04,Referral,204,111
+2024-04-05,Organic Search,338,189
+2024-04-05,Paid Search,192,116
+2024-04-05,Paid Social,164,90
+2024-04-05,Referral,124,70
+2024-04-06,Organic Search,183,109
+2024-04-06,Paid Search,116,63
+2024-04-06,Paid Social,93,53
+2024-04-06,Referral,76,40
+2024-04-07,Organic Search,188,106
+2024-04-07,Paid Search,105,60
+2024-04-07,Paid Social,79,45
+2024-04-07,Referral,63,37
+2024-04-08,Organic Search,321,185
+2024-04-08,Paid Search,198,123
+2024-04-08,Paid Social,206,128
+2024-04-08,Referral,147,89
+2024-04-09,Organic Search,393,232
+2024-04-09,Paid Search,207,125
+2024-04-09,Paid Social,244,140
+2024-04-09,Referral,135,78
+2024-04-10,Organic Search,375,220
+2024-04-10,Paid Search,233,133
+2024-04-10,Paid Social,235,146
+2024-04-10,Referral,164,95
+2024-04-11,Organic Search,319,176
+2024-04-11,Paid Search,240,136
+2024-04-11,Paid Social,217,126
+2024-04-11,Referral,151,78
+2024-04-12,Organic Search,335,185
+2024-04-12,Paid Search,231,125
+2024-04-12,Paid Social,157,89
+2024-04-12,Referral,164,88
+2024-04-13,Organic Search,182,107
+2024-04-13,Paid Search,130,69
+2024-04-13,Paid Social,102,56
+2024-04-13,Referral,98,56
+2024-04-14,Organic Search,147,84
+2024-04-14,Paid Search,95,52
+2024-04-14,Paid Social,103,55
+2024-04-14,Referral,65,36
+2024-04-15,Organic Search,323,180
+2024-04-15,Paid Search,196,109
+2024-04-15,Paid Social,233,133
+2024-04-15,Referral,138,82
+2024-04-16,Organic Search,477,249
+2024-04-16,Paid Search,221,127
+2024-04-16,Paid Social,211,132
+2024-04-16,Referral,208,123
+2024-04-17,Organic Search,363,219
+2024-04-17,Paid Search,182,119
+2024-04-17,Paid Social,178,112
+2024-04-17,Referral,149,85
+2024-04-18,Organic Search,454,277
+2024-04-18,Paid Search,225,118
+2024-04-18,Paid Social,213,123
+2024-04-18,Referral,154,101
+2024-04-19,Organic Search,389,243
+2024-04-19,Paid Search,194,103
+2024-04-19,Paid Social,197,106
+2024-04-19,Referral,174,94
+2024-04-20,Organic Search,221,125
+2024-04-20,Paid Search,110,62
+2024-04-20,Paid Social,100,59
+2024-04-20,Referral,71,40
+2024-04-21,Organic Search,148,77
+2024-04-21,Paid Search,116,68
+2024-04-21,Paid Social,98,58
+2024-04-21,Referral,83,47
+2024-04-22,Organic Search,408,255
+2024-04-22,Paid Search,244,149
+2024-04-22,Paid Social,217,116
+2024-04-22,Referral,155,84
+2024-04-23,Organic Search,338,211
+2024-04-23,Paid Search,223,135
+2024-04-23,Paid Social,186,99
+2024-04-23,Referral,175,97
+2024-04-24,Organic Search,436,286
+2024-04-24,Paid Search,298,177
+2024-04-24,Paid Social,227,125
+2024-04-24,Referral,177,108
+2024-04-25,Organic Search,374,203
+2024-04-25,Paid Search,205,116
+2024-04-25,Paid Social,204,113
+2024-04-25,Referral,156,97
+2024-04-26,Organic Search,315,185
+2024-04-26,Paid Search,179,104
+2024-04-26,Paid Social,209,126
+2024-04-26,Referral,158,92
+2024-04-27,Organic Search,232,154
+2024-04-27,Paid Search,123,68
+2024-04-27,Paid Social,126,81
+2024-04-27,Referral,99,61
+2024-04-28,Organic Search,161,101
+2024-04-28,Paid Search,106,65
+2024-04-28,Paid Social,90,52
+2024-04-28,Referral,89,52
+2024-04-29,Organic Search,400,239
+2024-04-29,Paid Search,245,148
+2024-04-29,Paid Social,221,140
+2024-04-29,Referral,156,91
+2024-04-30,Organic Search,338,185
+2024-04-30,Paid Search,228,128
+2024-04-30,Paid Social,225,132
+2024-04-30,Referral,162,94
+2024-05-01,Organic Search,475,304
+2024-05-01,Paid Search,289,161
+2024-05-01,Paid Social,230,130
+2024-05-01,Referral,153,90
+2024-05-02,Organic Search,451,271
+2024-05-02,Paid Search,238,145
+2024-05-02,Paid Social,193,110
+2024-05-02,Referral,158,88
+2024-05-03,Organic Search,280,179
+2024-05-03,Paid Search,200,108
+2024-05-03,Paid Social,186,99
+2024-05-03,Referral,151,83
+2024-05-04,Organic Search,193,104
+2024-05-04,Paid Search,129,80
+2024-05-04,Paid Social,144,82
+2024-05-04,Referral,84,51
+2024-05-05,Organic Search,171,103
+2024-05-05,Paid Search,104,57
+2024-05-05,Paid Social,91,53
+2024-05-05,Referral,83,49
+2024-05-06,Organic Search,316,179
+2024-05-06,Paid Search,275,161
+2024-05-06,Paid Social,187,99
+2024-05-06,Referral,140,79
+2024-05-07,Organic Search,421,246
+2024-05-07,Paid Search,221,124
+2024-05-07,Paid Social,232,130
+2024-05-07,Referral,181,98
+2024-05-08,Organic Search,366,211
+2024-05-08,Paid Search,270,154
+2024-05-08,Paid Social,219,118
+2024-05-08,Referral,195,111
+2024-05-09,Organic Search,386,240
+2024-05-09,Paid Search,230,136
+2024-05-09,Paid Social,197,117
+2024-05-09,Referral,194,104
+2024-05-10,Organic Search,279,163
+2024-05-10,Paid Search,224,131
+2024-05-10,Paid Social,197,110
+2024-05-10,Referral,167,88
+2024-05-11,Organic Search,152,83
+2024-05-11,Paid Search,108,62
+2024-05-11,Paid Social,97,53
+2024-05-11,Referral,73,45
+2024-05-12,Organic Search,178,109
+2024-05-12,Paid Search,102,60
+2024-05-12,Paid Social,89,50
+2024-05-12,Referral,80,46
+2024-05-13,Organic Search,380,240
+2024-05-13,Paid Search,234,139
+2024-05-13,Paid Social,195,117
+2024-05-13,Referral,164,98
+2024-05-14,Organic Search,326,207
+2024-05-14,Paid Search,220,119
+2024-05-14,Paid Social,200,111
+2024-05-14,Referral,171,100
+2024-05-15,Organic Search,371,214
+2024-05-15,Paid Search,246,144
+2024-05-15,Paid Social,209,121
+2024-05-15,Referral,186,111
+2024-05-16,Organic Search,359,207
+2024-05-16,Paid Search,199,109
+2024-05-16,Paid Social,224,125
+2024-05-16,Referral,182,110
+2024-05-17,Organic Search,342,202
+2024-05-17,Paid Search,177,104
+2024-05-17,Paid Social,159,92
+2024-05-17,Referral,145,84
+2024-05-18,Organic Search,206,122
+2024-05-18,Paid Search,115,65
+2024-05-18,Paid Social,101,56
+2024-05-18,Referral,114,62
+2024-05-19,Organic Search,165,94
+2024-05-19,Paid Search,97,58
+2024-05-19,Paid Social,92,58
+2024-05-19,Referral,63,34
+2024-05-20,Organic Search,371,204
+2024-05-20,Paid Search,218,126
+2024-05-20,Paid Social,205,121
+2024-05-20,Referral,131,80
+2024-05-21,Organic Search,466,276
+2024-05-21,Paid Search,246,138
+2024-05-21,Paid Social,200,114
+2024-05-21,Referral,142,79
+2024-05-22,Organic Search,384,212
+2024-05-22,Paid Search,215,133
+2024-05-22,Paid Social,198,116
+2024-05-22,Referral,179,98
+2024-05-23,Organic Search,380,211
+2024-05-23,Paid Search,207,114
+2024-05-23,Paid Social,193,107
+2024-05-23,Referral,180,104
+2024-05-24,Organic Search,365,221
+2024-05-24,Paid Search,182,111
+2024-05-24,Paid Social,183,110
+2024-05-24,Referral,126,71
+2024-05-25,Organic Search,176,86
+2024-05-25,Paid Search,95,56
+2024-05-25,Paid Social,133,80
+2024-05-25,Referral,78,47
+2024-05-26,Organic Search,193,116
+2024-05-26,Paid Search,123,71
+2024-05-26,Paid Social,102,61
+2024-05-26,Referral,81,44
+2024-05-27,Organic Search,349,211
+2024-05-27,Paid Search,183,103
+2024-05-27,Paid Social,220,127
+2024-05-27,Referral,149,84
+2024-05-28,Organic Search,391,252
+2024-05-28,Paid Search,284,156
+2024-05-28,Paid Social,171,96
+2024-05-28,Referral,193,113
+2024-05-29,Organic Search,277,185
+2024-05-29,Paid Search,227,151
+2024-05-29,Paid Social,232,135
+2024-05-29,Referral,188,124
+2024-05-30,Organic Search,392,228
+2024-05-30,Paid Search,215,125
+2024-05-30,Paid Social,166,104
+2024-05-30,Referral,192,117
+2024-05-31,Organic Search,366,201
+2024-05-31,Paid Search,164,98
+2024-05-31,Paid Social,161,90
+2024-05-31,Referral,154,87
+2024-06-01,Organic Search,240,133
+2024-06-01,Paid Search,116,67
+2024-06-01,Paid Social,97,54
+2024-06-01,Referral,78,45
+2024-06-02,Organic Search,179,109
+2024-06-02,Paid Search,119,67
+2024-06-02,Paid Social,117,74
+2024-06-02,Referral,80,42
+2024-06-03,Organic Search,347,215
+2024-06-03,Paid Search,262,154
+2024-06-03,Paid Social,191,113
+2024-06-03,Referral,129,75
+2024-06-04,Organic Search,384,228
+2024-06-04,Paid Search,282,164
+2024-06-04,Paid Social,207,123
+2024-06-04,Referral,166,101
+2024-06-05,Organic Search,478,280
+2024-06-05,Paid Search,235,139
+2024-06-05,Paid Social,211,122
+2024-06-05,Referral,152,87
+2024-06-06,Organic Search,414,249
+2024-06-06,Paid Search,263,144
+2024-06-06,Paid Social,216,117
+2024-06-06,Referral,173,114
+2024-06-07,Organic Search,390,220
+2024-06-07,Paid Search,228,125
+2024-06-07,Paid Social,178,106
+2024-06-07,Referral,119,64
+2024-06-08,Organic Search,194,112
+2024-06-08,Paid Search,116,72
+2024-06-08,Paid Social,116,68
+2024-06-08,Referral,102,63
+2024-06-09,Organic Search,222,123
+2024-06-09,Paid Search,94,58
+2024-06-09,Paid Social,92,48
+2024-06-09,Referral,89,52
+2024-06-10,Organic Search,375,212
+2024-06-10,Paid Search,180,110
+2024-06-10,Paid Social,144,89
+2024-06-10,Referral,146,93
+2024-06-11,Organic Search,304,176
+2024-06-11,Paid Search,218,126
+2024-06-11,Paid Social,187,102
+2024-06-11,Referral,167,98
+2024-06-12,Organic Search,384,241
+2024-06-12,Paid Search,203,122
+2024-06-12,Paid Social,193,113
+2024-06-12,Referral,197,115
+2024-06-13,Organic Search,305,165
+2024-06-13,Paid Search,253,144
+2024-06-13,Paid Social,203,117
+2024-06-13,Referral,199,126
+2024-06-14,Organic Search,361,196
+2024-06-14,Paid Search,216,130
+2024-06-14,Paid Social,182,102
+2024-06-14,Referral,158,94
+2024-06-15,Organic Search,203,116
+2024-06-15,Paid Search,127,77
+2024-06-15,Paid Social,107,60
+2024-06-15,Referral,88,51
+2024-06-16,Organic Search,169,101
+2024-06-16,Paid Search,101,63
+2024-06-16,Paid Social,119,72
+2024-06-16,Referral,76,46
+2024-06-17,Organic Search,402,258
+2024-06-17,Paid Search,244,146
+2024-06-17,Paid Social,201,119
+2024-06-17,Referral,155,93
+2024-06-18,Organic Search,330,194
+2024-06-18,Paid Search,258,149
+2024-06-18,Paid Social,241,133
+2024-06-18,Referral,148,82
+2024-06-19,Organic Search,427,230
+2024-06-19,Paid Search,216,127
+2024-06-19,Paid Social,158,92
+2024-06-19,Referral,170,98
+2024-06-20,Organic Search,427,242
+2024-06-20,Paid Search,240,151
+2024-06-20,Paid Social,207,120
+2024-06-20,Referral,176,104
+2024-06-21,Organic Search,399,216
+2024-06-21,Paid Search,213,137
+2024-06-21,Paid Social,202,121
+2024-06-21,Referral,152,94
+2024-06-22,Organic Search,218,127
+2024-06-22,Paid Search,113,64
+2024-06-22,Paid Social,119,66
+2024-06-22,Referral,77,46
+2024-06-23,Organic Search,134,72
+2024-06-23,Paid Search,119,69
+2024-06-23,Paid Social,107,63
+2024-06-23,Referral,74,45
+2024-06-24,Organic Search,365,190
+2024-06-24,Paid Search,263,154
+2024-06-24,Paid Social,180,110
+2024-06-24,Referral,163,87
+2024-06-25,Organic Search,439,234
+2024-06-25,Paid Search,304,162
+2024-06-25,Paid Social,220,133
+2024-06-25,Referral,139,82
+2024-06-26,Organic Search,424,234
+2024-06-26,Paid Search,280,149
+2024-06-26,Paid Social,217,120
+2024-06-26,Referral,159,91
+2024-06-27,Organic Search,351,206
+2024-06-27,Paid Search,196,112
+2024-06-27,Paid Social,191,103
+2024-06-27,Referral,161,90
+2024-06-28,Organic Search,372,219
+2024-06-28,Paid Search,167,99
+2024-06-28,Paid Social,177,112
+2024-06-28,Referral,128,75
+2024-06-29,Organic Search,156,89
+2024-06-29,Paid Search,118,75
+2024-06-29,Paid Social,108,61
+2024-06-29,Referral,96,59
+2024-06-30,Organic Search,189,121
+2024-06-30,Paid Search,110,60
+2024-06-30,Paid Social,109,62
+2024-06-30,Referral,84,49
+2024-07-01,Organic Search,334,192
+2024-07-01,Paid Search,205,110
+2024-07-01,Paid Social,202,123
+2024-07-01,Referral,138,81
+2024-07-02,Organic Search,362,209
+2024-07-02,Paid Search,241,143
+2024-07-02,Paid Social,208,122
+2024-07-02,Referral,131,73
+2024-07-03,Organic Search,299,173
+2024-07-03,Paid Search,255,156
+2024-07-03,Paid Social,234,131
+2024-07-03,Referral,183,103
+2024-07-04,Organic Search,325,182
+2024-07-04,Paid Search,202,118
+2024-07-04,Paid Social,192,121
+2024-07-04,Referral,140,78
+2024-07-05,Organic Search,285,169
+2024-07-05,Paid Search,198,125
+2024-07-05,Paid Social,155,92
+2024-07-05,Referral,144,83
+2024-07-06,Organic Search,169,102
+2024-07-06,Paid Search,118,65
+2024-07-06,Paid Social,88,52
+2024-07-06,Referral,71,42
+2024-07-07,Organic Search,204,115
+2024-07-07,Paid Search,109,57
+2024-07-07,Paid Social,82,49
+2024-07-07,Referral,64,35
+2024-07-08,Organic Search,354,214
+2024-07-08,Paid Search,235,133
+2024-07-08,Paid Social,152,87
+2024-07-08,Referral,163,95
+2024-07-09,Organic Search,295,169
+2024-07-09,Paid Search,242,144
+2024-07-09,Paid Social,236,148
+2024-07-09,Referral,160,94
+2024-07-10,Organic Search,442,273
+2024-07-10,Paid Search,219,132
+2024-07-10,Paid Social,209,132
+2024-07-10,Referral,167,96
+2024-07-11,Organic Search,413,220
+2024-07-11,Paid Search,224,125
+2024-07-11,Paid Social,235,138
+2024-07-11,Referral,190,111
+2024-07-12,Organic Search,246,147
+2024-07-12,Paid Search,225,137
+2024-07-12,Paid Social,166,96
+2024-07-12,Referral,137,75
+2024-07-13,Organic Search,203,114
+2024-07-13,Paid Search,120,68
+2024-07-13,Paid Social,123,72
+2024-07-13,Referral,72,42
+2024-07-14,Organic Search,176,102
+2024-07-14,Paid Search,110,61
+2024-07-14,Paid Social,111,62
+2024-07-14,Referral,74,40
+2024-07-15,Organic Search,410,246
+2024-07-15,Paid Search,274,158
+2024-07-15,Paid Social,200,112
+2024-07-15,Referral,174,108
+2024-07-16,Organic Search,492,309
+2024-07-16,Paid Search,185,108
+2024-07-16,Paid Social,222,131
+2024-07-16,Referral,150,87
+2024-07-17,Organic Search,468,246
+2024-07-17,Paid Search,166,108
+2024-07-17,Paid Social,201,113
+2024-07-17,Referral,203,121
+2024-07-18,Organic Search,415,237
+2024-07-18,Paid Search,256,147
+2024-07-18,Paid Social,190,102
+2024-07-18,Referral,183,100
+2024-07-19,Organic Search,434,258
+2024-07-19,Paid Search,196,107
+2024-07-19,Paid Social,179,103
+2024-07-19,Referral,145,90
+2024-07-20,Organic Search,177,103
+2024-07-20,Paid Search,116,66
+2024-07-20,Paid Social,115,71
+2024-07-20,Referral,91,57
+2024-07-21,Organic Search,137,75
+2024-07-21,Paid Search,120,73
+2024-07-21,Paid Social,99,58
+2024-07-21,Referral,95,56
+2024-07-22,Organic Search,348,210
+2024-07-22,Paid Search,224,152
+2024-07-22,Paid Social,220,122
+2024-07-22,Referral,150,86
+2024-07-23,Organic Search,329,193
+2024-07-23,Paid Search,260,149
+2024-07-23,Paid Social,180,112
+2024-07-23,Referral,188,104
+2024-07-24,Organic Search,369,210
+2024-07-24,Paid Search,304,191
+2024-07-24,Paid Social,218,129
+2024-07-24,Referral,202,105
+2024-07-25,Organic Search,357,200
+2024-07-25,Paid Search,313,190
+2024-07-25,Paid Social,246,142
+2024-07-25,Referral,178,92
+2024-07-26,Organic Search,367,213
+2024-07-26,Paid Search,203,120
+2024-07-26,Paid Social,182,111
+2024-07-26,Referral,148,88
+2024-07-27,Organic Search,188,104
+2024-07-27,Paid Search,147,83
+2024-07-27,Paid Social,90,50
+2024-07-27,Referral,73,43
+2024-07-28,Organic Search,202,124
+2024-07-28,Paid Search,117,62
+2024-07-28,Paid Social,87,46
+2024-07-28,Referral,77,41
+2024-07-29,Organic Search,353,186
+2024-07-29,Paid Search,314,192
+2024-07-29,Paid Social,199,115
+2024-07-29,Referral,151,90
+2024-07-30,Organic Search,474,274
+2024-07-30,Paid Search,205,123
+2024-07-30,Paid Social,210,127
+2024-07-30,Referral,196,119
+2024-07-31,Organic Search,340,174
+2024-07-31,Paid Search,247,138
+2024-07-31,Paid Social,210,116
+2024-07-31,Referral,126,76
+2024-08-01,Organic Search,365,193
+2024-08-01,Paid Search,254,149
+2024-08-01,Paid Social,183,114
+2024-08-01,Referral,150,91
+2024-08-02,Organic Search,339,183
+2024-08-02,Paid Search,209,129
+2024-08-02,Paid Social,182,111
+2024-08-02,Referral,161,98
+2024-08-03,Organic Search,207,114
+2024-08-03,Paid Search,104,56
+2024-08-03,Paid Social,128,75
+2024-08-03,Referral,94,50
+2024-08-04,Organic Search,200,117
+2024-08-04,Paid Search,108,66
+2024-08-04,Paid Social,113,63
+2024-08-04,Referral,85,47
+2024-08-05,Organic Search,346,191
+2024-08-05,Paid Search,203,120
+2024-08-05,Paid Social,204,131
+2024-08-05,Referral,135,83
+2024-08-06,Organic Search,401,220
+2024-08-06,Paid Search,236,135
+2024-08-06,Paid Social,229,133
+2024-08-06,Referral,140,88
+2024-08-07,Organic Search,458,249
+2024-08-07,Paid Search,228,121
+2024-08-07,Paid Social,217,121
+2024-08-07,Referral,156,92
+2024-08-08,Organic Search,390,224
+2024-08-08,Paid Search,265,152
+2024-08-08,Paid Social,216,126
+2024-08-08,Referral,190,112
+2024-08-09,Organic Search,324,185
+2024-08-09,Paid Search,214,122
+2024-08-09,Paid Social,187,113
+2024-08-09,Referral,171,101
+2024-08-10,Organic Search,204,115
+2024-08-10,Paid Search,131,76
+2024-08-10,Paid Social,94,58
+2024-08-10,Referral,86,51
+2024-08-11,Organic Search,180,105
+2024-08-11,Paid Search,125,77
+2024-08-11,Paid Social,109,66
+2024-08-11,Referral,64,36
+2024-08-12,Organic Search,383,208
+2024-08-12,Paid Search,275,162
+2024-08-12,Paid Social,199,107
+2024-08-12,Referral,151,86
+2024-08-13,Organic Search,369,204
+2024-08-13,Paid Search,258,149
+2024-08-13,Paid Social,205,118
+2024-08-13,Referral,170,94
+2024-08-14,Organic Search,348,205
+2024-08-14,Paid Search,250,154
+2024-08-14,Paid Social,197,109
+2024-08-14,Referral,198,112
+2024-08-15,Organic Search,400,233
+2024-08-15,Paid Search,216,123
+2024-08-15,Paid Social,209,117
+2024-08-15,Referral,199,121
+2024-08-16,Organic Search,354,195
+2024-08-16,Paid Search,232,146
+2024-08-16,Paid Social,205,108
+2024-08-16,Referral,144,81
+2024-08-17,Organic Search,210,123
+2024-08-17,Paid Search,135,71
+2024-08-17,Paid Social,114,60
+2024-08-17,Referral,103,62
+2024-08-18,Organic Search,174,100
+2024-08-18,Paid Search,112,68
+2024-08-18,Paid Social,92,55
+2024-08-18,Referral,86,49
+2024-08-19,Organic Search,434,269
+2024-08-19,Paid Search,218,127
+2024-08-19,Paid Social,195,116
+2024-08-19,Referral,141,86
+2024-08-20,Organic Search,405,272
+2024-08-20,Paid Search,251,155
+2024-08-20,Paid Social,197,112
+2024-08-20,Referral,185,101
+2024-08-21,Organic Search,418,223
+2024-08-21,Paid Search,242,144
+2024-08-21,Paid Social,245,152
+2024-08-21,Referral,224,120
+2024-08-22,Organic Search,427,230
+2024-08-22,Paid Search,181,110
+2024-08-22,Paid Social,235,135
+2024-08-22,Referral,173,100
+2024-08-23,Organic Search,369,219
+2024-08-23,Paid Search,217,134
+2024-08-23,Paid Social,218,128
+2024-08-23,Referral,151,81
+2024-08-24,Organic Search,201,107
+2024-08-24,Paid Search,110,64
+2024-08-24,Paid Social,118,65
+2024-08-24,Referral,87,48
+2024-08-25,Organic Search,196,112
+2024-08-25,Paid Search,114,66
+2024-08-25,Paid Social,81,45
+2024-08-25,Referral,91,51
+2024-08-26,Organic Search,365,213
+2024-08-26,Paid Search,228,133
+2024-08-26,Paid Social,246,158
+2024-08-26,Referral,154,89
+2024-08-27,Organic Search,389,223
+2024-08-27,Paid Search,244,142
+2024-08-27,Paid Social,260,151
+2024-08-27,Referral,169,106
+2024-08-28,Organic Search,461,275
+2024-08-28,Paid Search,239,129
+2024-08-28,Paid Social,233,133
+2024-08-28,Referral,162,94
+2024-08-29,Organic Search,445,251
+2024-08-29,Paid Search,249,137
+2024-08-29,Paid Social,196,107
+2024-08-29,Referral,209,122
+2024-08-30,Organic Search,329,186
+2024-08-30,Paid Search,194,108
+2024-08-30,Paid Social,202,122
+2024-08-30,Referral,173,100
+2024-08-31,Organic Search,201,124
+2024-08-31,Paid Search,124,74
+2024-08-31,Paid Social,93,52
+2024-08-31,Referral,102,59
+2024-09-01,Organic Search,211,116
+2024-09-01,Paid Search,112,62
+2024-09-01,Paid Social,101,60
+2024-09-01,Referral,78,43
+2024-09-02,Organic Search,346,207
+2024-09-02,Paid Search,223,127
+2024-09-02,Paid Social,229,143
+2024-09-02,Referral,222,130
+2024-09-03,Organic Search,394,222
+2024-09-03,Paid Search,232,134
+2024-09-03,Paid Social,182,101
+2024-09-03,Referral,198,117
+2024-09-04,Organic Search,447,268
+2024-09-04,Paid Search,238,146
+2024-09-04,Paid Social,215,119
+2024-09-04,Referral,213,120
+2024-09-05,Organic Search,290,166
+2024-09-05,Paid Search,229,139
+2024-09-05,Paid Social,183,107
+2024-09-05,Referral,174,100
+2024-09-06,Organic Search,345,182
+2024-09-06,Paid Search,300,164
+2024-09-06,Paid Social,210,121
+2024-09-06,Referral,166,90
+2024-09-07,Organic Search,171,99
+2024-09-07,Paid Search,120,65
+2024-09-07,Paid Social,134,82
+2024-09-07,Referral,88,49
+2024-09-08,Organic Search,148,91
+2024-09-08,Paid Search,117,64
+2024-09-08,Paid Social,94,57
+2024-09-08,Referral,71,43
+2024-09-09,Organic Search,387,225
+2024-09-09,Paid Search,209,122
+2024-09-09,Paid Social,224,127
+2024-09-09,Referral,186,103
+2024-09-10,Organic Search,352,207
+2024-09-10,Paid Search,214,130
+2024-09-10,Paid Social,197,118
+2024-09-10,Referral,175,99
+2024-09-11,Organic Search,395,227
+2024-09-11,Paid Search,234,134
+2024-09-11,Paid Social,222,139
+2024-09-11,Referral,158,94
+2024-09-12,Organic Search,328,206
+2024-09-12,Paid Search,282,174
+2024-09-12,Paid Social,238,141
+2024-09-12,Referral,149,88
+2024-09-13,Organic Search,363,197
+2024-09-13,Paid Search,220,127
+2024-09-13,Paid Social,235,126
+2024-09-13,Referral,159,96
+2024-09-14,Organic Search,242,132
+2024-09-14,Paid Search,165,91
+2024-09-14,Paid Social,95,56
+2024-09-14,Referral,91,52
+2024-09-15,Organic Search,154,91
+2024-09-15,Paid Search,124,71
+2024-09-15,Paid Social,120,71
+2024-09-15,Referral,74,42
+2024-09-16,Organic Search,382,228
+2024-09-16,Paid Search,272,166
+2024-09-16,Paid Social,184,113
+2024-09-16,Referral,136,80
+2024-09-17,Organic Search,403,231
+2024-09-17,Paid Search,252,137
+2024-09-17,Paid Social,163,94
+2024-09-17,Referral,180,117
+2024-09-18,Organic Search,472,291
+2024-09-18,Paid Search,246,148
+2024-09-18,Paid Social,225,134
+2024-09-18,Referral,244,145
+2024-09-19,Organic Search,433,256
+2024-09-19,Paid Search,266,154
+2024-09-19,Paid Social,203,117
+2024-09-19,Referral,201,120
+2024-09-20,Organic Search,369,209
+2024-09-20,Paid Search,225,126
+2024-09-20,Paid Social,193,108
+2024-09-20,Referral,158,87
+2024-09-21,Organic Search,212,125
+2024-09-21,Paid Search,131,67
+2024-09-21,Paid Social,109,63
+2024-09-21,Referral,77,41
+2024-09-22,Organic Search,176,96
+2024-09-22,Paid Search,103,66
+2024-09-22,Paid Social,89,57
+2024-09-22,Referral,91,54
+2024-09-23,Organic Search,446,271
+2024-09-23,Paid Search,232,130
+2024-09-23,Paid Social,191,121
+2024-09-23,Referral,145,83
+2024-09-24,Organic Search,534,301
+2024-09-24,Paid Search,264,155
+2024-09-24,Paid Social,248,158
+2024-09-24,Referral,162,89
+2024-09-25,Organic Search,438,252
+2024-09-25,Paid Search,234,141
+2024-09-25,Paid Social,246,155
+2024-09-25,Referral,200,120
+2024-09-26,Organic Search,355,197
+2024-09-26,Paid Search,242,135
+2024-09-26,Paid Social,264,162
+2024-09-26,Referral,151,85
+2024-09-27,Organic Search,366,207
+2024-09-27,Paid Search,204,111
+2024-09-27,Paid Social,214,132
+2024-09-27,Referral,147,78
+2024-09-28,Organic Search,216,121
+2024-09-28,Paid Search,140,80
+2024-09-28,Paid Social,118,71
+2024-09-28,Referral,102,62
+2024-09-29,Organic Search,221,130
+2024-09-29,Paid Search,106,59
+2024-09-29,Paid Social,84,48
+2024-09-29,Referral,76,45
+2024-09-30,Organic Search,431,252
+2024-09-30,Paid Search,206,127
+2024-09-30,Paid Social,250,145
+2024-09-30,Referral,171,95
+2024-10-01,Organic Search,401,230
+2024-10-01,Paid Search,228,129
+2024-10-01,Paid Social,190,112
+2024-10-01,Referral,169,104
+2024-10-02,Organic Search,429,268
+2024-10-02,Paid Search,231,134
+2024-10-02,Paid Social,227,133
+2024-10-02,Referral,216,120
+2024-10-03,Organic Search,419,215
+2024-10-03,Paid Search,235,136
+2024-10-03,Paid Social,237,139
+2024-10-03,Referral,179,104
+2024-10-04,Organic Search,344,193
+2024-10-04,Paid Search,228,135
+2024-10-04,Paid Social,207,119
+2024-10-04,Referral,181,103
+2024-10-05,Organic Search,197,130
+2024-10-05,Paid Search,99,56
+2024-10-05,Paid Social,119,70
+2024-10-05,Referral,92,57
+2024-10-06,Organic Search,194,112
+2024-10-06,Paid Search,118,67
+2024-10-06,Paid Social,98,55
+2024-10-06,Referral,90,57
+2024-10-07,Organic Search,488,271
+2024-10-07,Paid Search,247,152
+2024-10-07,Paid Social,218,124
+2024-10-07,Referral,182,106
+2024-10-08,Organic Search,557,320
+2024-10-08,Paid Search,290,170
+2024-10-08,Paid Social,233,129
+2024-10-08,Referral,161,99
+2024-10-09,Organic Search,365,214
+2024-10-09,Paid Search,273,151
+2024-10-09,Paid Social,191,111
+2024-10-09,Referral,194,110
+2024-10-10,Organic Search,419,235
+2024-10-10,Paid Search,245,135
+2024-10-10,Paid Social,222,118
+2024-10-10,Referral,150,82
+2024-10-11,Organic Search,353,205
+2024-10-11,Paid Search,220,133
+2024-10-11,Paid Social,183,106
+2024-10-11,Referral,169,98
+2024-10-12,Organic Search,212,123
+2024-10-12,Paid Search,109,64
+2024-10-12,Paid Social,111,71
+2024-10-12,Referral,91,56
+2024-10-13,Organic Search,157,94
+2024-10-13,Paid Search,114,63
+2024-10-13,Paid Social,106,62
+2024-10-13,Referral,85,49
+2024-10-14,Organic Search,434,257
+2024-10-14,Paid Search,289,170
+2024-10-14,Paid Social,206,123
+2024-10-14,Referral,200,115
+2024-10-15,Organic Search,381,218
+2024-10-15,Paid Search,270,160
+2024-10-15,Paid Social,242,152
+2024-10-15,Referral,226,131
+2024-10-16,Organic Search,380,220
+2024-10-16,Paid Search,255,149
+2024-10-16,Paid Social,228,125
+2024-10-16,Referral,231,133
+2024-10-17,Organic Search,438,263
+2024-10-17,Paid Search,293,166
+2024-10-17,Paid Social,213,132
+2024-10-17,Referral,157,83
+2024-10-18,Organic Search,364,191
+2024-10-18,Paid Search,220,122
+2024-10-18,Paid Social,172,95
+2024-10-18,Referral,166,94
+2024-10-19,Organic Search,182,108
+2024-10-19,Paid Search,131,74
+2024-10-19,Paid Social,122,75
+2024-10-19,Referral,97,57
+2024-10-20,Organic Search,169,100
+2024-10-20,Paid Search,131,78
+2024-10-20,Paid Social,105,62
+2024-10-20,Referral,81,51
+2024-10-21,Organic Search,470,309
+2024-10-21,Paid Search,207,115
+2024-10-21,Paid Social,259,150
+2024-10-21,Referral,165,95
+2024-10-22,Organic Search,529,296
+2024-10-22,Paid Search,301,174
+2024-10-22,Paid Social,209,129
+2024-10-22,Referral,193,106
+2024-10-23,Organic Search,379,214
+2024-10-23,Paid Search,267,169
+2024-10-23,Paid Social,183,103
+2024-10-23,Referral,198,111
+2024-10-24,Organic Search,438,285
+2024-10-24,Paid Search,237,144
+2024-10-24,Paid Social,249,142
+2024-10-24,Referral,215,126
+2024-10-25,Organic Search,346,199
+2024-10-25,Paid Search,210,125
+2024-10-25,Paid Social,234,136
+2024-10-25,Referral,178,94
+2024-10-26,Organic Search,218,138
+2024-10-26,Paid Search,174,106
+2024-10-26,Paid Social,97,54
+2024-10-26,Referral,91,52
+2024-10-27,Organic Search,198,113
+2024-10-27,Paid Search,130,73
+2024-10-27,Paid Social,116,69
+2024-10-27,Referral,77,52
+2024-10-28,Organic Search,409,234
+2024-10-28,Paid Search,272,157
+2024-10-28,Paid Social,206,123
+2024-10-28,Referral,173,101
+2024-10-29,Organic Search,456,269
+2024-10-29,Paid Search,304,187
+2024-10-29,Paid Social,209,108
+2024-10-29,Referral,186,113
+2024-10-30,Organic Search,370,204
+2024-10-30,Paid Search,292,157
+2024-10-30,Paid Social,230,135
+2024-10-30,Referral,179,108
+2024-10-31,Organic Search,406,231
+2024-10-31,Paid Search,259,172
+2024-10-31,Paid Social,245,147
+2024-10-31,Referral,175,99
+2024-11-01,Organic Search,364,214
+2024-11-01,Paid Search,227,126
+2024-11-01,Paid Social,224,127
+2024-11-01,Referral,218,136
+2024-11-02,Organic Search,182,97
+2024-11-02,Paid Search,153,91
+2024-11-02,Paid Social,111,59
+2024-11-02,Referral,108,65
+2024-11-03,Organic Search,180,102
+2024-11-03,Paid Search,119,68
+2024-11-03,Paid Social,108,63
+2024-11-03,Referral,93,49
+2024-11-04,Organic Search,421,240
+2024-11-04,Paid Search,204,110
+2024-11-04,Paid Social,238,133
+2024-11-04,Referral,168,91
+2024-11-05,Organic Search,504,305
+2024-11-05,Paid Search,252,137
+2024-11-05,Paid Social,212,115
+2024-11-05,Referral,242,140
+2024-11-06,Organic Search,339,192
+2024-11-06,Paid Search,269,160
+2024-11-06,Paid Social,228,139
+2024-11-06,Referral,174,94
+2024-11-07,Organic Search,394,226
+2024-11-07,Paid Search,258,154
+2024-11-07,Paid Social,251,151
+2024-11-07,Referral,146,85
+2024-11-08,Organic Search,390,230
+2024-11-08,Paid Search,220,138
+2024-11-08,Paid Social,212,123
+2024-11-08,Referral,147,77
+2024-11-09,Organic Search,219,131
+2024-11-09,Paid Search,128,76
+2024-11-09,Paid Social,85,48
+2024-11-09,Referral,82,52
+2024-11-10,Organic Search,153,90
+2024-11-10,Paid Search,140,77
+2024-11-10,Paid Social,90,51
+2024-11-10,Referral,86,53
+2024-11-11,Organic Search,452,276
+2024-11-11,Paid Search,369,216
+2024-11-11,Paid Social,193,109
+2024-11-11,Referral,160,96
+2024-11-12,Organic Search,453,257
+2024-11-12,Paid Search,315,181
+2024-11-12,Paid Social,196,114
+2024-11-12,Referral,197,115
+2024-11-13,Organic Search,409,234
+2024-11-13,Paid Search,241,149
+2024-11-13,Paid Social,289,156
+2024-11-13,Referral,192,114
+2024-11-14,Organic Search,348,211
+2024-11-14,Paid Search,245,136
+2024-11-14,Paid Social,215,126
+2024-11-14,Referral,197,114
+2024-11-15,Organic Search,344,201
+2024-11-15,Paid Search,252,149
+2024-11-15,Paid Social,180,97
+2024-11-15,Referral,156,95
+2024-11-16,Organic Search,215,121
+2024-11-16,Paid Search,122,72
+2024-11-16,Paid Social,106,61
+2024-11-16,Referral,76,41
+2024-11-17,Organic Search,224,133
+2024-11-17,Paid Search,92,57
+2024-11-17,Paid Social,89,51
+2024-11-17,Referral,77,43
+2024-11-18,Organic Search,402,259
+2024-11-18,Paid Search,314,177
+2024-11-18,Paid Social,257,153
+2024-11-18,Referral,176,101
+2024-11-19,Organic Search,356,217
+2024-11-19,Paid Search,268,136
+2024-11-19,Paid Social,253,135
+2024-11-19,Referral,168,98
+2024-11-20,Organic Search,440,257
+2024-11-20,Paid Search,277,161
+2024-11-20,Paid Social,227,135
+2024-11-20,Referral,214,121
+2024-11-21,Organic Search,418,242
+2024-11-21,Paid Search,264,159
+2024-11-21,Paid Social,216,118
+2024-11-21,Referral,178,96
+2024-11-22,Organic Search,327,192
+2024-11-22,Paid Search,306,174
+2024-11-22,Paid Social,224,130
+2024-11-22,Referral,130,75
+2024-11-23,Organic Search,232,125
+2024-11-23,Paid Search,138,78
+2024-11-23,Paid Social,114,67
+2024-11-23,Referral,83,47
+2024-11-24,Organic Search,215,127
+2024-11-24,Paid Search,124,66
+2024-11-24,Paid Social,102,60
+2024-11-24,Referral,79,44
+2024-11-25,Organic Search,390,248
+2024-11-25,Paid Search,267,158
+2024-11-25,Paid Social,198,116
+2024-11-25,Referral,215,124
+2024-11-26,Organic Search,530,305
+2024-11-26,Paid Search,308,183
+2024-11-26,Paid Social,258,157
+2024-11-26,Referral,178,95
+2024-11-27,Organic Search,457,269
+2024-11-27,Paid Search,263,151
+2024-11-27,Paid Social,266,151
+2024-11-27,Referral,240,134
+2024-11-28,Organic Search,418,221
+2024-11-28,Paid Search,219,133
+2024-11-28,Paid Social,226,134
+2024-11-28,Referral,176,103
+2024-11-29,Organic Search,312,174
+2024-11-29,Paid Search,249,141
+2024-11-29,Paid Social,184,107
+2024-11-29,Referral,169,105
+2024-11-30,Organic Search,192,116
+2024-11-30,Paid Search,107,63
+2024-11-30,Paid Social,123,73
+2024-11-30,Referral,113,65
+2024-12-01,Organic Search,197,119
+2024-12-01,Paid Search,106,61
+2024-12-01,Paid Social,135,80
+2024-12-01,Referral,78,43
+2024-12-02,Organic Search,429,250
+2024-12-02,Paid Search,242,143
+2024-12-02,Paid Social,265,157
+2024-12-02,Referral,190,111
+2024-12-03,Organic Search,379,235
+2024-12-03,Paid Search,272,155
+2024-12-03,Paid Social,229,128
+2024-12-03,Referral,188,110
+2024-12-04,Organic Search,428,243
+2024-12-04,Paid Search,226,131
+2024-12-04,Paid Social,217,111
+2024-12-04,Referral,236,146
+2024-12-05,Organic Search,330,206
+2024-12-05,Paid Search,279,157
+2024-12-05,Paid Social,233,126
+2024-12-05,Referral,203,111
+2024-12-06,Organic Search,440,246
+2024-12-06,Paid Search,249,137
+2024-12-06,Paid Social,202,111
+2024-12-06,Referral,151,85
+2024-12-07,Organic Search,223,135
+2024-12-07,Paid Search,104,63
+2024-12-07,Paid Social,94,47
+2024-12-07,Referral,77,45
+2024-12-08,Organic Search,212,120
+2024-12-08,Paid Search,132,76
+2024-12-08,Paid Social,102,48
+2024-12-08,Referral,84,48
+2024-12-09,Organic Search,372,222
+2024-12-09,Paid Search,198,113
+2024-12-09,Paid Social,209,99
+2024-12-09,Referral,145,86
+2024-12-10,Organic Search,387,228
+2024-12-10,Paid Search,318,193
+2024-12-10,Paid Social,261,121
+2024-12-10,Referral,170,99
+2024-12-11,Organic Search,441,281
+2024-12-11,Paid Search,285,169
+2024-12-11,Paid Social,281,123
+2024-12-11,Referral,187,113
+2024-12-12,Organic Search,437,271
+2024-12-12,Paid Search,252,144
+2024-12-12,Paid Social,212,97
+2024-12-12,Referral,200,113
+2024-12-13,Organic Search,337,188
+2024-12-13,Paid Search,249,141
+2024-12-13,Paid Social,225,96
+2024-12-13,Referral,148,86
+2024-12-14,Organic Search,175,102
+2024-12-14,Paid Search,141,82
+2024-12-14,Paid Social,93,38
+2024-12-14,Referral,100,59
+2024-12-15,Organic Search,175,97
+2024-12-15,Paid Search,121,67
+2024-12-15,Paid Social,111,44
+2024-12-15,Referral,100,56
+2024-12-16,Organic Search,468,300
+2024-12-16,Paid Search,271,167
+2024-12-16,Paid Social,206,78
+2024-12-16,Referral,178,95
+2024-12-17,Organic Search,429,255
+2024-12-17,Paid Search,262,150
+2024-12-17,Paid Social,228,91
+2024-12-17,Referral,175,102
+2024-12-18,Organic Search,454,293
+2024-12-18,Paid Search,263,143
+2024-12-18,Paid Social,262,101
+2024-12-18,Referral,210,114
+2024-12-19,Organic Search,461,266
+2024-12-19,Paid Search,263,158
+2024-12-19,Paid Social,239,90
+2024-12-19,Referral,207,127
+2024-12-20,Organic Search,259,149
+2024-12-20,Paid Search,204,123
+2024-12-20,Paid Social,156,52
+2024-12-20,Referral,113,63
+2024-12-21,Organic Search,157,95
+2024-12-21,Paid Search,80,50
+2024-12-21,Paid Social,88,30
+2024-12-21,Referral,71,42
+2024-12-22,Organic Search,154,91
+2024-12-22,Paid Search,83,47
+2024-12-22,Paid Social,87,48
+2024-12-22,Referral,52,28
+2024-12-23,Organic Search,344,210
+2024-12-23,Paid Search,185,99
+2024-12-23,Paid Social,167,95
+2024-12-23,Referral,110,69
+2024-12-24,Organic Search,274,155
+2024-12-24,Paid Search,166,91
+2024-12-24,Paid Social,143,82
+2024-12-24,Referral,144,83
+2024-12-25,Organic Search,323,174
+2024-12-25,Paid Search,208,126
+2024-12-25,Paid Social,149,87
+2024-12-25,Referral,132,78
+2024-12-26,Organic Search,329,177
+2024-12-26,Paid Search,183,114
+2024-12-26,Paid Social,151,90
+2024-12-26,Referral,118,71
+2024-12-27,Organic Search,198,114
+2024-12-27,Paid Search,152,85
+2024-12-27,Paid Social,160,89
+2024-12-27,Referral,97,59
+2024-12-28,Organic Search,179,110
+2024-12-28,Paid Search,111,65
+2024-12-28,Paid Social,87,47
+2024-12-28,Referral,66,42
+2024-12-29,Organic Search,139,77
+2024-12-29,Paid Search,86,54
+2024-12-29,Paid Social,68,38
+2024-12-29,Referral,52,28
+2024-12-30,Organic Search,285,162
+2024-12-30,Paid Search,181,104
+2024-12-30,Paid Social,148,89
+2024-12-30,Referral,145,80
+2024-12-31,Organic Search,313,184
+2024-12-31,Paid Search,154,92
+2024-12-31,Paid Social,143,82
+2024-12-31,Referral,132,76
+2025-01-01,Organic Search,391,244
+2025-01-01,Paid Search,216,122
+2025-01-01,Paid Social,189,110
+2025-01-01,Referral,149,78
+2025-01-02,Organic Search,366,203
+2025-01-02,Paid Search,200,102
+2025-01-02,Paid Social,160,97
+2025-01-02,Referral,137,79
+2025-01-03,Organic Search,366,198
+2025-01-03,Paid Search,194,113
+2025-01-03,Paid Social,157,93
+2025-01-03,Referral,136,76
+2025-01-04,Organic Search,137,78
+2025-01-04,Paid Search,150,86
+2025-01-04,Paid Social,89,57
+2025-01-04,Referral,86,51
+2025-01-05,Organic Search,153,90
+2025-01-05,Paid Search,105,55
+2025-01-05,Paid Social,82,48
+2025-01-05,Referral,63,38
+2025-01-06,Organic Search,382,228
+2025-01-06,Paid Search,194,110
+2025-01-06,Paid Social,187,106
+2025-01-06,Referral,128,76
+2025-01-07,Organic Search,389,222
+2025-01-07,Paid Search,214,129
+2025-01-07,Paid Social,216,119
+2025-01-07,Referral,152,91
+2025-01-08,Organic Search,376,221
+2025-01-08,Paid Search,226,134
+2025-01-08,Paid Social,222,127
+2025-01-08,Referral,199,112
+2025-01-09,Organic Search,403,219
+2025-01-09,Paid Search,256,137
+2025-01-09,Paid Social,267,162
+2025-01-09,Referral,174,104
+2025-01-10,Organic Search,401,205
+2025-01-10,Paid Search,208,113
+2025-01-10,Paid Social,196,108
+2025-01-10,Referral,142,91
+2025-01-11,Organic Search,223,136
+2025-01-11,Paid Search,135,84
+2025-01-11,Paid Social,128,70
+2025-01-11,Referral,100,58
+2025-01-12,Organic Search,202,116
+2025-01-12,Paid Search,119,66
+2025-01-12,Paid Social,115,71
+2025-01-12,Referral,88,46
+2025-01-13,Organic Search,418,252
+2025-01-13,Paid Search,328,197
+2025-01-13,Paid Social,248,145
+2025-01-13,Referral,160,92
+2025-01-14,Organic Search,348,197
+2025-01-14,Paid Search,270,161
+2025-01-14,Paid Social,225,132
+2025-01-14,Referral,180,101
+2025-01-15,Organic Search,440,269
+2025-01-15,Paid Search,243,151
+2025-01-15,Paid Social,246,145
+2025-01-15,Referral,163,91
+2025-01-16,Organic Search,426,251
+2025-01-16,Paid Search,248,150
+2025-01-16,Paid Social,214,131
+2025-01-16,Referral,185,107
+2025-01-17,Organic Search,401,239
+2025-01-17,Paid Search,281,156
+2025-01-17,Paid Social,191,111
+2025-01-17,Referral,140,80
+2025-01-18,Organic Search,230,139
+2025-01-18,Paid Search,130,75
+2025-01-18,Paid Social,113,67
+2025-01-18,Referral,92,57
+2025-01-19,Organic Search,201,116
+2025-01-19,Paid Search,120,72
+2025-01-19,Paid Social,114,73
+2025-01-19,Referral,83,46
+2025-01-20,Organic Search,376,234
+2025-01-20,Paid Search,222,126
+2025-01-20,Paid Social,277,164
+2025-01-20,Referral,157,91
+2025-01-21,Organic Search,385,242
+2025-01-21,Paid Search,276,164
+2025-01-21,Paid Social,210,122
+2025-01-21,Referral,176,96
+2025-01-22,Organic Search,391,229
+2025-01-22,Paid Search,295,180
+2025-01-22,Paid Social,267,159
+2025-01-22,Referral,168,89
+2025-01-23,Organic Search,393,227
+2025-01-23,Paid Search,226,129
+2025-01-23,Paid Social,277,149
+2025-01-23,Referral,189,106
+2025-01-24,Organic Search,377,213
+2025-01-24,Paid Search,222,123
+2025-01-24,Paid Social,222,126
+2025-01-24,Referral,211,130
+2025-01-25,Organic Search,179,105
+2025-01-25,Paid Search,146,87
+2025-01-25,Paid Social,147,83
+2025-01-25,Referral,102,60
+2025-01-26,Organic Search,167,89
+2025-01-26,Paid Search,126,72
+2025-01-26,Paid Social,96,53
+2025-01-26,Referral,81,47
+2025-01-27,Organic Search,396,232
+2025-01-27,Paid Search,237,153
+2025-01-27,Paid Social,248,140
+2025-01-27,Referral,192,105
+2025-01-28,Organic Search,380,212
+2025-01-28,Paid Search,297,181
+2025-01-28,Paid Social,269,156
+2025-01-28,Referral,209,127
+2025-01-29,Organic Search,386,231
+2025-01-29,Paid Search,265,159
+2025-01-29,Paid Social,249,152
+2025-01-29,Referral,280,154
+2025-01-30,Organic Search,430,261
+2025-01-30,Paid Search,282,159
+2025-01-30,Paid Social,244,152
+2025-01-30,Referral,196,116
+2025-01-31,Organic Search,411,251
+2025-01-31,Paid Search,229,129
+2025-01-31,Paid Social,238,131
+2025-01-31,Referral,170,104
+2025-02-01,Organic Search,210,121
+2025-02-01,Paid Search,148,85
+2025-02-01,Paid Social,126,72
+2025-02-01,Referral,86,49
+2025-02-02,Organic Search,207,111
+2025-02-02,Paid Search,126,69
+2025-02-02,Paid Social,96,55
+2025-02-02,Referral,94,57
+2025-02-03,Organic Search,448,255
+2025-02-03,Paid Search,281,172
+2025-02-03,Paid Social,263,140
+2025-02-03,Referral,203,112
+2025-02-04,Organic Search,384,221
+2025-02-04,Paid Search,261,141
+2025-02-04,Paid Social,245,132
+2025-02-04,Referral,179,104
+2025-02-05,Organic Search,398,226
+2025-02-05,Paid Search,218,139
+2025-02-05,Paid Social,222,130
+2025-02-05,Referral,175,99
+2025-02-06,Organic Search,326,186
+2025-02-06,Paid Search,268,150
+2025-02-06,Paid Social,228,132
+2025-02-06,Referral,174,101
+2025-02-07,Organic Search,335,195
+2025-02-07,Paid Search,227,122
+2025-02-07,Paid Social,197,122
+2025-02-07,Referral,173,96
+2025-02-08,Organic Search,259,143
+2025-02-08,Paid Search,146,94
+2025-02-08,Paid Social,97,56
+2025-02-08,Referral,96,62
+2025-02-09,Organic Search,189,110
+2025-02-09,Paid Search,125,73
+2025-02-09,Paid Social,121,69
+2025-02-09,Referral,88,51
+2025-02-10,Organic Search,437,263
+2025-02-10,Paid Search,248,135
+2025-02-10,Paid Social,215,123
+2025-02-10,Referral,150,89
+2025-02-11,Organic Search,445,255
+2025-02-11,Paid Search,312,185
+2025-02-11,Paid Social,227,127
+2025-02-11,Referral,245,138
+2025-02-12,Organic Search,463,264
+2025-02-12,Paid Search,281,147
+2025-02-12,Paid Social,226,120
+2025-02-12,Referral,206,121
+2025-02-13,Organic Search,388,216
+2025-02-13,Paid Search,263,156
+2025-02-13,Paid Social,223,122
+2025-02-13,Referral,176,103
+2025-02-14,Organic Search,358,204
+2025-02-14,Paid Search,268,151
+2025-02-14,Paid Social,230,139
+2025-02-14,Referral,158,80
+2025-02-15,Organic Search,217,127
+2025-02-15,Paid Search,133,72
+2025-02-15,Paid Social,119,60
+2025-02-15,Referral,97,55
+2025-02-16,Organic Search,193,133
+2025-02-16,Paid Search,106,66
+2025-02-16,Paid Social,111,61
+2025-02-16,Referral,86,55
+2025-02-17,Organic Search,448,283
+2025-02-17,Paid Search,271,156
+2025-02-17,Paid Social,233,133
+2025-02-17,Referral,194,120
+2025-02-18,Organic Search,371,199
+2025-02-18,Paid Search,263,146
+2025-02-18,Paid Social,200,100
+2025-02-18,Referral,186,104
+2025-02-19,Organic Search,504,301
+2025-02-19,Paid Search,298,182
+2025-02-19,Paid Social,279,167
+2025-02-19,Referral,209,124
+2025-02-20,Organic Search,497,275
+2025-02-20,Paid Search,220,127
+2025-02-20,Paid Social,278,165
+2025-02-20,Referral,233,141
+2025-02-21,Organic Search,291,159
+2025-02-21,Paid Search,196,116
+2025-02-21,Paid Social,201,106
+2025-02-21,Referral,152,82
+2025-02-22,Organic Search,234,137
+2025-02-22,Paid Search,144,77
+2025-02-22,Paid Social,113,66
+2025-02-22,Referral,95,57
+2025-02-23,Organic Search,173,98
+2025-02-23,Paid Search,145,81
+2025-02-23,Paid Social,162,93
+2025-02-23,Referral,96,55
+2025-02-24,Organic Search,527,331
+2025-02-24,Paid Search,223,140
+2025-02-24,Paid Social,237,140
+2025-02-24,Referral,167,99
+2025-02-25,Organic Search,449,272
+2025-02-25,Paid Search,306,167
+2025-02-25,Paid Social,263,157
+2025-02-25,Referral,220,132
+2025-02-26,Organic Search,480,284
+2025-02-26,Paid Search,251,150
+2025-02-26,Paid Social,205,127
+2025-02-26,Referral,231,127
+2025-02-27,Organic Search,392,229
+2025-02-27,Paid Search,277,161
+2025-02-27,Paid Social,211,112
+2025-02-27,Referral,209,116
+2025-02-28,Organic Search,347,203
+2025-02-28,Paid Search,247,135
+2025-02-28,Paid Social,195,112
+2025-02-28,Referral,135,73
+2025-03-01,Organic Search,261,148
+2025-03-01,Paid Search,146,81
+2025-03-01,Paid Social,117,66
+2025-03-01,Referral,84,48
+2025-03-02,Organic Search,172,95
+2025-03-02,Paid Search,113,63
+2025-03-02,Paid Social,98,58
+2025-03-02,Referral,83,49
+2025-03-03,Organic Search,388,239
+2025-03-03,Paid Search,302,180
+2025-03-03,Paid Social,221,126
+2025-03-03,Referral,182,98
+2025-03-04,Organic Search,424,253
+2025-03-04,Paid Search,358,205
+2025-03-04,Paid Social,243,145
+2025-03-04,Referral,213,124
+2025-03-05,Organic Search,600,376
+2025-03-05,Paid Search,249,148
+2025-03-05,Paid Social,192,100
+2025-03-05,Referral,230,123
+2025-03-06,Organic Search,437,258
+2025-03-06,Paid Search,369,209
+2025-03-06,Paid Social,232,139
+2025-03-06,Referral,249,141
+2025-03-07,Organic Search,341,193
+2025-03-07,Paid Search,220,129
+2025-03-07,Paid Social,244,131
+2025-03-07,Referral,135,79
+2025-03-08,Organic Search,211,126
+2025-03-08,Paid Search,142,90
+2025-03-08,Paid Social,129,74
+2025-03-08,Referral,112,63
+2025-03-09,Organic Search,241,132
+2025-03-09,Paid Search,142,89
+2025-03-09,Paid Social,111,60
+2025-03-09,Referral,92,53
+2025-03-10,Organic Search,380,226
+2025-03-10,Paid Search,269,163
+2025-03-10,Paid Social,197,120
+2025-03-10,Referral,222,117
+2025-03-11,Organic Search,402,231
+2025-03-11,Paid Search,307,173
+2025-03-11,Paid Social,242,142
+2025-03-11,Referral,173,113
+2025-03-12,Organic Search,496,267
+2025-03-12,Paid Search,294,172
+2025-03-12,Paid Social,251,140
+2025-03-12,Referral,172,99
+2025-03-13,Organic Search,373,202
+2025-03-13,Paid Search,274,147
+2025-03-13,Paid Social,242,135
+2025-03-13,Referral,206,118
+2025-03-14,Organic Search,410,255
+2025-03-14,Paid Search,220,126
+2025-03-14,Paid Social,209,127
+2025-03-14,Referral,197,119
+2025-03-15,Organic Search,210,118
+2025-03-15,Paid Search,155,85
+2025-03-15,Paid Social,110,64
+2025-03-15,Referral,82,50
+2025-03-16,Organic Search,256,161
+2025-03-16,Paid Search,121,68
+2025-03-16,Paid Social,105,60
+2025-03-16,Referral,82,53
+2025-03-17,Organic Search,406,212
+2025-03-17,Paid Search,286,161
+2025-03-17,Paid Social,270,151
+2025-03-17,Referral,191,118
+2025-03-18,Organic Search,442,262
+2025-03-18,Paid Search,242,145
+2025-03-18,Paid Social,305,180
+2025-03-18,Referral,197,110
+2025-03-19,Organic Search,463,279
+2025-03-19,Paid Search,268,163
+2025-03-19,Paid Social,218,125
+2025-03-19,Referral,206,117
+2025-03-20,Organic Search,546,311
+2025-03-20,Paid Search,261,163
+2025-03-20,Paid Social,211,113
+2025-03-20,Referral,201,124
+2025-03-21,Organic Search,297,174
+2025-03-21,Paid Search,277,141
+2025-03-21,Paid Social,186,111
+2025-03-21,Referral,162,96
+2025-03-22,Organic Search,189,122
+2025-03-22,Paid Search,144,83
+2025-03-22,Paid Social,128,65
+2025-03-22,Referral,100,55
+2025-03-23,Organic Search,217,133
+2025-03-23,Paid Search,131,70
+2025-03-23,Paid Social,105,60
+2025-03-23,Referral,87,46
+2025-03-24,Organic Search,433,253
+2025-03-24,Paid Search,225,131
+2025-03-24,Paid Social,231,139
+2025-03-24,Referral,220,119
+2025-03-25,Organic Search,440,256
+2025-03-25,Paid Search,237,142
+2025-03-25,Paid Social,209,124
+2025-03-25,Referral,209,119
+2025-03-26,Organic Search,427,235
+2025-03-26,Paid Search,308,185
+2025-03-26,Paid Social,265,163
+2025-03-26,Referral,264,160
+2025-03-27,Organic Search,515,295
+2025-03-27,Paid Search,281,172
+2025-03-27,Paid Social,279,155
+2025-03-27,Referral,204,109
+2025-03-28,Organic Search,441,264
+2025-03-28,Paid Search,269,152
+2025-03-28,Paid Social,206,130
+2025-03-28,Referral,173,102
+2025-03-29,Organic Search,211,119
+2025-03-29,Paid Search,163,84
+2025-03-29,Paid Social,133,79
+2025-03-29,Referral,104,60
+2025-03-30,Organic Search,171,102
+2025-03-30,Paid Search,132,75
+2025-03-30,Paid Social,117,68
+2025-03-30,Referral,91,59
+2025-03-31,Organic Search,372,215
+2025-03-31,Paid Search,310,182
+2025-03-31,Paid Social,203,122
+2025-03-31,Referral,197,114
+2025-04-01,Organic Search,514,318
+2025-04-01,Paid Search,348,200
+2025-04-01,Paid Social,251,142
+2025-04-01,Referral,221,131
+2025-04-02,Organic Search,322,185
+2025-04-02,Paid Search,293,184
+2025-04-02,Paid Social,227,132
+2025-04-02,Referral,257,151
+2025-04-03,Organic Search,353,213
+2025-04-03,Paid Search,284,173
+2025-04-03,Paid Social,205,114
+2025-04-03,Referral,264,158
+2025-04-04,Organic Search,414,246
+2025-04-04,Paid Search,271,172
+2025-04-04,Paid Social,187,107
+2025-04-04,Referral,172,96
+2025-04-05,Organic Search,201,119
+2025-04-05,Paid Search,150,83
+2025-04-05,Paid Social,150,88
+2025-04-05,Referral,93,56
+2025-04-06,Organic Search,214,129
+2025-04-06,Paid Search,129,81
+2025-04-06,Paid Social,89,56
+2025-04-06,Referral,111,63
+2025-04-07,Organic Search,435,260
+2025-04-07,Paid Search,227,133
+2025-04-07,Paid Social,224,121
+2025-04-07,Referral,198,114
+2025-04-08,Organic Search,470,270
+2025-04-08,Paid Search,224,125
+2025-04-08,Paid Social,271,167
+2025-04-08,Referral,186,103
+2025-04-09,Organic Search,492,294
+2025-04-09,Paid Search,274,167
+2025-04-09,Paid Social,242,145
+2025-04-09,Referral,205,136
+2025-04-10,Organic Search,409,235
+2025-04-10,Paid Search,224,120
+2025-04-10,Paid Social,199,118
+2025-04-10,Referral,191,108
+2025-04-11,Organic Search,449,268
+2025-04-11,Paid Search,224,123
+2025-04-11,Paid Social,265,150
+2025-04-11,Referral,163,86
+2025-04-12,Organic Search,190,107
+2025-04-12,Paid Search,167,92
+2025-04-12,Paid Social,135,79
+2025-04-12,Referral,112,61
+2025-04-13,Organic Search,157,98
+2025-04-13,Paid Search,89,51
+2025-04-13,Paid Social,117,68
+2025-04-13,Referral,94,53
+2025-04-14,Organic Search,412,246
+2025-04-14,Paid Search,276,140
+2025-04-14,Paid Social,249,153
+2025-04-14,Referral,166,101
+2025-04-15,Organic Search,462,278
+2025-04-15,Paid Search,301,180
+2025-04-15,Paid Social,256,150
+2025-04-15,Referral,250,153
+2025-04-16,Organic Search,432,246
+2025-04-16,Paid Search,276,152
+2025-04-16,Paid Social,291,168
+2025-04-16,Referral,204,113
+2025-04-17,Organic Search,536,310
+2025-04-17,Paid Search,268,155
+2025-04-17,Paid Social,226,133
+2025-04-17,Referral,168,110
+2025-04-18,Organic Search,415,239
+2025-04-18,Paid Search,277,155
+2025-04-18,Paid Social,213,132
+2025-04-18,Referral,199,119
+2025-04-19,Organic Search,208,124
+2025-04-19,Paid Search,151,83
+2025-04-19,Paid Social,124,72
+2025-04-19,Referral,85,48
+2025-04-20,Organic Search,203,121
+2025-04-20,Paid Search,119,68
+2025-04-20,Paid Social,109,65
+2025-04-20,Referral,68,40
+2025-04-21,Organic Search,397,219
+2025-04-21,Paid Search,259,167
+2025-04-21,Paid Social,255,149
+2025-04-21,Referral,174,94
+2025-04-22,Organic Search,476,260
+2025-04-22,Paid Search,277,160
+2025-04-22,Paid Social,254,155
+2025-04-22,Referral,212,113
+2025-04-23,Organic Search,399,243
+2025-04-23,Paid Search,287,166
+2025-04-23,Paid Social,244,139
+2025-04-23,Referral,195,109
+2025-04-24,Organic Search,449,269
+2025-04-24,Paid Search,279,171
+2025-04-24,Paid Social,290,166
+2025-04-24,Referral,228,127
+2025-04-25,Organic Search,471,265
+2025-04-25,Paid Search,226,140
+2025-04-25,Paid Social,185,101
+2025-04-25,Referral,149,95
+2025-04-26,Organic Search,245,152
+2025-04-26,Paid Search,171,97
+2025-04-26,Paid Social,138,82
+2025-04-26,Referral,94,58
+2025-04-27,Organic Search,216,123
+2025-04-27,Paid Search,128,78
+2025-04-27,Paid Social,101,59
+2025-04-27,Referral,91,50
+2025-04-28,Organic Search,372,230
+2025-04-28,Paid Search,269,153
+2025-04-28,Paid Social,204,124
+2025-04-28,Referral,219,127
+2025-04-29,Organic Search,509,294
+2025-04-29,Paid Search,311,170
+2025-04-29,Paid Social,280,156
+2025-04-29,Referral,185,99
+2025-04-30,Organic Search,649,387
+2025-04-30,Paid Search,312,176
+2025-04-30,Paid Social,245,155
+2025-04-30,Referral,191,113
+2025-05-01,Organic Search,459,250
+2025-05-01,Paid Search,267,160
+2025-05-01,Paid Social,221,131
+2025-05-01,Referral,162,98
+2025-05-02,Organic Search,387,223
+2025-05-02,Paid Search,276,155
+2025-05-02,Paid Social,173,102
+2025-05-02,Referral,163,91
+2025-05-03,Organic Search,270,158
+2025-05-03,Paid Search,118,70
+2025-05-03,Paid Social,109,67
+2025-05-03,Referral,105,58
+2025-05-04,Organic Search,227,133
+2025-05-04,Paid Search,147,78
+2025-05-04,Paid Social,106,62
+2025-05-04,Referral,90,52
+2025-05-05,Organic Search,422,236
+2025-05-05,Paid Search,275,169
+2025-05-05,Paid Social,262,162
+2025-05-05,Referral,225,125
+2025-05-06,Organic Search,520,286
+2025-05-06,Paid Search,231,132
+2025-05-06,Paid Social,239,146
+2025-05-06,Referral,192,111
+2025-05-07,Organic Search,426,252
+2025-05-07,Paid Search,257,134
+2025-05-07,Paid Social,273,143
+2025-05-07,Referral,212,132
+2025-05-08,Organic Search,434,267
+2025-05-08,Paid Search,258,154
+2025-05-08,Paid Social,193,110
+2025-05-08,Referral,184,114
+2025-05-09,Organic Search,471,268
+2025-05-09,Paid Search,231,133
+2025-05-09,Paid Social,212,122
+2025-05-09,Referral,212,124
+2025-05-10,Organic Search,240,141
+2025-05-10,Paid Search,157,87
+2025-05-10,Paid Social,134,77
+2025-05-10,Referral,113,62
+2025-05-11,Organic Search,196,116
+2025-05-11,Paid Search,119,66
+2025-05-11,Paid Social,109,62
+2025-05-11,Referral,82,46
+2025-05-12,Organic Search,398,214
+2025-05-12,Paid Search,222,135
+2025-05-12,Paid Social,177,92
+2025-05-12,Referral,164,102
+2025-05-13,Organic Search,467,277
+2025-05-13,Paid Search,308,177
+2025-05-13,Paid Social,259,153
+2025-05-13,Referral,177,109
+2025-05-14,Organic Search,482,286
+2025-05-14,Paid Search,331,188
+2025-05-14,Paid Social,255,143
+2025-05-14,Referral,182,113
+2025-05-15,Organic Search,476,270
+2025-05-15,Paid Search,283,158
+2025-05-15,Paid Social,211,122
+2025-05-15,Referral,173,91
+2025-05-16,Organic Search,406,242
+2025-05-16,Paid Search,272,155
+2025-05-16,Paid Social,246,145
+2025-05-16,Referral,260,150
+2025-05-17,Organic Search,230,152
+2025-05-17,Paid Search,141,72
+2025-05-17,Paid Social,157,91
+2025-05-17,Referral,105,65
+2025-05-18,Organic Search,218,119
+2025-05-18,Paid Search,124,72
+2025-05-18,Paid Social,132,78
+2025-05-18,Referral,98,60
+2025-05-19,Organic Search,426,244
+2025-05-19,Paid Search,249,130
+2025-05-19,Paid Social,250,150
+2025-05-19,Referral,214,126
+2025-05-20,Organic Search,470,279
+2025-05-20,Paid Search,308,180
+2025-05-20,Paid Social,269,154
+2025-05-20,Referral,239,128
+2025-05-21,Organic Search,450,271
+2025-05-21,Paid Search,311,180
+2025-05-21,Paid Social,230,126
+2025-05-21,Referral,218,126
+2025-05-22,Organic Search,390,236
+2025-05-22,Paid Search,325,179
+2025-05-22,Paid Social,266,139
+2025-05-22,Referral,212,124
+2025-05-23,Organic Search,422,269
+2025-05-23,Paid Search,252,152
+2025-05-23,Paid Social,229,134
+2025-05-23,Referral,184,101
+2025-05-24,Organic Search,240,132
+2025-05-24,Paid Search,142,82
+2025-05-24,Paid Social,146,77
+2025-05-24,Referral,87,51
+2025-05-25,Organic Search,216,121
+2025-05-25,Paid Search,126,77
+2025-05-25,Paid Social,118,68
+2025-05-25,Referral,101,55
+2025-05-26,Organic Search,446,240
+2025-05-26,Paid Search,248,152
+2025-05-26,Paid Social,256,151
+2025-05-26,Referral,207,129
+2025-05-27,Organic Search,570,344
+2025-05-27,Paid Search,341,190
+2025-05-27,Paid Social,204,125
+2025-05-27,Referral,171,108
+2025-05-28,Organic Search,515,343
+2025-05-28,Paid Search,265,156
+2025-05-28,Paid Social,279,158
+2025-05-28,Referral,206,127
+2025-05-29,Organic Search,419,249
+2025-05-29,Paid Search,237,144
+2025-05-29,Paid Social,377,236
+2025-05-29,Referral,217,119
+2025-05-30,Organic Search,391,211
+2025-05-30,Paid Search,263,174
+2025-05-30,Paid Social,177,100
+2025-05-30,Referral,166,99
+2025-05-31,Organic Search,176,106
+2025-05-31,Paid Search,160,88
+2025-05-31,Paid Social,112,59
+2025-05-31,Referral,98,61
+2025-06-01,Organic Search,237,148
+2025-06-01,Paid Search,140,76
+2025-06-01,Paid Social,103,61
+2025-06-01,Referral,89,51
+2025-06-02,Organic Search,458,260
+2025-06-02,Paid Search,261,155
+2025-06-02,Paid Social,274,166
+2025-06-02,Referral,228,135
+2025-06-03,Organic Search,421,249
+2025-06-03,Paid Search,293,193
+2025-06-03,Paid Social,215,128
+2025-06-03,Referral,211,127
+2025-06-04,Organic Search,390,231
+2025-06-04,Paid Search,236,126
+2025-06-04,Paid Social,242,139
+2025-06-04,Referral,181,103
+2025-06-05,Organic Search,419,232
+2025-06-05,Paid Search,293,158
+2025-06-05,Paid Social,258,144
+2025-06-05,Referral,237,135
+2025-06-06,Organic Search,291,180
+2025-06-06,Paid Search,240,141
+2025-06-06,Paid Social,198,120
+2025-06-06,Referral,223,120
+2025-06-07,Organic Search,256,147
+2025-06-07,Paid Search,154,92
+2025-06-07,Paid Social,151,90
+2025-06-07,Referral,99,59
+2025-06-08,Organic Search,175,102
+2025-06-08,Paid Search,122,75
+2025-06-08,Paid Social,134,81
+2025-06-08,Referral,95,52
+2025-06-09,Organic Search,414,267
+2025-06-09,Paid Search,238,139
+2025-06-09,Paid Social,242,143
+2025-06-09,Referral,154,90
+2025-06-10,Organic Search,439,291
+2025-06-10,Paid Search,260,143
+2025-06-10,Paid Social,233,123
+2025-06-10,Referral,178,106
+2025-06-11,Organic Search,464,266
+2025-06-11,Paid Search,322,191
+2025-06-11,Paid Social,256,147
+2025-06-11,Referral,263,149
+2025-06-12,Organic Search,454,278
+2025-06-12,Paid Search,248,138
+2025-06-12,Paid Social,238,130
+2025-06-12,Referral,188,115
+2025-06-13,Organic Search,348,210
+2025-06-13,Paid Search,260,154
+2025-06-13,Paid Social,210,113
+2025-06-13,Referral,157,86
+2025-06-14,Organic Search,209,126
+2025-06-14,Paid Search,142,84
+2025-06-14,Paid Social,131,75
+2025-06-14,Referral,117,63
+2025-06-15,Organic Search,181,106
+2025-06-15,Paid Search,122,71
+2025-06-15,Paid Social,120,75
+2025-06-15,Referral,91,51
+2025-06-16,Organic Search,460,260
+2025-06-16,Paid Search,261,149
+2025-06-16,Paid Social,263,165
+2025-06-16,Referral,167,87
+2025-06-17,Organic Search,436,274
+2025-06-17,Paid Search,319,187
+2025-06-17,Paid Social,204,112
+2025-06-17,Referral,209,115
+2025-06-18,Organic Search,407,247
+2025-06-18,Paid Search,251,148
+2025-06-18,Paid Social,295,182
+2025-06-18,Referral,209,120
+2025-06-19,Organic Search,503,305
+2025-06-19,Paid Search,307,174
+2025-06-19,Paid Social,244,146
+2025-06-19,Referral,194,116
+2025-06-20,Organic Search,365,218
+2025-06-20,Paid Search,225,124
+2025-06-20,Paid Social,237,133
+2025-06-20,Referral,188,115
+2025-06-21,Organic Search,283,170
+2025-06-21,Paid Search,156,87
+2025-06-21,Paid Social,120,70
+2025-06-21,Referral,114,67
+2025-06-22,Organic Search,229,128
+2025-06-22,Paid Search,145,84
+2025-06-22,Paid Social,114,63
+2025-06-22,Referral,75,43
+2025-06-23,Organic Search,408,246
+2025-06-23,Paid Search,244,147
+2025-06-23,Paid Social,244,158
+2025-06-23,Referral,218,135
+2025-06-24,Organic Search,412,242
+2025-06-24,Paid Search,299,193
+2025-06-24,Paid Social,236,129
+2025-06-24,Referral,190,114
+2025-06-25,Organic Search,489,301
+2025-06-25,Paid Search,270,167
+2025-06-25,Paid Social,274,162
+2025-06-25,Referral,219,127
+2025-06-26,Organic Search,388,228
+2025-06-26,Paid Search,255,140
+2025-06-26,Paid Social,252,150
+2025-06-26,Referral,255,133
+2025-06-27,Organic Search,368,208
+2025-06-27,Paid Search,261,160
+2025-06-27,Paid Social,262,153
+2025-06-27,Referral,160,89
+2025-06-28,Organic Search,193,116
+2025-06-28,Paid Search,149,87
+2025-06-28,Paid Social,118,71
+2025-06-28,Referral,123,76
+2025-06-29,Organic Search,237,145
+2025-06-29,Paid Search,144,82
+2025-06-29,Paid Social,124,75
+2025-06-29,Referral,75,42
+2025-06-30,Organic Search,485,305
+2025-06-30,Paid Search,272,158
+2025-06-30,Paid Social,249,152
+2025-06-30,Referral,235,132

@@ -1,0 +1,22 @@
+{
+  "q01": "SELECT COUNT(*) AS n_accounts FROM accounts WHERE signup_date BETWEEN '2025-07-01' AND '2025-09-30';",
+  "q02": "SELECT ROUND(100.0 * (SELECT COUNT(DISTINCT account_id) FROM product_events WHERE event_type='activated')\n                 / (SELECT COUNT(*) FROM accounts), 2) AS activation_rate_pct;",
+  "q03": "SELECT a.acquisition_channel, ROUND(100.0*SUM(CASE WHEN s.mrr>0 THEN 1 ELSE 0 END)/COUNT(*),2) AS conversion_rate_pct\n                 FROM accounts a JOIN subscriptions s ON s.account_id=a.account_id\n                 GROUP BY a.acquisition_channel ORDER BY conversion_rate_pct DESC;",
+  "q04": "SELECT ROUND(SUM(mrr),2) AS total_mrr FROM subscriptions WHERE status='Active';",
+  "q05": "SELECT plan_tier, ROUND(100.0*SUM(CASE WHEN status='Churned' THEN 1 ELSE 0 END)/COUNT(*),2) AS churn_rate_pct\n                 FROM subscriptions WHERE plan_tier IS NOT NULL GROUP BY plan_tier ORDER BY churn_rate_pct DESC;",
+  "q06": "SELECT feature_name, COUNT(DISTINCT account_id) AS accounts_using\n                 FROM product_events WHERE event_type='feature_used'\n                 GROUP BY feature_name ORDER BY accounts_using DESC LIMIT 5;",
+  "q07": "SELECT COUNT(account_id) AS n_accounts FROM product_events\n                 WHERE event_type='feature_used' AND feature_name='automation_rules';",
+  "q08": "SELECT ROUND(100.0 *\n                   (SELECT COUNT(DISTINCT pe.account_id) FROM product_events pe JOIN accounts a ON a.account_id=pe.account_id\n                    WHERE pe.event_type='activated' AND a.acquisition_channel='Referral')\n                   / (SELECT COUNT(*) FROM accounts WHERE acquisition_channel='Referral'), 2) AS activation_rate_pct;",
+  "q09": "SELECT plan_tier, ROUND(AVG(mrr),2) AS avg_mrr FROM subscriptions WHERE status='Active' GROUP BY plan_tier;",
+  "q10": "SELECT ROUND(100.0*SUM(CASE WHEN billing_cycle='Annual' THEN 1 ELSE 0 END)/COUNT(*),2) AS pct_annual FROM subscriptions WHERE mrr>0;",
+  "q11": "SELECT plan_tier, ROUND(SUM(mrr),2) AS total_mrr FROM subscriptions WHERE mrr > 0 GROUP BY plan_tier;",
+  "q12": "SELECT COUNT(*) AS n FROM accounts WHERE employee_size_bracket='1000+';",
+  "q13": "SELECT COUNT(*) AS n FROM accounts WHERE employee_size_bracket='1000+';",
+  "q14": "WITH act AS (SELECT account_id, MIN(event_date) AS act_date FROM product_events\n                 WHERE event_type='activated' GROUP BY account_id)\n                 SELECT ROUND(AVG(julianday(act.act_date) - julianday(a.signup_date)),2) AS avg_days_to_activation\n                 FROM act JOIN accounts a ON a.account_id=act.account_id;",
+  "q15": "SELECT a.industry, ROUND(100.0*SUM(CASE WHEN s.mrr>0 THEN 1 ELSE 0 END)/COUNT(*),2) AS conversion_rate_pct\n                 FROM accounts a JOIN subscriptions s ON s.account_id=a.account_id\n                 GROUP BY a.industry ORDER BY conversion_rate_pct DESC LIMIT 1;",
+  "q16": "SELECT ROUND(100.0*SUM(CASE WHEN s.mrr>0 THEN 1 ELSE 0 END)/COUNT(*),2) AS pct\n                 FROM product_events pe JOIN subscriptions s ON s.account_id=pe.account_id;",
+  "q17": "SELECT strftime('%Y-%m', event_date) AS month, COUNT(*) AS n_events\n                 FROM product_events WHERE event_type='feature_used' GROUP BY month ORDER BY month;",
+  "q18": "SELECT a.acquisition_channel, ROUND(AVG(s.mrr),2) AS avg_mrr\n                 FROM accounts a JOIN subscriptions s ON s.account_id=a.account_id\n                 WHERE s.mrr>0 GROUP BY a.acquisition_channel ORDER BY avg_mrr DESC LIMIT 1;",
+  "q19": "SELECT COUNT(*) AS n FROM subscriptions\n                 WHERE status='Churned' AND julianday(cancel_date) - julianday(start_date) <= 90;",
+  "q20": "WITH activated AS (SELECT DISTINCT account_id FROM product_events WHERE event_type='activated')\n                 SELECT ROUND(100.0*COUNT(DISTINCT pe.account_id) / (SELECT COUNT(*) FROM activated), 2) AS adoption_rate_pct\n                 FROM product_events pe JOIN activated act ON act.account_id=pe.account_id\n                 WHERE pe.event_type='feature_used' AND pe.feature_name='api_access';"
+}

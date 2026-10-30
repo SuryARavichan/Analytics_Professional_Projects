@@ -1,0 +1,139 @@
+{
+  "full_dataset_n": 107018,
+  "full_dataset_rating_distribution": {
+    "1": 2469,
+    "2": 2251,
+    "3": 5071,
+    "4": 18054,
+    "5": 79173
+  },
+  "sample_n": 120,
+  "sample_rating_band_counts": {
+    "1-2 star (unhappy)": 70,
+    "3 star (mixed)": 25,
+    "4-5 star (happy)": 25
+  },
+  "taxonomy": {
+    "CONTENT": "Shallow, thin, or outdated content",
+    "PACING": "Pacing & prerequisite mismatch",
+    "ASSIGN": "Assignment / quiz design friction",
+    "INSTR": "Instructor delivery & clarity",
+    "TECH": "Platform / technical issues",
+    "PRICE": "Price & paywall friction",
+    "PRACTICAL": "Practical, real-world applicability (praise)",
+    "PRAISE": "Generic enthusiastic praise"
+  },
+  "theme_frequency": [
+    {
+      "theme_code": "CONTENT",
+      "theme_label": "Shallow, thin, or outdated content",
+      "review_count": 47,
+      "pct_of_sample": 39.2
+    },
+    {
+      "theme_code": "INSTR",
+      "theme_label": "Instructor delivery & clarity",
+      "review_count": 44,
+      "pct_of_sample": 36.7
+    },
+    {
+      "theme_code": "ASSIGN",
+      "theme_label": "Assignment / quiz design friction",
+      "review_count": 21,
+      "pct_of_sample": 17.5
+    },
+    {
+      "theme_code": "PRAISE",
+      "theme_label": "Generic enthusiastic praise",
+      "review_count": 14,
+      "pct_of_sample": 11.7
+    },
+    {
+      "theme_code": "PACING",
+      "theme_label": "Pacing & prerequisite mismatch",
+      "review_count": 12,
+      "pct_of_sample": 10.0
+    },
+    {
+      "theme_code": "TECH",
+      "theme_label": "Platform / technical issues",
+      "review_count": 7,
+      "pct_of_sample": 5.8
+    },
+    {
+      "theme_code": "PRICE",
+      "theme_label": "Price & paywall friction",
+      "review_count": 5,
+      "pct_of_sample": 4.2
+    },
+    {
+      "theme_code": "PRACTICAL",
+      "theme_label": "Practical, real-world applicability (praise)",
+      "review_count": 4,
+      "pct_of_sample": 3.3
+    }
+  ],
+  "theme_by_rating_band_crosstab": [
+    {
+      "theme_code": "CONTENT",
+      "theme_label": "Shallow, thin, or outdated content",
+      "1-2 star (unhappy)": 37,
+      "3 star (mixed)": 10,
+      "4-5 star (happy)": 0
+    },
+    {
+      "theme_code": "INSTR",
+      "theme_label": "Instructor delivery & clarity",
+      "1-2 star (unhappy)": 23,
+      "3 star (mixed)": 10,
+      "4-5 star (happy)": 11
+    },
+    {
+      "theme_code": "ASSIGN",
+      "theme_label": "Assignment / quiz design friction",
+      "1-2 star (unhappy)": 16,
+      "3 star (mixed)": 4,
+      "4-5 star (happy)": 1
+    },
+    {
+      "theme_code": "PRAISE",
+      "theme_label": "Generic enthusiastic praise",
+      "1-2 star (unhappy)": 0,
+      "3 star (mixed)": 4,
+      "4-5 star (happy)": 10
+    },
+    {
+      "theme_code": "PACING",
+      "theme_label": "Pacing & prerequisite mismatch",
+      "1-2 star (unhappy)": 9,
+      "3 star (mixed)": 3,
+      "4-5 star (happy)": 0
+    },
+    {
+      "theme_code": "TECH",
+      "theme_label": "Platform / technical issues",
+      "1-2 star (unhappy)": 6,
+      "3 star (mixed)": 0,
+      "4-5 star (happy)": 1
+    },
+    {
+      "theme_code": "PRICE",
+      "theme_label": "Price & paywall friction",
+      "1-2 star (unhappy)": 4,
+      "3 star (mixed)": 1,
+      "4-5 star (happy)": 0
+    },
+    {
+      "theme_code": "PRACTICAL",
+      "theme_label": "Practical, real-world applicability (praise)",
+      "1-2 star (unhappy)": 0,
+      "3 star (mixed)": 0,
+      "4-5 star (happy)": 4
+    }
+  ],
+  "top_theme_code": "CONTENT",
+  "top_theme_label": "Shallow, thin, or outdated content",
+  "top_theme_review_count": 47,
+  "top_theme_pct_of_sample": 39.2,
+  "top_theme_share_of_unhappy_reviews": 52.9
+}

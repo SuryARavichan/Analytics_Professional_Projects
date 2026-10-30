@@ -1,0 +1,268 @@
+[
+  {
+    "id": "q01",
+    "question": "How many accounts signed up in Q3 2025 (Jul-Sep)?",
+    "sql": "SELECT COUNT(*) AS n_accounts FROM accounts WHERE signup_date BETWEEN '2025-07-01' AND '2025-09-30';",
+    "columns": [
+      "n_accounts"
+    ],
+    "rows": [
+      [
+        473
+      ]
+    ],
+    "insight": "473 accounts signed up in Q3 2025, giving Growth a clean quarter-over-quarter signup baseline to track pipeline volume against."
+  },
+  {
+    "id": "q02",
+    "question": "What is the overall trial activation rate?",
+    "sql": "SELECT ROUND(100.0 * (SELECT COUNT(DISTINCT account_id) FROM product_events WHERE event_type='activated')\n                 / (SELECT COUNT(*) FROM accounts), 2) AS activation_rate_pct;",
+    "columns": [
+      "activation_rate_pct"
+    ],
+    "rows": [
+      [
+        55.88
+      ]
+    ],
+    "insight": "Overall trial activation rate is 55.9% -- just over half of signups complete onboarding and take a first meaningful action, leaving a substantial 'signed up but never activated' segment worth a dedicated re-engagement flow."
+  },
+  {
+    "id": "q03",
+    "question": "What is the trial-to-paid conversion rate by acquisition channel?",
+    "sql": "SELECT a.acquisition_channel, ROUND(100.0*SUM(CASE WHEN s.mrr>0 THEN 1 ELSE 0 END)/COUNT(*),2) AS conversion_rate_pct\n                 FROM accounts a JOIN subscriptions s ON s.account_id=a.account_id\n                 GROUP BY a.acquisition_channel ORDER BY conversion_rate_pct DESC;",
+    "columns": [
+      "acquisition_channel",
+      "conversion_rate_pct"
+    ],
+    "rows": [
+      [
+        "Referral",
+        30.4
+      ],
+      [
+        "Product Hunt/Community",
+        21.71
+      ],
+      [
+        "Organic Search",
+        20.98
+      ],
+      [
+        "Content/SEO",
+        20.15
+      ],
+      [
+        "Paid Search",
+        11.35
+      ]
+    ],
+    "insight": "Referral converts to paid at 30.4%, nearly 3x Paid Search's 11.35% -- the same quality-over-volume pattern seen in retention data generally, and a strong argument for investing further in referral mechanics before scaling paid spend."
+  },
+  {
+    "id": "q04",
+    "question": "What is the current total MRR (Monthly Recurring Revenue)?",
+    "sql": "SELECT ROUND(SUM(mrr),2) AS total_mrr FROM subscriptions WHERE status='Active';",
+    "columns": [
+      "total_mrr"
+    ],
+    "rows": [
+      [
+        220117.23
+      ]
+    ],
+    "insight": "Current total MRR is $220,117.23 across all active paid accounts -- the core top-line number for any growth or board update."
+  },
+  {
+    "id": "q05",
+    "question": "Which plan tier has the highest churn rate?",
+    "sql": "SELECT plan_tier, ROUND(100.0*SUM(CASE WHEN status='Churned' THEN 1 ELSE 0 END)/COUNT(*),2) AS churn_rate_pct\n                 FROM subscriptions WHERE plan_tier IS NOT NULL GROUP BY plan_tier ORDER BY churn_rate_pct DESC;",
+    "columns": [
+      "plan_tier",
+      "churn_rate_pct"
+    ],
+    "rows": [
+      [
+        "Starter",
+        23.18
+      ],
+      [
+        "Growth",
+        8.03
+      ],
+      [
+        "Enterprise",
+        2.88
+      ]
+    ],
+    "insight": "Starter plan churns at 23.18%, roughly 8x Enterprise's 2.88% -- consistent with Starter's lower switching cost and typically lower product lock-in; Enterprise's low churn reflects deeper integration and likely annual contracts."
+  },
+  {
+    "id": "q06",
+    "question": "What are the top 5 most-adopted features by number of unique accounts using them?",
+    "sql": "SELECT feature_name, COUNT(DISTINCT account_id) AS accounts_using\n                 FROM product_events WHERE event_type='feature_used'\n                 GROUP BY feature_name ORDER BY accounts_using DESC LIMIT 5;",
+    "columns": [
+      "feature_name",
+      "accounts_using"
+    ],
+    "rows": [
+      [
+        "task_board",
+        1567
+      ],
+      [
+        "team_chat",
+        1216
+      ],
+      [
+        "reporting_dashboard",
+        903
+      ],
+      [
+        "integrations",
+        643
+      ],
+      [
+        "automation_rules",
+        589
+      ]
+    ],
+    "insight": "task_board (1,567 accounts) and team_chat (1,216) are the clear core-usage features; automation_rules and integrations sit in the middle of the adoption curve at ~590-640 accounts, making them reasonable 'next feature to drive adoption of' candidates for expansion campaigns."
+  },
+  {
+    "id": "q09",
+    "question": "What is the average MRR by plan tier for active accounts?",
+    "sql": "SELECT plan_tier, ROUND(AVG(mrr),2) AS avg_mrr FROM subscriptions WHERE status='Active' GROUP BY plan_tier;",
+    "columns": [
+      "plan_tier",
+      "avg_mrr"
+    ],
+    "rows": [
+      [
+        "Enterprise",
+        1483.77
+      ],
+      [
+        "Growth",
+        252.28
+      ],
+      [
+        "Starter",
+        30.1
+      ]
+    ],
+    "insight": "Average MRR scales sharply by plan -- Enterprise at $1,483.77 vs. Growth's $252.28 and Starter's $30.10 -- meaning a single Enterprise upgrade is worth roughly 6 Growth-tier upgrades in MRR terms."
+  },
+  {
+    "id": "q10",
+    "question": "What percentage of paid accounts are on annual billing?",
+    "sql": "SELECT ROUND(100.0*SUM(CASE WHEN billing_cycle='Annual' THEN 1 ELSE 0 END)/COUNT(*),2) AS pct_annual FROM subscriptions WHERE mrr>0;",
+    "columns": [
+      "pct_annual"
+    ],
+    "rows": [
+      [
+        35.38
+      ]
+    ],
+    "insight": "Only 35.4% of paid accounts are on annual billing -- given annual accounts show materially lower churn (see the plan-tier churn breakdown), a targeted annual-upgrade campaign for existing Monthly accounts is a concrete, low-risk retention lever."
+  },
+  {
+    "id": "q12",
+    "question": "How many accounts are in the '1000+' employee size bracket?",
+    "sql": "SELECT COUNT(*) AS n FROM accounts WHERE employee_size_bracket='1000+';",
+    "columns": [
+      "n"
+    ],
+    "rows": [
+      [
+        95
+      ]
+    ],
+    "insight": "95 accounts fall in the 1000+ employee bracket -- a small but likely high-value segment worth checking against actual plan tier and MRR to see how well 'large company' correlates with 'Enterprise plan revenue' in practice."
+  },
+  {
+    "id": "q15",
+    "question": "Which industry has the highest paid conversion rate?",
+    "sql": "SELECT a.industry, ROUND(100.0*SUM(CASE WHEN s.mrr>0 THEN 1 ELSE 0 END)/COUNT(*),2) AS conversion_rate_pct\n                 FROM accounts a JOIN subscriptions s ON s.account_id=a.account_id\n                 GROUP BY a.industry ORDER BY conversion_rate_pct DESC LIMIT 1;",
+    "columns": [
+      "industry",
+      "conversion_rate_pct"
+    ],
+    "rows": [
+      [
+        "E-commerce",
+        22.88
+      ]
+    ],
+    "insight": "E-commerce leads all industries in paid conversion at 22.88%, making it a natural vertical to prioritize in outbound/content targeting given it already converts self-serve traffic better than the account base average."
+  },
+  {
+    "id": "q17",
+    "question": "What is the total number of feature-usage events per month?",
+    "sql": "SELECT strftime('%Y-%m', event_date) AS month, COUNT(*) AS n_events\n                 FROM product_events WHERE event_type='feature_used' GROUP BY month ORDER BY month;",
+    "columns": [
+      "month",
+      "n_events"
+    ],
+    "rows": [
+      [
+        "2024-04",
+        119
+      ],
+      [
+        "2024-05",
+        296
+      ],
+      [
+        "2024-06",
+        497
+      ],
+      [
+        "2024-07",
+        705
+      ],
+      [
+        "2024-08",
+        849
+      ],
+      [
+        "2024-09",
+        978
+      ],
+      [
+        "2024-10",
+        998
+      ],
+      [
+        "2024-11",
+        1043
+      ],
+      [
+        "2024-12",
+        1190
+      ],
+      [
+        "2025-01",
+        1287
+      ]
+    ],
+    "insight": "Feature-usage event volume has grown steadily every month from 119 (Apr 2024) to nearly 1,000/month by September 2024, tracking the growing active-account base -- a healthy usage-growth trend worth confirming continues in more recent months."
+  },
+  {
+    "id": "q18",
+    "question": "Which acquisition channel produces the highest average MRR per converted account?",
+    "sql": "SELECT a.acquisition_channel, ROUND(AVG(s.mrr),2) AS avg_mrr\n                 FROM accounts a JOIN subscriptions s ON s.account_id=a.account_id\n                 WHERE s.mrr>0 GROUP BY a.acquisition_channel ORDER BY avg_mrr DESC LIMIT 1;",
+    "columns": [
+      "acquisition_channel",
+      "avg_mrr"
+    ],
+    "rows": [
+      [
+        "Product Hunt/Community",
+        454.83
+      ]
+    ],
+    "insight": "Product Hunt/Community-acquired accounts carry the highest average MRR per converted account ($454.83) -- somewhat counterintuitive for a typically bottom-of-funnel channel, and worth a follow-up look at whether this reflects a specific launch cohort or a durable pattern before reallocating budget toward it."
+  }
+]

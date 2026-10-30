@@ -1,0 +1,17 @@
+{
+  "overall_accuracy": 0.8,
+  "n_questions": 20,
+  "n_correct": 16,
+  "by_difficulty": {
+    "mean": {
+      "easy": 1.0,
+      "hard": 0.4,
+      "medium": 0.8888888888888888
+    },
+    "count": {
+      "easy": 6,
+      "hard": 5,
+      "medium": 9
+    }
+  }
+}

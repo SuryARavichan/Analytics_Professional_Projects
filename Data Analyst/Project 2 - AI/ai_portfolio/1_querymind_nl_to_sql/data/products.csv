@@ -1,0 +1,221 @@
+product_id,product_name,category,unit_cost,unit_price
+P5000,Apparel Item 5000,Apparel,32.74,78.82
+P5001,Electronics Item 5001,Electronics,79.83,163.68
+P5002,Accessories Item 5002,Accessories,8.52,21.86
+P5003,Accessories Item 5003,Accessories,23.1,54.33
+P5004,Footwear Item 5004,Footwear,36.87,77.75
+P5005,Footwear Item 5005,Footwear,71.53,145.48
+P5006,Apparel Item 5006,Apparel,17.36,33.21
+P5007,Accessories Item 5007,Accessories,6.44,13.4
+P5008,Outdoor Gear Item 5008,Outdoor Gear,120.92,271.27
+P5009,Accessories Item 5009,Accessories,39.31,71.21
+P5010,Apparel Item 5010,Apparel,31.03,70.07
+P5011,Footwear Item 5011,Footwear,71.93,141.7
+P5012,Apparel Item 5012,Apparel,45.65,88.21
+P5013,Footwear Item 5013,Footwear,66.65,128.14
+P5014,Outdoor Gear Item 5014,Outdoor Gear,93.55,190.06
+P5015,Electronics Item 5015,Electronics,121.39,277.63
+P5016,Outdoor Gear Item 5016,Outdoor Gear,99.09,198.87
+P5017,Footwear Item 5017,Footwear,67.3,157.3
+P5018,Outdoor Gear Item 5018,Outdoor Gear,143.16,314.62
+P5019,Footwear Item 5019,Footwear,73.13,152.38
+P5020,Footwear Item 5020,Footwear,63.32,162.64
+P5021,Accessories Item 5021,Accessories,37.55,95.67
+P5022,Apparel Item 5022,Apparel,10.37,20.35
+P5023,Outdoor Gear Item 5023,Outdoor Gear,13.97,30.36
+P5024,Accessories Item 5024,Accessories,13.91,31.25
+P5025,Accessories Item 5025,Accessories,5.23,10.87
+P5026,Accessories Item 5026,Accessories,24.6,51.53
+P5027,Electronics Item 5027,Electronics,56.54,145.17
+P5028,Outdoor Gear Item 5028,Outdoor Gear,133.11,302.65
+P5029,Footwear Item 5029,Footwear,23.51,59.92
+P5030,Electronics Item 5030,Electronics,177.3,368.39
+P5031,Apparel Item 5031,Apparel,12.08,28.0
+P5032,Apparel Item 5032,Apparel,56.87,127.23
+P5033,Outdoor Gear Item 5033,Outdoor Gear,62.53,152.24
+P5034,Electronics Item 5034,Electronics,73.5,145.17
+P5035,Outdoor Gear Item 5035,Outdoor Gear,56.65,103.67
+P5036,Accessories Item 5036,Accessories,29.68,72.67
+P5037,Footwear Item 5037,Footwear,71.6,179.91
+P5038,Apparel Item 5038,Apparel,43.14,79.22
+P5039,Outdoor Gear Item 5039,Outdoor Gear,31.85,79.71
+P5040,Electronics Item 5040,Electronics,93.52,204.13
+P5041,Apparel Item 5041,Apparel,33.84,62.94
+P5042,Outdoor Gear Item 5042,Outdoor Gear,50.02,100.09
+P5043,Footwear Item 5043,Footwear,75.9,146.9
+P5044,Outdoor Gear Item 5044,Outdoor Gear,109.73,243.43
+P5045,Apparel Item 5045,Apparel,44.78,116.27
+P5046,Footwear Item 5046,Footwear,33.01,69.86
+P5047,Footwear Item 5047,Footwear,50.68,119.14
+P5048,Accessories Item 5048,Accessories,13.14,26.81
+P5049,Apparel Item 5049,Apparel,25.44,48.52
+P5050,Accessories Item 5050,Accessories,32.18,83.13
+P5051,Apparel Item 5051,Apparel,21.74,54.53
+P5052,Accessories Item 5052,Accessories,28.89,54.29
+P5053,Apparel Item 5053,Apparel,21.31,42.64
+P5054,Outdoor Gear Item 5054,Outdoor Gear,121.57,271.6
+P5055,Footwear Item 5055,Footwear,27.5,65.89
+P5056,Accessories Item 5056,Accessories,35.93,73.5
+P5057,Accessories Item 5057,Accessories,6.82,12.55
+P5058,Footwear Item 5058,Footwear,30.84,62.16
+P5059,Outdoor Gear Item 5059,Outdoor Gear,102.85,231.57
+P5060,Accessories Item 5060,Accessories,17.57,43.73
+P5061,Electronics Item 5061,Electronics,49.24,89.4
+P5062,Footwear Item 5062,Footwear,26.89,63.71
+P5063,Apparel Item 5063,Apparel,35.67,81.56
+P5064,Outdoor Gear Item 5064,Outdoor Gear,54.81,113.13
+P5065,Electronics Item 5065,Electronics,204.63,444.56
+P5066,Accessories Item 5066,Accessories,31.14,57.03
+P5067,Apparel Item 5067,Apparel,33.99,74.5
+P5068,Outdoor Gear Item 5068,Outdoor Gear,102.14,246.72
+P5069,Apparel Item 5069,Apparel,20.41,41.84
+P5070,Apparel Item 5070,Apparel,30.99,69.69
+P5071,Accessories Item 5071,Accessories,33.26,77.78
+P5072,Electronics Item 5072,Electronics,204.53,387.39
+P5073,Footwear Item 5073,Footwear,26.79,57.22
+P5074,Accessories Item 5074,Accessories,16.21,32.95
+P5075,Electronics Item 5075,Electronics,177.46,352.49
+P5076,Apparel Item 5076,Apparel,23.61,53.78
+P5077,Footwear Item 5077,Footwear,38.65,70.98
+P5078,Accessories Item 5078,Accessories,8.42,18.62
+P5079,Footwear Item 5079,Footwear,69.76,165.93
+P5080,Outdoor Gear Item 5080,Outdoor Gear,27.67,54.56
+P5081,Apparel Item 5081,Apparel,43.42,79.34
+P5082,Accessories Item 5082,Accessories,8.22,20.47
+P5083,Outdoor Gear Item 5083,Outdoor Gear,48.83,121.22
+P5084,Footwear Item 5084,Footwear,75.36,156.09
+P5085,Footwear Item 5085,Footwear,25.01,62.02
+P5086,Apparel Item 5086,Apparel,49.0,97.07
+P5087,Accessories Item 5087,Accessories,12.6,24.69
+P5088,Apparel Item 5088,Apparel,50.95,120.72
+P5089,Apparel Item 5089,Apparel,26.0,49.52
+P5090,Footwear Item 5090,Footwear,51.19,106.73
+P5091,Apparel Item 5091,Apparel,50.49,117.06
+P5092,Electronics Item 5092,Electronics,33.84,68.0
+P5093,Footwear Item 5093,Footwear,41.21,74.39
+P5094,Accessories Item 5094,Accessories,36.63,92.59
+P5095,Footwear Item 5095,Footwear,34.03,70.08
+P5096,Electronics Item 5096,Electronics,134.25,270.13
+P5097,Outdoor Gear Item 5097,Outdoor Gear,137.78,305.27
+P5098,Footwear Item 5098,Footwear,61.54,151.76
+P5099,Electronics Item 5099,Electronics,207.58,442.76
+P5100,Apparel Item 5100,Apparel,37.26,82.86
+P5101,Accessories Item 5101,Accessories,28.48,69.12
+P5102,Apparel Item 5102,Apparel,12.29,31.64
+P5103,Apparel Item 5103,Apparel,57.11,131.28
+P5104,Footwear Item 5104,Footwear,43.78,107.42
+P5105,Apparel Item 5105,Apparel,36.28,72.09
+P5106,Apparel Item 5106,Apparel,36.14,71.68
+P5107,Footwear Item 5107,Footwear,37.14,69.95
+P5108,Footwear Item 5108,Footwear,77.4,156.17
+P5109,Footwear Item 5109,Footwear,58.58,116.38
+P5110,Electronics Item 5110,Electronics,126.39,309.87
+P5111,Apparel Item 5111,Apparel,16.79,43.04
+P5112,Electronics Item 5112,Electronics,168.55,318.32
+P5113,Apparel Item 5113,Apparel,41.69,96.94
+P5114,Accessories Item 5114,Accessories,38.18,98.96
+P5115,Apparel Item 5115,Apparel,38.07,96.67
+P5116,Outdoor Gear Item 5116,Outdoor Gear,57.77,113.71
+P5117,Apparel Item 5117,Apparel,40.92,93.03
+P5118,Outdoor Gear Item 5118,Outdoor Gear,32.91,77.3
+P5119,Apparel Item 5119,Apparel,20.59,37.35
+P5120,Footwear Item 5120,Footwear,53.36,99.46
+P5121,Apparel Item 5121,Apparel,41.84,99.51
+P5122,Footwear Item 5122,Footwear,77.87,171.98
+P5123,Apparel Item 5123,Apparel,10.9,25.54
+P5124,Apparel Item 5124,Apparel,53.69,101.39
+P5125,Accessories Item 5125,Accessories,19.21,37.58
+P5126,Electronics Item 5126,Electronics,21.51,52.19
+P5127,Footwear Item 5127,Footwear,42.32,89.21
+P5128,Accessories Item 5128,Accessories,25.96,56.9
+P5129,Outdoor Gear Item 5129,Outdoor Gear,63.21,152.64
+P5130,Accessories Item 5130,Accessories,17.28,32.26
+P5131,Footwear Item 5131,Footwear,68.47,129.61
+P5132,Apparel Item 5132,Apparel,30.67,67.5
+P5133,Electronics Item 5133,Electronics,216.16,501.83
+P5134,Apparel Item 5134,Apparel,22.2,45.83
+P5135,Accessories Item 5135,Accessories,8.45,18.7
+P5136,Apparel Item 5136,Apparel,33.68,80.9
+P5137,Outdoor Gear Item 5137,Outdoor Gear,112.77,281.05
+P5138,Accessories Item 5138,Accessories,17.27,34.55
+P5139,Outdoor Gear Item 5139,Outdoor Gear,46.09,110.01
+P5140,Apparel Item 5140,Apparel,37.66,74.27
+P5141,Footwear Item 5141,Footwear,68.81,150.07
+P5142,Footwear Item 5142,Footwear,53.48,127.82
+P5143,Accessories Item 5143,Accessories,26.02,53.49
+P5144,Footwear Item 5144,Footwear,42.24,96.89
+P5145,Apparel Item 5145,Apparel,42.37,85.41
+P5146,Accessories Item 5146,Accessories,31.6,72.62
+P5147,Apparel Item 5147,Apparel,13.01,28.52
+P5148,Footwear Item 5148,Footwear,78.59,167.99
+P5149,Footwear Item 5149,Footwear,44.53,84.72
+P5150,Apparel Item 5150,Apparel,32.39,68.35
+P5151,Outdoor Gear Item 5151,Outdoor Gear,80.55,195.74
+P5152,Apparel Item 5152,Apparel,46.37,89.84
+P5153,Apparel Item 5153,Apparel,33.02,80.04
+P5154,Electronics Item 5154,Electronics,142.33,349.95
+P5155,Apparel Item 5155,Apparel,24.19,61.36
+P5156,Apparel Item 5156,Apparel,21.95,48.69
+P5157,Outdoor Gear Item 5157,Outdoor Gear,83.07,183.5
+P5158,Electronics Item 5158,Electronics,40.13,87.68
+P5159,Outdoor Gear Item 5159,Outdoor Gear,18.93,42.46
+P5160,Apparel Item 5160,Apparel,45.23,112.95
+P5161,Apparel Item 5161,Apparel,16.39,36.83
+P5162,Apparel Item 5162,Apparel,40.83,91.99
+P5163,Electronics Item 5163,Electronics,208.28,504.81
+P5164,Footwear Item 5164,Footwear,69.59,142.41
+P5165,Outdoor Gear Item 5165,Outdoor Gear,27.16,49.52
+P5166,Apparel Item 5166,Apparel,32.77,83.37
+P5167,Footwear Item 5167,Footwear,51.95,109.5
+P5168,Outdoor Gear Item 5168,Outdoor Gear,59.99,131.48
+P5169,Outdoor Gear Item 5169,Outdoor Gear,63.06,137.33
+P5170,Footwear Item 5170,Footwear,77.31,182.93
+P5171,Apparel Item 5171,Apparel,17.04,33.62
+P5172,Footwear Item 5172,Footwear,70.57,141.49
+P5173,Outdoor Gear Item 5173,Outdoor Gear,119.97,238.57
+P5174,Electronics Item 5174,Electronics,53.64,127.46
+P5175,Apparel Item 5175,Apparel,27.87,59.8
+P5176,Apparel Item 5176,Apparel,35.79,92.97
+P5177,Footwear Item 5177,Footwear,74.01,185.55
+P5178,Footwear Item 5178,Footwear,17.53,45.12
+P5179,Footwear Item 5179,Footwear,73.45,144.49
+P5180,Outdoor Gear Item 5180,Outdoor Gear,20.28,39.85
+P5181,Footwear Item 5181,Footwear,36.2,87.21
+P5182,Apparel Item 5182,Apparel,9.17,21.26
+P5183,Apparel Item 5183,Apparel,58.43,119.47
+P5184,Apparel Item 5184,Apparel,58.06,122.55
+P5185,Accessories Item 5185,Accessories,20.18,36.59
+P5186,Apparel Item 5186,Apparel,45.19,116.71
+P5187,Apparel Item 5187,Apparel,11.58,21.85
+P5188,Electronics Item 5188,Electronics,131.42,320.99
+P5189,Electronics Item 5189,Electronics,88.14,191.08
+P5190,Apparel Item 5190,Apparel,37.12,88.32
+P5191,Apparel Item 5191,Apparel,24.66,45.9
+P5192,Apparel Item 5192,Apparel,42.93,95.3
+P5193,Accessories Item 5193,Accessories,21.78,47.39
+P5194,Electronics Item 5194,Electronics,118.48,279.61
+P5195,Apparel Item 5195,Apparel,34.04,65.11
+P5196,Apparel Item 5196,Apparel,26.83,68.4
+P5197,Electronics Item 5197,Electronics,122.03,316.53
+P5198,Accessories Item 5198,Accessories,30.14,59.29
+P5199,Footwear Item 5199,Footwear,57.04,106.63
+P5200,Accessories Item 5200,Accessories,9.71,21.66
+P5201,Outdoor Gear Item 5201,Outdoor Gear,103.39,222.46
+P5202,Accessories Item 5202,Accessories,11.96,27.68
+P5203,Apparel Item 5203,Apparel,42.08,108.86
+P5204,Apparel Item 5204,Apparel,46.75,111.1
+P5205,Outdoor Gear Item 5205,Outdoor Gear,100.88,239.9
+P5206,Accessories Item 5206,Accessories,32.68,82.26
+P5207,Footwear Item 5207,Footwear,43.04,98.54
+P5208,Apparel Item 5208,Apparel,59.54,122.97
+P5209,Outdoor Gear Item 5209,Outdoor Gear,134.37,256.95
+P5210,Footwear Item 5210,Footwear,50.65,102.12
+P5211,Apparel Item 5211,Apparel,24.44,55.75
+P5212,Accessories Item 5212,Accessories,37.74,75.07
+P5213,Apparel Item 5213,Apparel,38.42,77.28
+P5214,Accessories Item 5214,Accessories,10.1,23.76
+P5215,Footwear Item 5215,Footwear,43.14,105.41
+P5216,Electronics Item 5216,Electronics,39.87,81.05
+P5217,Outdoor Gear Item 5217,Outdoor Gear,79.74,203.42
+P5218,Outdoor Gear Item 5218,Outdoor Gear,48.66,117.69
+P5219,Apparel Item 5219,Apparel,16.88,35.13

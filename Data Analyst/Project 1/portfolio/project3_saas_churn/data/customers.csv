@@ -1,0 +1,2601 @@
+customer_id,signup_date,plan_tier,contract_type,region,industry,initial_mrr,nps_score,churned,churn_month
+ACCT9000,2025-04-01,Starter,Monthly,APAC,Healthcare,50.09,38.0,0,
+ACCT9001,2024-10-01,Growth,Monthly,North America,Retail/E-comm,302.31,,0,
+ACCT9002,2024-04-01,Growth,Monthly,EMEA,Media,810.43,15.0,1,2025-11
+ACCT9003,2025-03-01,Starter,Monthly,North America,Retail/E-comm,195.16,23.0,0,
+ACCT9004,2024-06-01,Starter,Monthly,North America,Manufacturing,67.17,51.0,0,
+ACCT9005,2025-04-01,Enterprise,Annual,North America,Healthcare,1889.3,59.0,0,
+ACCT9006,2025-01-01,Starter,Annual,North America,Media,119.83,17.0,0,
+ACCT9007,2025-08-01,Starter,Annual,EMEA,Media,129.02,,0,
+ACCT9008,2024-06-01,Enterprise,Annual,North America,Manufacturing,3626.12,7.0,0,
+ACCT9009,2024-02-01,Growth,Annual,APAC,Financial Services,537.51,29.0,0,
+ACCT9010,2024-01-01,Starter,Monthly,North America,Financial Services,52.64,,1,2024-07
+ACCT9011,2024-07-01,Growth,Annual,North America,Software,608.28,37.0,0,
+ACCT9012,2024-07-01,Growth,Monthly,North America,Manufacturing,287.61,,0,
+ACCT9013,2025-06-01,Starter,Monthly,North America,Financial Services,96.81,0.0,0,
+ACCT9014,2024-01-01,Starter,Monthly,EMEA,Retail/E-comm,97.42,91.0,1,2024-03
+ACCT9015,2024-04-01,Growth,Monthly,EMEA,Retail/E-comm,695.72,23.0,1,2024-07
+ACCT9016,2024-10-01,Growth,Annual,EMEA,Financial Services,592.32,73.0,1,2025-03
+ACCT9017,2025-04-01,Growth,Monthly,North America,Financial Services,706.94,35.0,0,
+ACCT9018,2025-07-01,Growth,Monthly,EMEA,Financial Services,776.18,52.0,0,
+ACCT9019,2024-07-01,Growth,Annual,North America,Media,560.43,13.0,1,2024-10
+ACCT9020,2025-01-01,Enterprise,Annual,EMEA,Financial Services,1859.27,61.0,0,
+ACCT9021,2025-06-01,Starter,Annual,APAC,Media,130.23,33.0,0,
+ACCT9022,2024-09-01,Growth,Annual,APAC,Manufacturing,875.21,-9.0,0,
+ACCT9023,2024-10-01,Growth,Annual,North America,Healthcare,768.53,,0,
+ACCT9024,2024-10-01,Starter,Annual,APAC,Manufacturing,58.22,8.0,1,2025-06
+ACCT9025,2025-06-01,Growth,Annual,North America,Manufacturing,810.14,53.0,0,
+ACCT9026,2024-11-01,Starter,Annual,EMEA,Manufacturing,102.47,17.0,1,2025-06
+ACCT9027,2025-03-01,Growth,Annual,EMEA,Software,825.73,59.0,0,
+ACCT9028,2025-08-01,Enterprise,Monthly,North America,Healthcare,3472.51,56.0,0,
+ACCT9029,2024-02-01,Starter,Monthly,APAC,Healthcare,65.62,52.0,1,2025-02
+ACCT9030,2024-06-01,Growth,Annual,LATAM,Healthcare,643.31,,0,
+ACCT9031,2024-07-01,Starter,Monthly,North America,Healthcare,143.76,,1,2025-04
+ACCT9032,2024-02-01,Starter,Annual,North America,Software,91.48,,1,2024-08
+ACCT9033,2024-06-01,Enterprise,Monthly,North America,Media,3242.09,29.0,1,2025-09
+ACCT9034,2024-01-01,Starter,Monthly,North America,Media,51.21,66.0,1,2024-09
+ACCT9035,2024-11-01,Starter,Monthly,LATAM,Financial Services,122.1,21.0,1,2025-01
+ACCT9036,2024-03-01,Growth,Monthly,North America,Media,658.04,71.0,0,
+ACCT9037,2024-11-01,Starter,Annual,North America,Financial Services,66.8,,0,
+ACCT9038,2025-07-01,Enterprise,Monthly,EMEA,Software,3827.28,,0,
+ACCT9039,2024-06-01,Starter,Annual,LATAM,Media,169.04,32.0,1,2025-08
+ACCT9040,2024-06-01,Starter,Annual,APAC,Software,184.05,18.0,0,
+ACCT9041,2024-12-01,Starter,Monthly,APAC,Software,195.76,,1,2025-12
+ACCT9042,2024-09-01,Starter,Annual,North America,Healthcare,92.78,-0.0,0,
+ACCT9043,2024-03-01,Growth,Annual,North America,Media,251.03,43.0,0,
+ACCT9044,2024-02-01,Enterprise,Monthly,North America,Healthcare,1251.98,7.0,1,2025-04
+ACCT9045,2025-06-01,Growth,Annual,EMEA,Manufacturing,260.16,70.0,0,
+ACCT9046,2024-08-01,Starter,Monthly,North America,Software,88.9,38.0,0,
+ACCT9047,2025-03-01,Starter,Monthly,EMEA,Media,112.54,,0,
+ACCT9048,2024-02-01,Starter,Monthly,North America,Media,101.6,,1,2024-12
+ACCT9049,2024-06-01,Enterprise,Monthly,EMEA,Media,4226.85,34.0,0,
+ACCT9050,2024-08-01,Growth,Monthly,North America,Retail/E-comm,744.67,15.0,1,2025-05
+ACCT9051,2024-04-01,Growth,Monthly,LATAM,Financial Services,276.06,,0,
+ACCT9052,2025-02-01,Starter,Annual,North America,Retail/E-comm,55.15,,0,
+ACCT9053,2025-02-01,Starter,Monthly,EMEA,Media,130.57,63.0,1,2025-06
+ACCT9054,2025-06-01,Enterprise,Monthly,APAC,Retail/E-comm,3747.85,10.0,0,
+ACCT9055,2024-10-01,Growth,Annual,EMEA,Manufacturing,275.46,48.0,0,
+ACCT9056,2024-05-01,Starter,Annual,North America,Media,164.56,,0,
+ACCT9057,2025-04-01,Starter,Monthly,LATAM,Healthcare,103.14,,0,
+ACCT9058,2025-02-01,Starter,Annual,EMEA,Retail/E-comm,160.1,,0,
+ACCT9059,2025-07-01,Starter,Annual,APAC,Software,55.63,-16.0,0,
+ACCT9060,2024-02-01,Starter,Annual,EMEA,Retail/E-comm,85.91,11.0,0,
+ACCT9061,2024-03-01,Enterprise,Monthly,North America,Financial Services,3595.48,-2.0,0,
+ACCT9062,2025-05-01,Growth,Annual,EMEA,Retail/E-comm,275.01,,0,
+ACCT9063,2024-05-01,Starter,Annual,North America,Healthcare,194.63,,0,
+ACCT9064,2025-07-01,Growth,Monthly,APAC,Media,260.45,56.0,0,
+ACCT9065,2024-10-01,Starter,Monthly,North America,Software,62.8,,1,2025-01
+ACCT9066,2025-03-01,Starter,Monthly,EMEA,Healthcare,113.61,44.0,1,2025-06
+ACCT9067,2024-07-01,Growth,Annual,EMEA,Financial Services,829.62,,1,2025-01
+ACCT9068,2024-06-01,Enterprise,Monthly,North America,Software,2173.31,19.0,0,
+ACCT9069,2025-08-01,Starter,Annual,EMEA,Financial Services,69.34,53.0,0,
+ACCT9070,2024-08-01,Growth,Monthly,LATAM,Media,276.37,43.0,1,2025-11
+ACCT9071,2024-09-01,Starter,Monthly,North America,Retail/E-comm,136.38,0.0,0,
+ACCT9072,2025-05-01,Starter,Monthly,EMEA,Software,61.89,39.0,1,2025-11
+ACCT9073,2025-01-01,Starter,Monthly,EMEA,Retail/E-comm,174.54,,1,2025-10
+ACCT9074,2024-03-01,Starter,Monthly,APAC,Media,170.52,81.0,1,2025-07
+ACCT9075,2024-01-01,Growth,Annual,North America,Financial Services,769.99,26.0,0,
+ACCT9076,2025-04-01,Growth,Annual,APAC,Media,425.74,-45.0,0,
+ACCT9077,2025-07-01,Enterprise,Monthly,EMEA,Software,2280.92,,0,
+ACCT9078,2024-06-01,Starter,Monthly,North America,Media,163.17,68.0,0,
+ACCT9079,2024-02-01,Starter,Monthly,EMEA,Retail/E-comm,160.35,,1,2024-09
+ACCT9080,2025-02-01,Starter,Annual,North America,Healthcare,108.15,,0,
+ACCT9081,2025-02-01,Enterprise,Annual,North America,Financial Services,3595.61,70.0,0,
+ACCT9082,2025-01-01,Enterprise,Annual,North America,Retail/E-comm,4313.9,41.0,0,
+ACCT9083,2024-08-01,Starter,Monthly,North America,Retail/E-comm,171.66,,0,
+ACCT9084,2024-09-01,Starter,Annual,EMEA,Media,172.24,37.0,0,
+ACCT9085,2024-05-01,Starter,Monthly,North America,Retail/E-comm,144.05,26.0,0,
+ACCT9086,2024-02-01,Growth,Monthly,EMEA,Retail/E-comm,467.05,44.0,0,
+ACCT9087,2025-04-01,Starter,Annual,APAC,Financial Services,151.66,,0,
+ACCT9088,2024-01-01,Starter,Annual,EMEA,Retail/E-comm,74.01,,0,
+ACCT9089,2025-06-01,Starter,Annual,APAC,Healthcare,186.29,,0,
+ACCT9090,2025-08-01,Starter,Annual,EMEA,Retail/E-comm,149.24,,0,
+ACCT9091,2024-07-01,Enterprise,Monthly,EMEA,Software,1711.72,,0,
+ACCT9092,2024-10-01,Growth,Monthly,LATAM,Retail/E-comm,261.28,-11.0,1,2025-01
+ACCT9093,2024-07-01,Growth,Monthly,EMEA,Retail/E-comm,314.6,44.0,0,
+ACCT9094,2024-11-01,Growth,Monthly,North America,Media,864.48,93.0,0,
+ACCT9095,2024-04-01,Growth,Monthly,North America,Retail/E-comm,756.37,24.0,0,
+ACCT9096,2024-04-01,Growth,Monthly,APAC,Retail/E-comm,823.61,,1,2024-07
+ACCT9097,2024-07-01,Enterprise,Monthly,APAC,Healthcare,2204.3,,0,
+ACCT9098,2024-10-01,Starter,Monthly,North America,Manufacturing,88.86,,0,
+ACCT9099,2024-10-01,Growth,Monthly,North America,Software,339.36,26.0,1,2025-09
+ACCT9100,2024-11-01,Starter,Annual,North America,Retail/E-comm,100.57,43.0,0,
+ACCT9101,2024-10-01,Starter,Monthly,APAC,Software,50.84,37.0,1,2024-11
+ACCT9102,2024-04-01,Growth,Monthly,LATAM,Media,603.21,31.0,1,2025-09
+ACCT9103,2024-03-01,Enterprise,Monthly,LATAM,Media,2352.15,60.0,1,2024-11
+ACCT9104,2024-01-01,Growth,Annual,North America,Financial Services,770.46,,0,
+ACCT9105,2024-04-01,Starter,Annual,APAC,Healthcare,110.61,4.0,1,2025-04
+ACCT9106,2025-04-01,Starter,Monthly,North America,Financial Services,125.14,69.0,0,
+ACCT9107,2024-12-01,Starter,Monthly,North America,Healthcare,92.39,,0,
+ACCT9108,2024-10-01,Enterprise,Annual,EMEA,Retail/E-comm,3506.72,,0,
+ACCT9109,2024-03-01,Starter,Annual,North America,Software,98.88,,0,
+ACCT9110,2024-10-01,Starter,Monthly,EMEA,Healthcare,117.15,1.0,0,
+ACCT9111,2025-06-01,Starter,Monthly,North America,Software,171.91,100.0,0,
+ACCT9112,2025-05-01,Starter,Monthly,North America,Software,163.16,58.0,0,
+ACCT9113,2025-05-01,Enterprise,Monthly,EMEA,Software,3751.55,44.0,0,
+ACCT9114,2025-07-01,Growth,Monthly,EMEA,Media,602.71,58.0,0,
+ACCT9115,2024-11-01,Starter,Monthly,EMEA,Software,68.3,53.0,1,2025-07
+ACCT9116,2025-01-01,Growth,Monthly,EMEA,Software,261.12,100.0,0,
+ACCT9117,2024-04-01,Starter,Annual,North America,Financial Services,178.49,55.0,0,
+ACCT9118,2024-01-01,Growth,Monthly,North America,Software,883.68,52.0,1,2025-01
+ACCT9119,2025-02-01,Starter,Monthly,North America,Retail/E-comm,144.39,,1,2025-03
+ACCT9120,2025-08-01,Starter,Annual,North America,Healthcare,88.48,,0,
+ACCT9121,2024-11-01,Starter,Annual,North America,Media,79.89,48.0,0,
+ACCT9122,2025-08-01,Growth,Monthly,EMEA,Media,367.16,42.0,0,
+ACCT9123,2024-09-01,Growth,Monthly,LATAM,Software,834.76,-45.0,1,2024-12
+ACCT9124,2024-05-01,Starter,Monthly,EMEA,Media,103.78,30.0,1,2024-06
+ACCT9125,2025-03-01,Growth,Annual,APAC,Software,695.77,,0,
+ACCT9126,2024-04-01,Starter,Monthly,APAC,Healthcare,188.74,,0,
+ACCT9127,2024-06-01,Starter,Monthly,LATAM,Software,185.35,-24.0,1,2024-09
+ACCT9128,2024-04-01,Starter,Annual,LATAM,Media,182.62,18.0,0,
+ACCT9129,2024-12-01,Starter,Annual,North America,Software,100.17,2.0,0,
+ACCT9130,2024-11-01,Enterprise,Annual,North America,Media,1947.02,,0,
+ACCT9131,2025-06-01,Starter,Annual,North America,Financial Services,156.61,41.0,0,
+ACCT9132,2025-02-01,Starter,Annual,APAC,Software,61.02,,1,2025-11
+ACCT9133,2024-06-01,Growth,Monthly,EMEA,Financial Services,424.88,,0,
+ACCT9134,2024-04-01,Enterprise,Monthly,LATAM,Retail/E-comm,2034.39,26.0,0,
+ACCT9135,2024-01-01,Enterprise,Annual,EMEA,Retail/E-comm,3870.99,-2.0,0,
+ACCT9136,2024-12-01,Growth,Monthly,North America,Software,895.0,41.0,0,
+ACCT9137,2024-12-01,Starter,Annual,North America,Media,154.61,16.0,0,
+ACCT9138,2025-06-01,Growth,Annual,North America,Healthcare,653.13,,1,2025-10
+ACCT9139,2024-05-01,Growth,Annual,North America,Manufacturing,362.69,100.0,0,
+ACCT9140,2024-02-01,Starter,Annual,EMEA,Financial Services,109.82,,0,
+ACCT9141,2024-02-01,Growth,Annual,North America,Retail/E-comm,576.15,34.0,1,2025-02
+ACCT9142,2024-11-01,Starter,Annual,North America,Healthcare,78.41,,0,
+ACCT9143,2024-07-01,Growth,Monthly,North America,Software,740.18,,0,
+ACCT9144,2025-03-01,Growth,Annual,North America,Healthcare,562.91,41.0,0,
+ACCT9145,2024-09-01,Growth,Monthly,EMEA,Media,812.48,50.0,0,
+ACCT9146,2025-08-01,Growth,Annual,EMEA,Retail/E-comm,878.17,27.0,0,
+ACCT9147,2024-06-01,Starter,Monthly,LATAM,Media,77.16,61.0,0,
+ACCT9148,2025-07-01,Growth,Monthly,North America,Software,624.23,,1,2025-09
+ACCT9149,2024-10-01,Starter,Annual,North America,Software,155.6,19.0,0,
+ACCT9150,2025-05-01,Starter,Monthly,North America,Software,78.31,87.0,1,2025-08
+ACCT9151,2025-07-01,Starter,Annual,North America,Media,115.57,53.0,0,
+ACCT9152,2024-05-01,Growth,Monthly,North America,Healthcare,680.22,37.0,0,
+ACCT9153,2024-08-01,Starter,Annual,North America,Healthcare,67.3,60.0,0,
+ACCT9154,2025-08-01,Growth,Monthly,North America,Software,268.05,62.0,0,
+ACCT9155,2024-05-01,Growth,Monthly,North America,Manufacturing,521.07,,0,
+ACCT9156,2025-04-01,Starter,Monthly,North America,Manufacturing,114.12,68.0,0,
+ACCT9157,2024-02-01,Growth,Monthly,North America,Manufacturing,766.1,-12.0,1,2025-02
+ACCT9158,2025-01-01,Starter,Annual,APAC,Media,66.99,-1.0,0,
+ACCT9159,2024-01-01,Growth,Monthly,EMEA,Retail/E-comm,366.21,41.0,1,2025-10
+ACCT9160,2025-05-01,Starter,Annual,EMEA,Software,123.4,,0,
+ACCT9161,2025-06-01,Growth,Annual,North America,Media,752.55,,0,
+ACCT9162,2025-04-01,Starter,Annual,EMEA,Software,123.7,34.0,0,
+ACCT9163,2025-03-01,Growth,Monthly,LATAM,Software,663.5,,0,
+ACCT9164,2024-05-01,Growth,Monthly,North America,Manufacturing,391.15,38.0,1,2024-08
+ACCT9165,2024-05-01,Growth,Monthly,EMEA,Media,553.5,22.0,1,2025-04
+ACCT9166,2025-05-01,Starter,Monthly,North America,Media,106.96,29.0,0,
+ACCT9167,2024-08-01,Enterprise,Annual,North America,Software,4204.01,62.0,0,
+ACCT9168,2024-11-01,Starter,Monthly,North America,Media,139.02,27.0,1,2025-03
+ACCT9169,2025-08-01,Starter,Monthly,APAC,Healthcare,128.81,,0,
+ACCT9170,2024-06-01,Growth,Monthly,EMEA,Manufacturing,861.75,78.0,0,
+ACCT9171,2024-07-01,Starter,Monthly,APAC,Financial Services,71.0,25.0,0,
+ACCT9172,2024-01-01,Starter,Annual,APAC,Software,103.88,27.0,1,2025-04
+ACCT9173,2024-03-01,Growth,Annual,North America,Healthcare,859.32,30.0,0,
+ACCT9174,2025-07-01,Growth,Monthly,EMEA,Financial Services,875.7,6.0,0,
+ACCT9175,2025-01-01,Growth,Annual,North America,Media,439.78,-44.0,0,
+ACCT9176,2024-05-01,Enterprise,Monthly,EMEA,Media,3877.24,18.0,0,
+ACCT9177,2025-08-01,Growth,Monthly,North America,Manufacturing,872.61,,0,
+ACCT9178,2024-07-01,Starter,Monthly,North America,Financial Services,101.1,40.0,1,2024-10
+ACCT9179,2024-09-01,Growth,Annual,North America,Financial Services,260.92,40.0,0,
+ACCT9180,2025-01-01,Starter,Annual,EMEA,Manufacturing,84.52,,0,
+ACCT9181,2025-05-01,Growth,Monthly,North America,Manufacturing,896.36,,1,2025-10
+ACCT9182,2024-10-01,Starter,Annual,North America,Financial Services,171.15,,0,
+ACCT9183,2025-03-01,Starter,Annual,North America,Financial Services,63.34,,1,2025-08
+ACCT9184,2025-04-01,Enterprise,Monthly,LATAM,Healthcare,4018.07,34.0,0,
+ACCT9185,2025-01-01,Growth,Annual,APAC,Software,384.75,-8.0,0,
+ACCT9186,2024-02-01,Growth,Monthly,EMEA,Healthcare,399.9,17.0,0,
+ACCT9187,2024-05-01,Growth,Annual,EMEA,Software,670.91,36.0,0,
+ACCT9188,2025-03-01,Growth,Monthly,North America,Retail/E-comm,380.61,2.0,1,2025-04
+ACCT9189,2024-03-01,Starter,Monthly,North America,Retail/E-comm,115.05,11.0,1,2025-07
+ACCT9190,2025-06-01,Growth,Annual,North America,Media,291.28,,0,
+ACCT9191,2025-03-01,Starter,Monthly,EMEA,Media,86.57,,1,2025-10
+ACCT9192,2025-06-01,Growth,Monthly,North America,Media,434.92,44.0,0,
+ACCT9193,2025-02-01,Growth,Monthly,LATAM,Financial Services,821.4,,1,2025-07
+ACCT9194,2024-01-01,Growth,Annual,North America,Manufacturing,338.73,26.0,1,2025-03
+ACCT9195,2025-07-01,Growth,Annual,APAC,Manufacturing,216.4,45.0,0,
+ACCT9196,2024-01-01,Growth,Annual,APAC,Retail/E-comm,864.19,59.0,0,
+ACCT9197,2024-04-01,Enterprise,Annual,North America,Financial Services,1717.42,-53.0,0,
+ACCT9198,2025-01-01,Starter,Annual,North America,Media,106.47,,0,
+ACCT9199,2024-05-01,Enterprise,Monthly,North America,Manufacturing,2298.93,25.0,0,
+ACCT9200,2024-03-01,Starter,Monthly,North America,Financial Services,142.69,44.0,1,2024-09
+ACCT9201,2025-07-01,Starter,Annual,EMEA,Healthcare,186.3,,0,
+ACCT9202,2025-01-01,Growth,Monthly,North America,Software,570.44,,1,2025-11
+ACCT9203,2024-08-01,Growth,Annual,LATAM,Retail/E-comm,793.49,,1,2025-01
+ACCT9204,2025-07-01,Starter,Monthly,APAC,Media,90.35,33.0,0,
+ACCT9205,2025-02-01,Enterprise,Monthly,North America,Software,2880.4,38.0,0,
+ACCT9206,2025-02-01,Starter,Monthly,LATAM,Media,135.24,62.0,0,
+ACCT9207,2025-06-01,Growth,Annual,EMEA,Manufacturing,342.24,54.0,0,
+ACCT9208,2024-10-01,Starter,Annual,North America,Manufacturing,193.58,12.0,1,2025-02
+ACCT9209,2024-11-01,Growth,Monthly,North America,Retail/E-comm,259.58,,0,
+ACCT9210,2025-04-01,Growth,Annual,North America,Retail/E-comm,516.95,11.0,0,
+ACCT9211,2024-01-01,Starter,Monthly,North America,Manufacturing,126.8,49.0,1,2025-02
+ACCT9212,2024-09-01,Growth,Annual,North America,Software,886.54,55.0,0,
+ACCT9213,2025-05-01,Enterprise,Monthly,APAC,Software,3720.09,,0,
+ACCT9214,2025-08-01,Starter,Annual,North America,Retail/E-comm,99.39,46.0,0,
+ACCT9215,2025-08-01,Starter,Monthly,APAC,Manufacturing,86.71,,0,
+ACCT9216,2025-04-01,Starter,Annual,North America,Media,129.25,,0,
+ACCT9217,2025-02-01,Growth,Annual,North America,Manufacturing,545.14,,0,
+ACCT9218,2024-10-01,Enterprise,Annual,North America,Financial Services,4173.85,56.0,0,
+ACCT9219,2024-06-01,Starter,Monthly,APAC,Retail/E-comm,67.75,,0,
+ACCT9220,2025-01-01,Enterprise,Monthly,North America,Financial Services,4142.91,,0,
+ACCT9221,2024-09-01,Growth,Monthly,North America,Financial Services,559.01,20.0,0,
+ACCT9222,2024-05-01,Starter,Annual,APAC,Manufacturing,95.44,48.0,0,
+ACCT9223,2024-07-01,Starter,Annual,EMEA,Healthcare,71.57,59.0,0,
+ACCT9224,2024-07-01,Starter,Monthly,North America,Healthcare,80.73,,1,2025-12
+ACCT9225,2024-04-01,Growth,Annual,North America,Retail/E-comm,426.18,66.0,0,
+ACCT9226,2025-04-01,Growth,Annual,North America,Retail/E-comm,821.57,,0,
+ACCT9227,2024-11-01,Starter,Annual,APAC,Retail/E-comm,151.25,41.0,0,
+ACCT9228,2025-05-01,Starter,Annual,North America,Manufacturing,130.85,36.0,0,
+ACCT9229,2025-06-01,Enterprise,Monthly,APAC,Retail/E-comm,2412.14,71.0,0,
+ACCT9230,2025-08-01,Growth,Monthly,EMEA,Financial Services,316.25,-10.0,0,
+ACCT9231,2024-12-01,Starter,Monthly,APAC,Software,78.85,-12.0,0,
+ACCT9232,2024-04-01,Starter,Annual,APAC,Financial Services,63.76,68.0,1,2024-05
+ACCT9233,2025-05-01,Growth,Annual,North America,Media,539.22,68.0,0,
+ACCT9234,2025-02-01,Enterprise,Monthly,North America,Healthcare,2726.21,55.0,0,
+ACCT9235,2024-10-01,Starter,Annual,North America,Retail/E-comm,71.88,31.0,0,
+ACCT9236,2024-02-01,Starter,Annual,EMEA,Software,65.73,,0,
+ACCT9237,2024-02-01,Starter,Annual,LATAM,Healthcare,85.68,33.0,0,
+ACCT9238,2024-01-01,Growth,Monthly,North America,Financial Services,588.83,,0,
+ACCT9239,2024-03-01,Starter,Annual,EMEA,Retail/E-comm,158.21,,0,
+ACCT9240,2025-08-01,Starter,Annual,North America,Software,131.93,1.0,0,
+ACCT9241,2024-02-01,Starter,Annual,EMEA,Retail/E-comm,101.06,45.0,1,2024-09
+ACCT9242,2024-05-01,Starter,Monthly,EMEA,Software,106.15,27.0,0,
+ACCT9243,2025-03-01,Growth,Monthly,North America,Media,755.89,,0,
+ACCT9244,2024-03-01,Growth,Annual,EMEA,Manufacturing,564.03,89.0,0,
+ACCT9245,2024-09-01,Starter,Annual,APAC,Retail/E-comm,153.09,-7.0,1,2025-06
+ACCT9246,2024-11-01,Starter,Monthly,APAC,Retail/E-comm,76.84,45.0,0,
+ACCT9247,2024-07-01,Growth,Annual,APAC,Software,407.54,71.0,0,
+ACCT9248,2024-07-01,Enterprise,Monthly,North America,Media,1898.46,61.0,0,
+ACCT9249,2025-07-01,Enterprise,Monthly,North America,Media,1661.2,,0,
+ACCT9250,2025-07-01,Starter,Monthly,North America,Software,196.55,8.0,1,2025-10
+ACCT9251,2024-12-01,Enterprise,Monthly,APAC,Healthcare,2078.65,76.0,1,2025-09
+ACCT9252,2024-02-01,Enterprise,Monthly,EMEA,Media,3941.34,,0,
+ACCT9253,2024-10-01,Starter,Monthly,EMEA,Financial Services,64.66,,1,2025-09
+ACCT9254,2024-08-01,Growth,Monthly,North America,Financial Services,258.67,35.0,0,
+ACCT9255,2024-02-01,Starter,Annual,North America,Media,180.3,,1,2024-04
+ACCT9256,2025-07-01,Starter,Annual,EMEA,Media,185.4,62.0,0,
+ACCT9257,2025-05-01,Growth,Monthly,APAC,Financial Services,709.98,20.0,0,
+ACCT9258,2024-10-01,Starter,Monthly,EMEA,Retail/E-comm,143.48,33.0,1,2025-02
+ACCT9259,2024-03-01,Growth,Annual,North America,Manufacturing,328.67,69.0,0,
+ACCT9260,2025-04-01,Growth,Annual,North America,Healthcare,638.24,,0,
+ACCT9261,2025-02-01,Enterprise,Monthly,North America,Financial Services,1698.75,60.0,0,
+ACCT9262,2025-03-01,Starter,Monthly,EMEA,Retail/E-comm,137.33,28.0,0,
+ACCT9263,2024-07-01,Starter,Annual,North America,Financial Services,162.81,,0,
+ACCT9264,2024-10-01,Enterprise,Monthly,EMEA,Software,1426.14,,0,
+ACCT9265,2024-09-01,Enterprise,Annual,North America,Manufacturing,3175.19,43.0,0,
+ACCT9266,2025-08-01,Enterprise,Monthly,EMEA,Manufacturing,3540.68,,0,
+ACCT9267,2025-03-01,Growth,Monthly,North America,Financial Services,427.7,,0,
+ACCT9268,2025-06-01,Growth,Monthly,North America,Financial Services,414.77,6.0,0,
+ACCT9269,2025-05-01,Starter,Annual,APAC,Software,132.18,,0,
+ACCT9270,2024-07-01,Starter,Annual,APAC,Software,150.82,,0,
+ACCT9271,2024-02-01,Starter,Annual,North America,Retail/E-comm,197.74,,0,
+ACCT9272,2024-12-01,Growth,Annual,EMEA,Retail/E-comm,669.2,69.0,1,2025-04
+ACCT9273,2025-02-01,Starter,Annual,APAC,Media,86.48,,0,
+ACCT9274,2025-07-01,Growth,Monthly,EMEA,Media,737.31,,0,
+ACCT9275,2024-11-01,Growth,Monthly,APAC,Retail/E-comm,202.3,11.0,1,2025-04
+ACCT9276,2025-07-01,Starter,Annual,North America,Software,71.21,97.0,0,
+ACCT9277,2024-11-01,Enterprise,Annual,North America,Healthcare,3037.0,,0,
+ACCT9278,2025-01-01,Starter,Monthly,North America,Retail/E-comm,176.84,,0,
+ACCT9279,2024-06-01,Growth,Monthly,APAC,Healthcare,274.08,47.0,0,
+ACCT9280,2024-01-01,Starter,Monthly,North America,Financial Services,98.18,,0,
+ACCT9281,2025-03-01,Enterprise,Monthly,APAC,Manufacturing,1321.33,46.0,0,
+ACCT9282,2024-08-01,Growth,Annual,North America,Software,348.36,5.0,0,
+ACCT9283,2025-07-01,Starter,Monthly,EMEA,Financial Services,89.36,38.0,0,
+ACCT9284,2024-05-01,Starter,Annual,North America,Media,172.67,,0,
+ACCT9285,2024-12-01,Growth,Annual,APAC,Manufacturing,705.39,14.0,0,
+ACCT9286,2024-02-01,Starter,Monthly,EMEA,Retail/E-comm,129.18,83.0,1,2025-05
+ACCT9287,2024-02-01,Starter,Monthly,EMEA,Financial Services,152.11,20.0,1,2024-06
+ACCT9288,2025-05-01,Starter,Annual,EMEA,Financial Services,165.35,,0,
+ACCT9289,2025-07-01,Starter,Monthly,North America,Retail/E-comm,148.09,41.0,0,
+ACCT9290,2025-06-01,Growth,Monthly,APAC,Healthcare,408.14,26.0,0,
+ACCT9291,2025-03-01,Growth,Annual,EMEA,Software,307.94,66.0,0,
+ACCT9292,2024-01-01,Enterprise,Monthly,EMEA,Software,4396.57,-7.0,1,2024-07
+ACCT9293,2024-04-01,Enterprise,Annual,North America,Manufacturing,1438.06,33.0,0,
+ACCT9294,2024-12-01,Enterprise,Annual,North America,Manufacturing,4445.6,-1.0,0,
+ACCT9295,2024-09-01,Growth,Annual,North America,Software,418.97,48.0,0,
+ACCT9296,2024-09-01,Growth,Annual,APAC,Financial Services,216.73,,0,
+ACCT9297,2025-03-01,Growth,Annual,North America,Financial Services,455.97,,0,
+ACCT9298,2024-08-01,Starter,Monthly,LATAM,Software,76.75,,0,
+ACCT9299,2025-01-01,Starter,Annual,North America,Healthcare,156.94,63.0,0,
+ACCT9300,2024-05-01,Starter,Monthly,EMEA,Financial Services,177.84,23.0,1,2025-02
+ACCT9301,2024-07-01,Growth,Monthly,North America,Retail/E-comm,559.31,83.0,0,
+ACCT9302,2024-07-01,Starter,Monthly,EMEA,Healthcare,96.12,28.0,1,2025-10
+ACCT9303,2024-10-01,Starter,Monthly,LATAM,Healthcare,167.55,25.0,1,2025-04
+ACCT9304,2025-03-01,Growth,Annual,North America,Retail/E-comm,394.39,,0,
+ACCT9305,2025-07-01,Growth,Monthly,North America,Manufacturing,489.86,22.0,0,
+ACCT9306,2024-06-01,Starter,Annual,North America,Manufacturing,184.34,-9.0,1,2025-12
+ACCT9307,2025-02-01,Starter,Monthly,North America,Manufacturing,182.0,40.0,1,2025-04
+ACCT9308,2025-07-01,Growth,Monthly,North America,Software,895.66,-18.0,1,2025-08
+ACCT9309,2025-02-01,Starter,Annual,LATAM,Financial Services,158.07,31.0,0,
+ACCT9310,2024-08-01,Starter,Annual,North America,Healthcare,91.15,19.0,1,2025-05
+ACCT9311,2024-09-01,Growth,Monthly,EMEA,Media,885.34,,1,2025-11
+ACCT9312,2024-02-01,Growth,Annual,APAC,Retail/E-comm,490.46,,1,2024-03
+ACCT9313,2024-01-01,Enterprise,Monthly,EMEA,Media,3427.95,,0,
+ACCT9314,2025-01-01,Starter,Annual,North America,Retail/E-comm,157.33,,0,
+ACCT9315,2024-05-01,Growth,Monthly,EMEA,Manufacturing,381.96,39.0,0,
+ACCT9316,2024-12-01,Starter,Annual,LATAM,Software,101.6,,0,
+ACCT9317,2024-11-01,Starter,Annual,North America,Retail/E-comm,106.42,24.0,0,
+ACCT9318,2025-07-01,Growth,Annual,APAC,Software,705.57,,0,
+ACCT9319,2024-04-01,Starter,Monthly,APAC,Financial Services,193.44,61.0,0,
+ACCT9320,2024-08-01,Starter,Annual,APAC,Financial Services,120.86,,0,
+ACCT9321,2025-01-01,Starter,Annual,EMEA,Media,51.24,28.0,0,
+ACCT9322,2024-08-01,Starter,Monthly,LATAM,Healthcare,126.8,,1,2025-12
+ACCT9323,2025-08-01,Starter,Monthly,EMEA,Healthcare,55.35,-9.0,0,
+ACCT9324,2024-11-01,Growth,Monthly,LATAM,Healthcare,658.06,17.0,0,
+ACCT9325,2025-01-01,Enterprise,Monthly,North America,Retail/E-comm,4134.3,,0,
+ACCT9326,2024-02-01,Starter,Monthly,EMEA,Financial Services,134.68,15.0,1,2025-06
+ACCT9327,2024-12-01,Starter,Monthly,North America,Financial Services,135.58,39.0,0,
+ACCT9328,2025-07-01,Growth,Annual,North America,Financial Services,785.56,54.0,0,
+ACCT9329,2025-01-01,Starter,Annual,EMEA,Financial Services,135.62,33.0,0,
+ACCT9330,2024-12-01,Starter,Annual,EMEA,Software,75.5,25.0,0,
+ACCT9331,2024-09-01,Starter,Monthly,EMEA,Healthcare,188.06,49.0,0,
+ACCT9332,2025-07-01,Starter,Monthly,North America,Media,80.72,24.0,0,
+ACCT9333,2024-07-01,Starter,Monthly,North America,Retail/E-comm,162.65,,0,
+ACCT9334,2024-04-01,Growth,Annual,North America,Software,285.31,-17.0,1,2024-05
+ACCT9335,2025-02-01,Growth,Monthly,EMEA,Media,604.5,54.0,1,2025-05
+ACCT9336,2024-10-01,Growth,Monthly,North America,Financial Services,329.56,,0,
+ACCT9337,2024-09-01,Enterprise,Monthly,LATAM,Financial Services,2671.0,,0,
+ACCT9338,2024-08-01,Starter,Annual,EMEA,Media,121.19,,0,
+ACCT9339,2024-03-01,Growth,Annual,North America,Financial Services,715.58,73.0,0,
+ACCT9340,2025-01-01,Starter,Monthly,EMEA,Healthcare,77.97,,0,
+ACCT9341,2024-04-01,Starter,Monthly,North America,Software,169.87,5.0,1,2024-09
+ACCT9342,2024-10-01,Enterprise,Annual,EMEA,Software,2102.83,,0,
+ACCT9343,2024-09-01,Growth,Annual,North America,Retail/E-comm,780.27,35.0,0,
+ACCT9344,2024-08-01,Enterprise,Monthly,EMEA,Media,3666.82,53.0,0,
+ACCT9345,2025-04-01,Growth,Monthly,North America,Retail/E-comm,238.3,-8.0,0,
+ACCT9346,2025-02-01,Enterprise,Annual,EMEA,Media,4296.52,57.0,0,
+ACCT9347,2024-01-01,Starter,Annual,EMEA,Financial Services,172.93,14.0,0,
+ACCT9348,2025-06-01,Starter,Monthly,North America,Healthcare,106.6,68.0,0,
+ACCT9349,2025-02-01,Starter,Annual,North America,Software,110.94,59.0,0,
+ACCT9350,2024-09-01,Starter,Annual,North America,Retail/E-comm,176.87,19.0,1,2025-12
+ACCT9351,2025-06-01,Growth,Annual,APAC,Retail/E-comm,322.57,68.0,0,
+ACCT9352,2024-11-01,Starter,Annual,LATAM,Financial Services,55.65,28.0,0,
+ACCT9353,2024-03-01,Growth,Monthly,EMEA,Media,736.24,4.0,0,
+ACCT9354,2025-06-01,Growth,Annual,North America,Retail/E-comm,874.08,22.0,0,
+ACCT9355,2025-04-01,Starter,Annual,EMEA,Financial Services,83.11,-6.0,0,
+ACCT9356,2024-08-01,Growth,Monthly,North America,Software,280.6,27.0,1,2024-11
+ACCT9357,2025-02-01,Starter,Annual,North America,Media,170.68,,0,
+ACCT9358,2025-01-01,Starter,Annual,EMEA,Financial Services,61.52,,0,
+ACCT9359,2025-04-01,Growth,Monthly,APAC,Financial Services,270.9,,1,2025-06
+ACCT9360,2024-04-01,Growth,Annual,EMEA,Manufacturing,394.18,72.0,1,2025-03
+ACCT9361,2024-01-01,Starter,Monthly,EMEA,Healthcare,169.73,57.0,1,2024-08
+ACCT9362,2025-06-01,Starter,Monthly,LATAM,Healthcare,140.86,-15.0,1,2025-10
+ACCT9363,2024-08-01,Growth,Monthly,North America,Media,797.03,,0,
+ACCT9364,2025-08-01,Starter,Annual,APAC,Media,135.22,,0,
+ACCT9365,2025-03-01,Starter,Monthly,LATAM,Financial Services,84.31,16.0,0,
+ACCT9366,2025-07-01,Starter,Monthly,APAC,Retail/E-comm,141.68,,0,
+ACCT9367,2024-05-01,Starter,Monthly,EMEA,Financial Services,120.4,95.0,1,2024-09
+ACCT9368,2025-04-01,Growth,Monthly,APAC,Media,285.92,30.0,1,2025-11
+ACCT9369,2024-11-01,Starter,Monthly,EMEA,Financial Services,181.5,,1,2025-09
+ACCT9370,2024-04-01,Enterprise,Annual,North America,Software,3967.9,,0,
+ACCT9371,2025-01-01,Starter,Annual,EMEA,Healthcare,146.18,,0,
+ACCT9372,2024-09-01,Starter,Annual,North America,Manufacturing,133.11,,0,
+ACCT9373,2024-09-01,Growth,Annual,North America,Retail/E-comm,467.81,,0,
+ACCT9374,2025-04-01,Starter,Monthly,EMEA,Retail/E-comm,119.05,78.0,1,2025-05
+ACCT9375,2024-11-01,Starter,Annual,EMEA,Manufacturing,70.12,-9.0,0,
+ACCT9376,2025-03-01,Starter,Annual,North America,Media,182.12,20.0,0,
+ACCT9377,2024-01-01,Starter,Monthly,APAC,Retail/E-comm,168.26,,1,2024-04
+ACCT9378,2025-02-01,Starter,Monthly,North America,Healthcare,89.4,21.0,0,
+ACCT9379,2024-03-01,Starter,Monthly,North America,Software,152.45,42.0,0,
+ACCT9380,2025-02-01,Enterprise,Annual,North America,Manufacturing,1112.03,47.0,0,
+ACCT9381,2024-09-01,Starter,Annual,APAC,Software,115.66,29.0,0,
+ACCT9382,2025-06-01,Starter,Monthly,EMEA,Software,158.64,-6.0,1,2025-07
+ACCT9383,2024-07-01,Growth,Monthly,APAC,Software,804.11,40.0,0,
+ACCT9384,2025-04-01,Enterprise,Annual,APAC,Financial Services,3830.83,33.0,0,
+ACCT9385,2024-10-01,Starter,Annual,EMEA,Financial Services,108.58,,0,
+ACCT9386,2024-05-01,Starter,Monthly,APAC,Financial Services,179.8,,0,
+ACCT9387,2025-01-01,Growth,Annual,North America,Manufacturing,456.36,,0,
+ACCT9388,2024-10-01,Growth,Monthly,EMEA,Financial Services,479.7,,0,
+ACCT9389,2025-04-01,Growth,Monthly,EMEA,Financial Services,233.97,-3.0,0,
+ACCT9390,2024-06-01,Starter,Monthly,North America,Financial Services,74.83,58.0,1,2025-06
+ACCT9391,2024-06-01,Starter,Monthly,North America,Software,128.03,4.0,1,2024-10
+ACCT9392,2024-05-01,Growth,Annual,LATAM,Healthcare,576.89,,0,
+ACCT9393,2025-04-01,Growth,Monthly,North America,Software,790.94,,0,
+ACCT9394,2025-02-01,Enterprise,Monthly,APAC,Media,3659.54,43.0,0,
+ACCT9395,2025-08-01,Growth,Annual,North America,Manufacturing,329.55,100.0,0,
+ACCT9396,2024-07-01,Starter,Annual,North America,Financial Services,196.53,27.0,0,
+ACCT9397,2024-03-01,Starter,Annual,North America,Financial Services,58.55,50.0,0,
+ACCT9398,2024-03-01,Enterprise,Monthly,North America,Media,2541.8,48.0,1,2025-10
+ACCT9399,2025-05-01,Growth,Annual,EMEA,Software,584.69,,0,
+ACCT9400,2025-05-01,Growth,Annual,North America,Media,576.52,-11.0,0,
+ACCT9401,2024-04-01,Growth,Monthly,EMEA,Manufacturing,281.01,35.0,1,2025-02
+ACCT9402,2024-07-01,Starter,Annual,North America,Media,78.02,,0,
+ACCT9403,2024-01-01,Starter,Annual,EMEA,Manufacturing,58.54,45.0,0,
+ACCT9404,2024-10-01,Growth,Annual,EMEA,Financial Services,251.36,-9.0,0,
+ACCT9405,2024-10-01,Growth,Monthly,North America,Media,631.3,43.0,0,
+ACCT9406,2024-01-01,Growth,Monthly,APAC,Financial Services,443.31,65.0,1,2024-11
+ACCT9407,2025-08-01,Enterprise,Annual,North America,Media,1838.39,,0,
+ACCT9408,2024-10-01,Enterprise,Annual,EMEA,Healthcare,1033.95,52.0,0,
+ACCT9409,2025-06-01,Starter,Monthly,APAC,Software,195.56,69.0,0,
+ACCT9410,2025-07-01,Starter,Annual,North America,Media,173.26,2.0,0,
+ACCT9411,2024-09-01,Enterprise,Annual,North America,Manufacturing,1725.93,-29.0,0,
+ACCT9412,2024-08-01,Starter,Annual,EMEA,Software,57.52,16.0,1,2024-09
+ACCT9413,2024-04-01,Growth,Monthly,North America,Healthcare,219.46,43.0,0,
+ACCT9414,2025-08-01,Starter,Monthly,North America,Manufacturing,79.22,3.0,0,
+ACCT9415,2024-08-01,Growth,Monthly,EMEA,Financial Services,492.64,,0,
+ACCT9416,2025-01-01,Growth,Monthly,EMEA,Financial Services,746.7,41.0,1,2025-08
+ACCT9417,2025-04-01,Growth,Annual,North America,Software,597.39,56.0,0,
+ACCT9418,2025-06-01,Enterprise,Monthly,EMEA,Financial Services,3636.22,69.0,0,
+ACCT9419,2024-02-01,Starter,Monthly,North America,Software,62.37,,0,
+ACCT9420,2024-05-01,Growth,Annual,EMEA,Financial Services,462.44,9.0,0,
+ACCT9421,2024-10-01,Growth,Annual,LATAM,Manufacturing,574.01,25.0,0,
+ACCT9422,2024-03-01,Starter,Annual,North America,Software,197.01,,1,2025-11
+ACCT9423,2024-04-01,Enterprise,Monthly,North America,Retail/E-comm,3782.21,54.0,0,
+ACCT9424,2024-10-01,Growth,Monthly,North America,Media,866.39,96.0,0,
+ACCT9425,2025-02-01,Enterprise,Monthly,EMEA,Healthcare,3259.28,-6.0,0,
+ACCT9426,2024-12-01,Starter,Monthly,APAC,Retail/E-comm,131.47,,0,
+ACCT9427,2024-12-01,Growth,Annual,EMEA,Healthcare,694.03,56.0,0,
+ACCT9428,2025-04-01,Starter,Monthly,North America,Retail/E-comm,150.43,100.0,1,2025-07
+ACCT9429,2025-04-01,Growth,Annual,EMEA,Manufacturing,308.78,96.0,0,
+ACCT9430,2025-02-01,Growth,Monthly,North America,Retail/E-comm,589.9,23.0,0,
+ACCT9431,2024-06-01,Growth,Annual,North America,Manufacturing,505.08,65.0,0,
+ACCT9432,2025-01-01,Starter,Annual,North America,Manufacturing,71.88,58.0,1,2025-03
+ACCT9433,2024-10-01,Growth,Monthly,APAC,Financial Services,572.73,,0,
+ACCT9434,2024-11-01,Starter,Annual,EMEA,Retail/E-comm,191.95,,0,
+ACCT9435,2024-01-01,Enterprise,Monthly,LATAM,Software,1669.78,,1,2024-03
+ACCT9436,2025-05-01,Growth,Annual,EMEA,Retail/E-comm,601.86,,0,
+ACCT9437,2025-02-01,Growth,Monthly,North America,Healthcare,691.17,,0,
+ACCT9438,2024-11-01,Starter,Annual,North America,Healthcare,121.36,49.0,0,
+ACCT9439,2024-09-01,Starter,Monthly,North America,Retail/E-comm,154.51,79.0,0,
+ACCT9440,2025-06-01,Enterprise,Annual,North America,Manufacturing,3280.85,66.0,0,
+ACCT9441,2024-04-01,Starter,Monthly,EMEA,Manufacturing,150.37,-2.0,1,2024-12
+ACCT9442,2024-01-01,Enterprise,Monthly,EMEA,Manufacturing,1915.99,34.0,1,2025-09
+ACCT9443,2024-07-01,Growth,Monthly,LATAM,Healthcare,764.88,46.0,0,
+ACCT9444,2025-05-01,Enterprise,Annual,North America,Software,2095.73,,0,
+ACCT9445,2025-07-01,Starter,Monthly,North America,Healthcare,182.47,28.0,1,2025-12
+ACCT9446,2025-07-01,Enterprise,Monthly,APAC,Manufacturing,940.08,64.0,0,
+ACCT9447,2024-04-01,Growth,Monthly,North America,Manufacturing,698.17,13.0,0,
+ACCT9448,2025-04-01,Growth,Monthly,North America,Healthcare,788.01,,0,
+ACCT9449,2024-11-01,Growth,Annual,North America,Manufacturing,883.91,79.0,0,
+ACCT9450,2024-12-01,Growth,Annual,EMEA,Retail/E-comm,451.78,27.0,0,
+ACCT9451,2024-04-01,Starter,Monthly,APAC,Financial Services,176.68,-7.0,1,2025-02
+ACCT9452,2024-08-01,Growth,Monthly,North America,Retail/E-comm,712.18,,1,2024-09
+ACCT9453,2025-08-01,Starter,Monthly,EMEA,Manufacturing,161.43,-4.0,0,
+ACCT9454,2025-07-01,Starter,Monthly,North America,Manufacturing,188.61,14.0,0,
+ACCT9455,2024-03-01,Growth,Monthly,EMEA,Manufacturing,631.33,43.0,0,
+ACCT9456,2025-03-01,Growth,Annual,North America,Media,613.2,59.0,0,
+ACCT9457,2024-01-01,Enterprise,Annual,North America,Manufacturing,3928.81,58.0,0,
+ACCT9458,2025-07-01,Starter,Monthly,EMEA,Healthcare,161.81,,1,2025-08
+ACCT9459,2024-03-01,Growth,Annual,North America,Software,239.77,59.0,0,
+ACCT9460,2024-01-01,Enterprise,Annual,APAC,Financial Services,4475.89,53.0,0,
+ACCT9461,2025-08-01,Enterprise,Monthly,North America,Manufacturing,4300.42,37.0,0,
+ACCT9462,2024-04-01,Enterprise,Monthly,North America,Retail/E-comm,1447.28,,1,2025-06
+ACCT9463,2024-08-01,Starter,Monthly,North America,Healthcare,187.69,19.0,1,2025-09
+ACCT9464,2024-11-01,Starter,Annual,North America,Software,115.47,100.0,0,
+ACCT9465,2025-05-01,Starter,Monthly,APAC,Financial Services,92.86,,0,
+ACCT9466,2024-10-01,Starter,Monthly,LATAM,Media,194.12,44.0,1,2024-11
+ACCT9467,2024-03-01,Starter,Annual,LATAM,Manufacturing,156.58,71.0,0,
+ACCT9468,2025-04-01,Starter,Monthly,North America,Financial Services,144.01,,0,
+ACCT9469,2024-06-01,Starter,Annual,North America,Media,113.44,,0,
+ACCT9470,2025-02-01,Enterprise,Annual,North America,Software,4122.69,,0,
+ACCT9471,2025-05-01,Starter,Annual,EMEA,Manufacturing,147.1,54.0,0,
+ACCT9472,2024-03-01,Growth,Annual,APAC,Manufacturing,532.74,42.0,0,
+ACCT9473,2024-09-01,Growth,Annual,EMEA,Software,617.46,-3.0,0,
+ACCT9474,2025-04-01,Growth,Monthly,North America,Retail/E-comm,255.32,,0,
+ACCT9475,2024-03-01,Growth,Monthly,EMEA,Media,457.47,55.0,0,
+ACCT9476,2024-01-01,Starter,Annual,EMEA,Financial Services,164.67,37.0,1,2025-06
+ACCT9477,2025-04-01,Growth,Monthly,North America,Retail/E-comm,235.55,,0,
+ACCT9478,2024-01-01,Starter,Monthly,EMEA,Healthcare,147.75,43.0,1,2024-09
+ACCT9479,2025-04-01,Starter,Annual,North America,Healthcare,76.52,35.0,0,
+ACCT9480,2025-07-01,Starter,Monthly,North America,Financial Services,150.7,3.0,0,
+ACCT9481,2025-03-01,Starter,Annual,EMEA,Media,194.43,34.0,0,
+ACCT9482,2024-10-01,Starter,Monthly,North America,Financial Services,111.87,,1,2025-10
+ACCT9483,2024-06-01,Growth,Annual,North America,Retail/E-comm,811.71,-2.0,1,2024-12
+ACCT9484,2025-07-01,Starter,Annual,North America,Retail/E-comm,186.92,48.0,0,
+ACCT9485,2025-06-01,Starter,Monthly,APAC,Manufacturing,71.9,,0,
+ACCT9486,2025-05-01,Enterprise,Annual,EMEA,Financial Services,1487.67,,0,
+ACCT9487,2024-02-01,Starter,Monthly,APAC,Financial Services,59.12,,1,2024-06
+ACCT9488,2024-07-01,Starter,Annual,EMEA,Media,180.62,50.0,0,
+ACCT9489,2025-03-01,Starter,Monthly,North America,Software,81.5,,1,2025-07
+ACCT9490,2025-04-01,Enterprise,Annual,North America,Media,2791.61,53.0,0,
+ACCT9491,2025-01-01,Growth,Monthly,North America,Media,390.51,,0,
+ACCT9492,2024-11-01,Growth,Annual,North America,Software,868.55,,0,
+ACCT9493,2024-10-01,Enterprise,Annual,North America,Manufacturing,1026.87,15.0,0,
+ACCT9494,2025-06-01,Starter,Annual,North America,Retail/E-comm,175.86,-24.0,0,
+ACCT9495,2024-10-01,Enterprise,Annual,LATAM,Media,2605.06,34.0,0,
+ACCT9496,2025-01-01,Starter,Annual,North America,Healthcare,164.47,-9.0,0,
+ACCT9497,2025-02-01,Growth,Monthly,North America,Software,561.72,,0,
+ACCT9498,2025-03-01,Growth,Monthly,EMEA,Media,388.41,-1.0,0,
+ACCT9499,2025-05-01,Growth,Annual,EMEA,Retail/E-comm,762.27,38.0,0,
+ACCT9500,2024-05-01,Starter,Annual,North America,Financial Services,84.27,,0,
+ACCT9501,2025-02-01,Growth,Annual,North America,Software,251.49,47.0,0,
+ACCT9502,2025-05-01,Starter,Annual,North America,Retail/E-comm,91.76,78.0,0,
+ACCT9503,2025-08-01,Starter,Monthly,EMEA,Software,104.19,25.0,1,2025-12
+ACCT9504,2025-05-01,Enterprise,Annual,North America,Manufacturing,1117.29,71.0,0,
+ACCT9505,2025-06-01,Enterprise,Monthly,EMEA,Financial Services,2300.78,31.0,0,
+ACCT9506,2024-06-01,Growth,Annual,North America,Manufacturing,206.19,,0,
+ACCT9507,2025-05-01,Growth,Monthly,APAC,Manufacturing,868.26,,0,
+ACCT9508,2024-09-01,Enterprise,Monthly,EMEA,Retail/E-comm,2009.06,11.0,1,2025-07
+ACCT9509,2025-07-01,Starter,Monthly,North America,Manufacturing,118.97,,0,
+ACCT9510,2024-03-01,Enterprise,Monthly,North America,Financial Services,3777.54,,1,2024-07
+ACCT9511,2024-02-01,Starter,Monthly,North America,Software,177.17,,1,2024-11
+ACCT9512,2024-03-01,Starter,Annual,APAC,Software,57.34,12.0,1,2024-10
+ACCT9513,2025-04-01,Growth,Annual,North America,Retail/E-comm,457.26,,0,
+ACCT9514,2024-07-01,Growth,Monthly,North America,Retail/E-comm,821.84,,1,2025-10
+ACCT9515,2024-11-01,Growth,Monthly,North America,Retail/E-comm,744.26,11.0,1,2025-09
+ACCT9516,2024-08-01,Growth,Annual,EMEA,Healthcare,840.31,25.0,0,
+ACCT9517,2025-07-01,Starter,Monthly,EMEA,Media,54.22,52.0,0,
+ACCT9518,2024-08-01,Growth,Monthly,North America,Software,274.99,,0,
+ACCT9519,2024-06-01,Enterprise,Annual,EMEA,Retail/E-comm,4033.45,67.0,0,
+ACCT9520,2024-01-01,Growth,Monthly,EMEA,Retail/E-comm,766.19,26.0,0,
+ACCT9521,2025-02-01,Enterprise,Annual,EMEA,Manufacturing,2130.62,,0,
+ACCT9522,2024-10-01,Growth,Monthly,North America,Manufacturing,212.04,,0,
+ACCT9523,2024-12-01,Growth,Annual,North America,Retail/E-comm,429.84,,0,
+ACCT9524,2025-04-01,Starter,Monthly,North America,Manufacturing,139.75,36.0,1,2025-06
+ACCT9525,2024-08-01,Enterprise,Monthly,North America,Retail/E-comm,1618.35,37.0,0,
+ACCT9526,2025-05-01,Starter,Monthly,LATAM,Healthcare,89.33,19.0,0,
+ACCT9527,2025-04-01,Enterprise,Annual,EMEA,Healthcare,2781.39,40.0,1,2025-06
+ACCT9528,2025-04-01,Starter,Monthly,North America,Retail/E-comm,58.02,,0,
+ACCT9529,2025-05-01,Growth,Annual,APAC,Healthcare,649.9,-2.0,0,
+ACCT9530,2025-03-01,Enterprise,Monthly,EMEA,Financial Services,4013.14,,0,
+ACCT9531,2025-03-01,Growth,Monthly,North America,Healthcare,754.79,16.0,0,
+ACCT9532,2025-08-01,Growth,Annual,North America,Financial Services,762.86,,0,
+ACCT9533,2025-02-01,Enterprise,Monthly,North America,Software,2233.54,29.0,0,
+ACCT9534,2024-02-01,Starter,Monthly,LATAM,Manufacturing,191.23,27.0,1,2024-12
+ACCT9535,2024-02-01,Starter,Annual,EMEA,Media,197.74,80.0,1,2024-12
+ACCT9536,2024-01-01,Growth,Monthly,North America,Financial Services,433.32,32.0,1,2025-12
+ACCT9537,2024-10-01,Enterprise,Annual,APAC,Media,2459.56,28.0,1,2025-07
+ACCT9538,2024-10-01,Growth,Annual,North America,Healthcare,553.49,,0,
+ACCT9539,2025-02-01,Starter,Monthly,LATAM,Retail/E-comm,144.51,84.0,0,
+ACCT9540,2024-12-01,Starter,Annual,EMEA,Financial Services,104.65,49.0,0,
+ACCT9541,2025-04-01,Starter,Monthly,North America,Healthcare,180.58,36.0,1,2025-05
+ACCT9542,2024-11-01,Growth,Monthly,North America,Software,879.23,,1,2025-09
+ACCT9543,2025-07-01,Growth,Annual,EMEA,Retail/E-comm,412.35,25.0,0,
+ACCT9544,2024-04-01,Growth,Monthly,North America,Retail/E-comm,884.33,85.0,0,
+ACCT9545,2024-01-01,Starter,Monthly,EMEA,Retail/E-comm,194.45,,0,
+ACCT9546,2025-08-01,Enterprise,Annual,North America,Retail/E-comm,2615.52,,0,
+ACCT9547,2024-08-01,Starter,Annual,North America,Media,129.2,77.0,1,2025-05
+ACCT9548,2024-02-01,Starter,Monthly,North America,Retail/E-comm,179.65,5.0,1,2025-03
+ACCT9549,2025-06-01,Starter,Annual,EMEA,Healthcare,131.33,,0,
+ACCT9550,2024-05-01,Enterprise,Monthly,North America,Manufacturing,3962.89,,0,
+ACCT9551,2024-10-01,Starter,Annual,APAC,Software,182.44,-2.0,0,
+ACCT9552,2024-07-01,Starter,Annual,APAC,Financial Services,54.23,,0,
+ACCT9553,2024-03-01,Enterprise,Annual,North America,Financial Services,4313.38,74.0,0,
+ACCT9554,2024-08-01,Starter,Annual,North America,Manufacturing,85.83,75.0,0,
+ACCT9555,2024-02-01,Enterprise,Monthly,EMEA,Retail/E-comm,1256.7,96.0,0,
+ACCT9556,2024-09-01,Starter,Annual,EMEA,Financial Services,143.44,43.0,1,2025-10
+ACCT9557,2025-02-01,Enterprise,Monthly,APAC,Media,1284.02,41.0,1,2025-06
+ACCT9558,2024-07-01,Starter,Annual,North America,Manufacturing,103.72,,0,
+ACCT9559,2024-04-01,Starter,Monthly,North America,Retail/E-comm,154.24,,0,
+ACCT9560,2025-02-01,Growth,Monthly,APAC,Healthcare,501.08,34.0,1,2025-11
+ACCT9561,2024-09-01,Enterprise,Monthly,EMEA,Financial Services,2024.45,44.0,1,2024-11
+ACCT9562,2024-12-01,Enterprise,Monthly,LATAM,Software,1674.54,,0,
+ACCT9563,2024-09-01,Growth,Annual,North America,Retail/E-comm,749.1,28.0,0,
+ACCT9564,2025-01-01,Enterprise,Monthly,North America,Financial Services,2439.44,65.0,0,
+ACCT9565,2024-08-01,Enterprise,Annual,North America,Software,2842.22,,0,
+ACCT9566,2024-08-01,Growth,Monthly,APAC,Media,277.12,,0,
+ACCT9567,2024-09-01,Starter,Monthly,North America,Media,77.57,,0,
+ACCT9568,2024-05-01,Enterprise,Annual,North America,Software,1301.91,82.0,0,
+ACCT9569,2024-12-01,Starter,Monthly,North America,Manufacturing,179.03,-23.0,1,2025-01
+ACCT9570,2024-07-01,Starter,Monthly,EMEA,Software,163.11,93.0,0,
+ACCT9571,2025-03-01,Growth,Monthly,North America,Media,780.69,,0,
+ACCT9572,2024-03-01,Starter,Monthly,EMEA,Manufacturing,197.73,,1,2025-02
+ACCT9573,2025-06-01,Starter,Monthly,EMEA,Media,160.13,45.0,0,
+ACCT9574,2024-04-01,Starter,Monthly,North America,Manufacturing,171.33,,1,2024-10
+ACCT9575,2024-11-01,Growth,Monthly,EMEA,Healthcare,792.71,18.0,0,
+ACCT9576,2024-07-01,Growth,Monthly,North America,Manufacturing,746.63,,0,
+ACCT9577,2025-07-01,Enterprise,Annual,EMEA,Healthcare,4292.29,63.0,0,
+ACCT9578,2025-03-01,Growth,Monthly,North America,Manufacturing,813.22,,0,
+ACCT9579,2024-01-01,Enterprise,Annual,North America,Manufacturing,2376.25,35.0,0,
+ACCT9580,2025-02-01,Growth,Monthly,North America,Healthcare,892.2,,1,2025-11
+ACCT9581,2024-03-01,Growth,Monthly,North America,Financial Services,839.66,,1,2024-04
+ACCT9582,2024-09-01,Growth,Monthly,North America,Retail/E-comm,547.79,4.0,1,2025-01
+ACCT9583,2024-01-01,Starter,Monthly,EMEA,Manufacturing,159.9,,1,2025-04
+ACCT9584,2025-03-01,Starter,Monthly,EMEA,Software,178.38,100.0,0,
+ACCT9585,2024-06-01,Growth,Annual,North America,Software,824.34,17.0,0,
+ACCT9586,2025-03-01,Starter,Monthly,North America,Financial Services,108.41,,0,
+ACCT9587,2024-11-01,Growth,Monthly,North America,Healthcare,297.75,40.0,0,
+ACCT9588,2025-06-01,Growth,Monthly,North America,Manufacturing,671.07,15.0,0,
+ACCT9589,2025-08-01,Starter,Annual,EMEA,Manufacturing,139.11,,0,
+ACCT9590,2025-05-01,Growth,Monthly,North America,Software,590.84,28.0,1,2025-10
+ACCT9591,2024-06-01,Starter,Monthly,North America,Software,151.05,20.0,1,2024-07
+ACCT9592,2025-05-01,Starter,Annual,EMEA,Financial Services,137.93,,0,
+ACCT9593,2024-03-01,Starter,Monthly,North America,Software,139.39,37.0,0,
+ACCT9594,2024-05-01,Starter,Annual,North America,Financial Services,147.51,,1,2025-03
+ACCT9595,2024-04-01,Starter,Monthly,APAC,Financial Services,179.37,-23.0,1,2024-11
+ACCT9596,2024-07-01,Growth,Monthly,North America,Media,216.98,92.0,1,2024-10
+ACCT9597,2024-02-01,Starter,Monthly,EMEA,Manufacturing,58.31,47.0,0,
+ACCT9598,2025-05-01,Starter,Monthly,EMEA,Manufacturing,89.96,79.0,0,
+ACCT9599,2024-04-01,Growth,Annual,North America,Retail/E-comm,430.4,63.0,0,
+ACCT9600,2025-02-01,Enterprise,Monthly,North America,Software,1453.87,54.0,0,
+ACCT9601,2024-05-01,Starter,Annual,North America,Software,96.59,,0,
+ACCT9602,2025-06-01,Starter,Annual,North America,Media,106.84,,0,
+ACCT9603,2024-05-01,Starter,Monthly,North America,Manufacturing,144.22,60.0,1,2025-01
+ACCT9604,2024-06-01,Starter,Annual,North America,Software,117.24,,0,
+ACCT9605,2024-10-01,Starter,Annual,North America,Manufacturing,153.72,,0,
+ACCT9606,2025-06-01,Starter,Monthly,LATAM,Manufacturing,90.39,-62.0,0,
+ACCT9607,2024-01-01,Starter,Monthly,North America,Retail/E-comm,89.01,17.0,0,
+ACCT9608,2024-01-01,Starter,Monthly,EMEA,Media,68.06,-43.0,1,2025-05
+ACCT9609,2024-05-01,Growth,Monthly,North America,Software,432.43,95.0,1,2025-06
+ACCT9610,2024-12-01,Growth,Annual,APAC,Software,886.08,14.0,0,
+ACCT9611,2024-01-01,Starter,Monthly,APAC,Financial Services,96.38,,0,
+ACCT9612,2024-02-01,Starter,Monthly,North America,Retail/E-comm,157.76,55.0,1,2024-05
+ACCT9613,2025-02-01,Starter,Monthly,North America,Retail/E-comm,119.11,57.0,0,
+ACCT9614,2024-09-01,Starter,Monthly,LATAM,Healthcare,164.95,-3.0,0,
+ACCT9615,2025-04-01,Starter,Monthly,APAC,Software,90.29,13.0,0,
+ACCT9616,2024-09-01,Growth,Monthly,APAC,Healthcare,494.23,28.0,0,
+ACCT9617,2025-08-01,Enterprise,Annual,North America,Manufacturing,919.59,81.0,0,
+ACCT9618,2024-09-01,Growth,Annual,North America,Software,636.41,11.0,0,
+ACCT9619,2025-05-01,Starter,Annual,North America,Healthcare,68.27,,0,
+ACCT9620,2024-03-01,Starter,Monthly,North America,Retail/E-comm,118.62,65.0,1,2025-01
+ACCT9621,2025-05-01,Starter,Annual,North America,Retail/E-comm,65.65,,0,
+ACCT9622,2024-03-01,Starter,Monthly,North America,Manufacturing,158.08,23.0,1,2024-06
+ACCT9623,2024-06-01,Starter,Monthly,North America,Retail/E-comm,165.81,38.0,1,2024-09
+ACCT9624,2024-10-01,Growth,Annual,LATAM,Financial Services,821.57,75.0,0,
+ACCT9625,2025-06-01,Starter,Monthly,APAC,Retail/E-comm,169.74,35.0,1,2025-12
+ACCT9626,2024-07-01,Starter,Monthly,EMEA,Media,50.41,,1,2025-12
+ACCT9627,2024-07-01,Growth,Annual,EMEA,Financial Services,735.21,5.0,0,
+ACCT9628,2024-01-01,Growth,Annual,LATAM,Media,400.49,25.0,1,2024-07
+ACCT9629,2025-02-01,Growth,Monthly,EMEA,Media,382.81,15.0,1,2025-09
+ACCT9630,2024-09-01,Enterprise,Monthly,APAC,Financial Services,1598.97,,0,
+ACCT9631,2024-09-01,Starter,Monthly,North America,Manufacturing,100.02,1.0,0,
+ACCT9632,2025-07-01,Starter,Annual,North America,Retail/E-comm,87.97,-16.0,0,
+ACCT9633,2024-11-01,Growth,Monthly,North America,Software,259.29,48.0,0,
+ACCT9634,2024-05-01,Growth,Monthly,North America,Software,663.75,68.0,0,
+ACCT9635,2025-05-01,Enterprise,Annual,APAC,Manufacturing,3288.31,99.0,0,
+ACCT9636,2024-04-01,Enterprise,Monthly,EMEA,Healthcare,3654.51,-15.0,0,
+ACCT9637,2024-04-01,Growth,Annual,North America,Financial Services,468.75,,0,
+ACCT9638,2024-03-01,Growth,Annual,North America,Retail/E-comm,463.85,,0,
+ACCT9639,2025-07-01,Growth,Monthly,APAC,Retail/E-comm,786.27,54.0,0,
+ACCT9640,2024-04-01,Starter,Monthly,North America,Manufacturing,188.65,,1,2025-05
+ACCT9641,2025-01-01,Growth,Annual,APAC,Software,282.84,,0,
+ACCT9642,2025-06-01,Starter,Annual,EMEA,Healthcare,162.39,69.0,1,2025-08
+ACCT9643,2024-03-01,Starter,Monthly,EMEA,Healthcare,175.95,53.0,0,
+ACCT9644,2025-03-01,Starter,Monthly,EMEA,Media,128.29,-20.0,0,
+ACCT9645,2024-10-01,Starter,Monthly,LATAM,Media,161.32,34.0,1,2025-10
+ACCT9646,2025-03-01,Enterprise,Monthly,North America,Software,3672.28,41.0,0,
+ACCT9647,2025-08-01,Growth,Monthly,APAC,Software,864.76,69.0,0,
+ACCT9648,2024-08-01,Growth,Annual,EMEA,Manufacturing,810.2,72.0,0,
+ACCT9649,2024-03-01,Starter,Monthly,EMEA,Media,177.3,39.0,1,2025-07
+ACCT9650,2025-08-01,Starter,Monthly,LATAM,Manufacturing,154.22,,1,2025-10
+ACCT9651,2024-01-01,Starter,Annual,North America,Media,100.96,,1,2025-08
+ACCT9652,2024-10-01,Growth,Annual,North America,Software,274.36,,0,
+ACCT9653,2024-02-01,Enterprise,Monthly,EMEA,Retail/E-comm,2510.17,42.0,0,
+ACCT9654,2024-01-01,Growth,Monthly,APAC,Manufacturing,360.14,-8.0,1,2024-02
+ACCT9655,2025-04-01,Enterprise,Monthly,North America,Manufacturing,1943.77,-28.0,0,
+ACCT9656,2025-08-01,Starter,Monthly,North America,Retail/E-comm,92.72,-7.0,0,
+ACCT9657,2024-06-01,Growth,Monthly,APAC,Manufacturing,200.21,53.0,0,
+ACCT9658,2024-11-01,Starter,Monthly,LATAM,Software,100.24,37.0,1,2025-02
+ACCT9659,2024-09-01,Growth,Annual,LATAM,Manufacturing,741.81,32.0,0,
+ACCT9660,2024-08-01,Starter,Annual,North America,Media,114.76,81.0,0,
+ACCT9661,2024-11-01,Growth,Annual,North America,Healthcare,701.74,,0,
+ACCT9662,2024-01-01,Growth,Monthly,North America,Manufacturing,690.01,25.0,1,2025-05
+ACCT9663,2024-07-01,Starter,Annual,EMEA,Manufacturing,159.1,71.0,0,
+ACCT9664,2024-11-01,Starter,Monthly,APAC,Retail/E-comm,55.29,34.0,1,2025-09
+ACCT9665,2024-04-01,Growth,Annual,EMEA,Media,546.52,,0,
+ACCT9666,2024-12-01,Growth,Monthly,North America,Healthcare,761.39,16.0,0,
+ACCT9667,2024-11-01,Starter,Monthly,EMEA,Retail/E-comm,153.79,,1,2025-08
+ACCT9668,2024-09-01,Starter,Monthly,APAC,Financial Services,157.63,43.0,0,
+ACCT9669,2025-01-01,Starter,Annual,EMEA,Healthcare,196.42,,0,
+ACCT9670,2025-06-01,Enterprise,Annual,LATAM,Retail/E-comm,1191.62,,0,
+ACCT9671,2024-06-01,Enterprise,Annual,LATAM,Media,2639.86,35.0,0,
+ACCT9672,2024-06-01,Starter,Monthly,EMEA,Financial Services,109.62,26.0,1,2024-12
+ACCT9673,2025-05-01,Enterprise,Monthly,APAC,Software,1609.34,24.0,0,
+ACCT9674,2025-08-01,Enterprise,Annual,North America,Healthcare,1667.38,,0,
+ACCT9675,2024-11-01,Starter,Monthly,EMEA,Healthcare,73.2,22.0,0,
+ACCT9676,2024-12-01,Starter,Annual,North America,Financial Services,94.64,-9.0,0,
+ACCT9677,2024-03-01,Growth,Monthly,North America,Manufacturing,224.09,10.0,0,
+ACCT9678,2024-02-01,Starter,Monthly,EMEA,Healthcare,154.4,51.0,1,2024-06
+ACCT9679,2025-02-01,Enterprise,Monthly,EMEA,Media,4282.31,,0,
+ACCT9680,2024-03-01,Starter,Monthly,APAC,Financial Services,119.07,75.0,1,2025-01
+ACCT9681,2024-08-01,Growth,Monthly,APAC,Healthcare,345.52,46.0,0,
+ACCT9682,2024-12-01,Growth,Annual,North America,Software,472.89,29.0,0,
+ACCT9683,2025-01-01,Starter,Monthly,North America,Healthcare,99.8,-13.0,1,2025-08
+ACCT9684,2024-04-01,Enterprise,Annual,APAC,Software,1912.23,29.0,0,
+ACCT9685,2025-04-01,Starter,Monthly,North America,Financial Services,182.37,24.0,0,
+ACCT9686,2025-01-01,Starter,Monthly,APAC,Manufacturing,184.38,50.0,1,2025-03
+ACCT9687,2024-01-01,Starter,Annual,North America,Retail/E-comm,191.89,,1,2025-01
+ACCT9688,2024-09-01,Growth,Annual,North America,Healthcare,373.97,65.0,0,
+ACCT9689,2024-09-01,Growth,Monthly,North America,Financial Services,772.92,56.0,1,2025-04
+ACCT9690,2025-02-01,Starter,Monthly,North America,Software,150.59,,0,
+ACCT9691,2024-09-01,Enterprise,Annual,APAC,Manufacturing,4408.24,88.0,0,
+ACCT9692,2024-09-01,Starter,Monthly,LATAM,Media,80.89,56.0,1,2025-04
+ACCT9693,2024-05-01,Enterprise,Monthly,North America,Media,1711.41,54.0,0,
+ACCT9694,2024-05-01,Starter,Monthly,North America,Manufacturing,100.64,,1,2024-07
+ACCT9695,2024-05-01,Starter,Monthly,North America,Media,54.0,,1,2024-11
+ACCT9696,2024-07-01,Starter,Monthly,APAC,Retail/E-comm,175.66,53.0,1,2025-07
+ACCT9697,2024-07-01,Starter,Annual,North America,Media,145.08,-16.0,1,2025-12
+ACCT9698,2024-10-01,Starter,Monthly,APAC,Media,87.51,93.0,0,
+ACCT9699,2024-03-01,Starter,Monthly,North America,Retail/E-comm,126.71,31.0,1,2024-12
+ACCT9700,2025-07-01,Enterprise,Monthly,North America,Retail/E-comm,2112.06,,0,
+ACCT9701,2024-02-01,Growth,Monthly,APAC,Retail/E-comm,623.15,-32.0,1,2025-07
+ACCT9702,2024-03-01,Growth,Monthly,North America,Retail/E-comm,645.03,,1,2025-10
+ACCT9703,2024-06-01,Starter,Annual,LATAM,Software,88.86,1.0,0,
+ACCT9704,2025-05-01,Growth,Monthly,North America,Media,584.61,,0,
+ACCT9705,2024-06-01,Growth,Monthly,LATAM,Media,507.06,0.0,0,
+ACCT9706,2025-05-01,Growth,Monthly,EMEA,Retail/E-comm,568.1,2.0,1,2025-06
+ACCT9707,2025-02-01,Enterprise,Monthly,APAC,Healthcare,1641.43,,0,
+ACCT9708,2025-06-01,Growth,Monthly,EMEA,Media,367.7,73.0,0,
+ACCT9709,2025-01-01,Starter,Annual,LATAM,Retail/E-comm,164.86,,0,
+ACCT9710,2024-07-01,Starter,Annual,EMEA,Financial Services,165.61,1.0,0,
+ACCT9711,2024-08-01,Enterprise,Annual,North America,Healthcare,2035.64,-12.0,1,2025-08
+ACCT9712,2024-04-01,Growth,Monthly,North America,Retail/E-comm,379.61,30.0,1,2024-08
+ACCT9713,2025-01-01,Growth,Monthly,North America,Manufacturing,282.91,82.0,1,2025-04
+ACCT9714,2024-02-01,Starter,Monthly,APAC,Manufacturing,156.79,32.0,0,
+ACCT9715,2024-06-01,Starter,Annual,LATAM,Manufacturing,167.53,,0,
+ACCT9716,2024-08-01,Enterprise,Monthly,North America,Financial Services,2634.09,30.0,0,
+ACCT9717,2024-10-01,Starter,Monthly,North America,Retail/E-comm,104.0,13.0,1,2025-06
+ACCT9718,2025-06-01,Growth,Monthly,North America,Software,278.87,,0,
+ACCT9719,2024-07-01,Growth,Monthly,North America,Healthcare,428.46,11.0,1,2024-11
+ACCT9720,2025-06-01,Starter,Annual,North America,Financial Services,131.39,,0,
+ACCT9721,2024-02-01,Starter,Monthly,APAC,Software,183.51,100.0,1,2024-11
+ACCT9722,2024-10-01,Starter,Monthly,APAC,Software,193.79,23.0,1,2025-10
+ACCT9723,2024-07-01,Growth,Monthly,APAC,Retail/E-comm,580.26,,1,2025-11
+ACCT9724,2024-10-01,Growth,Annual,North America,Manufacturing,549.68,41.0,0,
+ACCT9725,2025-05-01,Starter,Annual,APAC,Healthcare,118.65,,0,
+ACCT9726,2025-06-01,Starter,Annual,LATAM,Media,56.08,65.0,0,
+ACCT9727,2025-02-01,Growth,Monthly,APAC,Healthcare,451.47,18.0,0,
+ACCT9728,2025-02-01,Starter,Monthly,North America,Media,119.4,29.0,0,
+ACCT9729,2024-04-01,Growth,Annual,North America,Retail/E-comm,338.54,35.0,0,
+ACCT9730,2024-05-01,Growth,Monthly,EMEA,Healthcare,471.73,,0,
+ACCT9731,2025-06-01,Growth,Annual,LATAM,Manufacturing,425.88,,0,
+ACCT9732,2024-06-01,Starter,Monthly,EMEA,Retail/E-comm,52.34,50.0,1,2025-04
+ACCT9733,2025-03-01,Enterprise,Monthly,North America,Financial Services,4457.75,48.0,0,
+ACCT9734,2025-02-01,Growth,Monthly,North America,Software,572.21,,0,
+ACCT9735,2025-08-01,Growth,Monthly,North America,Software,604.6,,0,
+ACCT9736,2025-04-01,Starter,Monthly,North America,Healthcare,125.09,41.0,0,
+ACCT9737,2024-04-01,Growth,Annual,North America,Media,834.75,,0,
+ACCT9738,2024-10-01,Starter,Monthly,North America,Healthcare,140.81,,1,2025-10
+ACCT9739,2024-12-01,Starter,Monthly,North America,Healthcare,107.63,,1,2025-02
+ACCT9740,2024-09-01,Starter,Annual,North America,Manufacturing,90.73,31.0,1,2024-12
+ACCT9741,2025-02-01,Starter,Monthly,EMEA,Healthcare,79.41,-0.0,1,2025-08
+ACCT9742,2025-08-01,Starter,Monthly,North America,Media,142.31,59.0,1,2025-10
+ACCT9743,2024-01-01,Starter,Annual,EMEA,Software,184.35,,1,2025-10
+ACCT9744,2025-06-01,Growth,Annual,EMEA,Healthcare,780.75,65.0,0,
+ACCT9745,2024-09-01,Growth,Annual,APAC,Manufacturing,252.42,50.0,0,
+ACCT9746,2025-03-01,Growth,Annual,North America,Financial Services,873.71,51.0,0,
+ACCT9747,2025-04-01,Growth,Annual,LATAM,Software,663.43,52.0,0,
+ACCT9748,2024-04-01,Starter,Annual,APAC,Healthcare,91.57,72.0,0,
+ACCT9749,2025-05-01,Starter,Monthly,EMEA,Software,106.34,36.0,0,
+ACCT9750,2024-09-01,Starter,Annual,North America,Media,146.02,61.0,1,2024-11
+ACCT9751,2024-02-01,Starter,Annual,North America,Manufacturing,155.2,-1.0,0,
+ACCT9752,2024-06-01,Starter,Annual,EMEA,Financial Services,77.73,59.0,1,2025-10
+ACCT9753,2024-06-01,Starter,Annual,North America,Manufacturing,81.91,30.0,0,
+ACCT9754,2025-03-01,Starter,Annual,North America,Media,153.8,84.0,0,
+ACCT9755,2024-04-01,Starter,Annual,North America,Financial Services,83.45,51.0,1,2025-06
+ACCT9756,2024-12-01,Growth,Monthly,EMEA,Media,461.07,,1,2025-09
+ACCT9757,2024-12-01,Starter,Monthly,EMEA,Software,108.52,48.0,1,2025-06
+ACCT9758,2024-10-01,Growth,Monthly,EMEA,Retail/E-comm,770.69,22.0,0,
+ACCT9759,2024-04-01,Starter,Monthly,APAC,Financial Services,126.1,70.0,1,2024-06
+ACCT9760,2024-06-01,Starter,Annual,EMEA,Manufacturing,128.1,37.0,0,
+ACCT9761,2025-05-01,Growth,Monthly,North America,Retail/E-comm,420.17,32.0,0,
+ACCT9762,2024-04-01,Starter,Annual,North America,Healthcare,138.03,,1,2024-06
+ACCT9763,2025-01-01,Starter,Monthly,EMEA,Financial Services,151.68,1.0,1,2025-10
+ACCT9764,2025-03-01,Growth,Annual,North America,Software,509.9,38.0,0,
+ACCT9765,2024-04-01,Growth,Monthly,North America,Retail/E-comm,558.81,28.0,0,
+ACCT9766,2024-11-01,Starter,Annual,North America,Financial Services,113.28,38.0,0,
+ACCT9767,2025-04-01,Growth,Annual,North America,Media,351.73,,1,2025-06
+ACCT9768,2025-08-01,Growth,Annual,APAC,Software,875.72,-1.0,0,
+ACCT9769,2024-03-01,Growth,Annual,LATAM,Manufacturing,719.04,,0,
+ACCT9770,2025-05-01,Starter,Monthly,EMEA,Media,174.58,,1,2025-09
+ACCT9771,2025-05-01,Enterprise,Annual,EMEA,Media,3038.84,30.0,0,
+ACCT9772,2024-10-01,Starter,Monthly,North America,Media,92.22,24.0,1,2025-06
+ACCT9773,2024-05-01,Growth,Monthly,North America,Financial Services,212.52,41.0,0,
+ACCT9774,2025-01-01,Growth,Monthly,LATAM,Healthcare,868.58,71.0,0,
+ACCT9775,2024-11-01,Enterprise,Monthly,LATAM,Financial Services,4399.98,,0,
+ACCT9776,2024-02-01,Growth,Annual,North America,Software,358.94,70.0,0,
+ACCT9777,2024-01-01,Enterprise,Monthly,APAC,Manufacturing,3065.51,5.0,0,
+ACCT9778,2025-08-01,Starter,Annual,North America,Software,76.31,76.0,1,2025-10
+ACCT9779,2024-07-01,Growth,Annual,LATAM,Media,502.96,26.0,0,
+ACCT9780,2025-06-01,Growth,Monthly,North America,Retail/E-comm,544.49,54.0,0,
+ACCT9781,2024-05-01,Growth,Monthly,APAC,Software,581.39,,0,
+ACCT9782,2024-04-01,Growth,Monthly,LATAM,Financial Services,425.22,16.0,1,2025-05
+ACCT9783,2025-08-01,Growth,Monthly,North America,Software,273.2,95.0,0,
+ACCT9784,2025-04-01,Starter,Monthly,North America,Healthcare,174.12,42.0,0,
+ACCT9785,2025-03-01,Growth,Annual,EMEA,Software,877.43,23.0,0,
+ACCT9786,2024-06-01,Starter,Annual,North America,Healthcare,152.34,,0,
+ACCT9787,2025-05-01,Growth,Annual,LATAM,Software,545.62,58.0,0,
+ACCT9788,2024-01-01,Growth,Annual,North America,Manufacturing,365.55,100.0,0,
+ACCT9789,2025-04-01,Starter,Annual,North America,Retail/E-comm,162.8,37.0,0,
+ACCT9790,2025-02-01,Growth,Annual,APAC,Software,563.13,-3.0,0,
+ACCT9791,2024-02-01,Growth,Monthly,EMEA,Retail/E-comm,626.96,48.0,0,
+ACCT9792,2024-07-01,Starter,Annual,EMEA,Retail/E-comm,62.3,,0,
+ACCT9793,2024-12-01,Starter,Monthly,EMEA,Financial Services,120.74,61.0,1,2025-09
+ACCT9794,2024-06-01,Starter,Monthly,APAC,Healthcare,154.76,38.0,0,
+ACCT9795,2024-07-01,Growth,Annual,North America,Manufacturing,697.37,-35.0,0,
+ACCT9796,2024-05-01,Starter,Monthly,North America,Healthcare,68.76,31.0,1,2024-09
+ACCT9797,2024-08-01,Starter,Annual,LATAM,Manufacturing,82.98,7.0,0,
+ACCT9798,2024-04-01,Starter,Monthly,EMEA,Media,127.93,,1,2025-01
+ACCT9799,2024-03-01,Growth,Monthly,North America,Media,713.41,7.0,0,
+ACCT9800,2024-06-01,Starter,Monthly,APAC,Media,137.44,,0,
+ACCT9801,2025-03-01,Enterprise,Monthly,EMEA,Manufacturing,4479.86,,0,
+ACCT9802,2024-06-01,Starter,Monthly,North America,Media,126.96,,1,2025-07
+ACCT9803,2024-07-01,Growth,Annual,North America,Retail/E-comm,887.44,,0,
+ACCT9804,2024-03-01,Starter,Annual,EMEA,Manufacturing,82.47,100.0,0,
+ACCT9805,2024-04-01,Growth,Monthly,APAC,Media,688.27,52.0,1,2025-08
+ACCT9806,2025-05-01,Starter,Annual,EMEA,Media,74.71,9.0,0,
+ACCT9807,2024-01-01,Starter,Monthly,EMEA,Financial Services,79.35,34.0,1,2024-12
+ACCT9808,2025-08-01,Growth,Annual,EMEA,Financial Services,845.29,35.0,0,
+ACCT9809,2025-03-01,Growth,Annual,North America,Software,810.64,,0,
+ACCT9810,2025-01-01,Growth,Monthly,APAC,Media,236.73,26.0,0,
+ACCT9811,2025-06-01,Growth,Annual,EMEA,Media,345.02,,0,
+ACCT9812,2024-01-01,Starter,Monthly,North America,Manufacturing,76.4,10.0,1,2024-04
+ACCT9813,2024-03-01,Starter,Annual,EMEA,Media,62.46,62.0,0,
+ACCT9814,2024-12-01,Starter,Annual,APAC,Media,189.07,28.0,0,
+ACCT9815,2024-06-01,Starter,Monthly,LATAM,Financial Services,141.01,5.0,0,
+ACCT9816,2025-03-01,Growth,Monthly,North America,Media,422.42,,0,
+ACCT9817,2024-11-01,Starter,Annual,North America,Retail/E-comm,139.06,,0,
+ACCT9818,2025-03-01,Starter,Monthly,EMEA,Financial Services,194.54,32.0,0,
+ACCT9819,2025-03-01,Starter,Annual,North America,Retail/E-comm,162.85,17.0,0,
+ACCT9820,2025-02-01,Growth,Annual,EMEA,Media,740.41,,0,
+ACCT9821,2024-10-01,Starter,Monthly,EMEA,Media,56.16,,1,2025-12
+ACCT9822,2024-12-01,Growth,Annual,EMEA,Software,643.53,41.0,0,
+ACCT9823,2025-03-01,Growth,Monthly,EMEA,Software,456.12,63.0,1,2025-06
+ACCT9824,2024-02-01,Growth,Monthly,EMEA,Software,275.38,,0,
+ACCT9825,2025-05-01,Starter,Annual,North America,Manufacturing,157.36,89.0,0,
+ACCT9826,2024-10-01,Starter,Monthly,North America,Healthcare,89.62,55.0,1,2025-06
+ACCT9827,2024-09-01,Enterprise,Monthly,APAC,Software,1940.4,-33.0,1,2025-03
+ACCT9828,2024-11-01,Starter,Monthly,EMEA,Software,108.87,46.0,1,2025-07
+ACCT9829,2025-03-01,Growth,Monthly,EMEA,Healthcare,292.43,,0,
+ACCT9830,2025-05-01,Starter,Annual,North America,Manufacturing,188.69,22.0,0,
+ACCT9831,2025-04-01,Growth,Annual,APAC,Manufacturing,218.09,,0,
+ACCT9832,2025-07-01,Starter,Monthly,North America,Media,153.87,50.0,0,
+ACCT9833,2024-03-01,Starter,Monthly,EMEA,Healthcare,154.98,,1,2024-05
+ACCT9834,2024-11-01,Growth,Annual,EMEA,Media,684.87,20.0,0,
+ACCT9835,2024-11-01,Starter,Annual,EMEA,Software,149.35,37.0,1,2025-06
+ACCT9836,2024-01-01,Enterprise,Monthly,APAC,Software,2721.26,-13.0,0,
+ACCT9837,2024-07-01,Growth,Annual,North America,Software,431.46,,0,
+ACCT9838,2024-02-01,Starter,Annual,North America,Software,180.94,53.0,0,
+ACCT9839,2024-05-01,Growth,Annual,North America,Financial Services,558.3,89.0,0,
+ACCT9840,2025-04-01,Growth,Annual,North America,Software,353.23,,0,
+ACCT9841,2025-07-01,Enterprise,Monthly,EMEA,Manufacturing,2558.94,73.0,0,
+ACCT9842,2025-05-01,Starter,Annual,North America,Healthcare,118.1,27.0,1,2025-09
+ACCT9843,2025-07-01,Starter,Monthly,North America,Software,67.09,70.0,1,2025-11
+ACCT9844,2025-04-01,Starter,Annual,EMEA,Healthcare,139.18,-2.0,0,
+ACCT9845,2024-03-01,Growth,Annual,North America,Financial Services,853.98,,0,
+ACCT9846,2024-05-01,Growth,Annual,EMEA,Financial Services,696.88,69.0,0,
+ACCT9847,2025-05-01,Starter,Monthly,EMEA,Media,151.03,-2.0,0,
+ACCT9848,2025-07-01,Starter,Annual,North America,Healthcare,66.33,34.0,0,
+ACCT9849,2025-04-01,Growth,Monthly,APAC,Software,707.89,,1,2025-12
+ACCT9850,2024-11-01,Starter,Monthly,LATAM,Manufacturing,176.58,,1,2025-10
+ACCT9851,2024-08-01,Starter,Monthly,LATAM,Media,147.29,45.0,1,2025-11
+ACCT9852,2025-02-01,Growth,Monthly,North America,Healthcare,558.71,24.0,0,
+ACCT9853,2024-08-01,Starter,Annual,North America,Retail/E-comm,149.31,,0,
+ACCT9854,2024-03-01,Starter,Monthly,EMEA,Media,82.1,,1,2024-08
+ACCT9855,2024-08-01,Starter,Monthly,APAC,Retail/E-comm,69.19,11.0,0,
+ACCT9856,2025-06-01,Growth,Monthly,North America,Retail/E-comm,272.67,,0,
+ACCT9857,2025-06-01,Starter,Monthly,North America,Media,59.86,11.0,0,
+ACCT9858,2024-03-01,Starter,Annual,EMEA,Media,177.32,,0,
+ACCT9859,2024-09-01,Enterprise,Annual,North America,Media,4008.86,9.0,0,
+ACCT9860,2025-03-01,Growth,Monthly,North America,Software,507.76,,0,
+ACCT9861,2024-11-01,Starter,Annual,LATAM,Manufacturing,100.75,,0,
+ACCT9862,2024-01-01,Growth,Monthly,EMEA,Retail/E-comm,416.27,,1,2024-12
+ACCT9863,2025-01-01,Enterprise,Annual,EMEA,Software,1555.13,45.0,0,
+ACCT9864,2024-04-01,Enterprise,Annual,North America,Financial Services,3222.76,62.0,0,
+ACCT9865,2024-03-01,Growth,Monthly,North America,Retail/E-comm,451.04,,0,
+ACCT9866,2025-03-01,Enterprise,Monthly,North America,Media,1158.92,-3.0,0,
+ACCT9867,2024-01-01,Growth,Monthly,North America,Media,415.99,,0,
+ACCT9868,2024-12-01,Growth,Monthly,North America,Manufacturing,717.12,19.0,0,
+ACCT9869,2025-03-01,Starter,Annual,North America,Healthcare,90.2,21.0,0,
+ACCT9870,2025-01-01,Starter,Annual,APAC,Financial Services,163.4,,0,
+ACCT9871,2024-08-01,Growth,Annual,North America,Manufacturing,399.99,31.0,1,2025-07
+ACCT9872,2024-02-01,Growth,Annual,APAC,Retail/E-comm,574.03,50.0,0,
+ACCT9873,2025-04-01,Enterprise,Annual,North America,Manufacturing,2630.43,9.0,0,
+ACCT9874,2025-01-01,Starter,Monthly,North America,Software,97.52,92.0,0,
+ACCT9875,2025-05-01,Enterprise,Monthly,North America,Healthcare,3987.02,3.0,1,2025-08
+ACCT9876,2024-06-01,Starter,Monthly,North America,Financial Services,180.66,24.0,0,
+ACCT9877,2024-02-01,Enterprise,Monthly,EMEA,Retail/E-comm,2946.75,28.0,0,
+ACCT9878,2025-06-01,Enterprise,Monthly,EMEA,Manufacturing,1390.58,,0,
+ACCT9879,2024-06-01,Starter,Annual,North America,Retail/E-comm,113.06,-31.0,1,2024-09
+ACCT9880,2024-03-01,Starter,Monthly,North America,Manufacturing,49.92,,1,2024-04
+ACCT9881,2024-07-01,Enterprise,Monthly,EMEA,Media,2872.49,100.0,0,
+ACCT9882,2024-02-01,Enterprise,Annual,North America,Manufacturing,2144.73,67.0,0,
+ACCT9883,2025-06-01,Growth,Annual,EMEA,Media,847.47,,0,
+ACCT9884,2024-06-01,Starter,Monthly,EMEA,Software,98.96,,1,2025-06
+ACCT9885,2024-06-01,Starter,Annual,North America,Retail/E-comm,53.62,,0,
+ACCT9886,2024-11-01,Starter,Monthly,APAC,Manufacturing,166.0,,0,
+ACCT9887,2024-09-01,Enterprise,Monthly,EMEA,Manufacturing,4151.94,,0,
+ACCT9888,2024-03-01,Growth,Monthly,EMEA,Software,561.77,28.0,0,
+ACCT9889,2025-01-01,Starter,Annual,North America,Manufacturing,152.22,10.0,0,
+ACCT9890,2025-02-01,Growth,Monthly,North America,Retail/E-comm,850.24,,0,
+ACCT9891,2025-08-01,Enterprise,Annual,EMEA,Retail/E-comm,3051.47,23.0,0,
+ACCT9892,2025-02-01,Starter,Monthly,North America,Retail/E-comm,84.32,42.0,0,
+ACCT9893,2024-08-01,Enterprise,Monthly,North America,Healthcare,3114.97,46.0,0,
+ACCT9894,2024-10-01,Starter,Annual,North America,Manufacturing,180.7,35.0,1,2025-03
+ACCT9895,2025-08-01,Starter,Annual,EMEA,Manufacturing,60.13,32.0,0,
+ACCT9896,2025-01-01,Starter,Annual,APAC,Media,132.15,24.0,0,
+ACCT9897,2025-04-01,Starter,Monthly,EMEA,Financial Services,153.88,32.0,1,2025-05
+ACCT9898,2024-04-01,Growth,Monthly,North America,Manufacturing,256.14,,0,
+ACCT9899,2025-05-01,Starter,Annual,North America,Financial Services,135.74,-31.0,0,
+ACCT9900,2025-05-01,Growth,Annual,North America,Media,281.7,27.0,0,
+ACCT9901,2024-10-01,Starter,Monthly,North America,Retail/E-comm,60.2,54.0,1,2025-10
+ACCT9902,2025-02-01,Growth,Monthly,North America,Retail/E-comm,789.4,20.0,0,
+ACCT9903,2025-03-01,Starter,Monthly,North America,Manufacturing,174.0,10.0,1,2025-06
+ACCT9904,2024-06-01,Starter,Annual,North America,Manufacturing,56.2,35.0,1,2025-10
+ACCT9905,2024-02-01,Starter,Annual,EMEA,Media,119.76,,1,2025-06
+ACCT9906,2024-12-01,Growth,Annual,APAC,Manufacturing,214.54,3.0,0,
+ACCT9907,2025-01-01,Growth,Annual,North America,Healthcare,517.24,20.0,0,
+ACCT9908,2024-12-01,Growth,Annual,EMEA,Financial Services,352.26,36.0,0,
+ACCT9909,2024-08-01,Growth,Monthly,North America,Software,437.86,32.0,0,
+ACCT9910,2025-02-01,Growth,Monthly,North America,Financial Services,513.15,,0,
+ACCT9911,2024-05-01,Growth,Annual,APAC,Manufacturing,795.5,23.0,0,
+ACCT9912,2025-04-01,Starter,Monthly,EMEA,Financial Services,106.66,,0,
+ACCT9913,2025-06-01,Starter,Monthly,EMEA,Financial Services,177.55,2.0,0,
+ACCT9914,2024-04-01,Enterprise,Monthly,APAC,Retail/E-comm,2225.97,13.0,1,2025-08
+ACCT9915,2024-01-01,Starter,Monthly,APAC,Media,94.68,,1,2024-03
+ACCT9916,2024-12-01,Growth,Monthly,LATAM,Manufacturing,633.13,-4.0,0,
+ACCT9917,2024-08-01,Starter,Monthly,EMEA,Financial Services,50.58,49.0,1,2024-09
+ACCT9918,2024-06-01,Starter,Annual,LATAM,Media,68.84,,1,2024-11
+ACCT9919,2024-11-01,Starter,Annual,North America,Healthcare,63.17,9.0,0,
+ACCT9920,2025-02-01,Starter,Monthly,North America,Financial Services,143.18,68.0,0,
+ACCT9921,2025-08-01,Growth,Monthly,North America,Healthcare,631.3,29.0,0,
+ACCT9922,2025-05-01,Starter,Annual,North America,Manufacturing,78.74,5.0,0,
+ACCT9923,2025-01-01,Growth,Annual,North America,Media,465.16,,0,
+ACCT9924,2024-06-01,Starter,Monthly,North America,Financial Services,111.71,,1,2024-08
+ACCT9925,2024-03-01,Starter,Monthly,EMEA,Manufacturing,84.0,,1,2024-11
+ACCT9926,2024-12-01,Starter,Annual,North America,Manufacturing,112.87,15.0,0,
+ACCT9927,2024-12-01,Growth,Annual,North America,Healthcare,740.75,70.0,0,
+ACCT9928,2024-12-01,Starter,Annual,EMEA,Financial Services,83.74,45.0,0,
+ACCT9929,2025-04-01,Growth,Annual,North America,Healthcare,604.43,,1,2025-11
+ACCT9930,2024-04-01,Enterprise,Annual,APAC,Financial Services,4334.15,,0,
+ACCT9931,2025-02-01,Growth,Monthly,EMEA,Healthcare,779.81,27.0,1,2025-09
+ACCT9932,2024-01-01,Starter,Annual,LATAM,Financial Services,98.04,21.0,1,2024-08
+ACCT9933,2024-12-01,Growth,Annual,LATAM,Manufacturing,543.47,-4.0,0,
+ACCT9934,2024-03-01,Starter,Monthly,EMEA,Financial Services,67.15,,0,
+ACCT9935,2024-06-01,Growth,Annual,North America,Media,783.42,100.0,0,
+ACCT9936,2024-12-01,Starter,Annual,EMEA,Healthcare,115.97,4.0,0,
+ACCT9937,2024-09-01,Growth,Annual,North America,Financial Services,892.57,35.0,0,
+ACCT9938,2025-06-01,Starter,Annual,EMEA,Manufacturing,187.2,89.0,0,
+ACCT9939,2025-06-01,Enterprise,Monthly,APAC,Financial Services,1854.65,93.0,0,
+ACCT9940,2024-02-01,Starter,Annual,EMEA,Media,170.36,83.0,0,
+ACCT9941,2024-02-01,Starter,Monthly,North America,Manufacturing,142.17,,0,
+ACCT9942,2025-05-01,Growth,Annual,North America,Manufacturing,434.91,,0,
+ACCT9943,2024-11-01,Enterprise,Annual,North America,Media,1781.85,37.0,0,
+ACCT9944,2025-08-01,Growth,Monthly,APAC,Software,200.06,5.0,0,
+ACCT9945,2024-06-01,Starter,Annual,APAC,Manufacturing,50.27,45.0,0,
+ACCT9946,2024-07-01,Starter,Annual,EMEA,Financial Services,148.21,,0,
+ACCT9947,2024-05-01,Growth,Annual,APAC,Manufacturing,508.1,80.0,0,
+ACCT9948,2025-05-01,Starter,Annual,North America,Manufacturing,104.64,18.0,1,2025-08
+ACCT9949,2024-05-01,Starter,Annual,EMEA,Healthcare,81.57,,0,
+ACCT9950,2024-03-01,Enterprise,Monthly,North America,Media,3941.28,46.0,0,
+ACCT9951,2024-05-01,Enterprise,Monthly,APAC,Software,1744.01,,0,
+ACCT9952,2025-05-01,Starter,Annual,North America,Media,131.65,86.0,0,
+ACCT9953,2025-06-01,Growth,Monthly,EMEA,Software,343.66,46.0,0,
+ACCT9954,2024-05-01,Enterprise,Annual,North America,Financial Services,2110.94,21.0,0,
+ACCT9955,2025-08-01,Starter,Annual,North America,Software,163.6,,0,
+ACCT9956,2025-05-01,Enterprise,Annual,APAC,Healthcare,4038.97,100.0,0,
+ACCT9957,2025-05-01,Enterprise,Monthly,LATAM,Manufacturing,1659.6,-22.0,1,2025-07
+ACCT9958,2024-12-01,Growth,Annual,North America,Media,329.58,,0,
+ACCT9959,2025-08-01,Growth,Annual,APAC,Software,665.01,,0,
+ACCT9960,2024-11-01,Growth,Annual,LATAM,Software,785.5,,0,
+ACCT9961,2024-04-01,Growth,Annual,EMEA,Retail/E-comm,286.29,9.0,0,
+ACCT9962,2024-10-01,Growth,Annual,EMEA,Software,688.49,18.0,0,
+ACCT9963,2025-08-01,Starter,Monthly,APAC,Healthcare,56.07,59.0,0,
+ACCT9964,2025-08-01,Growth,Monthly,EMEA,Healthcare,299.26,6.0,0,
+ACCT9965,2024-05-01,Growth,Annual,EMEA,Financial Services,878.93,,0,
+ACCT9966,2025-03-01,Growth,Annual,APAC,Software,246.9,37.0,0,
+ACCT9967,2024-05-01,Growth,Monthly,EMEA,Software,490.16,55.0,0,
+ACCT9968,2024-08-01,Growth,Monthly,APAC,Financial Services,420.19,59.0,0,
+ACCT9969,2024-07-01,Growth,Monthly,LATAM,Media,615.88,60.0,0,
+ACCT9970,2024-11-01,Growth,Annual,North America,Healthcare,576.8,43.0,0,
+ACCT9971,2024-09-01,Starter,Annual,APAC,Media,143.8,57.0,0,
+ACCT9972,2024-04-01,Growth,Monthly,North America,Software,603.2,33.0,1,2025-09
+ACCT9973,2025-06-01,Starter,Monthly,EMEA,Software,82.93,9.0,0,
+ACCT9974,2024-01-01,Starter,Annual,EMEA,Media,112.66,,0,
+ACCT9975,2025-05-01,Starter,Monthly,APAC,Healthcare,70.77,,0,
+ACCT9976,2025-06-01,Starter,Monthly,North America,Retail/E-comm,66.71,,0,
+ACCT9977,2024-03-01,Growth,Monthly,LATAM,Media,257.59,91.0,0,
+ACCT9978,2025-02-01,Starter,Annual,APAC,Retail/E-comm,195.42,25.0,0,
+ACCT9979,2025-04-01,Starter,Monthly,LATAM,Software,161.56,5.0,0,
+ACCT9980,2024-11-01,Growth,Monthly,North America,Healthcare,323.25,5.0,0,
+ACCT9981,2025-01-01,Starter,Annual,EMEA,Financial Services,121.85,,0,
+ACCT9982,2025-01-01,Enterprise,Monthly,North America,Healthcare,903.06,,0,
+ACCT9983,2025-08-01,Starter,Monthly,LATAM,Financial Services,148.83,-7.0,0,
+ACCT9984,2024-04-01,Growth,Monthly,APAC,Software,404.52,,0,
+ACCT9985,2025-02-01,Starter,Monthly,North America,Media,179.43,,1,2025-06
+ACCT9986,2024-10-01,Enterprise,Annual,LATAM,Financial Services,3270.43,-11.0,0,
+ACCT9987,2024-09-01,Growth,Annual,North America,Software,838.91,54.0,0,
+ACCT9988,2024-12-01,Growth,Annual,North America,Manufacturing,822.19,37.0,0,
+ACCT9989,2024-10-01,Starter,Monthly,North America,Software,131.13,57.0,0,
+ACCT9990,2024-09-01,Growth,Annual,EMEA,Manufacturing,280.33,67.0,0,
+ACCT9991,2025-07-01,Starter,Annual,APAC,Financial Services,116.39,31.0,0,
+ACCT9992,2024-10-01,Growth,Monthly,North America,Retail/E-comm,285.71,36.0,0,
+ACCT9993,2024-01-01,Enterprise,Monthly,North America,Financial Services,1207.3,50.0,0,
+ACCT9994,2024-06-01,Starter,Annual,APAC,Retail/E-comm,158.05,4.0,0,
+ACCT9995,2025-08-01,Starter,Annual,North America,Financial Services,195.63,51.0,0,
+ACCT9996,2025-04-01,Growth,Monthly,North America,Healthcare,889.0,-11.0,0,
+ACCT9997,2024-10-01,Enterprise,Monthly,EMEA,Healthcare,3965.54,68.0,0,
+ACCT9998,2025-03-01,Enterprise,Annual,North America,Financial Services,3288.72,,1,2025-09
+ACCT9999,2024-03-01,Starter,Monthly,EMEA,Retail/E-comm,180.11,,0,
+ACCT10000,2025-06-01,Enterprise,Monthly,North America,Retail/E-comm,3842.23,35.0,0,
+ACCT10001,2025-06-01,Starter,Monthly,North America,Manufacturing,171.91,19.0,1,2025-09
+ACCT10002,2024-08-01,Starter,Annual,North America,Manufacturing,156.29,46.0,0,
+ACCT10003,2025-05-01,Growth,Monthly,North America,Financial Services,599.67,,0,
+ACCT10004,2025-01-01,Growth,Annual,North America,Financial Services,479.47,,0,
+ACCT10005,2024-06-01,Growth,Monthly,EMEA,Media,332.13,,0,
+ACCT10006,2025-02-01,Starter,Monthly,EMEA,Manufacturing,143.52,,0,
+ACCT10007,2024-10-01,Growth,Monthly,North America,Software,524.09,,0,
+ACCT10008,2024-12-01,Enterprise,Monthly,EMEA,Retail/E-comm,4426.95,64.0,0,
+ACCT10009,2024-07-01,Starter,Annual,LATAM,Healthcare,183.88,13.0,0,
+ACCT10010,2025-02-01,Starter,Monthly,APAC,Software,195.75,28.0,1,2025-05
+ACCT10011,2024-07-01,Growth,Monthly,North America,Retail/E-comm,308.95,,0,
+ACCT10012,2024-03-01,Enterprise,Annual,APAC,Media,3761.2,,0,
+ACCT10013,2025-02-01,Starter,Monthly,North America,Healthcare,58.87,-1.0,0,
+ACCT10014,2024-08-01,Growth,Monthly,EMEA,Software,270.01,33.0,0,
+ACCT10015,2025-05-01,Starter,Monthly,North America,Healthcare,73.15,75.0,0,
+ACCT10016,2024-11-01,Starter,Monthly,North America,Healthcare,152.34,47.0,1,2025-09
+ACCT10017,2024-04-01,Starter,Annual,EMEA,Retail/E-comm,154.66,12.0,1,2025-10
+ACCT10018,2024-05-01,Growth,Annual,North America,Media,509.79,47.0,0,
+ACCT10019,2024-04-01,Growth,Annual,EMEA,Financial Services,397.04,20.0,0,
+ACCT10020,2025-02-01,Starter,Annual,North America,Healthcare,69.36,75.0,0,
+ACCT10021,2024-04-01,Growth,Annual,North America,Healthcare,260.6,12.0,0,
+ACCT10022,2025-05-01,Growth,Monthly,North America,Retail/E-comm,469.97,5.0,0,
+ACCT10023,2025-05-01,Enterprise,Annual,LATAM,Healthcare,1483.66,39.0,0,
+ACCT10024,2025-03-01,Growth,Monthly,North America,Financial Services,356.57,35.0,1,2025-09
+ACCT10025,2024-03-01,Starter,Monthly,LATAM,Media,80.16,,0,
+ACCT10026,2025-08-01,Enterprise,Annual,North America,Software,3662.86,9.0,0,
+ACCT10027,2024-09-01,Starter,Monthly,North America,Healthcare,55.72,57.0,0,
+ACCT10028,2024-03-01,Starter,Annual,EMEA,Media,65.57,,0,
+ACCT10029,2024-03-01,Enterprise,Annual,EMEA,Media,1587.79,3.0,0,
+ACCT10030,2025-04-01,Starter,Annual,North America,Healthcare,122.74,100.0,0,
+ACCT10031,2024-07-01,Starter,Monthly,North America,Healthcare,80.22,52.0,0,
+ACCT10032,2025-02-01,Starter,Monthly,North America,Manufacturing,174.05,20.0,1,2025-07
+ACCT10033,2024-03-01,Starter,Monthly,North America,Healthcare,105.52,62.0,1,2025-07
+ACCT10034,2025-03-01,Starter,Monthly,North America,Media,158.86,8.0,0,
+ACCT10035,2024-05-01,Enterprise,Annual,EMEA,Software,1988.65,,0,
+ACCT10036,2024-06-01,Starter,Annual,APAC,Retail/E-comm,68.35,78.0,0,
+ACCT10037,2025-05-01,Starter,Annual,North America,Manufacturing,87.71,58.0,0,
+ACCT10038,2025-02-01,Starter,Monthly,EMEA,Software,70.26,,0,
+ACCT10039,2025-02-01,Enterprise,Monthly,LATAM,Media,3538.66,70.0,0,
+ACCT10040,2025-07-01,Starter,Annual,North America,Healthcare,196.99,99.0,0,
+ACCT10041,2025-01-01,Starter,Monthly,EMEA,Retail/E-comm,61.0,,1,2025-12
+ACCT10042,2025-08-01,Growth,Monthly,North America,Healthcare,428.62,-32.0,0,
+ACCT10043,2024-08-01,Enterprise,Monthly,North America,Manufacturing,1904.99,59.0,0,
+ACCT10044,2024-06-01,Growth,Monthly,EMEA,Software,280.23,,0,
+ACCT10045,2024-07-01,Growth,Monthly,North America,Healthcare,370.32,92.0,0,
+ACCT10046,2024-03-01,Starter,Monthly,EMEA,Healthcare,178.12,,1,2024-05
+ACCT10047,2024-01-01,Starter,Annual,EMEA,Software,181.9,55.0,0,
+ACCT10048,2025-06-01,Growth,Annual,North America,Software,527.18,28.0,0,
+ACCT10049,2024-08-01,Starter,Monthly,North America,Retail/E-comm,126.52,73.0,1,2024-11
+ACCT10050,2024-09-01,Starter,Annual,LATAM,Media,195.06,62.0,1,2025-09
+ACCT10051,2025-05-01,Starter,Monthly,EMEA,Financial Services,144.63,,1,2025-12
+ACCT10052,2024-06-01,Starter,Annual,North America,Healthcare,107.65,,0,
+ACCT10053,2024-06-01,Enterprise,Monthly,APAC,Software,3431.76,,1,2025-02
+ACCT10054,2024-08-01,Growth,Monthly,North America,Media,500.44,55.0,0,
+ACCT10055,2024-05-01,Starter,Monthly,North America,Software,131.57,,0,
+ACCT10056,2025-08-01,Starter,Monthly,North America,Software,194.87,20.0,1,2025-10
+ACCT10057,2024-01-01,Growth,Monthly,LATAM,Financial Services,396.76,100.0,0,
+ACCT10058,2025-03-01,Enterprise,Annual,EMEA,Media,3002.65,14.0,0,
+ACCT10059,2025-03-01,Growth,Monthly,EMEA,Media,842.39,,0,
+ACCT10060,2024-10-01,Growth,Monthly,North America,Media,672.11,16.0,1,2025-06
+ACCT10061,2024-03-01,Starter,Annual,North America,Retail/E-comm,194.74,15.0,0,
+ACCT10062,2025-05-01,Growth,Monthly,North America,Retail/E-comm,490.5,14.0,0,
+ACCT10063,2024-04-01,Growth,Monthly,APAC,Media,307.76,,1,2024-05
+ACCT10064,2024-11-01,Starter,Annual,North America,Manufacturing,82.71,26.0,0,
+ACCT10065,2024-02-01,Starter,Monthly,EMEA,Retail/E-comm,148.35,-13.0,1,2024-08
+ACCT10066,2024-09-01,Starter,Annual,North America,Software,120.02,7.0,0,
+ACCT10067,2025-01-01,Growth,Annual,North America,Financial Services,861.46,-5.0,1,2025-12
+ACCT10068,2025-01-01,Growth,Annual,North America,Retail/E-comm,413.23,25.0,0,
+ACCT10069,2024-03-01,Starter,Monthly,North America,Media,127.36,21.0,0,
+ACCT10070,2024-04-01,Growth,Monthly,North America,Manufacturing,498.11,82.0,0,
+ACCT10071,2025-02-01,Enterprise,Annual,APAC,Financial Services,1219.65,9.0,0,
+ACCT10072,2024-08-01,Starter,Annual,EMEA,Retail/E-comm,152.54,2.0,1,2024-11
+ACCT10073,2025-01-01,Starter,Annual,North America,Media,162.81,,0,
+ACCT10074,2024-10-01,Starter,Monthly,North America,Healthcare,154.42,94.0,1,2025-08
+ACCT10075,2025-07-01,Starter,Annual,North America,Healthcare,141.97,26.0,0,
+ACCT10076,2025-07-01,Starter,Annual,APAC,Software,163.36,15.0,0,
+ACCT10077,2024-07-01,Enterprise,Monthly,North America,Healthcare,2754.09,79.0,0,
+ACCT10078,2025-08-01,Starter,Monthly,EMEA,Retail/E-comm,131.36,,0,
+ACCT10079,2024-11-01,Starter,Monthly,North America,Manufacturing,70.67,,1,2024-12
+ACCT10080,2024-09-01,Enterprise,Annual,LATAM,Healthcare,948.7,24.0,0,
+ACCT10081,2025-07-01,Starter,Monthly,North America,Manufacturing,149.77,,1,2025-11
+ACCT10082,2025-08-01,Starter,Monthly,North America,Retail/E-comm,95.06,51.0,0,
+ACCT10083,2025-01-01,Starter,Monthly,EMEA,Software,61.04,,0,
+ACCT10084,2025-06-01,Starter,Monthly,North America,Healthcare,101.09,26.0,0,
+ACCT10085,2025-03-01,Starter,Monthly,APAC,Healthcare,146.62,38.0,1,2025-11
+ACCT10086,2024-07-01,Growth,Monthly,APAC,Software,826.04,,0,
+ACCT10087,2024-03-01,Growth,Annual,EMEA,Media,726.86,,0,
+ACCT10088,2025-05-01,Growth,Monthly,LATAM,Retail/E-comm,765.76,,0,
+ACCT10089,2025-07-01,Growth,Monthly,North America,Retail/E-comm,405.36,42.0,0,
+ACCT10090,2024-08-01,Growth,Monthly,North America,Financial Services,347.33,88.0,1,2025-06
+ACCT10091,2024-09-01,Starter,Annual,North America,Software,50.79,49.0,0,
+ACCT10092,2025-06-01,Growth,Annual,North America,Retail/E-comm,870.57,10.0,0,
+ACCT10093,2025-02-01,Growth,Annual,North America,Media,885.38,44.0,0,
+ACCT10094,2024-04-01,Starter,Annual,North America,Software,102.41,16.0,0,
+ACCT10095,2025-04-01,Starter,Monthly,North America,Healthcare,101.06,90.0,0,
+ACCT10096,2024-02-01,Starter,Monthly,North America,Media,150.62,48.0,1,2025-11
+ACCT10097,2024-07-01,Enterprise,Monthly,EMEA,Manufacturing,3989.47,18.0,1,2025-01
+ACCT10098,2024-06-01,Starter,Monthly,North America,Healthcare,51.75,,0,
+ACCT10099,2025-08-01,Starter,Monthly,APAC,Healthcare,132.18,,0,
+ACCT10100,2025-02-01,Growth,Monthly,North America,Financial Services,798.8,11.0,1,2025-05
+ACCT10101,2024-10-01,Growth,Monthly,North America,Software,513.31,-0.0,0,
+ACCT10102,2024-02-01,Enterprise,Monthly,EMEA,Software,4051.88,33.0,1,2025-02
+ACCT10103,2025-04-01,Growth,Monthly,APAC,Media,577.84,11.0,0,
+ACCT10104,2024-08-01,Starter,Monthly,APAC,Financial Services,111.57,,0,
+ACCT10105,2024-10-01,Growth,Annual,APAC,Retail/E-comm,626.68,45.0,0,
+ACCT10106,2024-06-01,Growth,Annual,North America,Financial Services,798.84,90.0,0,
+ACCT10107,2024-11-01,Growth,Monthly,North America,Media,560.52,,0,
+ACCT10108,2024-06-01,Enterprise,Annual,North America,Financial Services,2360.15,,0,
+ACCT10109,2024-12-01,Starter,Monthly,LATAM,Financial Services,78.11,15.0,1,2025-12
+ACCT10110,2025-06-01,Growth,Annual,EMEA,Financial Services,684.44,53.0,0,
+ACCT10111,2024-08-01,Starter,Annual,LATAM,Financial Services,109.75,,1,2025-04
+ACCT10112,2024-03-01,Starter,Monthly,APAC,Financial Services,96.16,21.0,0,
+ACCT10113,2024-09-01,Enterprise,Monthly,EMEA,Retail/E-comm,1717.06,19.0,0,
+ACCT10114,2024-08-01,Starter,Monthly,APAC,Financial Services,82.51,0.0,1,2024-09
+ACCT10115,2024-02-01,Growth,Monthly,North America,Media,443.59,,1,2024-09
+ACCT10116,2024-04-01,Enterprise,Annual,APAC,Media,3554.93,62.0,0,
+ACCT10117,2025-04-01,Growth,Annual,APAC,Media,758.87,38.0,0,
+ACCT10118,2024-04-01,Growth,Monthly,North America,Financial Services,313.63,,0,
+ACCT10119,2025-06-01,Growth,Annual,North America,Software,749.36,,0,
+ACCT10120,2024-09-01,Enterprise,Monthly,EMEA,Retail/E-comm,3331.64,28.0,1,2025-05
+ACCT10121,2025-07-01,Enterprise,Annual,EMEA,Media,2009.36,58.0,0,
+ACCT10122,2024-05-01,Starter,Annual,North America,Retail/E-comm,94.91,25.0,1,2025-08
+ACCT10123,2024-01-01,Starter,Monthly,LATAM,Retail/E-comm,191.77,51.0,0,
+ACCT10124,2025-03-01,Starter,Annual,North America,Manufacturing,130.12,-35.0,0,
+ACCT10125,2025-02-01,Starter,Annual,North America,Media,179.96,94.0,0,
+ACCT10126,2024-02-01,Growth,Monthly,EMEA,Software,537.36,58.0,1,2025-03
+ACCT10127,2024-01-01,Enterprise,Annual,North America,Healthcare,1073.79,17.0,0,
+ACCT10128,2025-05-01,Starter,Monthly,LATAM,Media,110.62,-1.0,0,
+ACCT10129,2025-02-01,Starter,Monthly,LATAM,Healthcare,114.37,,1,2025-10
+ACCT10130,2024-01-01,Starter,Annual,APAC,Media,118.44,21.0,0,
+ACCT10131,2025-07-01,Growth,Monthly,North America,Manufacturing,804.85,,0,
+ACCT10132,2025-03-01,Growth,Annual,APAC,Media,530.44,25.0,0,
+ACCT10133,2024-11-01,Growth,Monthly,North America,Media,329.5,25.0,1,2025-04
+ACCT10134,2024-03-01,Growth,Monthly,EMEA,Financial Services,814.38,,0,
+ACCT10135,2024-03-01,Enterprise,Annual,North America,Financial Services,1473.26,-21.0,0,
+ACCT10136,2025-03-01,Enterprise,Annual,EMEA,Media,1361.09,-21.0,0,
+ACCT10137,2024-12-01,Starter,Monthly,EMEA,Media,95.91,,0,
+ACCT10138,2025-05-01,Growth,Annual,North America,Media,260.49,,0,
+ACCT10139,2025-06-01,Growth,Annual,North America,Media,501.45,,0,
+ACCT10140,2025-04-01,Enterprise,Monthly,APAC,Software,1996.9,,1,2025-08
+ACCT10141,2024-12-01,Starter,Monthly,LATAM,Financial Services,183.6,23.0,0,
+ACCT10142,2024-12-01,Starter,Monthly,North America,Financial Services,145.75,,0,
+ACCT10143,2025-01-01,Growth,Annual,LATAM,Manufacturing,518.59,100.0,1,2025-10
+ACCT10144,2024-01-01,Starter,Annual,EMEA,Financial Services,178.55,-21.0,0,
+ACCT10145,2024-10-01,Starter,Monthly,North America,Healthcare,123.02,1.0,1,2025-01
+ACCT10146,2024-12-01,Growth,Annual,EMEA,Software,816.15,47.0,0,
+ACCT10147,2024-05-01,Growth,Monthly,North America,Healthcare,621.42,67.0,1,2024-09
+ACCT10148,2025-01-01,Growth,Monthly,EMEA,Software,556.96,-29.0,0,
+ACCT10149,2024-10-01,Growth,Annual,EMEA,Healthcare,714.64,6.0,0,
+ACCT10150,2024-04-01,Starter,Annual,EMEA,Software,124.78,-35.0,0,
+ACCT10151,2025-02-01,Starter,Annual,North America,Software,66.81,61.0,1,2025-08
+ACCT10152,2024-02-01,Starter,Monthly,EMEA,Media,96.44,53.0,1,2025-02
+ACCT10153,2024-01-01,Enterprise,Annual,EMEA,Media,1536.24,28.0,0,
+ACCT10154,2024-06-01,Growth,Monthly,North America,Software,408.92,1.0,0,
+ACCT10155,2024-03-01,Growth,Annual,APAC,Healthcare,870.37,,0,
+ACCT10156,2024-06-01,Growth,Monthly,EMEA,Manufacturing,393.17,28.0,1,2024-12
+ACCT10157,2025-05-01,Growth,Annual,North America,Software,331.81,42.0,0,
+ACCT10158,2024-04-01,Enterprise,Annual,North America,Retail/E-comm,2804.18,2.0,0,
+ACCT10159,2024-06-01,Growth,Monthly,APAC,Healthcare,438.28,69.0,0,
+ACCT10160,2025-04-01,Enterprise,Monthly,EMEA,Financial Services,4392.27,3.0,0,
+ACCT10161,2024-08-01,Enterprise,Monthly,North America,Retail/E-comm,3723.28,19.0,0,
+ACCT10162,2024-02-01,Growth,Monthly,APAC,Retail/E-comm,831.72,,1,2025-06
+ACCT10163,2024-03-01,Growth,Annual,North America,Financial Services,383.08,62.0,1,2025-02
+ACCT10164,2025-03-01,Starter,Monthly,North America,Media,83.17,32.0,1,2025-06
+ACCT10165,2024-03-01,Starter,Annual,North America,Manufacturing,106.17,86.0,0,
+ACCT10166,2024-10-01,Enterprise,Monthly,APAC,Healthcare,3375.84,72.0,0,
+ACCT10167,2024-12-01,Starter,Annual,North America,Software,75.67,,0,
+ACCT10168,2024-12-01,Starter,Monthly,EMEA,Media,158.04,66.0,1,2025-03
+ACCT10169,2024-11-01,Starter,Annual,North America,Manufacturing,125.44,2.0,0,
+ACCT10170,2024-02-01,Growth,Annual,North America,Software,567.27,-5.0,1,2025-08
+ACCT10171,2024-09-01,Starter,Monthly,North America,Financial Services,164.21,,0,
+ACCT10172,2025-06-01,Growth,Annual,North America,Media,390.02,53.0,0,
+ACCT10173,2025-01-01,Starter,Annual,North America,Software,162.78,87.0,0,
+ACCT10174,2025-08-01,Growth,Annual,North America,Media,267.55,,0,
+ACCT10175,2024-03-01,Enterprise,Monthly,EMEA,Software,4254.67,20.0,1,2024-11
+ACCT10176,2024-01-01,Growth,Annual,North America,Financial Services,817.82,12.0,0,
+ACCT10177,2024-12-01,Starter,Annual,North America,Media,170.83,86.0,0,
+ACCT10178,2024-03-01,Growth,Monthly,EMEA,Manufacturing,384.47,56.0,1,2025-08
+ACCT10179,2024-03-01,Enterprise,Annual,EMEA,Financial Services,2805.65,,0,
+ACCT10180,2025-03-01,Growth,Monthly,APAC,Financial Services,863.43,,0,
+ACCT10181,2024-05-01,Starter,Annual,APAC,Retail/E-comm,149.2,10.0,0,
+ACCT10182,2024-07-01,Starter,Monthly,APAC,Healthcare,195.65,-5.0,0,
+ACCT10183,2024-08-01,Enterprise,Monthly,North America,Manufacturing,1324.92,67.0,1,2025-06
+ACCT10184,2024-11-01,Growth,Monthly,LATAM,Manufacturing,288.16,30.0,1,2025-01
+ACCT10185,2024-06-01,Starter,Monthly,LATAM,Software,51.42,,1,2025-07
+ACCT10186,2024-01-01,Growth,Annual,EMEA,Retail/E-comm,638.95,,0,
+ACCT10187,2024-07-01,Growth,Annual,APAC,Media,780.48,,0,
+ACCT10188,2025-07-01,Starter,Monthly,North America,Financial Services,86.65,,0,
+ACCT10189,2024-10-01,Enterprise,Monthly,LATAM,Healthcare,3897.46,,0,
+ACCT10190,2025-05-01,Starter,Monthly,North America,Media,110.57,,0,
+ACCT10191,2025-02-01,Starter,Monthly,APAC,Software,132.12,,1,2025-10
+ACCT10192,2025-03-01,Starter,Annual,North America,Healthcare,78.3,17.0,0,
+ACCT10193,2024-03-01,Starter,Annual,APAC,Healthcare,52.97,78.0,1,2025-03
+ACCT10194,2024-09-01,Enterprise,Annual,EMEA,Media,2821.06,100.0,0,
+ACCT10195,2025-01-01,Growth,Monthly,North America,Media,415.58,,0,
+ACCT10196,2024-07-01,Starter,Monthly,North America,Manufacturing,197.06,-22.0,1,2024-09
+ACCT10197,2024-07-01,Starter,Monthly,North America,Healthcare,169.93,,1,2024-08
+ACCT10198,2024-11-01,Starter,Annual,North America,Media,196.19,49.0,0,
+ACCT10199,2024-05-01,Growth,Monthly,North America,Software,372.15,,0,
+ACCT10200,2024-04-01,Enterprise,Monthly,LATAM,Media,3702.84,-4.0,0,
+ACCT10201,2024-03-01,Starter,Annual,North America,Financial Services,195.8,,0,
+ACCT10202,2024-03-01,Growth,Annual,APAC,Financial Services,347.23,,0,
+ACCT10203,2024-10-01,Starter,Monthly,North America,Software,100.99,43.0,0,
+ACCT10204,2024-05-01,Starter,Annual,APAC,Manufacturing,139.43,-6.0,0,
+ACCT10205,2024-01-01,Growth,Annual,EMEA,Software,779.95,,0,
+ACCT10206,2025-06-01,Enterprise,Annual,APAC,Manufacturing,1086.42,,0,
+ACCT10207,2024-04-01,Starter,Monthly,EMEA,Manufacturing,111.97,35.0,1,2024-10
+ACCT10208,2025-02-01,Growth,Annual,EMEA,Manufacturing,317.16,99.0,0,
+ACCT10209,2024-07-01,Starter,Monthly,APAC,Manufacturing,111.23,,1,2025-02
+ACCT10210,2025-04-01,Starter,Monthly,EMEA,Media,61.76,62.0,0,
+ACCT10211,2025-08-01,Growth,Annual,APAC,Software,835.56,,0,
+ACCT10212,2024-09-01,Starter,Monthly,EMEA,Financial Services,78.5,,0,
+ACCT10213,2024-09-01,Growth,Annual,North America,Financial Services,871.62,12.0,0,
+ACCT10214,2024-05-01,Growth,Annual,North America,Manufacturing,722.76,11.0,0,
+ACCT10215,2024-10-01,Starter,Annual,North America,Manufacturing,192.67,69.0,0,
+ACCT10216,2025-01-01,Growth,Annual,APAC,Media,343.76,28.0,0,
+ACCT10217,2025-06-01,Starter,Annual,North America,Retail/E-comm,82.6,59.0,0,
+ACCT10218,2024-06-01,Growth,Monthly,North America,Financial Services,543.78,53.0,0,
+ACCT10219,2024-12-01,Starter,Monthly,LATAM,Healthcare,86.7,16.0,0,
+ACCT10220,2024-12-01,Growth,Monthly,EMEA,Healthcare,696.45,41.0,1,2025-04
+ACCT10221,2025-01-01,Growth,Monthly,North America,Software,244.59,,0,
+ACCT10222,2025-03-01,Growth,Annual,EMEA,Manufacturing,299.94,33.0,0,
+ACCT10223,2024-08-01,Starter,Annual,North America,Software,188.21,-2.0,0,
+ACCT10224,2025-08-01,Enterprise,Annual,North America,Healthcare,1785.02,74.0,0,
+ACCT10225,2024-03-01,Starter,Monthly,APAC,Manufacturing,179.75,18.0,0,
+ACCT10226,2025-04-01,Growth,Annual,North America,Media,773.77,,0,
+ACCT10227,2024-05-01,Growth,Monthly,LATAM,Retail/E-comm,732.53,,0,
+ACCT10228,2024-09-01,Starter,Monthly,North America,Financial Services,190.0,64.0,0,
+ACCT10229,2024-02-01,Growth,Annual,EMEA,Healthcare,591.21,,1,2024-12
+ACCT10230,2024-04-01,Starter,Annual,EMEA,Manufacturing,52.29,90.0,0,
+ACCT10231,2024-11-01,Growth,Annual,North America,Healthcare,411.69,-11.0,0,
+ACCT10232,2024-03-01,Starter,Annual,APAC,Software,107.84,21.0,0,
+ACCT10233,2024-02-01,Growth,Monthly,North America,Media,410.13,,1,2024-06
+ACCT10234,2024-07-01,Growth,Annual,LATAM,Media,543.18,,0,
+ACCT10235,2024-09-01,Enterprise,Annual,EMEA,Software,3999.52,-10.0,0,
+ACCT10236,2024-10-01,Starter,Annual,APAC,Manufacturing,122.18,4.0,0,
+ACCT10237,2024-06-01,Starter,Monthly,North America,Financial Services,182.43,18.0,0,
+ACCT10238,2025-08-01,Enterprise,Monthly,North America,Retail/E-comm,984.59,19.0,0,
+ACCT10239,2024-01-01,Growth,Annual,North America,Software,217.04,29.0,0,
+ACCT10240,2025-05-01,Starter,Annual,APAC,Software,116.65,25.0,0,
+ACCT10241,2025-02-01,Growth,Monthly,North America,Manufacturing,559.03,,1,2025-07
+ACCT10242,2025-08-01,Starter,Annual,APAC,Manufacturing,84.3,-18.0,0,
+ACCT10243,2024-01-01,Enterprise,Monthly,EMEA,Financial Services,2037.46,75.0,0,
+ACCT10244,2024-10-01,Growth,Monthly,North America,Financial Services,839.15,,0,
+ACCT10245,2024-11-01,Growth,Monthly,EMEA,Manufacturing,828.88,,1,2025-08
+ACCT10246,2025-08-01,Starter,Monthly,North America,Financial Services,71.84,67.0,1,2025-09
+ACCT10247,2024-09-01,Growth,Monthly,EMEA,Media,873.46,63.0,0,
+ACCT10248,2024-08-01,Enterprise,Annual,North America,Manufacturing,2961.32,62.0,0,
+ACCT10249,2025-06-01,Growth,Monthly,EMEA,Healthcare,597.59,15.0,0,
+ACCT10250,2024-08-01,Enterprise,Monthly,North America,Retail/E-comm,1222.29,39.0,0,
+ACCT10251,2024-08-01,Starter,Monthly,EMEA,Software,66.13,20.0,0,
+ACCT10252,2025-06-01,Growth,Annual,North America,Media,263.96,-14.0,0,
+ACCT10253,2024-03-01,Enterprise,Monthly,EMEA,Retail/E-comm,1976.41,,0,
+ACCT10254,2024-03-01,Growth,Annual,North America,Financial Services,496.48,42.0,0,
+ACCT10255,2024-09-01,Starter,Monthly,North America,Manufacturing,116.54,35.0,1,2024-11
+ACCT10256,2025-02-01,Growth,Monthly,LATAM,Healthcare,894.93,,0,
+ACCT10257,2024-10-01,Starter,Monthly,EMEA,Financial Services,175.39,37.0,1,2024-11
+ACCT10258,2024-07-01,Starter,Monthly,North America,Healthcare,61.29,40.0,0,
+ACCT10259,2024-02-01,Enterprise,Monthly,North America,Healthcare,2451.57,,1,2025-04
+ACCT10260,2025-07-01,Enterprise,Monthly,APAC,Media,3648.8,2.0,0,
+ACCT10261,2024-05-01,Growth,Annual,EMEA,Financial Services,667.28,12.0,0,
+ACCT10262,2024-08-01,Growth,Monthly,EMEA,Healthcare,351.04,100.0,1,2025-05
+ACCT10263,2024-04-01,Growth,Annual,EMEA,Manufacturing,538.83,47.0,0,
+ACCT10264,2024-12-01,Growth,Monthly,EMEA,Healthcare,398.85,73.0,1,2025-09
+ACCT10265,2024-05-01,Starter,Annual,LATAM,Manufacturing,127.79,,0,
+ACCT10266,2024-07-01,Starter,Annual,North America,Media,186.51,37.0,1,2024-12
+ACCT10267,2025-05-01,Growth,Monthly,LATAM,Healthcare,408.42,77.0,0,
+ACCT10268,2025-08-01,Growth,Monthly,North America,Manufacturing,260.02,,0,
+ACCT10269,2024-07-01,Starter,Monthly,EMEA,Media,91.46,,0,
+ACCT10270,2025-01-01,Starter,Monthly,North America,Media,115.08,,0,
+ACCT10271,2025-02-01,Starter,Annual,North America,Retail/E-comm,185.6,,0,
+ACCT10272,2024-07-01,Starter,Annual,North America,Healthcare,155.43,-3.0,1,2025-04
+ACCT10273,2024-01-01,Enterprise,Monthly,APAC,Manufacturing,1208.74,-5.0,0,
+ACCT10274,2025-04-01,Starter,Annual,EMEA,Healthcare,194.49,-5.0,0,
+ACCT10275,2025-08-01,Starter,Annual,APAC,Retail/E-comm,150.48,-9.0,0,
+ACCT10276,2025-01-01,Growth,Annual,North America,Retail/E-comm,582.08,-29.0,0,
+ACCT10277,2025-06-01,Starter,Annual,North America,Healthcare,130.82,,0,
+ACCT10278,2024-09-01,Growth,Annual,North America,Financial Services,324.1,,0,
+ACCT10279,2024-09-01,Growth,Annual,North America,Media,622.69,86.0,0,
+ACCT10280,2025-06-01,Starter,Monthly,North America,Media,63.17,9.0,0,
+ACCT10281,2024-02-01,Enterprise,Annual,North America,Manufacturing,4345.18,38.0,0,
+ACCT10282,2024-10-01,Growth,Annual,EMEA,Financial Services,265.76,29.0,0,
+ACCT10283,2024-10-01,Starter,Monthly,APAC,Software,119.0,31.0,0,
+ACCT10284,2025-02-01,Enterprise,Annual,LATAM,Media,1694.13,-2.0,0,
+ACCT10285,2025-02-01,Starter,Monthly,EMEA,Media,165.03,51.0,0,
+ACCT10286,2024-03-01,Growth,Monthly,APAC,Software,762.2,18.0,0,
+ACCT10287,2024-06-01,Growth,Annual,EMEA,Retail/E-comm,590.85,69.0,0,
+ACCT10288,2024-08-01,Starter,Monthly,EMEA,Manufacturing,85.81,43.0,1,2025-01
+ACCT10289,2024-01-01,Starter,Monthly,APAC,Software,184.58,-6.0,1,2024-10
+ACCT10290,2024-11-01,Growth,Monthly,EMEA,Manufacturing,790.72,61.0,0,
+ACCT10291,2024-07-01,Starter,Monthly,North America,Media,52.52,,0,
+ACCT10292,2024-11-01,Starter,Monthly,APAC,Media,60.99,,1,2025-12
+ACCT10293,2025-01-01,Starter,Annual,APAC,Financial Services,141.34,98.0,0,
+ACCT10294,2024-10-01,Starter,Monthly,LATAM,Financial Services,173.49,54.0,1,2024-11
+ACCT10295,2024-02-01,Growth,Monthly,APAC,Software,658.04,68.0,1,2025-10
+ACCT10296,2024-09-01,Starter,Annual,EMEA,Manufacturing,87.57,,0,
+ACCT10297,2024-11-01,Starter,Annual,North America,Media,116.33,,0,
+ACCT10298,2025-06-01,Enterprise,Monthly,North America,Media,3605.54,7.0,0,
+ACCT10299,2025-04-01,Starter,Annual,North America,Healthcare,61.17,19.0,0,
+ACCT10300,2025-01-01,Growth,Monthly,EMEA,Financial Services,374.07,,0,
+ACCT10301,2025-01-01,Growth,Monthly,North America,Software,465.52,,1,2025-09
+ACCT10302,2025-07-01,Enterprise,Monthly,EMEA,Retail/E-comm,4132.7,,0,
+ACCT10303,2025-04-01,Starter,Monthly,North America,Software,84.86,5.0,1,2025-09
+ACCT10304,2024-08-01,Enterprise,Annual,North America,Software,2922.51,62.0,0,
+ACCT10305,2025-04-01,Starter,Monthly,APAC,Media,79.09,,1,2025-10
+ACCT10306,2025-01-01,Starter,Monthly,North America,Healthcare,81.31,38.0,1,2025-07
+ACCT10307,2025-06-01,Growth,Annual,APAC,Media,316.39,,0,
+ACCT10308,2025-05-01,Starter,Monthly,EMEA,Manufacturing,135.77,20.0,0,
+ACCT10309,2024-09-01,Growth,Annual,North America,Media,838.06,30.0,0,
+ACCT10310,2024-09-01,Growth,Monthly,North America,Manufacturing,865.01,18.0,1,2025-05
+ACCT10311,2025-02-01,Starter,Monthly,EMEA,Manufacturing,99.38,,1,2025-09
+ACCT10312,2024-06-01,Growth,Annual,North America,Retail/E-comm,850.38,25.0,0,
+ACCT10313,2025-08-01,Starter,Monthly,EMEA,Software,98.09,,0,
+ACCT10314,2024-08-01,Enterprise,Monthly,EMEA,Software,3348.7,34.0,0,
+ACCT10315,2025-02-01,Starter,Annual,North America,Media,86.77,36.0,0,
+ACCT10316,2024-09-01,Starter,Annual,North America,Manufacturing,83.55,,0,
+ACCT10317,2025-08-01,Growth,Monthly,EMEA,Retail/E-comm,273.23,,0,
+ACCT10318,2024-11-01,Starter,Annual,North America,Software,102.28,-3.0,0,
+ACCT10319,2025-07-01,Starter,Annual,EMEA,Financial Services,92.54,14.0,0,
+ACCT10320,2025-08-01,Enterprise,Annual,APAC,Retail/E-comm,4387.32,32.0,0,
+ACCT10321,2024-08-01,Starter,Annual,APAC,Retail/E-comm,190.14,27.0,0,
+ACCT10322,2025-04-01,Starter,Monthly,APAC,Software,102.3,,0,
+ACCT10323,2024-03-01,Starter,Annual,North America,Retail/E-comm,111.32,82.0,0,
+ACCT10324,2024-12-01,Growth,Monthly,LATAM,Manufacturing,770.9,,0,
+ACCT10325,2024-06-01,Growth,Monthly,North America,Software,347.83,49.0,0,
+ACCT10326,2024-02-01,Growth,Annual,North America,Healthcare,386.99,55.0,0,
+ACCT10327,2024-03-01,Growth,Monthly,EMEA,Media,318.17,27.0,0,
+ACCT10328,2025-06-01,Starter,Monthly,North America,Financial Services,194.64,38.0,0,
+ACCT10329,2024-03-01,Starter,Monthly,EMEA,Software,74.14,,1,2024-05
+ACCT10330,2025-03-01,Starter,Annual,North America,Software,67.38,57.0,0,
+ACCT10331,2024-09-01,Starter,Annual,EMEA,Media,58.48,,0,
+ACCT10332,2024-12-01,Enterprise,Annual,North America,Financial Services,4185.7,,0,
+ACCT10333,2025-07-01,Starter,Annual,North America,Software,191.21,29.0,0,
+ACCT10334,2025-08-01,Starter,Monthly,EMEA,Financial Services,196.29,43.0,0,
+ACCT10335,2025-07-01,Growth,Monthly,LATAM,Retail/E-comm,560.9,,0,
+ACCT10336,2024-03-01,Growth,Annual,North America,Financial Services,835.88,81.0,0,
+ACCT10337,2025-01-01,Starter,Annual,North America,Software,71.77,,1,2025-05
+ACCT10338,2024-01-01,Enterprise,Monthly,North America,Healthcare,2660.33,83.0,1,2025-09
+ACCT10339,2025-08-01,Enterprise,Monthly,LATAM,Media,1148.35,23.0,0,
+ACCT10340,2024-11-01,Starter,Monthly,EMEA,Software,78.2,66.0,1,2025-06
+ACCT10341,2024-06-01,Enterprise,Annual,North America,Software,1093.65,48.0,0,
+ACCT10342,2024-02-01,Growth,Monthly,North America,Healthcare,376.45,38.0,1,2024-09
+ACCT10343,2024-04-01,Growth,Monthly,APAC,Manufacturing,315.33,15.0,0,
+ACCT10344,2025-08-01,Growth,Monthly,North America,Software,875.48,,0,
+ACCT10345,2025-07-01,Growth,Annual,EMEA,Manufacturing,749.11,,0,
+ACCT10346,2024-12-01,Starter,Monthly,North America,Healthcare,75.87,-8.0,1,2025-03
+ACCT10347,2025-06-01,Starter,Monthly,North America,Manufacturing,113.23,,1,2025-11
+ACCT10348,2025-08-01,Growth,Annual,North America,Software,394.95,,0,
+ACCT10349,2024-06-01,Starter,Monthly,EMEA,Retail/E-comm,65.84,54.0,1,2025-06
+ACCT10350,2024-03-01,Starter,Monthly,APAC,Healthcare,89.43,14.0,0,
+ACCT10351,2025-03-01,Growth,Monthly,EMEA,Manufacturing,483.07,,0,
+ACCT10352,2024-05-01,Growth,Monthly,LATAM,Software,763.01,33.0,1,2025-12
+ACCT10353,2024-03-01,Enterprise,Monthly,EMEA,Retail/E-comm,3541.55,-52.0,1,2024-09
+ACCT10354,2024-09-01,Starter,Annual,North America,Financial Services,113.35,,0,
+ACCT10355,2025-07-01,Growth,Monthly,North America,Media,222.33,54.0,0,
+ACCT10356,2025-05-01,Starter,Monthly,North America,Media,196.51,32.0,0,
+ACCT10357,2024-06-01,Starter,Monthly,LATAM,Software,155.71,92.0,0,
+ACCT10358,2024-07-01,Starter,Monthly,EMEA,Retail/E-comm,170.63,81.0,1,2025-03
+ACCT10359,2024-04-01,Starter,Annual,North America,Software,160.81,76.0,1,2025-08
+ACCT10360,2025-01-01,Starter,Annual,North America,Healthcare,127.19,3.0,0,
+ACCT10361,2025-08-01,Starter,Monthly,EMEA,Software,158.16,98.0,1,2025-09
+ACCT10362,2025-01-01,Enterprise,Monthly,EMEA,Manufacturing,3701.2,50.0,1,2025-08
+ACCT10363,2024-01-01,Starter,Annual,EMEA,Retail/E-comm,154.96,86.0,0,
+ACCT10364,2025-03-01,Starter,Annual,EMEA,Healthcare,175.09,11.0,0,
+ACCT10365,2024-05-01,Enterprise,Annual,North America,Media,3744.24,,0,
+ACCT10366,2025-05-01,Growth,Annual,North America,Software,205.02,,0,
+ACCT10367,2025-08-01,Growth,Monthly,North America,Retail/E-comm,627.19,20.0,0,
+ACCT10368,2024-10-01,Enterprise,Annual,North America,Financial Services,1114.12,,0,
+ACCT10369,2024-10-01,Growth,Monthly,EMEA,Software,426.84,8.0,0,
+ACCT10370,2024-11-01,Starter,Annual,APAC,Healthcare,179.91,64.0,0,
+ACCT10371,2024-08-01,Enterprise,Annual,EMEA,Healthcare,3315.36,,0,
+ACCT10372,2024-11-01,Starter,Monthly,APAC,Healthcare,79.72,,0,
+ACCT10373,2025-01-01,Enterprise,Monthly,APAC,Healthcare,3225.5,-23.0,1,2025-02
+ACCT10374,2025-04-01,Starter,Annual,North America,Healthcare,123.89,39.0,0,
+ACCT10375,2024-01-01,Starter,Annual,EMEA,Retail/E-comm,137.02,,0,
+ACCT10376,2024-03-01,Growth,Monthly,APAC,Manufacturing,422.99,64.0,0,
+ACCT10377,2024-01-01,Starter,Monthly,LATAM,Manufacturing,74.05,,1,2025-03
+ACCT10378,2024-01-01,Enterprise,Monthly,APAC,Healthcare,1328.89,,0,
+ACCT10379,2024-08-01,Growth,Annual,North America,Financial Services,257.0,,0,
+ACCT10380,2024-11-01,Growth,Monthly,North America,Software,892.13,,1,2025-08
+ACCT10381,2025-07-01,Starter,Monthly,North America,Software,104.95,-4.0,0,
+ACCT10382,2025-06-01,Starter,Monthly,EMEA,Manufacturing,106.2,62.0,0,
+ACCT10383,2025-06-01,Starter,Annual,North America,Financial Services,145.89,,0,
+ACCT10384,2024-01-01,Growth,Monthly,EMEA,Financial Services,332.64,-0.0,1,2024-05
+ACCT10385,2025-05-01,Starter,Monthly,North America,Financial Services,139.97,40.0,0,
+ACCT10386,2025-05-01,Starter,Annual,North America,Financial Services,92.48,,0,
+ACCT10387,2025-06-01,Starter,Monthly,North America,Retail/E-comm,102.86,37.0,1,2025-07
+ACCT10388,2024-09-01,Enterprise,Annual,LATAM,Media,3703.2,58.0,0,
+ACCT10389,2024-10-01,Enterprise,Annual,North America,Software,3128.73,,0,
+ACCT10390,2025-07-01,Starter,Monthly,EMEA,Software,74.93,-24.0,0,
+ACCT10391,2025-04-01,Enterprise,Monthly,LATAM,Financial Services,1042.0,,0,
+ACCT10392,2024-11-01,Starter,Annual,EMEA,Financial Services,194.65,24.0,0,
+ACCT10393,2025-01-01,Growth,Annual,EMEA,Media,401.83,,0,
+ACCT10394,2025-01-01,Starter,Monthly,APAC,Financial Services,174.47,61.0,0,
+ACCT10395,2024-04-01,Starter,Monthly,North America,Retail/E-comm,55.08,93.0,1,2024-11
+ACCT10396,2024-04-01,Growth,Monthly,North America,Manufacturing,669.01,35.0,1,2024-07
+ACCT10397,2024-02-01,Starter,Monthly,North America,Media,144.4,37.0,1,2024-10
+ACCT10398,2025-02-01,Starter,Annual,North America,Software,110.27,60.0,0,
+ACCT10399,2025-03-01,Growth,Monthly,North America,Software,826.22,41.0,0,
+ACCT10400,2025-03-01,Growth,Monthly,APAC,Manufacturing,555.62,25.0,0,
+ACCT10401,2024-09-01,Enterprise,Monthly,LATAM,Healthcare,4116.53,,1,2025-07
+ACCT10402,2025-08-01,Starter,Annual,APAC,Healthcare,90.35,82.0,0,
+ACCT10403,2025-06-01,Starter,Annual,North America,Software,73.32,32.0,0,
+ACCT10404,2025-07-01,Starter,Monthly,North America,Healthcare,198.21,-16.0,0,
+ACCT10405,2025-08-01,Starter,Monthly,EMEA,Healthcare,159.76,81.0,1,2025-09
+ACCT10406,2024-09-01,Starter,Monthly,EMEA,Financial Services,54.47,31.0,1,2025-03
+ACCT10407,2024-10-01,Starter,Monthly,EMEA,Retail/E-comm,106.27,73.0,0,
+ACCT10408,2025-04-01,Growth,Annual,North America,Retail/E-comm,886.03,,0,
+ACCT10409,2024-03-01,Starter,Monthly,EMEA,Manufacturing,67.99,-28.0,1,2025-02
+ACCT10410,2024-04-01,Growth,Monthly,EMEA,Media,449.53,16.0,0,
+ACCT10411,2024-07-01,Starter,Annual,EMEA,Media,152.46,,0,
+ACCT10412,2025-06-01,Starter,Annual,North America,Retail/E-comm,173.41,39.0,0,
+ACCT10413,2024-10-01,Growth,Monthly,North America,Retail/E-comm,758.43,39.0,0,
+ACCT10414,2024-02-01,Starter,Annual,North America,Financial Services,158.01,22.0,1,2024-07
+ACCT10415,2024-05-01,Starter,Annual,North America,Manufacturing,185.3,,0,
+ACCT10416,2025-04-01,Starter,Annual,North America,Retail/E-comm,75.86,,0,
+ACCT10417,2024-09-01,Growth,Monthly,North America,Retail/E-comm,364.49,,1,2025-06
+ACCT10418,2024-10-01,Enterprise,Annual,EMEA,Software,1175.64,,0,
+ACCT10419,2025-02-01,Starter,Monthly,APAC,Financial Services,96.69,,1,2025-12
+ACCT10420,2025-06-01,Starter,Monthly,North America,Retail/E-comm,79.16,,0,
+ACCT10421,2025-03-01,Growth,Monthly,EMEA,Software,734.35,11.0,0,
+ACCT10422,2024-07-01,Starter,Annual,EMEA,Media,103.55,63.0,0,
+ACCT10423,2025-03-01,Starter,Monthly,North America,Financial Services,49.12,-29.0,1,2025-11
+ACCT10424,2024-12-01,Enterprise,Monthly,North America,Healthcare,4368.8,-5.0,0,
+ACCT10425,2024-03-01,Starter,Monthly,North America,Media,162.84,,1,2025-09
+ACCT10426,2025-06-01,Enterprise,Monthly,APAC,Media,1571.76,-23.0,0,
+ACCT10427,2025-08-01,Growth,Monthly,APAC,Software,206.22,32.0,0,
+ACCT10428,2025-03-01,Starter,Annual,LATAM,Financial Services,169.3,,0,
+ACCT10429,2024-10-01,Starter,Annual,APAC,Financial Services,59.95,,0,
+ACCT10430,2025-08-01,Starter,Monthly,EMEA,Software,53.58,36.0,0,
+ACCT10431,2024-01-01,Growth,Monthly,North America,Software,843.65,49.0,0,
+ACCT10432,2025-01-01,Enterprise,Monthly,North America,Media,3506.68,,0,
+ACCT10433,2025-05-01,Starter,Annual,APAC,Manufacturing,123.78,36.0,0,
+ACCT10434,2025-04-01,Starter,Monthly,North America,Software,60.08,,0,
+ACCT10435,2024-06-01,Starter,Annual,North America,Retail/E-comm,121.5,25.0,0,
+ACCT10436,2024-01-01,Starter,Annual,LATAM,Healthcare,92.07,,0,
+ACCT10437,2025-08-01,Starter,Annual,North America,Manufacturing,126.23,,0,
+ACCT10438,2024-02-01,Enterprise,Monthly,North America,Media,916.18,-44.0,0,
+ACCT10439,2024-04-01,Growth,Annual,North America,Healthcare,626.01,-1.0,0,
+ACCT10440,2025-02-01,Enterprise,Annual,North America,Software,3260.79,21.0,0,
+ACCT10441,2025-06-01,Growth,Monthly,EMEA,Media,618.49,72.0,0,
+ACCT10442,2024-11-01,Growth,Annual,North America,Retail/E-comm,633.8,-4.0,1,2025-11
+ACCT10443,2025-03-01,Growth,Annual,EMEA,Retail/E-comm,618.89,-21.0,0,
+ACCT10444,2024-05-01,Starter,Monthly,North America,Manufacturing,173.39,34.0,1,2025-06
+ACCT10445,2024-02-01,Growth,Monthly,North America,Manufacturing,796.49,,0,
+ACCT10446,2024-10-01,Starter,Monthly,North America,Manufacturing,93.25,,0,
+ACCT10447,2025-02-01,Growth,Annual,EMEA,Healthcare,874.27,23.0,0,
+ACCT10448,2024-09-01,Growth,Monthly,North America,Manufacturing,661.16,,0,
+ACCT10449,2024-02-01,Starter,Annual,North America,Software,49.19,10.0,0,
+ACCT10450,2024-01-01,Starter,Monthly,North America,Software,115.17,41.0,1,2024-04
+ACCT10451,2024-03-01,Enterprise,Annual,LATAM,Healthcare,3083.03,24.0,0,
+ACCT10452,2024-10-01,Growth,Annual,APAC,Software,751.76,94.0,0,
+ACCT10453,2024-07-01,Starter,Annual,North America,Media,92.11,8.0,1,2025-06
+ACCT10454,2025-07-01,Starter,Monthly,EMEA,Financial Services,107.26,48.0,1,2025-09
+ACCT10455,2025-03-01,Starter,Annual,APAC,Media,70.28,46.0,0,
+ACCT10456,2024-07-01,Enterprise,Annual,EMEA,Software,1710.25,30.0,0,
+ACCT10457,2024-10-01,Growth,Monthly,EMEA,Financial Services,766.12,39.0,0,
+ACCT10458,2024-03-01,Enterprise,Annual,North America,Manufacturing,2097.41,,0,
+ACCT10459,2024-02-01,Growth,Annual,APAC,Healthcare,735.75,,0,
+ACCT10460,2024-04-01,Enterprise,Annual,North America,Retail/E-comm,4275.1,41.0,0,
+ACCT10461,2025-06-01,Enterprise,Annual,LATAM,Financial Services,4496.24,62.0,0,
+ACCT10462,2024-08-01,Growth,Monthly,North America,Financial Services,869.06,,0,
+ACCT10463,2024-07-01,Growth,Monthly,North America,Manufacturing,221.61,-3.0,1,2025-03
+ACCT10464,2024-12-01,Starter,Monthly,North America,Financial Services,159.77,-18.0,1,2025-07
+ACCT10465,2024-03-01,Starter,Annual,North America,Manufacturing,188.5,,0,
+ACCT10466,2024-09-01,Growth,Annual,North America,Manufacturing,750.95,50.0,0,
+ACCT10467,2024-08-01,Starter,Annual,North America,Retail/E-comm,153.77,,0,
+ACCT10468,2024-02-01,Growth,Monthly,LATAM,Retail/E-comm,485.67,,0,
+ACCT10469,2025-06-01,Growth,Annual,North America,Manufacturing,484.29,25.0,1,2025-07
+ACCT10470,2024-11-01,Growth,Annual,North America,Manufacturing,394.63,45.0,0,
+ACCT10471,2024-11-01,Enterprise,Annual,North America,Media,3562.35,8.0,0,
+ACCT10472,2024-02-01,Starter,Monthly,North America,Retail/E-comm,52.58,,1,2024-12
+ACCT10473,2025-06-01,Enterprise,Monthly,North America,Healthcare,1056.0,,0,
+ACCT10474,2024-01-01,Growth,Monthly,EMEA,Retail/E-comm,548.14,77.0,0,
+ACCT10475,2025-05-01,Growth,Monthly,North America,Manufacturing,386.68,50.0,0,
+ACCT10476,2024-01-01,Growth,Monthly,APAC,Healthcare,464.93,57.0,1,2025-11
+ACCT10477,2025-03-01,Enterprise,Monthly,North America,Financial Services,3204.4,48.0,0,
+ACCT10478,2025-05-01,Starter,Monthly,North America,Financial Services,89.98,,0,
+ACCT10479,2024-03-01,Starter,Monthly,EMEA,Software,121.89,,1,2024-04
+ACCT10480,2024-12-01,Growth,Annual,LATAM,Media,554.59,,0,
+ACCT10481,2024-06-01,Growth,Monthly,North America,Manufacturing,255.85,17.0,1,2025-11
+ACCT10482,2024-05-01,Growth,Monthly,EMEA,Media,880.64,18.0,1,2025-10
+ACCT10483,2024-04-01,Starter,Annual,North America,Manufacturing,171.49,38.0,0,
+ACCT10484,2025-02-01,Starter,Annual,EMEA,Manufacturing,64.98,,0,
+ACCT10485,2024-11-01,Growth,Annual,North America,Healthcare,455.73,33.0,0,
+ACCT10486,2024-09-01,Growth,Monthly,APAC,Retail/E-comm,721.4,,0,
+ACCT10487,2024-05-01,Growth,Monthly,EMEA,Media,650.53,36.0,0,
+ACCT10488,2024-07-01,Growth,Monthly,North America,Financial Services,243.24,32.0,0,
+ACCT10489,2024-05-01,Growth,Monthly,North America,Software,268.29,42.0,0,
+ACCT10490,2025-05-01,Starter,Annual,EMEA,Financial Services,128.8,,1,2025-12
+ACCT10491,2024-11-01,Growth,Monthly,North America,Healthcare,210.9,,1,2024-12
+ACCT10492,2025-07-01,Starter,Annual,North America,Manufacturing,143.64,,0,
+ACCT10493,2024-10-01,Growth,Monthly,LATAM,Software,777.67,55.0,0,
+ACCT10494,2024-07-01,Growth,Monthly,North America,Media,822.43,39.0,1,2025-06
+ACCT10495,2024-11-01,Growth,Annual,EMEA,Manufacturing,738.51,,0,
+ACCT10496,2025-04-01,Growth,Monthly,North America,Software,233.79,32.0,1,2025-05
+ACCT10497,2025-02-01,Enterprise,Annual,North America,Retail/E-comm,1682.71,14.0,0,
+ACCT10498,2025-03-01,Enterprise,Annual,EMEA,Financial Services,2292.13,-7.0,0,
+ACCT10499,2025-05-01,Starter,Annual,North America,Software,190.69,49.0,0,
+ACCT10500,2025-02-01,Growth,Annual,North America,Retail/E-comm,743.23,59.0,0,
+ACCT10501,2024-03-01,Starter,Monthly,North America,Manufacturing,126.43,,0,
+ACCT10502,2025-08-01,Starter,Monthly,LATAM,Media,75.49,18.0,0,
+ACCT10503,2024-10-01,Growth,Annual,EMEA,Healthcare,607.29,-24.0,0,
+ACCT10504,2025-02-01,Enterprise,Annual,North America,Healthcare,2069.89,,0,
+ACCT10505,2024-05-01,Growth,Monthly,North America,Manufacturing,453.87,62.0,0,
+ACCT10506,2024-05-01,Starter,Annual,North America,Healthcare,193.72,,0,
+ACCT10507,2025-07-01,Starter,Monthly,APAC,Manufacturing,97.9,79.0,1,2025-11
+ACCT10508,2024-04-01,Growth,Annual,EMEA,Software,522.23,,0,
+ACCT10509,2025-07-01,Enterprise,Annual,North America,Manufacturing,2236.2,,0,
+ACCT10510,2025-08-01,Starter,Annual,EMEA,Software,79.58,,0,
+ACCT10511,2024-07-01,Starter,Monthly,APAC,Media,53.51,62.0,0,
+ACCT10512,2025-08-01,Growth,Annual,North America,Manufacturing,385.54,93.0,0,
+ACCT10513,2025-08-01,Growth,Annual,North America,Manufacturing,348.13,,0,
+ACCT10514,2025-04-01,Growth,Annual,North America,Media,350.58,48.0,0,
+ACCT10515,2025-06-01,Starter,Annual,EMEA,Media,76.33,,0,
+ACCT10516,2024-06-01,Growth,Annual,North America,Healthcare,673.23,56.0,0,
+ACCT10517,2025-05-01,Growth,Annual,North America,Software,479.22,,0,
+ACCT10518,2025-03-01,Starter,Monthly,North America,Manufacturing,105.48,,0,
+ACCT10519,2024-02-01,Starter,Monthly,North America,Software,53.18,,1,2025-06
+ACCT10520,2024-09-01,Starter,Annual,North America,Software,52.93,,0,
+ACCT10521,2024-06-01,Growth,Annual,North America,Media,884.6,21.0,0,
+ACCT10522,2024-01-01,Starter,Annual,EMEA,Financial Services,182.36,9.0,1,2025-05
+ACCT10523,2025-01-01,Starter,Monthly,North America,Financial Services,180.16,64.0,0,
+ACCT10524,2025-01-01,Growth,Monthly,APAC,Healthcare,530.85,27.0,0,
+ACCT10525,2024-06-01,Enterprise,Annual,APAC,Media,3906.91,,0,
+ACCT10526,2025-04-01,Enterprise,Monthly,LATAM,Financial Services,3236.94,44.0,0,
+ACCT10527,2024-06-01,Starter,Monthly,North America,Media,71.13,20.0,0,
+ACCT10528,2025-08-01,Growth,Monthly,North America,Healthcare,599.9,7.0,0,
+ACCT10529,2024-01-01,Starter,Annual,LATAM,Manufacturing,134.34,63.0,0,
+ACCT10530,2024-01-01,Enterprise,Annual,North America,Financial Services,1878.96,,0,
+ACCT10531,2024-03-01,Growth,Annual,North America,Financial Services,625.93,7.0,0,
+ACCT10532,2025-05-01,Growth,Monthly,North America,Financial Services,615.76,29.0,0,
+ACCT10533,2025-07-01,Growth,Annual,EMEA,Manufacturing,312.52,50.0,0,
+ACCT10534,2024-01-01,Growth,Monthly,APAC,Manufacturing,280.24,72.0,0,
+ACCT10535,2024-06-01,Growth,Monthly,North America,Healthcare,648.06,58.0,1,2025-12
+ACCT10536,2024-01-01,Starter,Annual,North America,Financial Services,163.38,58.0,0,
+ACCT10537,2024-04-01,Growth,Annual,North America,Manufacturing,662.09,,0,
+ACCT10538,2025-08-01,Starter,Monthly,LATAM,Healthcare,135.31,,0,
+ACCT10539,2024-10-01,Growth,Annual,EMEA,Software,649.94,,0,
+ACCT10540,2025-08-01,Starter,Monthly,North America,Manufacturing,126.82,2.0,1,2025-10
+ACCT10541,2025-02-01,Starter,Monthly,North America,Retail/E-comm,107.33,,1,2025-05
+ACCT10542,2024-08-01,Growth,Monthly,North America,Manufacturing,282.63,42.0,1,2025-02
+ACCT10543,2025-02-01,Growth,Annual,North America,Healthcare,566.61,,0,
+ACCT10544,2025-08-01,Growth,Annual,EMEA,Healthcare,895.38,,0,
+ACCT10545,2025-04-01,Starter,Annual,North America,Healthcare,156.71,49.0,0,
+ACCT10546,2024-05-01,Growth,Annual,EMEA,Manufacturing,292.99,18.0,1,2025-04
+ACCT10547,2024-08-01,Growth,Monthly,APAC,Retail/E-comm,647.43,,1,2025-05
+ACCT10548,2024-01-01,Growth,Monthly,EMEA,Software,334.1,11.0,0,
+ACCT10549,2025-08-01,Starter,Monthly,North America,Retail/E-comm,141.87,29.0,0,
+ACCT10550,2024-08-01,Starter,Monthly,EMEA,Media,193.23,,1,2025-08
+ACCT10551,2025-03-01,Growth,Monthly,North America,Software,854.94,-8.0,0,
+ACCT10552,2025-05-01,Starter,Annual,North America,Healthcare,119.08,61.0,0,
+ACCT10553,2024-04-01,Enterprise,Monthly,North America,Media,1136.24,-12.0,0,
+ACCT10554,2025-08-01,Starter,Annual,North America,Retail/E-comm,98.02,-6.0,0,
+ACCT10555,2025-03-01,Starter,Annual,North America,Media,104.42,5.0,0,
+ACCT10556,2024-07-01,Growth,Monthly,North America,Healthcare,520.81,,0,
+ACCT10557,2025-03-01,Starter,Monthly,North America,Retail/E-comm,98.32,,1,2025-08
+ACCT10558,2024-03-01,Enterprise,Monthly,EMEA,Media,4014.39,,0,
+ACCT10559,2025-02-01,Enterprise,Monthly,APAC,Retail/E-comm,3154.14,14.0,1,2025-06
+ACCT10560,2024-05-01,Growth,Annual,EMEA,Media,882.84,59.0,0,
+ACCT10561,2024-07-01,Growth,Annual,EMEA,Software,535.12,13.0,0,
+ACCT10562,2024-07-01,Enterprise,Annual,North America,Healthcare,1878.36,,0,
+ACCT10563,2024-08-01,Starter,Annual,North America,Manufacturing,155.98,35.0,0,
+ACCT10564,2025-06-01,Growth,Annual,North America,Healthcare,571.4,75.0,0,
+ACCT10565,2024-11-01,Starter,Annual,EMEA,Healthcare,168.27,45.0,1,2025-05
+ACCT10566,2025-02-01,Starter,Annual,North America,Retail/E-comm,72.83,34.0,0,
+ACCT10567,2024-08-01,Enterprise,Annual,EMEA,Financial Services,2642.53,,0,
+ACCT10568,2025-01-01,Growth,Monthly,APAC,Software,880.5,,1,2025-04
+ACCT10569,2025-05-01,Growth,Annual,EMEA,Manufacturing,272.35,30.0,0,
+ACCT10570,2024-07-01,Growth,Monthly,North America,Manufacturing,336.63,26.0,0,
+ACCT10571,2024-02-01,Growth,Monthly,APAC,Manufacturing,368.96,,1,2025-05
+ACCT10572,2025-08-01,Growth,Monthly,APAC,Retail/E-comm,618.28,34.0,0,
+ACCT10573,2024-03-01,Growth,Monthly,North America,Software,715.37,,0,
+ACCT10574,2025-03-01,Growth,Monthly,EMEA,Healthcare,582.08,30.0,0,
+ACCT10575,2025-06-01,Starter,Annual,North America,Software,96.03,26.0,0,
+ACCT10576,2024-02-01,Starter,Monthly,EMEA,Financial Services,189.05,62.0,1,2024-07
+ACCT10577,2025-07-01,Growth,Monthly,EMEA,Manufacturing,269.59,44.0,0,
+ACCT10578,2025-02-01,Starter,Monthly,LATAM,Retail/E-comm,95.39,,1,2025-08
+ACCT10579,2024-01-01,Starter,Annual,EMEA,Retail/E-comm,92.72,47.0,0,
+ACCT10580,2024-11-01,Growth,Monthly,North America,Healthcare,384.07,20.0,0,
+ACCT10581,2024-06-01,Starter,Annual,EMEA,Media,71.4,42.0,0,
+ACCT10582,2025-06-01,Starter,Monthly,LATAM,Manufacturing,193.72,48.0,0,
+ACCT10583,2025-03-01,Growth,Annual,North America,Retail/E-comm,871.24,39.0,0,
+ACCT10584,2025-06-01,Starter,Monthly,EMEA,Software,140.29,80.0,1,2025-11
+ACCT10585,2025-01-01,Starter,Annual,North America,Retail/E-comm,183.3,-26.0,0,
+ACCT10586,2025-05-01,Enterprise,Annual,North America,Media,1940.1,43.0,0,
+ACCT10587,2024-04-01,Starter,Monthly,LATAM,Software,180.15,39.0,1,2024-10
+ACCT10588,2024-09-01,Growth,Monthly,APAC,Retail/E-comm,721.31,64.0,0,
+ACCT10589,2025-02-01,Growth,Annual,North America,Media,754.51,,0,
+ACCT10590,2024-03-01,Starter,Annual,EMEA,Healthcare,153.94,43.0,0,
+ACCT10591,2024-12-01,Starter,Monthly,North America,Media,50.57,15.0,0,
+ACCT10592,2024-11-01,Enterprise,Monthly,EMEA,Manufacturing,3546.46,-10.0,0,
+ACCT10593,2024-04-01,Starter,Annual,North America,Healthcare,107.86,5.0,0,
+ACCT10594,2024-05-01,Starter,Annual,APAC,Software,141.68,75.0,0,
+ACCT10595,2025-03-01,Enterprise,Monthly,North America,Media,1766.19,,0,
+ACCT10596,2025-06-01,Starter,Monthly,North America,Retail/E-comm,183.28,46.0,0,
+ACCT10597,2025-06-01,Enterprise,Monthly,North America,Manufacturing,4267.47,-9.0,0,
+ACCT10598,2025-04-01,Growth,Annual,APAC,Financial Services,707.11,57.0,0,
+ACCT10599,2025-06-01,Growth,Annual,EMEA,Retail/E-comm,842.28,,0,
+ACCT10600,2024-06-01,Starter,Annual,EMEA,Manufacturing,143.68,38.0,0,
+ACCT10601,2025-03-01,Growth,Annual,LATAM,Financial Services,486.42,,0,
+ACCT10602,2025-03-01,Growth,Monthly,EMEA,Media,833.61,,0,
+ACCT10603,2024-12-01,Starter,Annual,North America,Media,180.36,44.0,0,
+ACCT10604,2024-11-01,Starter,Annual,North America,Media,76.39,24.0,0,
+ACCT10605,2025-08-01,Starter,Annual,North America,Retail/E-comm,133.8,-28.0,0,
+ACCT10606,2025-02-01,Starter,Annual,North America,Manufacturing,57.0,,1,2025-07
+ACCT10607,2024-04-01,Starter,Annual,North America,Retail/E-comm,50.16,,0,
+ACCT10608,2024-02-01,Growth,Annual,North America,Financial Services,286.45,,0,
+ACCT10609,2025-01-01,Starter,Annual,North America,Manufacturing,177.25,,0,
+ACCT10610,2024-08-01,Starter,Annual,EMEA,Financial Services,76.4,-69.0,0,
+ACCT10611,2024-09-01,Starter,Monthly,North America,Media,59.13,30.0,1,2025-07
+ACCT10612,2025-07-01,Starter,Monthly,EMEA,Retail/E-comm,185.95,,0,
+ACCT10613,2024-01-01,Growth,Annual,North America,Media,266.21,49.0,0,
+ACCT10614,2025-06-01,Growth,Annual,LATAM,Software,541.21,,0,
+ACCT10615,2024-04-01,Starter,Monthly,EMEA,Manufacturing,112.08,,0,
+ACCT10616,2025-08-01,Growth,Monthly,North America,Manufacturing,564.81,50.0,1,2025-10
+ACCT10617,2024-12-01,Growth,Annual,North America,Software,275.17,29.0,0,
+ACCT10618,2025-06-01,Starter,Monthly,North America,Retail/E-comm,120.45,41.0,1,2025-11
+ACCT10619,2024-03-01,Enterprise,Annual,APAC,Retail/E-comm,1327.02,30.0,0,
+ACCT10620,2024-04-01,Growth,Annual,North America,Software,462.01,,1,2025-12
+ACCT10621,2025-01-01,Starter,Monthly,APAC,Manufacturing,155.75,,0,
+ACCT10622,2024-06-01,Enterprise,Annual,EMEA,Retail/E-comm,1431.25,49.0,0,
+ACCT10623,2024-01-01,Growth,Annual,APAC,Retail/E-comm,200.16,,0,
+ACCT10624,2024-04-01,Starter,Annual,North America,Manufacturing,146.22,,0,
+ACCT10625,2025-05-01,Starter,Annual,LATAM,Manufacturing,177.72,50.0,0,
+ACCT10626,2025-01-01,Starter,Annual,North America,Media,72.23,,0,
+ACCT10627,2024-06-01,Starter,Monthly,EMEA,Software,59.66,,0,
+ACCT10628,2025-07-01,Starter,Annual,North America,Retail/E-comm,75.62,38.0,0,
+ACCT10629,2025-04-01,Starter,Monthly,APAC,Financial Services,64.6,38.0,0,
+ACCT10630,2024-01-01,Enterprise,Monthly,North America,Retail/E-comm,2775.64,11.0,0,
+ACCT10631,2025-01-01,Growth,Annual,EMEA,Manufacturing,894.79,3.0,0,
+ACCT10632,2025-01-01,Starter,Annual,North America,Manufacturing,132.62,50.0,0,
+ACCT10633,2024-07-01,Starter,Annual,EMEA,Manufacturing,65.87,37.0,0,
+ACCT10634,2024-12-01,Starter,Annual,North America,Manufacturing,82.55,39.0,0,
+ACCT10635,2024-05-01,Starter,Annual,North America,Manufacturing,167.17,-16.0,1,2025-09
+ACCT10636,2025-07-01,Growth,Annual,North America,Manufacturing,568.15,-15.0,0,
+ACCT10637,2025-06-01,Growth,Monthly,LATAM,Manufacturing,549.04,,0,
+ACCT10638,2025-03-01,Enterprise,Annual,North America,Financial Services,3714.55,65.0,0,
+ACCT10639,2024-03-01,Starter,Monthly,North America,Healthcare,106.77,,1,2024-07
+ACCT10640,2024-04-01,Growth,Monthly,APAC,Media,312.24,50.0,0,
+ACCT10641,2025-02-01,Growth,Annual,EMEA,Media,295.54,,0,
+ACCT10642,2024-08-01,Starter,Annual,APAC,Media,125.61,-9.0,0,
+ACCT10643,2024-03-01,Growth,Annual,APAC,Healthcare,893.82,,0,
+ACCT10644,2024-01-01,Starter,Monthly,APAC,Manufacturing,145.41,51.0,1,2025-02
+ACCT10645,2025-01-01,Starter,Annual,APAC,Retail/E-comm,166.36,,1,2025-09
+ACCT10646,2024-04-01,Starter,Monthly,EMEA,Financial Services,154.11,,1,2024-12
+ACCT10647,2024-11-01,Enterprise,Annual,APAC,Healthcare,3412.52,,0,
+ACCT10648,2025-07-01,Starter,Annual,LATAM,Media,56.64,24.0,0,
+ACCT10649,2024-10-01,Enterprise,Monthly,North America,Financial Services,2398.49,-1.0,0,
+ACCT10650,2024-01-01,Starter,Monthly,North America,Media,156.7,,0,
+ACCT10651,2025-08-01,Starter,Monthly,North America,Financial Services,53.59,38.0,0,
+ACCT10652,2024-11-01,Enterprise,Monthly,EMEA,Software,918.02,-2.0,0,
+ACCT10653,2024-03-01,Growth,Monthly,North America,Manufacturing,610.63,14.0,0,
+ACCT10654,2025-06-01,Starter,Annual,EMEA,Financial Services,75.61,52.0,0,
+ACCT10655,2025-07-01,Enterprise,Annual,North America,Manufacturing,2922.73,21.0,0,
+ACCT10656,2024-11-01,Growth,Monthly,North America,Manufacturing,203.5,85.0,1,2025-01
+ACCT10657,2024-02-01,Starter,Monthly,North America,Software,54.81,13.0,1,2025-09
+ACCT10658,2024-10-01,Growth,Monthly,LATAM,Retail/E-comm,212.13,60.0,0,
+ACCT10659,2024-01-01,Growth,Monthly,North America,Media,615.25,,0,
+ACCT10660,2024-01-01,Starter,Monthly,North America,Manufacturing,141.35,,1,2025-11
+ACCT10661,2025-06-01,Growth,Monthly,North America,Software,584.32,54.0,1,2025-12
+ACCT10662,2025-05-01,Enterprise,Annual,North America,Media,4125.21,16.0,0,
+ACCT10663,2024-08-01,Growth,Monthly,North America,Manufacturing,390.52,75.0,0,
+ACCT10664,2025-05-01,Growth,Monthly,APAC,Media,405.55,39.0,0,
+ACCT10665,2024-10-01,Enterprise,Monthly,North America,Retail/E-comm,3872.27,17.0,0,
+ACCT10666,2025-06-01,Growth,Annual,EMEA,Financial Services,595.85,,0,
+ACCT10667,2024-02-01,Growth,Monthly,EMEA,Healthcare,431.92,72.0,1,2025-03
+ACCT10668,2025-07-01,Growth,Monthly,APAC,Software,449.37,31.0,0,
+ACCT10669,2025-02-01,Growth,Annual,EMEA,Healthcare,410.36,-10.0,0,
+ACCT10670,2024-03-01,Growth,Annual,EMEA,Retail/E-comm,556.06,,0,
+ACCT10671,2024-02-01,Starter,Monthly,North America,Financial Services,96.88,73.0,1,2024-10
+ACCT10672,2025-07-01,Starter,Annual,EMEA,Financial Services,105.61,,0,
+ACCT10673,2024-09-01,Starter,Monthly,North America,Manufacturing,144.9,7.0,1,2025-03
+ACCT10674,2025-03-01,Growth,Monthly,North America,Healthcare,594.14,,0,
+ACCT10675,2024-05-01,Starter,Annual,EMEA,Media,124.99,48.0,0,
+ACCT10676,2024-10-01,Starter,Monthly,APAC,Healthcare,52.62,52.0,1,2025-08
+ACCT10677,2025-08-01,Growth,Monthly,North America,Healthcare,589.81,21.0,0,
+ACCT10678,2024-05-01,Starter,Monthly,North America,Manufacturing,108.77,39.0,1,2024-11
+ACCT10679,2025-07-01,Starter,Monthly,EMEA,Software,88.03,41.0,0,
+ACCT10680,2025-04-01,Starter,Monthly,North America,Retail/E-comm,167.37,,1,2025-12
+ACCT10681,2024-12-01,Starter,Annual,North America,Healthcare,153.55,42.0,0,
+ACCT10682,2024-12-01,Growth,Annual,APAC,Healthcare,841.09,37.0,0,
+ACCT10683,2024-09-01,Starter,Annual,EMEA,Media,61.69,,0,
+ACCT10684,2024-03-01,Starter,Annual,LATAM,Media,106.37,-5.0,0,
+ACCT10685,2025-08-01,Starter,Monthly,LATAM,Financial Services,161.55,,1,2025-09
+ACCT10686,2024-01-01,Starter,Monthly,North America,Retail/E-comm,75.1,72.0,0,
+ACCT10687,2025-07-01,Enterprise,Annual,EMEA,Software,1627.28,,0,
+ACCT10688,2025-07-01,Starter,Monthly,EMEA,Manufacturing,95.93,18.0,1,2025-12
+ACCT10689,2024-12-01,Starter,Annual,North America,Financial Services,54.52,63.0,0,
+ACCT10690,2024-11-01,Growth,Monthly,EMEA,Retail/E-comm,679.2,,0,
+ACCT10691,2024-01-01,Starter,Annual,North America,Retail/E-comm,167.44,100.0,1,2024-08
+ACCT10692,2025-05-01,Growth,Monthly,EMEA,Retail/E-comm,308.77,36.0,0,
+ACCT10693,2024-06-01,Starter,Monthly,North America,Healthcare,65.75,,1,2024-10
+ACCT10694,2024-08-01,Growth,Monthly,North America,Manufacturing,654.18,,1,2024-09
+ACCT10695,2025-02-01,Starter,Monthly,EMEA,Software,186.4,63.0,0,
+ACCT10696,2024-07-01,Growth,Monthly,EMEA,Manufacturing,877.02,69.0,0,
+ACCT10697,2025-05-01,Starter,Monthly,North America,Media,134.15,,0,
+ACCT10698,2024-08-01,Starter,Annual,EMEA,Retail/E-comm,131.45,,0,
+ACCT10699,2025-05-01,Growth,Monthly,EMEA,Media,897.03,,0,
+ACCT10700,2025-08-01,Growth,Annual,EMEA,Financial Services,244.96,43.0,0,
+ACCT10701,2025-08-01,Enterprise,Monthly,EMEA,Software,2297.55,-9.0,0,
+ACCT10702,2025-02-01,Growth,Monthly,North America,Manufacturing,685.1,,1,2025-10
+ACCT10703,2024-05-01,Growth,Annual,LATAM,Media,809.14,34.0,0,
+ACCT10704,2025-04-01,Growth,Monthly,North America,Software,690.76,,0,
+ACCT10705,2025-06-01,Growth,Monthly,North America,Software,544.39,,0,
+ACCT10706,2024-12-01,Growth,Monthly,EMEA,Media,534.23,10.0,0,
+ACCT10707,2024-09-01,Enterprise,Annual,APAC,Software,4175.84,59.0,0,
+ACCT10708,2024-02-01,Starter,Annual,APAC,Media,161.25,,0,
+ACCT10709,2024-11-01,Starter,Monthly,North America,Manufacturing,79.74,54.0,0,
+ACCT10710,2024-02-01,Growth,Monthly,North America,Financial Services,848.16,,0,
+ACCT10711,2024-02-01,Starter,Monthly,EMEA,Software,171.17,28.0,1,2024-09
+ACCT10712,2024-06-01,Starter,Monthly,North America,Healthcare,142.63,,0,
+ACCT10713,2024-10-01,Enterprise,Monthly,EMEA,Manufacturing,3797.17,,0,
+ACCT10714,2024-11-01,Starter,Monthly,North America,Healthcare,158.42,,1,2025-03
+ACCT10715,2024-12-01,Enterprise,Annual,North America,Financial Services,2136.18,49.0,0,
+ACCT10716,2025-03-01,Enterprise,Monthly,EMEA,Software,3438.69,50.0,0,
+ACCT10717,2025-02-01,Starter,Monthly,EMEA,Retail/E-comm,106.37,,0,
+ACCT10718,2025-02-01,Growth,Monthly,North America,Healthcare,221.78,19.0,0,
+ACCT10719,2024-10-01,Starter,Monthly,North America,Financial Services,106.89,-40.0,1,2025-07
+ACCT10720,2024-08-01,Starter,Monthly,APAC,Financial Services,130.35,37.0,1,2024-10
+ACCT10721,2024-03-01,Enterprise,Annual,EMEA,Retail/E-comm,3658.11,14.0,1,2024-10
+ACCT10722,2025-01-01,Enterprise,Annual,North America,Financial Services,2807.19,,0,
+ACCT10723,2025-06-01,Growth,Monthly,North America,Software,282.45,40.0,0,
+ACCT10724,2024-01-01,Starter,Monthly,EMEA,Healthcare,105.86,42.0,1,2024-11
+ACCT10725,2024-04-01,Enterprise,Monthly,LATAM,Financial Services,3726.5,,1,2024-08
+ACCT10726,2024-03-01,Growth,Annual,APAC,Financial Services,443.03,,0,
+ACCT10727,2025-08-01,Enterprise,Annual,North America,Financial Services,3370.22,,0,
+ACCT10728,2025-01-01,Growth,Annual,North America,Manufacturing,421.19,,0,
+ACCT10729,2024-06-01,Starter,Monthly,EMEA,Retail/E-comm,77.07,-4.0,1,2024-12
+ACCT10730,2024-08-01,Growth,Monthly,North America,Manufacturing,832.96,19.0,1,2025-11
+ACCT10731,2025-04-01,Enterprise,Annual,APAC,Software,1260.8,-11.0,0,
+ACCT10732,2024-03-01,Enterprise,Annual,North America,Media,3680.38,,1,2025-06
+ACCT10733,2024-06-01,Growth,Monthly,North America,Software,652.26,19.0,0,
+ACCT10734,2025-02-01,Starter,Monthly,North America,Financial Services,57.31,85.0,1,2025-04
+ACCT10735,2025-04-01,Enterprise,Annual,North America,Manufacturing,953.56,64.0,0,
+ACCT10736,2024-11-01,Starter,Annual,North America,Healthcare,86.38,15.0,0,
+ACCT10737,2024-09-01,Starter,Monthly,North America,Media,152.05,20.0,0,
+ACCT10738,2025-08-01,Starter,Monthly,EMEA,Healthcare,165.31,23.0,0,
+ACCT10739,2024-03-01,Starter,Monthly,EMEA,Media,104.1,8.0,1,2024-05
+ACCT10740,2025-01-01,Growth,Monthly,APAC,Financial Services,814.17,,1,2025-06
+ACCT10741,2024-11-01,Starter,Monthly,North America,Retail/E-comm,65.77,21.0,1,2025-04
+ACCT10742,2024-12-01,Enterprise,Monthly,EMEA,Financial Services,3706.15,,0,
+ACCT10743,2024-02-01,Starter,Annual,EMEA,Financial Services,155.04,21.0,0,
+ACCT10744,2024-05-01,Growth,Monthly,EMEA,Software,438.98,,1,2024-07
+ACCT10745,2025-04-01,Starter,Monthly,North America,Media,196.95,31.0,0,
+ACCT10746,2024-07-01,Growth,Monthly,EMEA,Media,446.76,,0,
+ACCT10747,2024-04-01,Starter,Monthly,APAC,Software,87.1,21.0,1,2025-02
+ACCT10748,2024-03-01,Enterprise,Monthly,APAC,Software,3211.95,-17.0,0,
+ACCT10749,2025-06-01,Starter,Annual,North America,Media,130.83,,1,2025-07
+ACCT10750,2025-04-01,Growth,Monthly,North America,Financial Services,319.21,,1,2025-12
+ACCT10751,2024-06-01,Growth,Annual,North America,Software,445.19,31.0,0,
+ACCT10752,2025-03-01,Growth,Monthly,APAC,Manufacturing,769.31,,0,
+ACCT10753,2024-02-01,Starter,Monthly,North America,Financial Services,99.93,,1,2025-11
+ACCT10754,2025-04-01,Starter,Monthly,North America,Software,164.19,,0,
+ACCT10755,2025-02-01,Enterprise,Monthly,EMEA,Financial Services,3004.66,32.0,1,2025-06
+ACCT10756,2024-11-01,Starter,Monthly,APAC,Manufacturing,164.16,43.0,1,2025-02
+ACCT10757,2024-06-01,Starter,Annual,APAC,Manufacturing,83.49,11.0,1,2025-08
+ACCT10758,2025-02-01,Enterprise,Monthly,North America,Retail/E-comm,4053.78,,0,
+ACCT10759,2024-12-01,Enterprise,Annual,North America,Media,1312.75,25.0,0,
+ACCT10760,2024-02-01,Growth,Annual,North America,Manufacturing,607.85,74.0,0,
+ACCT10761,2025-07-01,Growth,Annual,APAC,Financial Services,874.73,,0,
+ACCT10762,2025-03-01,Enterprise,Monthly,North America,Media,1387.63,-20.0,1,2025-12
+ACCT10763,2024-09-01,Starter,Annual,North America,Media,65.77,12.0,0,
+ACCT10764,2024-01-01,Starter,Monthly,North America,Manufacturing,79.32,9.0,1,2025-08
+ACCT10765,2025-08-01,Starter,Annual,LATAM,Media,53.62,80.0,1,2025-12
+ACCT10766,2025-03-01,Growth,Annual,APAC,Manufacturing,677.81,41.0,0,
+ACCT10767,2025-01-01,Growth,Monthly,EMEA,Manufacturing,566.02,,0,
+ACCT10768,2024-05-01,Enterprise,Monthly,EMEA,Retail/E-comm,1851.76,11.0,0,
+ACCT10769,2025-02-01,Starter,Annual,EMEA,Financial Services,155.53,76.0,0,
+ACCT10770,2025-02-01,Enterprise,Annual,North America,Media,2737.9,52.0,0,
+ACCT10771,2024-01-01,Growth,Annual,North America,Software,400.79,,0,
+ACCT10772,2025-05-01,Growth,Annual,EMEA,Healthcare,346.22,,0,
+ACCT10773,2025-06-01,Starter,Annual,North America,Manufacturing,94.77,-18.0,0,
+ACCT10774,2025-02-01,Starter,Monthly,EMEA,Manufacturing,176.96,100.0,0,
+ACCT10775,2025-06-01,Starter,Monthly,North America,Software,198.69,22.0,1,2025-07
+ACCT10776,2024-01-01,Starter,Annual,North America,Healthcare,104.01,-2.0,1,2024-08
+ACCT10777,2024-02-01,Growth,Monthly,North America,Financial Services,626.12,,0,
+ACCT10778,2025-04-01,Growth,Monthly,APAC,Manufacturing,727.41,,0,
+ACCT10779,2025-02-01,Enterprise,Annual,EMEA,Healthcare,1829.16,81.0,0,
+ACCT10780,2025-06-01,Starter,Annual,APAC,Healthcare,151.04,55.0,0,
+ACCT10781,2024-02-01,Growth,Monthly,North America,Software,513.23,,0,
+ACCT10782,2025-04-01,Growth,Annual,North America,Manufacturing,841.1,62.0,0,
+ACCT10783,2025-07-01,Growth,Annual,EMEA,Healthcare,309.87,78.0,0,
+ACCT10784,2024-03-01,Growth,Annual,EMEA,Financial Services,263.42,33.0,0,
+ACCT10785,2025-04-01,Growth,Monthly,North America,Media,231.38,21.0,0,
+ACCT10786,2024-01-01,Growth,Annual,North America,Manufacturing,499.92,,0,
+ACCT10787,2024-01-01,Starter,Annual,LATAM,Healthcare,113.63,48.0,0,
+ACCT10788,2024-05-01,Growth,Monthly,North America,Financial Services,332.79,17.0,0,
+ACCT10789,2025-05-01,Enterprise,Monthly,LATAM,Media,3799.35,-31.0,0,
+ACCT10790,2025-06-01,Growth,Monthly,North America,Retail/E-comm,728.87,,0,
+ACCT10791,2024-12-01,Starter,Monthly,North America,Manufacturing,151.65,55.0,0,
+ACCT10792,2024-08-01,Starter,Annual,North America,Retail/E-comm,147.71,11.0,0,
+ACCT10793,2025-01-01,Starter,Monthly,EMEA,Financial Services,153.39,,0,
+ACCT10794,2024-07-01,Starter,Annual,EMEA,Healthcare,165.96,60.0,0,
+ACCT10795,2024-04-01,Starter,Monthly,APAC,Financial Services,119.15,67.0,1,2024-11
+ACCT10796,2024-03-01,Growth,Monthly,EMEA,Financial Services,364.26,,0,
+ACCT10797,2025-08-01,Starter,Monthly,EMEA,Healthcare,70.26,21.0,0,
+ACCT10798,2024-02-01,Starter,Monthly,APAC,Retail/E-comm,97.61,27.0,1,2025-01
+ACCT10799,2024-12-01,Starter,Annual,North America,Financial Services,130.04,49.0,0,
+ACCT10800,2024-05-01,Starter,Monthly,North America,Manufacturing,194.56,-37.0,1,2025-08
+ACCT10801,2025-04-01,Growth,Monthly,APAC,Media,798.2,,1,2025-08
+ACCT10802,2024-02-01,Starter,Annual,North America,Media,129.15,26.0,0,
+ACCT10803,2024-10-01,Enterprise,Monthly,North America,Media,1155.42,34.0,0,
+ACCT10804,2024-04-01,Growth,Monthly,North America,Manufacturing,301.35,,0,
+ACCT10805,2024-12-01,Enterprise,Annual,North America,Retail/E-comm,1720.04,12.0,0,
+ACCT10806,2025-05-01,Enterprise,Annual,North America,Financial Services,1369.5,40.0,0,
+ACCT10807,2024-09-01,Growth,Annual,North America,Software,468.21,26.0,0,
+ACCT10808,2024-07-01,Starter,Monthly,EMEA,Healthcare,152.05,34.0,1,2024-08
+ACCT10809,2024-01-01,Starter,Annual,North America,Manufacturing,52.92,12.0,1,2024-08
+ACCT10810,2024-12-01,Starter,Monthly,North America,Healthcare,81.7,,1,2025-05
+ACCT10811,2024-07-01,Growth,Monthly,EMEA,Manufacturing,836.14,17.0,0,
+ACCT10812,2025-04-01,Starter,Annual,LATAM,Software,122.57,46.0,0,
+ACCT10813,2025-08-01,Growth,Monthly,North America,Media,566.61,,0,
+ACCT10814,2024-10-01,Starter,Annual,North America,Healthcare,136.09,54.0,0,
+ACCT10815,2025-01-01,Growth,Annual,APAC,Financial Services,663.82,52.0,0,
+ACCT10816,2024-01-01,Growth,Annual,North America,Media,358.86,53.0,0,
+ACCT10817,2024-01-01,Starter,Monthly,APAC,Media,150.79,11.0,1,2025-01
+ACCT10818,2024-02-01,Starter,Annual,North America,Media,63.27,34.0,0,
+ACCT10819,2025-08-01,Starter,Monthly,North America,Financial Services,168.04,,0,
+ACCT10820,2025-06-01,Enterprise,Annual,APAC,Media,3720.72,,0,
+ACCT10821,2025-03-01,Growth,Monthly,EMEA,Manufacturing,425.43,30.0,1,2025-08
+ACCT10822,2024-05-01,Starter,Annual,North America,Software,163.4,48.0,0,
+ACCT10823,2025-02-01,Starter,Monthly,North America,Manufacturing,69.49,,0,
+ACCT10824,2025-04-01,Starter,Annual,APAC,Financial Services,178.64,5.0,1,2025-12
+ACCT10825,2024-04-01,Starter,Annual,North America,Manufacturing,121.47,-9.0,1,2025-07
+ACCT10826,2024-08-01,Growth,Monthly,APAC,Financial Services,529.08,,1,2024-10
+ACCT10827,2025-06-01,Growth,Annual,North America,Healthcare,330.17,59.0,0,
+ACCT10828,2024-08-01,Growth,Annual,EMEA,Software,755.17,-31.0,0,
+ACCT10829,2024-04-01,Enterprise,Annual,North America,Healthcare,2652.23,,1,2025-08
+ACCT10830,2024-07-01,Growth,Annual,EMEA,Software,394.78,-6.0,1,2025-10
+ACCT10831,2025-08-01,Starter,Monthly,North America,Media,80.3,33.0,0,
+ACCT10832,2025-07-01,Growth,Monthly,North America,Software,606.81,23.0,0,
+ACCT10833,2024-01-01,Starter,Monthly,North America,Financial Services,56.49,66.0,0,
+ACCT10834,2025-05-01,Growth,Annual,EMEA,Manufacturing,460.9,41.0,0,
+ACCT10835,2025-02-01,Enterprise,Monthly,EMEA,Financial Services,1119.77,,1,2025-07
+ACCT10836,2025-05-01,Growth,Annual,EMEA,Retail/E-comm,812.0,56.0,1,2025-06
+ACCT10837,2024-06-01,Starter,Monthly,EMEA,Retail/E-comm,106.89,19.0,0,
+ACCT10838,2024-12-01,Growth,Monthly,EMEA,Retail/E-comm,250.02,52.0,0,
+ACCT10839,2025-02-01,Growth,Annual,North America,Software,557.24,17.0,0,
+ACCT10840,2024-03-01,Starter,Monthly,North America,Manufacturing,83.75,-26.0,0,
+ACCT10841,2025-06-01,Enterprise,Annual,North America,Manufacturing,3053.94,53.0,0,
+ACCT10842,2024-10-01,Starter,Annual,North America,Healthcare,170.38,24.0,1,2025-11
+ACCT10843,2024-11-01,Growth,Annual,North America,Healthcare,599.53,100.0,0,
+ACCT10844,2024-07-01,Growth,Monthly,North America,Retail/E-comm,786.14,,0,
+ACCT10845,2025-03-01,Growth,Monthly,North America,Software,619.75,-9.0,1,2025-12
+ACCT10846,2025-01-01,Starter,Annual,North America,Software,168.86,21.0,0,
+ACCT10847,2024-05-01,Starter,Monthly,North America,Retail/E-comm,108.41,,0,
+ACCT10848,2024-10-01,Growth,Annual,LATAM,Retail/E-comm,683.16,29.0,1,2025-09
+ACCT10849,2025-05-01,Starter,Monthly,APAC,Healthcare,97.76,16.0,1,2025-11
+ACCT10850,2024-08-01,Starter,Monthly,EMEA,Manufacturing,158.46,28.0,1,2025-07
+ACCT10851,2024-02-01,Growth,Monthly,North America,Financial Services,809.05,,0,
+ACCT10852,2025-02-01,Growth,Annual,EMEA,Retail/E-comm,405.2,18.0,0,
+ACCT10853,2024-10-01,Starter,Monthly,North America,Financial Services,121.86,1.0,1,2025-07
+ACCT10854,2024-10-01,Growth,Monthly,LATAM,Media,501.63,,0,
+ACCT10855,2024-04-01,Growth,Monthly,EMEA,Financial Services,298.02,,0,
+ACCT10856,2025-02-01,Growth,Annual,North America,Media,439.02,,0,
+ACCT10857,2024-04-01,Enterprise,Monthly,North America,Financial Services,2182.01,,1,2025-08
+ACCT10858,2024-06-01,Growth,Monthly,North America,Media,796.04,,1,2025-01
+ACCT10859,2024-02-01,Growth,Annual,APAC,Retail/E-comm,688.5,55.0,1,2025-04
+ACCT10860,2024-03-01,Starter,Monthly,EMEA,Healthcare,69.05,43.0,1,2025-01
+ACCT10861,2024-06-01,Starter,Monthly,North America,Financial Services,71.3,-8.0,1,2025-11
+ACCT10862,2025-04-01,Starter,Annual,North America,Financial Services,90.3,36.0,0,
+ACCT10863,2024-04-01,Starter,Monthly,APAC,Manufacturing,139.22,42.0,0,
+ACCT10864,2024-11-01,Growth,Annual,North America,Financial Services,362.8,,0,
+ACCT10865,2024-03-01,Starter,Monthly,North America,Manufacturing,71.26,,1,2024-11
+ACCT10866,2025-01-01,Growth,Annual,EMEA,Financial Services,658.26,37.0,0,
+ACCT10867,2025-05-01,Growth,Monthly,North America,Media,450.26,35.0,0,
+ACCT10868,2025-04-01,Starter,Annual,APAC,Retail/E-comm,120.73,,1,2025-11
+ACCT10869,2024-10-01,Starter,Annual,EMEA,Manufacturing,169.94,20.0,0,
+ACCT10870,2025-01-01,Growth,Monthly,North America,Manufacturing,857.94,32.0,0,
+ACCT10871,2025-06-01,Starter,Monthly,EMEA,Media,153.17,,1,2025-10
+ACCT10872,2025-07-01,Starter,Annual,LATAM,Manufacturing,155.33,44.0,0,
+ACCT10873,2025-04-01,Growth,Monthly,EMEA,Media,627.56,46.0,0,
+ACCT10874,2024-09-01,Starter,Monthly,North America,Healthcare,130.32,67.0,0,
+ACCT10875,2024-04-01,Enterprise,Annual,North America,Media,1317.05,52.0,0,
+ACCT10876,2025-05-01,Growth,Monthly,APAC,Media,579.95,,0,
+ACCT10877,2025-04-01,Growth,Annual,APAC,Healthcare,345.49,74.0,0,
+ACCT10878,2025-03-01,Starter,Annual,North America,Manufacturing,78.43,11.0,0,
+ACCT10879,2025-05-01,Starter,Annual,EMEA,Manufacturing,95.21,,0,
+ACCT10880,2024-09-01,Enterprise,Monthly,North America,Media,2704.95,,0,
+ACCT10881,2024-03-01,Growth,Monthly,APAC,Healthcare,827.13,40.0,0,
+ACCT10882,2024-04-01,Enterprise,Annual,North America,Retail/E-comm,1403.41,,0,
+ACCT10883,2025-08-01,Starter,Annual,North America,Financial Services,106.18,,0,
+ACCT10884,2025-05-01,Starter,Annual,LATAM,Manufacturing,77.77,-22.0,0,
+ACCT10885,2024-02-01,Growth,Annual,North America,Retail/E-comm,758.5,,1,2025-12
+ACCT10886,2025-08-01,Starter,Monthly,North America,Manufacturing,84.76,,1,2025-12
+ACCT10887,2025-04-01,Starter,Monthly,APAC,Financial Services,118.59,-15.0,1,2025-08
+ACCT10888,2024-02-01,Starter,Monthly,APAC,Software,107.83,25.0,1,2024-06
+ACCT10889,2025-05-01,Growth,Monthly,EMEA,Manufacturing,617.22,39.0,0,
+ACCT10890,2024-11-01,Starter,Monthly,North America,Manufacturing,63.7,13.0,1,2024-12
+ACCT10891,2025-01-01,Growth,Monthly,North America,Manufacturing,652.8,,0,
+ACCT10892,2025-07-01,Growth,Monthly,North America,Financial Services,694.6,-18.0,0,
+ACCT10893,2025-01-01,Starter,Monthly,North America,Retail/E-comm,89.77,-1.0,1,2025-10
+ACCT10894,2025-04-01,Growth,Annual,North America,Retail/E-comm,881.26,,0,
+ACCT10895,2025-02-01,Growth,Monthly,North America,Retail/E-comm,681.69,,1,2025-06
+ACCT10896,2025-02-01,Starter,Annual,EMEA,Retail/E-comm,74.57,,0,
+ACCT10897,2025-06-01,Growth,Annual,North America,Financial Services,428.67,-22.0,0,
+ACCT10898,2025-08-01,Starter,Monthly,North America,Software,66.81,16.0,0,
+ACCT10899,2024-10-01,Enterprise,Monthly,North America,Financial Services,2298.61,,0,
+ACCT10900,2024-07-01,Growth,Monthly,North America,Manufacturing,217.65,-0.0,0,
+ACCT10901,2024-06-01,Starter,Annual,North America,Financial Services,154.17,8.0,0,
+ACCT10902,2025-03-01,Starter,Monthly,North America,Media,195.15,,0,
+ACCT10903,2024-07-01,Starter,Monthly,North America,Media,188.04,,0,
+ACCT10904,2024-02-01,Starter,Monthly,North America,Financial Services,76.19,,0,
+ACCT10905,2024-02-01,Growth,Monthly,North America,Media,535.01,24.0,1,2024-03
+ACCT10906,2024-03-01,Growth,Monthly,North America,Healthcare,622.6,,1,2025-04
+ACCT10907,2024-02-01,Growth,Annual,North America,Software,553.31,,0,
+ACCT10908,2025-03-01,Starter,Monthly,North America,Media,131.72,43.0,1,2025-07
+ACCT10909,2024-05-01,Growth,Annual,EMEA,Financial Services,253.38,-26.0,0,
+ACCT10910,2025-04-01,Growth,Monthly,APAC,Media,548.21,65.0,0,
+ACCT10911,2024-10-01,Starter,Monthly,North America,Retail/E-comm,136.34,7.0,1,2025-10
+ACCT10912,2024-08-01,Starter,Annual,North America,Software,129.33,10.0,0,
+ACCT10913,2025-07-01,Starter,Monthly,EMEA,Media,195.51,,1,2025-12
+ACCT10914,2025-07-01,Growth,Monthly,EMEA,Financial Services,600.42,,0,
+ACCT10915,2025-01-01,Starter,Annual,North America,Media,128.99,,0,
+ACCT10916,2024-06-01,Growth,Annual,LATAM,Manufacturing,631.24,-11.0,1,2024-12
+ACCT10917,2025-04-01,Starter,Monthly,North America,Healthcare,59.14,,0,
+ACCT10918,2025-06-01,Starter,Monthly,EMEA,Healthcare,136.51,61.0,0,
+ACCT10919,2025-03-01,Growth,Monthly,North America,Software,611.86,15.0,0,
+ACCT10920,2024-05-01,Growth,Monthly,APAC,Financial Services,750.44,14.0,0,
+ACCT10921,2024-11-01,Growth,Annual,North America,Software,484.39,33.0,0,
+ACCT10922,2024-10-01,Growth,Monthly,EMEA,Software,724.35,,0,
+ACCT10923,2024-08-01,Starter,Annual,North America,Financial Services,110.69,,0,
+ACCT10924,2024-07-01,Enterprise,Annual,North America,Healthcare,1340.27,46.0,0,
+ACCT10925,2024-03-01,Growth,Annual,North America,Healthcare,448.69,,0,
+ACCT10926,2024-07-01,Enterprise,Annual,North America,Financial Services,4375.9,,1,2025-03
+ACCT10927,2024-04-01,Enterprise,Monthly,North America,Software,2792.43,12.0,0,
+ACCT10928,2024-09-01,Starter,Monthly,North America,Financial Services,146.16,-17.0,0,
+ACCT10929,2024-09-01,Enterprise,Monthly,North America,Healthcare,1023.49,,0,
+ACCT10930,2025-03-01,Starter,Annual,North America,Retail/E-comm,177.76,47.0,0,
+ACCT10931,2025-02-01,Growth,Monthly,EMEA,Software,596.92,33.0,0,
+ACCT10932,2024-11-01,Starter,Monthly,North America,Media,98.15,28.0,0,
+ACCT10933,2025-08-01,Starter,Annual,EMEA,Manufacturing,176.98,45.0,0,
+ACCT10934,2025-06-01,Growth,Monthly,EMEA,Media,688.39,,0,
+ACCT10935,2024-12-01,Starter,Annual,EMEA,Software,49.48,76.0,0,
+ACCT10936,2025-04-01,Growth,Monthly,North America,Media,453.26,55.0,1,2025-11
+ACCT10937,2024-02-01,Growth,Monthly,LATAM,Manufacturing,617.68,,0,
+ACCT10938,2024-06-01,Starter,Annual,North America,Healthcare,79.17,,0,
+ACCT10939,2025-06-01,Starter,Monthly,North America,Manufacturing,155.8,97.0,0,
+ACCT10940,2025-05-01,Growth,Annual,North America,Healthcare,279.06,,0,
+ACCT10941,2024-07-01,Growth,Monthly,North America,Retail/E-comm,704.36,,0,
+ACCT10942,2025-05-01,Growth,Annual,LATAM,Media,769.27,,0,
+ACCT10943,2024-05-01,Starter,Annual,APAC,Retail/E-comm,115.5,10.0,0,
+ACCT10944,2024-03-01,Enterprise,Annual,LATAM,Financial Services,1373.92,24.0,0,
+ACCT10945,2024-02-01,Starter,Annual,North America,Healthcare,133.99,66.0,0,
+ACCT10946,2024-07-01,Enterprise,Monthly,APAC,Financial Services,3300.36,42.0,0,
+ACCT10947,2025-06-01,Growth,Monthly,APAC,Software,530.4,18.0,0,
+ACCT10948,2024-06-01,Starter,Annual,North America,Retail/E-comm,164.61,-45.0,1,2025-12
+ACCT10949,2024-09-01,Enterprise,Monthly,EMEA,Financial Services,4452.44,58.0,0,
+ACCT10950,2024-11-01,Starter,Annual,North America,Manufacturing,125.44,,1,2025-09
+ACCT10951,2024-05-01,Growth,Annual,APAC,Manufacturing,752.31,,0,
+ACCT10952,2024-11-01,Starter,Monthly,North America,Retail/E-comm,195.91,,0,
+ACCT10953,2024-06-01,Growth,Monthly,APAC,Media,864.68,32.0,1,2025-06
+ACCT10954,2025-05-01,Enterprise,Monthly,EMEA,Software,1238.34,-3.0,0,
+ACCT10955,2025-05-01,Starter,Monthly,EMEA,Financial Services,150.53,,1,2025-11
+ACCT10956,2025-01-01,Starter,Monthly,North America,Media,135.06,-2.0,1,2025-03
+ACCT10957,2025-05-01,Enterprise,Monthly,APAC,Software,1696.54,,0,
+ACCT10958,2025-04-01,Growth,Monthly,North America,Media,697.39,41.0,0,
+ACCT10959,2025-07-01,Starter,Annual,North America,Software,92.61,35.0,0,
+ACCT10960,2025-06-01,Starter,Monthly,North America,Media,54.66,,0,
+ACCT10961,2024-08-01,Starter,Annual,EMEA,Retail/E-comm,165.1,7.0,0,
+ACCT10962,2024-11-01,Starter,Annual,EMEA,Retail/E-comm,150.15,45.0,1,2024-12
+ACCT10963,2024-09-01,Starter,Annual,North America,Retail/E-comm,61.09,-5.0,1,2025-08
+ACCT10964,2024-09-01,Growth,Annual,LATAM,Manufacturing,399.42,,0,
+ACCT10965,2024-03-01,Growth,Annual,North America,Media,407.63,49.0,0,
+ACCT10966,2025-04-01,Starter,Annual,APAC,Healthcare,107.7,,0,
+ACCT10967,2024-06-01,Starter,Annual,EMEA,Media,53.88,,1,2025-05
+ACCT10968,2025-02-01,Growth,Monthly,LATAM,Media,327.28,32.0,0,
+ACCT10969,2025-07-01,Starter,Annual,North America,Financial Services,196.13,39.0,0,
+ACCT10970,2024-07-01,Growth,Monthly,EMEA,Media,713.33,,0,
+ACCT10971,2025-06-01,Growth,Annual,EMEA,Media,770.61,1.0,0,
+ACCT10972,2024-03-01,Growth,Annual,North America,Retail/E-comm,856.08,-9.0,0,
+ACCT10973,2025-05-01,Growth,Annual,EMEA,Media,506.27,,0,
+ACCT10974,2025-02-01,Starter,Annual,North America,Media,107.2,,0,
+ACCT10975,2025-06-01,Growth,Monthly,APAC,Retail/E-comm,655.4,11.0,0,
+ACCT10976,2025-06-01,Growth,Monthly,APAC,Manufacturing,300.92,,0,
+ACCT10977,2024-11-01,Growth,Monthly,North America,Retail/E-comm,524.46,,0,
+ACCT10978,2024-08-01,Starter,Monthly,North America,Healthcare,180.3,,1,2025-06
+ACCT10979,2024-07-01,Enterprise,Monthly,North America,Manufacturing,2471.36,52.0,0,
+ACCT10980,2025-03-01,Starter,Annual,EMEA,Media,55.01,,0,
+ACCT10981,2024-01-01,Growth,Monthly,APAC,Retail/E-comm,321.53,15.0,1,2024-12
+ACCT10982,2024-03-01,Growth,Annual,APAC,Media,711.42,17.0,1,2025-12
+ACCT10983,2025-04-01,Growth,Monthly,North America,Retail/E-comm,889.01,,0,
+ACCT10984,2025-04-01,Starter,Annual,EMEA,Financial Services,98.34,,0,
+ACCT10985,2025-02-01,Enterprise,Monthly,North America,Financial Services,3176.75,55.0,0,
+ACCT10986,2025-04-01,Starter,Annual,LATAM,Media,198.5,9.0,0,
+ACCT10987,2025-05-01,Starter,Annual,APAC,Retail/E-comm,159.43,66.0,0,
+ACCT10988,2024-01-01,Growth,Annual,North America,Media,210.76,100.0,0,
+ACCT10989,2025-01-01,Growth,Monthly,North America,Retail/E-comm,259.79,,1,2025-05
+ACCT10990,2024-06-01,Starter,Annual,North America,Manufacturing,144.98,80.0,0,
+ACCT10991,2025-07-01,Starter,Monthly,EMEA,Software,128.83,-3.0,0,
+ACCT10992,2024-05-01,Enterprise,Annual,EMEA,Manufacturing,2995.12,20.0,0,
+ACCT10993,2025-06-01,Starter,Monthly,EMEA,Healthcare,55.3,39.0,0,
+ACCT10994,2024-03-01,Starter,Monthly,North America,Financial Services,112.12,-34.0,1,2025-04
+ACCT10995,2024-05-01,Starter,Monthly,EMEA,Healthcare,130.24,28.0,1,2025-03
+ACCT10996,2024-02-01,Growth,Annual,EMEA,Media,390.35,46.0,0,
+ACCT10997,2025-07-01,Growth,Monthly,APAC,Financial Services,526.95,70.0,0,
+ACCT10998,2024-10-01,Growth,Annual,North America,Manufacturing,545.94,,0,
+ACCT10999,2025-02-01,Starter,Monthly,EMEA,Financial Services,111.59,49.0,1,2025-11
+ACCT11000,2025-06-01,Starter,Monthly,North America,Financial Services,77.26,-30.0,0,
+ACCT11001,2024-11-01,Growth,Monthly,EMEA,Financial Services,854.85,,0,
+ACCT11002,2024-02-01,Enterprise,Monthly,EMEA,Software,4197.31,,0,
+ACCT11003,2025-06-01,Growth,Annual,North America,Media,501.45,100.0,0,
+ACCT11004,2024-05-01,Starter,Annual,LATAM,Manufacturing,101.56,,0,
+ACCT11005,2025-04-01,Starter,Monthly,EMEA,Retail/E-comm,156.56,12.0,0,
+ACCT11006,2024-06-01,Starter,Annual,North America,Manufacturing,153.88,73.0,0,
+ACCT11007,2025-01-01,Growth,Annual,LATAM,Software,783.02,,1,2025-03
+ACCT11008,2024-05-01,Starter,Annual,North America,Software,71.6,,1,2024-09
+ACCT11009,2024-12-01,Growth,Annual,APAC,Media,441.17,5.0,0,
+ACCT11010,2025-07-01,Starter,Monthly,EMEA,Financial Services,174.15,75.0,0,
+ACCT11011,2025-01-01,Starter,Annual,North America,Retail/E-comm,116.69,51.0,0,
+ACCT11012,2024-04-01,Growth,Monthly,North America,Healthcare,436.83,74.0,0,
+ACCT11013,2024-12-01,Growth,Monthly,North America,Retail/E-comm,665.83,58.0,1,2025-06
+ACCT11014,2025-06-01,Starter,Monthly,LATAM,Financial Services,154.65,,0,
+ACCT11015,2024-02-01,Starter,Annual,North America,Financial Services,79.82,14.0,1,2025-04
+ACCT11016,2025-02-01,Starter,Monthly,APAC,Financial Services,74.88,,1,2025-07
+ACCT11017,2024-10-01,Starter,Monthly,EMEA,Manufacturing,65.91,37.0,1,2024-12
+ACCT11018,2025-05-01,Growth,Annual,APAC,Retail/E-comm,266.61,,1,2025-11
+ACCT11019,2025-04-01,Starter,Annual,North America,Manufacturing,72.19,51.0,0,
+ACCT11020,2025-05-01,Growth,Monthly,North America,Healthcare,551.36,,1,2025-12
+ACCT11021,2024-01-01,Growth,Monthly,APAC,Media,304.58,56.0,0,
+ACCT11022,2024-12-01,Growth,Monthly,EMEA,Healthcare,258.44,,0,
+ACCT11023,2024-04-01,Starter,Monthly,LATAM,Retail/E-comm,190.12,41.0,0,
+ACCT11024,2024-07-01,Starter,Annual,APAC,Healthcare,92.98,-9.0,0,
+ACCT11025,2025-05-01,Growth,Annual,EMEA,Manufacturing,423.08,44.0,0,
+ACCT11026,2024-01-01,Growth,Monthly,EMEA,Retail/E-comm,234.67,29.0,1,2024-12
+ACCT11027,2024-05-01,Starter,Monthly,North America,Software,119.66,,0,
+ACCT11028,2024-02-01,Starter,Monthly,North America,Healthcare,139.78,,0,
+ACCT11029,2024-02-01,Growth,Annual,EMEA,Media,718.63,18.0,1,2024-05
+ACCT11030,2025-03-01,Starter,Annual,EMEA,Media,178.36,-15.0,0,
+ACCT11031,2024-08-01,Growth,Monthly,APAC,Manufacturing,759.72,,0,
+ACCT11032,2025-05-01,Starter,Monthly,North America,Healthcare,54.88,-7.0,1,2025-10
+ACCT11033,2024-03-01,Starter,Annual,North America,Media,68.37,76.0,0,
+ACCT11034,2024-05-01,Enterprise,Monthly,LATAM,Manufacturing,2400.98,,0,
+ACCT11035,2024-02-01,Starter,Monthly,EMEA,Financial Services,149.28,,1,2025-03
+ACCT11036,2024-06-01,Starter,Annual,EMEA,Financial Services,194.79,,1,2025-03
+ACCT11037,2025-07-01,Growth,Monthly,EMEA,Retail/E-comm,862.81,34.0,0,
+ACCT11038,2025-06-01,Growth,Monthly,North America,Financial Services,851.11,,1,2025-08
+ACCT11039,2025-01-01,Starter,Monthly,North America,Retail/E-comm,167.47,86.0,1,2025-06
+ACCT11040,2025-07-01,Growth,Monthly,LATAM,Media,585.58,,0,
+ACCT11041,2025-05-01,Starter,Monthly,North America,Retail/E-comm,65.35,37.0,0,
+ACCT11042,2024-07-01,Growth,Annual,LATAM,Media,795.0,15.0,0,
+ACCT11043,2024-02-01,Starter,Monthly,LATAM,Manufacturing,58.23,28.0,1,2025-09
+ACCT11044,2024-04-01,Starter,Annual,North America,Retail/E-comm,145.33,,0,
+ACCT11045,2025-02-01,Starter,Monthly,EMEA,Financial Services,162.42,92.0,1,2025-04
+ACCT11046,2024-10-01,Starter,Monthly,North America,Software,128.66,59.0,0,
+ACCT11047,2024-02-01,Growth,Annual,EMEA,Media,581.25,,0,
+ACCT11048,2024-04-01,Growth,Annual,LATAM,Media,742.21,43.0,0,
+ACCT11049,2024-01-01,Growth,Monthly,North America,Retail/E-comm,362.07,58.0,0,
+ACCT11050,2025-07-01,Enterprise,Monthly,North America,Software,4059.93,,0,
+ACCT11051,2024-01-01,Starter,Monthly,LATAM,Software,158.51,51.0,0,
+ACCT11052,2024-02-01,Growth,Monthly,APAC,Retail/E-comm,658.83,53.0,1,2025-01
+ACCT11053,2024-05-01,Enterprise,Annual,North America,Software,4334.27,35.0,0,
+ACCT11054,2025-08-01,Starter,Monthly,APAC,Retail/E-comm,158.69,14.0,0,
+ACCT11055,2025-04-01,Starter,Monthly,EMEA,Media,172.65,,0,
+ACCT11056,2025-03-01,Growth,Monthly,North America,Retail/E-comm,442.28,,0,
+ACCT11057,2024-06-01,Growth,Monthly,North America,Healthcare,348.15,53.0,0,
+ACCT11058,2024-12-01,Growth,Annual,EMEA,Retail/E-comm,231.86,62.0,0,
+ACCT11059,2025-02-01,Growth,Monthly,North America,Media,797.38,,0,
+ACCT11060,2024-09-01,Starter,Annual,EMEA,Retail/E-comm,180.56,,0,
+ACCT11061,2024-05-01,Starter,Annual,North America,Retail/E-comm,123.6,76.0,0,
+ACCT11062,2024-09-01,Starter,Monthly,APAC,Software,187.43,56.0,1,2025-04
+ACCT11063,2024-05-01,Growth,Annual,North America,Financial Services,425.29,,0,
+ACCT11064,2024-07-01,Starter,Annual,North America,Software,193.67,,0,
+ACCT11065,2024-05-01,Starter,Annual,APAC,Manufacturing,116.15,,0,
+ACCT11066,2024-06-01,Enterprise,Annual,North America,Retail/E-comm,2651.96,18.0,0,
+ACCT11067,2024-07-01,Starter,Monthly,North America,Healthcare,61.96,36.0,1,2025-09
+ACCT11068,2024-12-01,Starter,Monthly,APAC,Software,63.69,,0,
+ACCT11069,2025-04-01,Growth,Monthly,EMEA,Manufacturing,782.36,17.0,0,
+ACCT11070,2025-05-01,Starter,Monthly,North America,Financial Services,80.89,,1,2025-08
+ACCT11071,2025-05-01,Growth,Annual,North America,Media,239.86,-6.0,0,
+ACCT11072,2024-07-01,Starter,Monthly,APAC,Healthcare,71.42,,0,
+ACCT11073,2024-05-01,Starter,Monthly,North America,Retail/E-comm,190.84,17.0,1,2024-07
+ACCT11074,2024-10-01,Growth,Monthly,North America,Retail/E-comm,696.52,,0,
+ACCT11075,2025-05-01,Growth,Monthly,North America,Software,395.68,,0,
+ACCT11076,2024-02-01,Enterprise,Monthly,North America,Healthcare,2395.1,41.0,0,
+ACCT11077,2024-04-01,Starter,Monthly,EMEA,Media,105.84,26.0,0,
+ACCT11078,2024-04-01,Growth,Annual,North America,Healthcare,760.16,68.0,0,
+ACCT11079,2025-07-01,Starter,Monthly,North America,Financial Services,191.48,-8.0,0,
+ACCT11080,2025-01-01,Starter,Monthly,EMEA,Media,75.01,,0,
+ACCT11081,2024-04-01,Growth,Annual,EMEA,Manufacturing,280.03,47.0,0,
+ACCT11082,2025-03-01,Starter,Annual,EMEA,Healthcare,91.27,,0,
+ACCT11083,2025-06-01,Starter,Annual,EMEA,Media,183.08,22.0,0,
+ACCT11084,2025-07-01,Starter,Monthly,EMEA,Retail/E-comm,89.39,26.0,0,
+ACCT11085,2025-07-01,Growth,Annual,North America,Software,453.26,100.0,0,
+ACCT11086,2024-09-01,Starter,Annual,North America,Media,150.57,,0,
+ACCT11087,2024-04-01,Starter,Annual,North America,Retail/E-comm,183.9,59.0,0,
+ACCT11088,2024-10-01,Starter,Annual,North America,Media,78.67,100.0,0,
+ACCT11089,2024-10-01,Starter,Annual,North America,Media,87.1,97.0,0,
+ACCT11090,2025-05-01,Growth,Monthly,APAC,Retail/E-comm,678.98,,0,
+ACCT11091,2025-02-01,Starter,Annual,North America,Financial Services,188.24,,0,
+ACCT11092,2024-11-01,Growth,Annual,EMEA,Media,630.75,-6.0,0,
+ACCT11093,2024-09-01,Growth,Annual,EMEA,Media,452.14,1.0,0,
+ACCT11094,2024-12-01,Starter,Annual,APAC,Financial Services,175.32,,0,
+ACCT11095,2025-08-01,Starter,Monthly,EMEA,Healthcare,166.51,,0,
+ACCT11096,2025-03-01,Starter,Monthly,EMEA,Media,77.87,,0,
+ACCT11097,2024-01-01,Growth,Annual,APAC,Healthcare,500.54,5.0,0,
+ACCT11098,2024-03-01,Growth,Annual,EMEA,Retail/E-comm,269.71,63.0,0,
+ACCT11099,2024-09-01,Starter,Annual,North America,Software,130.97,13.0,0,
+ACCT11100,2025-06-01,Starter,Monthly,LATAM,Financial Services,126.56,,0,
+ACCT11101,2025-07-01,Enterprise,Monthly,North America,Software,3057.59,,0,
+ACCT11102,2025-06-01,Growth,Annual,North America,Manufacturing,862.14,,0,
+ACCT11103,2024-08-01,Growth,Annual,APAC,Manufacturing,441.35,-21.0,0,
+ACCT11104,2025-06-01,Starter,Monthly,EMEA,Financial Services,168.68,32.0,0,
+ACCT11105,2025-03-01,Enterprise,Monthly,North America,Manufacturing,1434.32,58.0,0,
+ACCT11106,2025-05-01,Starter,Annual,EMEA,Retail/E-comm,63.18,,0,
+ACCT11107,2024-01-01,Starter,Annual,North America,Retail/E-comm,188.94,,0,
+ACCT11108,2024-04-01,Starter,Annual,EMEA,Retail/E-comm,52.33,4.0,1,2024-09
+ACCT11109,2024-10-01,Enterprise,Monthly,APAC,Manufacturing,3171.25,,0,
+ACCT11110,2025-01-01,Growth,Monthly,North America,Manufacturing,889.44,13.0,1,2025-06
+ACCT11111,2024-02-01,Growth,Monthly,APAC,Media,489.47,55.0,1,2024-06
+ACCT11112,2025-08-01,Starter,Monthly,LATAM,Financial Services,76.85,91.0,0,
+ACCT11113,2024-09-01,Growth,Annual,APAC,Software,243.39,,0,
+ACCT11114,2024-10-01,Growth,Annual,LATAM,Manufacturing,335.85,30.0,0,
+ACCT11115,2024-03-01,Growth,Annual,North America,Financial Services,438.81,-74.0,0,
+ACCT11116,2024-07-01,Starter,Monthly,North America,Software,142.92,,0,
+ACCT11117,2024-10-01,Growth,Monthly,North America,Media,534.87,,1,2025-09
+ACCT11118,2025-03-01,Starter,Annual,North America,Healthcare,50.21,11.0,0,
+ACCT11119,2024-04-01,Enterprise,Annual,EMEA,Software,1792.36,55.0,0,
+ACCT11120,2025-01-01,Enterprise,Monthly,North America,Financial Services,3832.1,45.0,0,
+ACCT11121,2025-03-01,Growth,Monthly,APAC,Retail/E-comm,739.24,37.0,0,
+ACCT11122,2024-09-01,Starter,Monthly,LATAM,Financial Services,120.93,,1,2025-05
+ACCT11123,2024-11-01,Starter,Annual,North America,Manufacturing,76.11,,0,
+ACCT11124,2025-05-01,Starter,Monthly,EMEA,Financial Services,49.68,56.0,0,
+ACCT11125,2025-02-01,Growth,Monthly,North America,Media,346.5,15.0,0,
+ACCT11126,2024-09-01,Starter,Annual,LATAM,Retail/E-comm,129.75,44.0,0,
+ACCT11127,2025-03-01,Enterprise,Annual,LATAM,Manufacturing,2365.8,-13.0,0,
+ACCT11128,2024-08-01,Starter,Annual,EMEA,Manufacturing,62.86,52.0,0,
+ACCT11129,2024-09-01,Starter,Monthly,EMEA,Software,141.09,,0,
+ACCT11130,2024-03-01,Growth,Monthly,North America,Software,696.12,,1,2025-11
+ACCT11131,2024-01-01,Enterprise,Monthly,LATAM,Financial Services,2895.59,38.0,0,
+ACCT11132,2024-02-01,Growth,Monthly,North America,Healthcare,705.45,47.0,0,
+ACCT11133,2025-03-01,Starter,Monthly,LATAM,Software,86.11,,1,2025-09
+ACCT11134,2024-09-01,Starter,Monthly,North America,Healthcare,138.6,30.0,1,2024-12
+ACCT11135,2024-07-01,Growth,Monthly,LATAM,Software,808.69,,0,
+ACCT11136,2025-08-01,Growth,Monthly,North America,Financial Services,273.1,44.0,0,
+ACCT11137,2024-10-01,Enterprise,Annual,North America,Financial Services,3851.5,,0,
+ACCT11138,2024-03-01,Growth,Annual,EMEA,Manufacturing,217.51,20.0,0,
+ACCT11139,2024-12-01,Growth,Monthly,EMEA,Retail/E-comm,231.86,58.0,1,2025-03
+ACCT11140,2024-11-01,Growth,Monthly,EMEA,Financial Services,566.36,33.0,0,
+ACCT11141,2025-08-01,Growth,Monthly,North America,Manufacturing,586.12,61.0,0,
+ACCT11142,2024-11-01,Growth,Annual,North America,Software,474.68,51.0,0,
+ACCT11143,2025-04-01,Starter,Annual,North America,Healthcare,164.0,-6.0,0,
+ACCT11144,2025-03-01,Starter,Annual,North America,Financial Services,103.4,,0,
+ACCT11145,2025-06-01,Starter,Monthly,EMEA,Retail/E-comm,92.97,61.0,0,
+ACCT11146,2025-05-01,Starter,Annual,LATAM,Financial Services,87.53,,0,
+ACCT11147,2024-11-01,Enterprise,Monthly,EMEA,Healthcare,1085.36,,0,
+ACCT11148,2024-05-01,Growth,Annual,EMEA,Retail/E-comm,593.23,,0,
+ACCT11149,2024-12-01,Growth,Annual,North America,Financial Services,695.19,9.0,0,
+ACCT11150,2024-07-01,Enterprise,Annual,North America,Manufacturing,2930.08,95.0,0,
+ACCT11151,2024-07-01,Starter,Annual,APAC,Retail/E-comm,112.1,,0,
+ACCT11152,2025-04-01,Enterprise,Monthly,APAC,Software,3548.61,71.0,0,
+ACCT11153,2024-09-01,Enterprise,Monthly,North America,Manufacturing,2160.32,,0,
+ACCT11154,2025-01-01,Starter,Monthly,EMEA,Healthcare,195.89,37.0,0,
+ACCT11155,2025-04-01,Starter,Annual,APAC,Software,109.07,,0,
+ACCT11156,2024-05-01,Starter,Annual,LATAM,Financial Services,70.84,,0,
+ACCT11157,2024-10-01,Starter,Monthly,North America,Software,183.79,60.0,0,
+ACCT11158,2025-04-01,Enterprise,Annual,North America,Software,3559.38,71.0,0,
+ACCT11159,2025-05-01,Starter,Annual,North America,Software,135.04,,0,
+ACCT11160,2024-08-01,Enterprise,Annual,North America,Financial Services,1389.76,,0,
+ACCT11161,2024-12-01,Growth,Annual,North America,Retail/E-comm,794.26,,0,
+ACCT11162,2024-05-01,Starter,Monthly,EMEA,Healthcare,98.32,29.0,1,2024-07
+ACCT11163,2025-04-01,Starter,Annual,North America,Financial Services,88.81,,0,
+ACCT11164,2024-10-01,Growth,Annual,APAC,Financial Services,727.8,34.0,0,
+ACCT11165,2025-01-01,Starter,Monthly,North America,Media,187.3,,0,
+ACCT11166,2024-04-01,Starter,Annual,North America,Healthcare,184.12,11.0,1,2024-09
+ACCT11167,2025-01-01,Starter,Monthly,APAC,Media,94.59,,1,2025-11
+ACCT11168,2024-09-01,Growth,Annual,EMEA,Healthcare,883.66,,0,
+ACCT11169,2024-09-01,Enterprise,Monthly,EMEA,Software,3982.9,22.0,0,
+ACCT11170,2024-09-01,Starter,Monthly,EMEA,Manufacturing,83.24,34.0,0,
+ACCT11171,2025-04-01,Enterprise,Monthly,North America,Manufacturing,4374.03,4.0,0,
+ACCT11172,2025-07-01,Growth,Annual,North America,Manufacturing,360.49,,0,
+ACCT11173,2024-04-01,Starter,Monthly,North America,Software,170.56,55.0,1,2024-08
+ACCT11174,2024-08-01,Enterprise,Monthly,North America,Manufacturing,2646.02,,1,2025-06
+ACCT11175,2025-06-01,Enterprise,Annual,EMEA,Manufacturing,1931.04,,0,
+ACCT11176,2025-04-01,Enterprise,Monthly,EMEA,Software,2379.65,,0,
+ACCT11177,2024-04-01,Growth,Monthly,EMEA,Media,202.1,,1,2024-05
+ACCT11178,2024-08-01,Starter,Annual,EMEA,Software,187.33,77.0,0,
+ACCT11179,2024-09-01,Growth,Monthly,APAC,Healthcare,327.22,16.0,1,2025-08
+ACCT11180,2024-03-01,Enterprise,Annual,EMEA,Retail/E-comm,1805.74,,0,
+ACCT11181,2024-12-01,Starter,Monthly,North America,Manufacturing,150.95,48.0,1,2025-02
+ACCT11182,2024-12-01,Starter,Annual,EMEA,Financial Services,146.08,,0,
+ACCT11183,2024-06-01,Starter,Annual,North America,Healthcare,182.89,43.0,0,
+ACCT11184,2024-11-01,Starter,Monthly,North America,Software,141.98,64.0,1,2025-11
+ACCT11185,2025-07-01,Enterprise,Monthly,North America,Software,3788.88,,0,
+ACCT11186,2024-11-01,Growth,Annual,EMEA,Manufacturing,555.91,54.0,0,
+ACCT11187,2024-01-01,Growth,Monthly,North America,Retail/E-comm,298.91,,0,
+ACCT11188,2024-12-01,Growth,Annual,North America,Software,766.63,26.0,0,
+ACCT11189,2024-06-01,Growth,Annual,EMEA,Financial Services,356.63,,0,
+ACCT11190,2024-03-01,Growth,Annual,APAC,Manufacturing,730.35,43.0,0,
+ACCT11191,2024-12-01,Starter,Annual,LATAM,Healthcare,112.08,39.0,0,
+ACCT11192,2024-11-01,Starter,Annual,North America,Healthcare,65.13,29.0,0,
+ACCT11193,2024-09-01,Starter,Annual,North America,Healthcare,137.06,,0,
+ACCT11194,2024-02-01,Growth,Annual,EMEA,Media,460.66,,0,
+ACCT11195,2024-11-01,Growth,Monthly,LATAM,Manufacturing,422.26,54.0,1,2025-06
+ACCT11196,2024-03-01,Starter,Monthly,North America,Retail/E-comm,113.48,26.0,1,2025-10
+ACCT11197,2025-08-01,Growth,Monthly,North America,Financial Services,723.32,,0,
+ACCT11198,2025-05-01,Enterprise,Monthly,APAC,Healthcare,3267.12,20.0,0,
+ACCT11199,2024-06-01,Growth,Monthly,EMEA,Retail/E-comm,716.55,,0,
+ACCT11200,2024-03-01,Starter,Annual,EMEA,Financial Services,119.46,18.0,0,
+ACCT11201,2024-06-01,Growth,Monthly,EMEA,Manufacturing,542.14,,1,2024-09
+ACCT11202,2024-04-01,Growth,Monthly,North America,Financial Services,683.83,17.0,0,
+ACCT11203,2024-06-01,Growth,Monthly,North America,Software,798.8,-25.0,1,2024-12
+ACCT11204,2025-01-01,Starter,Annual,North America,Retail/E-comm,115.79,39.0,0,
+ACCT11205,2024-05-01,Growth,Monthly,EMEA,Software,873.53,72.0,0,
+ACCT11206,2024-07-01,Growth,Monthly,EMEA,Media,293.94,,0,
+ACCT11207,2024-09-01,Starter,Annual,EMEA,Financial Services,151.99,30.0,0,
+ACCT11208,2025-06-01,Enterprise,Monthly,APAC,Manufacturing,3462.24,,0,
+ACCT11209,2024-09-01,Starter,Annual,North America,Financial Services,100.49,,0,
+ACCT11210,2025-07-01,Growth,Monthly,North America,Software,208.05,27.0,0,
+ACCT11211,2025-03-01,Starter,Monthly,North America,Retail/E-comm,130.18,,0,
+ACCT11212,2025-04-01,Growth,Annual,North America,Media,462.83,50.0,0,
+ACCT11213,2025-03-01,Starter,Annual,North America,Retail/E-comm,167.98,-17.0,0,
+ACCT11214,2024-07-01,Starter,Monthly,North America,Manufacturing,143.21,,1,2025-07
+ACCT11215,2024-06-01,Starter,Monthly,APAC,Manufacturing,137.48,40.0,0,
+ACCT11216,2025-03-01,Starter,Monthly,APAC,Financial Services,72.32,,0,
+ACCT11217,2025-08-01,Growth,Annual,North America,Healthcare,672.7,-15.0,0,
+ACCT11218,2025-04-01,Growth,Monthly,EMEA,Healthcare,332.17,,1,2025-10
+ACCT11219,2024-06-01,Starter,Annual,North America,Software,148.89,-19.0,1,2024-07
+ACCT11220,2025-05-01,Growth,Annual,North America,Software,571.57,30.0,0,
+ACCT11221,2025-05-01,Starter,Monthly,EMEA,Retail/E-comm,59.57,47.0,1,2025-11
+ACCT11222,2025-03-01,Starter,Annual,LATAM,Healthcare,189.9,,0,
+ACCT11223,2024-10-01,Growth,Monthly,APAC,Financial Services,748.53,,1,2025-10
+ACCT11224,2024-06-01,Growth,Annual,APAC,Media,546.71,31.0,0,
+ACCT11225,2025-06-01,Starter,Annual,LATAM,Retail/E-comm,111.02,71.0,0,
+ACCT11226,2024-05-01,Growth,Monthly,APAC,Retail/E-comm,468.94,,0,
+ACCT11227,2024-05-01,Enterprise,Monthly,North America,Financial Services,1230.84,4.0,0,
+ACCT11228,2025-01-01,Enterprise,Annual,North America,Financial Services,1769.09,27.0,0,
+ACCT11229,2024-08-01,Growth,Annual,North America,Financial Services,388.91,,1,2025-11
+ACCT11230,2024-07-01,Enterprise,Monthly,North America,Manufacturing,4417.01,,0,
+ACCT11231,2024-06-01,Enterprise,Annual,North America,Software,2270.72,59.0,0,
+ACCT11232,2025-04-01,Growth,Monthly,North America,Manufacturing,423.2,29.0,0,
+ACCT11233,2025-04-01,Starter,Monthly,EMEA,Financial Services,154.12,21.0,0,
+ACCT11234,2025-01-01,Growth,Monthly,LATAM,Software,230.73,,0,
+ACCT11235,2025-06-01,Growth,Monthly,EMEA,Healthcare,584.31,50.0,0,
+ACCT11236,2024-11-01,Growth,Monthly,EMEA,Manufacturing,654.92,,0,
+ACCT11237,2024-04-01,Starter,Monthly,North America,Financial Services,159.09,12.0,0,
+ACCT11238,2024-10-01,Enterprise,Monthly,APAC,Manufacturing,1832.93,80.0,1,2025-09
+ACCT11239,2024-12-01,Starter,Annual,EMEA,Healthcare,98.84,,0,
+ACCT11240,2025-03-01,Enterprise,Annual,LATAM,Software,3244.28,,0,
+ACCT11241,2024-01-01,Starter,Monthly,North America,Financial Services,144.51,31.0,1,2024-04
+ACCT11242,2025-02-01,Growth,Monthly,North America,Financial Services,670.18,,0,
+ACCT11243,2025-04-01,Growth,Monthly,EMEA,Financial Services,616.9,34.0,0,
+ACCT11244,2025-01-01,Starter,Monthly,North America,Manufacturing,61.01,100.0,0,
+ACCT11245,2024-06-01,Starter,Monthly,North America,Financial Services,125.39,35.0,1,2024-10
+ACCT11246,2024-11-01,Growth,Monthly,North America,Healthcare,248.44,44.0,0,
+ACCT11247,2024-02-01,Growth,Monthly,APAC,Manufacturing,323.99,96.0,1,2025-12
+ACCT11248,2024-09-01,Enterprise,Monthly,North America,Retail/E-comm,4084.15,,0,
+ACCT11249,2025-08-01,Growth,Monthly,EMEA,Media,470.87,7.0,0,
+ACCT11250,2025-07-01,Enterprise,Monthly,North America,Retail/E-comm,2099.8,58.0,0,
+ACCT11251,2025-03-01,Starter,Annual,EMEA,Healthcare,195.82,,0,
+ACCT11252,2024-12-01,Growth,Annual,EMEA,Financial Services,664.45,41.0,0,
+ACCT11253,2024-05-01,Growth,Annual,North America,Manufacturing,377.72,30.0,0,
+ACCT11254,2025-07-01,Starter,Monthly,EMEA,Manufacturing,102.09,,0,
+ACCT11255,2025-05-01,Growth,Monthly,North America,Financial Services,658.35,,0,
+ACCT11256,2024-08-01,Growth,Annual,EMEA,Manufacturing,294.53,27.0,0,
+ACCT11257,2024-01-01,Growth,Annual,EMEA,Manufacturing,880.53,,0,
+ACCT11258,2025-07-01,Enterprise,Annual,North America,Manufacturing,3934.25,,0,
+ACCT11259,2024-08-01,Growth,Annual,North America,Financial Services,388.59,,1,2024-11
+ACCT11260,2024-04-01,Starter,Annual,North America,Media,63.97,,0,
+ACCT11261,2024-04-01,Growth,Monthly,North America,Healthcare,896.64,32.0,0,
+ACCT11262,2024-07-01,Growth,Monthly,EMEA,Media,687.41,100.0,0,
+ACCT11263,2024-11-01,Growth,Monthly,EMEA,Manufacturing,775.33,,0,
+ACCT11264,2024-01-01,Enterprise,Monthly,LATAM,Software,1479.84,-40.0,0,
+ACCT11265,2024-12-01,Growth,Monthly,North America,Media,807.8,11.0,1,2025-03
+ACCT11266,2024-06-01,Growth,Monthly,North America,Financial Services,332.89,-5.0,0,
+ACCT11267,2025-04-01,Growth,Annual,LATAM,Retail/E-comm,680.45,,0,
+ACCT11268,2024-05-01,Starter,Annual,EMEA,Manufacturing,179.76,44.0,0,
+ACCT11269,2025-07-01,Starter,Annual,North America,Media,98.28,24.0,1,2025-12
+ACCT11270,2025-06-01,Starter,Monthly,North America,Manufacturing,191.92,11.0,0,
+ACCT11271,2024-07-01,Growth,Monthly,EMEA,Healthcare,481.68,,1,2025-09
+ACCT11272,2024-08-01,Enterprise,Monthly,APAC,Healthcare,1940.33,88.0,0,
+ACCT11273,2024-01-01,Starter,Annual,North America,Software,165.95,24.0,0,
+ACCT11274,2024-12-01,Enterprise,Annual,North America,Financial Services,3014.5,21.0,0,
+ACCT11275,2024-09-01,Starter,Monthly,North America,Financial Services,120.92,,1,2025-05
+ACCT11276,2025-03-01,Starter,Monthly,North America,Media,70.34,,1,2025-11
+ACCT11277,2025-02-01,Starter,Monthly,North America,Media,188.53,,0,
+ACCT11278,2024-12-01,Enterprise,Monthly,North America,Media,3609.11,13.0,0,
+ACCT11279,2024-10-01,Enterprise,Annual,North America,Retail/E-comm,956.06,,0,
+ACCT11280,2025-06-01,Growth,Monthly,North America,Financial Services,551.0,50.0,0,
+ACCT11281,2024-06-01,Starter,Annual,APAC,Manufacturing,107.51,,0,
+ACCT11282,2024-09-01,Growth,Annual,LATAM,Healthcare,607.11,25.0,0,
+ACCT11283,2025-01-01,Starter,Monthly,EMEA,Manufacturing,83.81,-3.0,0,
+ACCT11284,2025-05-01,Starter,Monthly,North America,Financial Services,110.32,,0,
+ACCT11285,2024-12-01,Growth,Annual,EMEA,Healthcare,608.73,40.0,0,
+ACCT11286,2025-03-01,Starter,Annual,North America,Media,188.85,,0,
+ACCT11287,2024-12-01,Growth,Annual,APAC,Healthcare,588.14,58.0,0,
+ACCT11288,2024-08-01,Enterprise,Monthly,LATAM,Media,1921.06,16.0,0,
+ACCT11289,2025-07-01,Starter,Monthly,North America,Media,193.61,-22.0,1,2025-09
+ACCT11290,2024-06-01,Growth,Monthly,North America,Software,275.51,36.0,1,2025-06
+ACCT11291,2025-06-01,Starter,Monthly,EMEA,Software,51.31,,1,2025-07
+ACCT11292,2025-03-01,Starter,Monthly,LATAM,Manufacturing,113.91,45.0,0,
+ACCT11293,2024-03-01,Starter,Monthly,North America,Financial Services,122.62,,1,2025-10
+ACCT11294,2024-12-01,Enterprise,Monthly,EMEA,Financial Services,3610.52,,0,
+ACCT11295,2025-03-01,Starter,Monthly,North America,Media,77.21,,0,
+ACCT11296,2025-01-01,Growth,Monthly,EMEA,Financial Services,530.79,-42.0,0,
+ACCT11297,2024-08-01,Starter,Annual,EMEA,Media,167.63,,1,2024-10
+ACCT11298,2025-06-01,Starter,Monthly,LATAM,Financial Services,86.72,36.0,0,
+ACCT11299,2025-01-01,Enterprise,Annual,LATAM,Software,3748.67,61.0,0,
+ACCT11300,2025-01-01,Starter,Annual,North America,Healthcare,192.75,,0,
+ACCT11301,2024-09-01,Enterprise,Monthly,North America,Financial Services,4063.13,36.0,0,
+ACCT11302,2025-02-01,Growth,Annual,EMEA,Software,614.71,-18.0,0,
+ACCT11303,2025-08-01,Growth,Monthly,North America,Healthcare,791.34,,0,
+ACCT11304,2024-04-01,Growth,Monthly,EMEA,Media,452.51,34.0,1,2025-12
+ACCT11305,2025-05-01,Growth,Monthly,APAC,Software,860.99,,0,
+ACCT11306,2025-05-01,Growth,Monthly,EMEA,Retail/E-comm,868.3,90.0,0,
+ACCT11307,2025-02-01,Enterprise,Monthly,North America,Software,1100.06,25.0,0,
+ACCT11308,2024-08-01,Starter,Monthly,LATAM,Retail/E-comm,91.71,,1,2025-01
+ACCT11309,2024-06-01,Starter,Monthly,APAC,Software,96.93,-18.0,1,2024-08
+ACCT11310,2024-05-01,Growth,Monthly,EMEA,Financial Services,638.52,,0,
+ACCT11311,2024-03-01,Starter,Annual,EMEA,Software,191.69,32.0,0,
+ACCT11312,2024-05-01,Growth,Annual,North America,Financial Services,888.25,26.0,0,
+ACCT11313,2024-03-01,Enterprise,Monthly,North America,Software,1495.04,,0,
+ACCT11314,2024-05-01,Growth,Annual,EMEA,Retail/E-comm,721.37,28.0,0,
+ACCT11315,2024-12-01,Starter,Monthly,EMEA,Retail/E-comm,75.12,65.0,0,
+ACCT11316,2024-04-01,Starter,Annual,North America,Software,154.61,,0,
+ACCT11317,2024-08-01,Growth,Annual,EMEA,Manufacturing,686.21,41.0,0,
+ACCT11318,2024-11-01,Growth,Annual,North America,Media,344.09,,0,
+ACCT11319,2025-08-01,Growth,Annual,APAC,Software,549.86,-2.0,0,
+ACCT11320,2024-11-01,Growth,Monthly,North America,Media,700.4,,1,2025-08
+ACCT11321,2024-09-01,Growth,Annual,North America,Manufacturing,765.73,74.0,0,
+ACCT11322,2024-05-01,Enterprise,Monthly,APAC,Media,4270.81,-5.0,0,
+ACCT11323,2024-05-01,Growth,Annual,North America,Manufacturing,501.09,65.0,0,
+ACCT11324,2024-11-01,Growth,Monthly,EMEA,Financial Services,892.65,49.0,0,
+ACCT11325,2025-08-01,Starter,Monthly,North America,Media,196.12,39.0,0,
+ACCT11326,2025-03-01,Growth,Monthly,EMEA,Retail/E-comm,525.81,46.0,0,
+ACCT11327,2024-11-01,Starter,Monthly,North America,Retail/E-comm,128.59,,0,
+ACCT11328,2024-07-01,Starter,Annual,North America,Retail/E-comm,116.81,,1,2025-02
+ACCT11329,2025-04-01,Starter,Monthly,EMEA,Healthcare,67.02,61.0,1,2025-05
+ACCT11330,2024-08-01,Growth,Monthly,APAC,Healthcare,493.03,,1,2025-09
+ACCT11331,2024-06-01,Starter,Annual,EMEA,Software,100.73,27.0,0,
+ACCT11332,2024-12-01,Growth,Annual,North America,Software,224.2,-13.0,0,
+ACCT11333,2024-11-01,Starter,Annual,EMEA,Software,59.89,51.0,0,
+ACCT11334,2024-11-01,Starter,Monthly,North America,Media,122.18,51.0,0,
+ACCT11335,2025-04-01,Enterprise,Monthly,North America,Manufacturing,4160.76,20.0,0,
+ACCT11336,2024-01-01,Growth,Monthly,North America,Retail/E-comm,632.48,33.0,1,2024-05
+ACCT11337,2025-08-01,Starter,Annual,EMEA,Media,130.66,,1,2025-12
+ACCT11338,2024-02-01,Starter,Monthly,EMEA,Software,66.21,54.0,1,2024-04
+ACCT11339,2024-02-01,Growth,Annual,North America,Media,856.01,43.0,0,
+ACCT11340,2025-06-01,Growth,Annual,EMEA,Media,270.28,66.0,0,
+ACCT11341,2024-12-01,Growth,Annual,North America,Media,853.4,,0,
+ACCT11342,2024-07-01,Starter,Annual,North America,Retail/E-comm,168.05,,0,
+ACCT11343,2025-04-01,Starter,Monthly,APAC,Retail/E-comm,153.35,83.0,1,2025-06
+ACCT11344,2025-02-01,Starter,Annual,LATAM,Manufacturing,91.75,20.0,1,2025-05
+ACCT11345,2024-06-01,Growth,Monthly,LATAM,Healthcare,859.24,,0,
+ACCT11346,2025-03-01,Starter,Monthly,North America,Software,128.5,32.0,1,2025-05
+ACCT11347,2024-08-01,Enterprise,Monthly,EMEA,Media,3375.5,28.0,1,2025-08
+ACCT11348,2024-03-01,Growth,Annual,North America,Manufacturing,400.05,,0,
+ACCT11349,2024-05-01,Starter,Monthly,North America,Manufacturing,125.5,,1,2025-02
+ACCT11350,2024-03-01,Starter,Annual,North America,Manufacturing,81.79,48.0,0,
+ACCT11351,2024-04-01,Growth,Monthly,EMEA,Retail/E-comm,352.67,7.0,0,
+ACCT11352,2025-08-01,Enterprise,Annual,APAC,Retail/E-comm,2857.31,,0,
+ACCT11353,2024-07-01,Starter,Annual,North America,Retail/E-comm,115.19,47.0,1,2024-08
+ACCT11354,2025-07-01,Starter,Annual,North America,Healthcare,92.34,-28.0,0,
+ACCT11355,2025-03-01,Starter,Annual,North America,Financial Services,51.48,3.0,0,
+ACCT11356,2025-07-01,Growth,Monthly,North America,Media,437.04,52.0,0,
+ACCT11357,2024-05-01,Enterprise,Monthly,APAC,Financial Services,3413.22,,0,
+ACCT11358,2024-01-01,Growth,Monthly,North America,Financial Services,269.88,,0,
+ACCT11359,2025-05-01,Starter,Annual,North America,Media,113.59,19.0,0,
+ACCT11360,2024-08-01,Enterprise,Monthly,APAC,Media,3049.48,38.0,0,
+ACCT11361,2024-04-01,Growth,Monthly,North America,Healthcare,517.32,78.0,0,
+ACCT11362,2024-06-01,Enterprise,Monthly,LATAM,Healthcare,1005.06,58.0,0,
+ACCT11363,2024-09-01,Starter,Annual,North America,Healthcare,165.57,65.0,0,
+ACCT11364,2024-04-01,Starter,Monthly,APAC,Software,133.49,90.0,0,
+ACCT11365,2025-07-01,Starter,Monthly,EMEA,Retail/E-comm,183.76,9.0,1,2025-09
+ACCT11366,2024-04-01,Starter,Annual,EMEA,Software,181.86,-1.0,0,
+ACCT11367,2025-04-01,Starter,Monthly,EMEA,Healthcare,193.43,27.0,1,2025-11
+ACCT11368,2025-03-01,Growth,Monthly,EMEA,Retail/E-comm,229.52,,0,
+ACCT11369,2025-07-01,Growth,Annual,LATAM,Healthcare,632.07,,0,
+ACCT11370,2025-08-01,Starter,Annual,EMEA,Financial Services,194.24,25.0,0,
+ACCT11371,2024-02-01,Enterprise,Monthly,EMEA,Financial Services,1990.09,33.0,0,
+ACCT11372,2025-07-01,Growth,Monthly,APAC,Manufacturing,848.94,52.0,0,
+ACCT11373,2024-07-01,Growth,Annual,North America,Financial Services,403.86,1.0,0,
+ACCT11374,2025-02-01,Growth,Annual,North America,Software,525.78,100.0,0,
+ACCT11375,2024-05-01,Growth,Annual,EMEA,Healthcare,682.84,,0,
+ACCT11376,2024-08-01,Starter,Annual,North America,Healthcare,173.26,,1,2025-06
+ACCT11377,2025-05-01,Enterprise,Annual,North America,Financial Services,3608.36,33.0,0,
+ACCT11378,2024-09-01,Starter,Annual,EMEA,Manufacturing,55.52,,0,
+ACCT11379,2024-01-01,Starter,Monthly,North America,Software,145.43,95.0,0,
+ACCT11380,2025-08-01,Growth,Monthly,EMEA,Financial Services,749.97,,0,
+ACCT11381,2024-06-01,Growth,Monthly,APAC,Retail/E-comm,394.37,27.0,1,2025-05
+ACCT11382,2024-11-01,Starter,Monthly,LATAM,Retail/E-comm,89.07,,0,
+ACCT11383,2025-05-01,Growth,Monthly,LATAM,Software,883.4,,0,
+ACCT11384,2024-06-01,Starter,Annual,North America,Retail/E-comm,188.96,,0,
+ACCT11385,2024-08-01,Growth,Annual,APAC,Financial Services,677.34,36.0,0,
+ACCT11386,2025-02-01,Enterprise,Annual,LATAM,Manufacturing,3683.81,,0,
+ACCT11387,2024-06-01,Enterprise,Annual,North America,Media,4338.73,29.0,0,
+ACCT11388,2024-02-01,Growth,Monthly,North America,Media,202.73,7.0,0,
+ACCT11389,2024-07-01,Growth,Monthly,North America,Media,844.5,3.0,1,2025-06
+ACCT11390,2025-05-01,Growth,Annual,North America,Media,742.7,34.0,0,
+ACCT11391,2024-08-01,Starter,Annual,EMEA,Financial Services,103.14,24.0,0,
+ACCT11392,2025-08-01,Enterprise,Monthly,North America,Software,1104.81,,0,
+ACCT11393,2025-02-01,Growth,Monthly,North America,Media,615.73,,0,
+ACCT11394,2024-12-01,Growth,Monthly,North America,Financial Services,568.03,,0,
+ACCT11395,2024-08-01,Enterprise,Monthly,APAC,Retail/E-comm,3568.65,41.0,1,2025-12
+ACCT11396,2024-09-01,Growth,Monthly,North America,Healthcare,739.93,,0,
+ACCT11397,2024-08-01,Starter,Monthly,EMEA,Financial Services,192.9,29.0,0,
+ACCT11398,2025-03-01,Starter,Annual,LATAM,Software,85.39,,0,
+ACCT11399,2025-04-01,Growth,Monthly,APAC,Media,292.35,58.0,0,
+ACCT11400,2025-03-01,Enterprise,Monthly,North America,Media,1404.99,6.0,0,
+ACCT11401,2024-10-01,Enterprise,Monthly,North America,Healthcare,3422.63,71.0,1,2025-12
+ACCT11402,2025-02-01,Starter,Monthly,North America,Manufacturing,188.59,40.0,0,
+ACCT11403,2025-06-01,Growth,Annual,APAC,Retail/E-comm,637.8,,0,
+ACCT11404,2024-06-01,Starter,Monthly,North America,Healthcare,65.02,,1,2025-12
+ACCT11405,2024-07-01,Growth,Annual,EMEA,Healthcare,558.13,12.0,0,
+ACCT11406,2024-08-01,Growth,Annual,APAC,Financial Services,655.5,44.0,0,
+ACCT11407,2024-04-01,Starter,Annual,EMEA,Retail/E-comm,95.83,17.0,0,
+ACCT11408,2024-06-01,Growth,Monthly,APAC,Financial Services,494.07,,0,
+ACCT11409,2025-05-01,Starter,Annual,EMEA,Healthcare,170.01,61.0,0,
+ACCT11410,2025-03-01,Enterprise,Monthly,North America,Retail/E-comm,1693.37,52.0,0,
+ACCT11411,2024-07-01,Growth,Monthly,North America,Financial Services,367.48,,0,
+ACCT11412,2024-12-01,Enterprise,Annual,APAC,Retail/E-comm,1023.28,39.0,0,
+ACCT11413,2024-07-01,Starter,Monthly,North America,Retail/E-comm,56.79,34.0,1,2024-08
+ACCT11414,2025-07-01,Starter,Annual,North America,Retail/E-comm,122.66,,0,
+ACCT11415,2024-03-01,Growth,Annual,North America,Software,230.02,,0,
+ACCT11416,2024-08-01,Starter,Annual,EMEA,Retail/E-comm,91.43,,0,
+ACCT11417,2025-06-01,Growth,Monthly,LATAM,Healthcare,759.81,42.0,0,
+ACCT11418,2025-01-01,Starter,Monthly,APAC,Financial Services,197.2,,1,2025-06
+ACCT11419,2025-07-01,Starter,Monthly,North America,Manufacturing,157.96,49.0,0,
+ACCT11420,2024-07-01,Starter,Annual,North America,Software,53.03,12.0,0,
+ACCT11421,2024-12-01,Growth,Annual,EMEA,Manufacturing,792.63,59.0,0,
+ACCT11422,2025-03-01,Starter,Monthly,North America,Software,176.6,46.0,0,
+ACCT11423,2024-01-01,Starter,Monthly,North America,Retail/E-comm,98.14,-27.0,1,2024-07
+ACCT11424,2024-08-01,Starter,Monthly,EMEA,Media,144.74,,1,2025-08
+ACCT11425,2024-03-01,Growth,Annual,EMEA,Retail/E-comm,588.49,96.0,0,
+ACCT11426,2024-12-01,Starter,Monthly,North America,Financial Services,80.25,,0,
+ACCT11427,2025-08-01,Starter,Monthly,North America,Retail/E-comm,91.17,24.0,0,
+ACCT11428,2025-03-01,Growth,Monthly,LATAM,Financial Services,407.5,,0,
+ACCT11429,2024-09-01,Growth,Annual,APAC,Manufacturing,870.28,,0,
+ACCT11430,2024-01-01,Starter,Monthly,North America,Retail/E-comm,118.08,37.0,1,2024-11
+ACCT11431,2024-11-01,Enterprise,Annual,North America,Media,4125.33,42.0,0,
+ACCT11432,2025-08-01,Starter,Annual,EMEA,Healthcare,197.99,,0,
+ACCT11433,2024-11-01,Starter,Annual,LATAM,Healthcare,71.31,2.0,0,
+ACCT11434,2024-05-01,Growth,Annual,North America,Manufacturing,586.06,22.0,0,
+ACCT11435,2025-02-01,Growth,Monthly,APAC,Manufacturing,742.99,50.0,0,
+ACCT11436,2025-08-01,Growth,Monthly,EMEA,Retail/E-comm,626.24,,0,
+ACCT11437,2024-10-01,Growth,Monthly,North America,Retail/E-comm,349.88,,0,
+ACCT11438,2025-05-01,Starter,Monthly,North America,Media,160.98,,1,2025-08
+ACCT11439,2025-08-01,Growth,Monthly,North America,Financial Services,704.79,,1,2025-10
+ACCT11440,2024-09-01,Enterprise,Monthly,North America,Healthcare,2390.94,53.0,0,
+ACCT11441,2025-03-01,Starter,Monthly,EMEA,Financial Services,62.15,3.0,0,
+ACCT11442,2024-05-01,Growth,Monthly,North America,Healthcare,254.54,-1.0,0,
+ACCT11443,2024-06-01,Growth,Monthly,APAC,Manufacturing,308.88,-7.0,0,
+ACCT11444,2024-10-01,Growth,Monthly,EMEA,Financial Services,357.39,,1,2025-02
+ACCT11445,2025-04-01,Starter,Annual,LATAM,Software,172.15,22.0,0,
+ACCT11446,2024-12-01,Starter,Monthly,North America,Retail/E-comm,168.64,48.0,0,
+ACCT11447,2024-07-01,Growth,Monthly,APAC,Healthcare,358.73,-3.0,0,
+ACCT11448,2024-08-01,Enterprise,Monthly,LATAM,Healthcare,3844.59,57.0,0,
+ACCT11449,2024-01-01,Growth,Monthly,EMEA,Financial Services,624.1,,0,
+ACCT11450,2024-03-01,Starter,Annual,North America,Retail/E-comm,153.61,43.0,0,
+ACCT11451,2024-11-01,Growth,Monthly,EMEA,Manufacturing,585.82,33.0,0,
+ACCT11452,2024-10-01,Growth,Annual,APAC,Retail/E-comm,660.62,27.0,0,
+ACCT11453,2024-12-01,Growth,Annual,APAC,Manufacturing,492.25,10.0,0,
+ACCT11454,2024-05-01,Starter,Annual,EMEA,Financial Services,115.34,34.0,0,
+ACCT11455,2025-08-01,Growth,Annual,North America,Software,839.33,4.0,0,
+ACCT11456,2024-05-01,Starter,Annual,North America,Financial Services,176.91,100.0,0,
+ACCT11457,2024-01-01,Enterprise,Monthly,APAC,Financial Services,2594.55,82.0,0,
+ACCT11458,2024-08-01,Starter,Annual,APAC,Media,189.79,100.0,0,
+ACCT11459,2024-07-01,Starter,Monthly,North America,Manufacturing,133.6,10.0,0,
+ACCT11460,2024-11-01,Starter,Monthly,North America,Financial Services,172.56,,0,
+ACCT11461,2025-03-01,Growth,Monthly,APAC,Financial Services,214.87,,0,
+ACCT11462,2024-12-01,Growth,Monthly,North America,Healthcare,357.76,,0,
+ACCT11463,2024-05-01,Enterprise,Monthly,North America,Software,2074.58,,0,
+ACCT11464,2025-08-01,Starter,Monthly,EMEA,Manufacturing,128.14,63.0,1,2025-12
+ACCT11465,2024-04-01,Growth,Monthly,LATAM,Media,751.17,52.0,1,2025-09
+ACCT11466,2024-01-01,Starter,Monthly,EMEA,Software,62.62,-16.0,1,2024-12
+ACCT11467,2024-08-01,Starter,Monthly,North America,Retail/E-comm,111.12,,1,2025-06
+ACCT11468,2025-03-01,Starter,Annual,North America,Financial Services,66.72,,0,
+ACCT11469,2025-07-01,Growth,Annual,North America,Healthcare,621.77,26.0,0,
+ACCT11470,2025-07-01,Enterprise,Annual,LATAM,Retail/E-comm,964.74,54.0,0,
+ACCT11471,2024-11-01,Growth,Annual,North America,Software,570.75,25.0,0,
+ACCT11472,2024-05-01,Growth,Monthly,North America,Financial Services,423.89,60.0,0,
+ACCT11473,2025-08-01,Enterprise,Annual,North America,Manufacturing,2186.78,,0,
+ACCT11474,2025-04-01,Starter,Annual,North America,Financial Services,153.88,38.0,0,
+ACCT11475,2025-08-01,Growth,Annual,APAC,Retail/E-comm,505.07,56.0,0,
+ACCT11476,2025-07-01,Growth,Monthly,North America,Media,335.12,,0,
+ACCT11477,2024-11-01,Starter,Annual,EMEA,Software,95.0,47.0,0,
+ACCT11478,2024-12-01,Growth,Monthly,LATAM,Retail/E-comm,417.97,37.0,0,
+ACCT11479,2025-04-01,Starter,Annual,North America,Healthcare,161.62,53.0,0,
+ACCT11480,2025-08-01,Starter,Annual,North America,Financial Services,83.86,33.0,0,
+ACCT11481,2024-11-01,Starter,Annual,North America,Retail/E-comm,195.07,-27.0,0,
+ACCT11482,2025-05-01,Starter,Monthly,North America,Financial Services,137.45,26.0,0,
+ACCT11483,2024-12-01,Starter,Annual,North America,Financial Services,180.96,14.0,0,
+ACCT11484,2024-10-01,Starter,Monthly,LATAM,Retail/E-comm,115.89,5.0,1,2024-12
+ACCT11485,2025-07-01,Starter,Monthly,LATAM,Media,114.52,52.0,1,2025-08
+ACCT11486,2024-04-01,Starter,Annual,North America,Financial Services,145.37,,1,2025-01
+ACCT11487,2025-06-01,Growth,Annual,LATAM,Software,843.52,,0,
+ACCT11488,2025-02-01,Starter,Monthly,North America,Software,174.6,47.0,1,2025-10
+ACCT11489,2025-04-01,Growth,Annual,North America,Software,420.44,,0,
+ACCT11490,2025-03-01,Starter,Monthly,EMEA,Financial Services,63.35,,1,2025-07
+ACCT11491,2024-05-01,Growth,Monthly,North America,Financial Services,376.35,34.0,0,
+ACCT11492,2024-11-01,Starter,Monthly,EMEA,Software,49.44,,0,
+ACCT11493,2024-03-01,Enterprise,Annual,EMEA,Retail/E-comm,4053.32,70.0,0,
+ACCT11494,2025-06-01,Growth,Monthly,LATAM,Healthcare,891.44,38.0,0,
+ACCT11495,2025-03-01,Growth,Annual,APAC,Media,812.24,43.0,0,
+ACCT11496,2025-02-01,Starter,Monthly,North America,Healthcare,195.38,32.0,1,2025-09
+ACCT11497,2024-03-01,Growth,Annual,EMEA,Software,547.25,35.0,0,
+ACCT11498,2024-09-01,Starter,Monthly,EMEA,Financial Services,142.68,64.0,0,
+ACCT11499,2024-05-01,Growth,Monthly,EMEA,Media,874.72,44.0,1,2024-07
+ACCT11500,2024-01-01,Growth,Annual,EMEA,Media,543.14,,0,
+ACCT11501,2024-09-01,Growth,Monthly,North America,Software,884.31,68.0,1,2025-08
+ACCT11502,2025-02-01,Starter,Annual,North America,Manufacturing,108.88,,0,
+ACCT11503,2024-06-01,Starter,Monthly,North America,Retail/E-comm,112.7,42.0,0,
+ACCT11504,2024-07-01,Enterprise,Monthly,North America,Retail/E-comm,1146.0,36.0,1,2025-05
+ACCT11505,2024-09-01,Starter,Annual,LATAM,Software,98.06,62.0,1,2025-01
+ACCT11506,2024-09-01,Starter,Monthly,LATAM,Healthcare,65.92,,1,2025-07
+ACCT11507,2025-03-01,Growth,Annual,EMEA,Software,842.57,16.0,0,
+ACCT11508,2024-03-01,Enterprise,Annual,APAC,Software,1699.53,71.0,0,
+ACCT11509,2025-04-01,Starter,Annual,APAC,Financial Services,130.91,30.0,0,
+ACCT11510,2024-04-01,Starter,Annual,EMEA,Manufacturing,110.49,26.0,0,
+ACCT11511,2025-01-01,Growth,Annual,North America,Financial Services,674.18,76.0,0,
+ACCT11512,2024-03-01,Growth,Annual,North America,Manufacturing,628.98,,0,
+ACCT11513,2024-11-01,Starter,Monthly,North America,Software,98.48,42.0,0,
+ACCT11514,2025-01-01,Starter,Annual,LATAM,Software,54.86,57.0,0,
+ACCT11515,2024-03-01,Growth,Monthly,North America,Retail/E-comm,291.22,44.0,0,
+ACCT11516,2024-04-01,Starter,Annual,LATAM,Software,56.25,,0,
+ACCT11517,2024-02-01,Starter,Annual,North America,Financial Services,69.26,63.0,1,2024-08
+ACCT11518,2024-11-01,Starter,Annual,EMEA,Retail/E-comm,82.67,64.0,0,
+ACCT11519,2024-01-01,Growth,Monthly,LATAM,Software,375.91,36.0,0,
+ACCT11520,2024-04-01,Starter,Annual,North America,Software,168.9,40.0,0,
+ACCT11521,2024-07-01,Starter,Monthly,LATAM,Media,158.27,,0,
+ACCT11522,2024-11-01,Growth,Monthly,APAC,Manufacturing,423.15,,0,
+ACCT11523,2024-11-01,Growth,Annual,North America,Manufacturing,600.52,6.0,0,
+ACCT11524,2024-07-01,Starter,Annual,LATAM,Manufacturing,54.78,,0,
+ACCT11525,2024-06-01,Growth,Monthly,APAC,Software,702.64,71.0,0,
+ACCT11526,2024-01-01,Growth,Monthly,North America,Financial Services,807.71,4.0,1,2024-05
+ACCT11527,2025-03-01,Starter,Monthly,LATAM,Retail/E-comm,76.55,48.0,0,
+ACCT11528,2025-08-01,Growth,Monthly,North America,Retail/E-comm,647.4,73.0,0,
+ACCT11529,2024-08-01,Growth,Monthly,APAC,Retail/E-comm,441.27,,0,
+ACCT11530,2025-04-01,Growth,Annual,APAC,Retail/E-comm,696.54,-0.0,0,
+ACCT11531,2025-01-01,Enterprise,Annual,EMEA,Manufacturing,1432.96,20.0,0,
+ACCT11532,2024-03-01,Starter,Annual,EMEA,Healthcare,173.1,,0,
+ACCT11533,2025-05-01,Starter,Monthly,North America,Manufacturing,155.72,,0,
+ACCT11534,2025-02-01,Starter,Annual,North America,Healthcare,191.87,49.0,0,
+ACCT11535,2025-01-01,Growth,Monthly,North America,Software,523.86,48.0,0,
+ACCT11536,2024-09-01,Starter,Monthly,North America,Healthcare,110.31,,1,2025-10
+ACCT11537,2024-04-01,Starter,Annual,EMEA,Healthcare,88.86,58.0,0,
+ACCT11538,2024-12-01,Starter,Annual,EMEA,Healthcare,119.32,,0,
+ACCT11539,2025-05-01,Enterprise,Annual,EMEA,Software,1585.25,,0,
+ACCT11540,2024-04-01,Growth,Monthly,North America,Manufacturing,724.71,24.0,0,
+ACCT11541,2024-07-01,Starter,Monthly,North America,Software,190.43,49.0,0,
+ACCT11542,2025-07-01,Starter,Monthly,EMEA,Software,164.76,-34.0,0,
+ACCT11543,2025-08-01,Starter,Annual,North America,Financial Services,115.32,47.0,0,
+ACCT11544,2024-08-01,Starter,Monthly,North America,Media,131.37,15.0,1,2025-03
+ACCT11545,2025-01-01,Enterprise,Annual,APAC,Software,3176.9,53.0,0,
+ACCT11546,2025-01-01,Starter,Annual,North America,Manufacturing,101.88,-16.0,1,2025-04
+ACCT11547,2025-08-01,Growth,Annual,North America,Software,542.92,43.0,0,
+ACCT11548,2024-12-01,Starter,Monthly,North America,Healthcare,174.07,,0,
+ACCT11549,2025-03-01,Starter,Annual,APAC,Media,105.21,32.0,0,
+ACCT11550,2025-03-01,Starter,Monthly,APAC,Retail/E-comm,59.82,,0,
+ACCT11551,2024-10-01,Growth,Monthly,North America,Manufacturing,626.48,-24.0,0,
+ACCT11552,2025-08-01,Growth,Monthly,EMEA,Financial Services,326.79,77.0,1,2025-09
+ACCT11553,2024-06-01,Growth,Annual,APAC,Manufacturing,535.77,,0,
+ACCT11554,2025-05-01,Starter,Monthly,LATAM,Media,133.51,,0,
+ACCT11555,2025-04-01,Starter,Monthly,EMEA,Software,56.65,,1,2025-10
+ACCT11556,2024-12-01,Growth,Annual,APAC,Retail/E-comm,779.78,-14.0,0,
+ACCT11557,2024-08-01,Starter,Monthly,North America,Healthcare,91.66,24.0,1,2024-12
+ACCT11558,2025-01-01,Growth,Monthly,North America,Retail/E-comm,879.31,62.0,1,2025-10
+ACCT11559,2024-07-01,Enterprise,Monthly,North America,Software,1029.28,15.0,0,
+ACCT11560,2024-10-01,Starter,Monthly,North America,Manufacturing,82.56,,1,2025-04
+ACCT11561,2025-01-01,Enterprise,Monthly,North America,Media,2849.67,68.0,0,
+ACCT11562,2024-11-01,Growth,Annual,LATAM,Financial Services,603.12,,0,
+ACCT11563,2024-01-01,Enterprise,Monthly,LATAM,Healthcare,946.46,,1,2024-12
+ACCT11564,2025-04-01,Enterprise,Annual,APAC,Retail/E-comm,2940.05,,0,
+ACCT11565,2024-11-01,Starter,Annual,EMEA,Financial Services,155.86,44.0,0,
+ACCT11566,2024-08-01,Growth,Monthly,North America,Retail/E-comm,603.22,46.0,0,
+ACCT11567,2025-01-01,Starter,Annual,North America,Retail/E-comm,95.3,20.0,0,
+ACCT11568,2025-07-01,Growth,Monthly,EMEA,Media,418.43,82.0,1,2025-09
+ACCT11569,2025-05-01,Enterprise,Monthly,North America,Healthcare,1166.66,25.0,0,
+ACCT11570,2025-03-01,Growth,Annual,APAC,Healthcare,408.46,11.0,0,
+ACCT11571,2024-07-01,Growth,Annual,North America,Software,379.78,,0,
+ACCT11572,2024-04-01,Growth,Monthly,APAC,Manufacturing,773.35,,0,
+ACCT11573,2025-03-01,Starter,Annual,North America,Manufacturing,90.07,37.0,0,
+ACCT11574,2024-02-01,Starter,Monthly,North America,Media,167.01,48.0,1,2025-11
+ACCT11575,2024-07-01,Starter,Monthly,APAC,Media,111.57,-41.0,0,
+ACCT11576,2025-02-01,Growth,Monthly,APAC,Healthcare,543.47,,0,
+ACCT11577,2024-01-01,Growth,Annual,EMEA,Manufacturing,553.13,35.0,0,
+ACCT11578,2025-02-01,Starter,Annual,EMEA,Healthcare,85.73,-7.0,0,
+ACCT11579,2024-12-01,Growth,Monthly,LATAM,Software,311.34,,1,2025-03
+ACCT11580,2024-01-01,Growth,Annual,EMEA,Financial Services,530.13,61.0,0,
+ACCT11581,2024-08-01,Starter,Annual,North America,Manufacturing,93.73,73.0,0,
+ACCT11582,2024-04-01,Enterprise,Monthly,North America,Software,4434.36,,0,
+ACCT11583,2024-11-01,Starter,Annual,North America,Media,73.68,-15.0,0,
+ACCT11584,2025-02-01,Growth,Monthly,LATAM,Manufacturing,570.61,,1,2025-08
+ACCT11585,2024-07-01,Starter,Monthly,North America,Media,145.28,37.0,1,2025-06
+ACCT11586,2025-06-01,Starter,Monthly,APAC,Financial Services,144.68,,0,
+ACCT11587,2025-03-01,Starter,Annual,APAC,Software,167.78,,0,
+ACCT11588,2025-07-01,Enterprise,Monthly,North America,Financial Services,1538.43,-33.0,0,
+ACCT11589,2024-05-01,Growth,Monthly,North America,Retail/E-comm,502.6,38.0,0,
+ACCT11590,2024-01-01,Starter,Annual,North America,Software,86.64,,1,2024-05
+ACCT11591,2025-03-01,Starter,Monthly,EMEA,Financial Services,51.73,-26.0,1,2025-04
+ACCT11592,2024-06-01,Starter,Annual,North America,Manufacturing,179.17,,0,
+ACCT11593,2024-11-01,Enterprise,Annual,EMEA,Retail/E-comm,4220.26,34.0,0,
+ACCT11594,2025-04-01,Enterprise,Monthly,EMEA,Retail/E-comm,4358.48,,0,
+ACCT11595,2025-05-01,Enterprise,Monthly,North America,Retail/E-comm,2478.01,80.0,0,
+ACCT11596,2025-03-01,Growth,Annual,EMEA,Software,378.44,,1,2025-10
+ACCT11597,2024-05-01,Starter,Monthly,EMEA,Manufacturing,161.63,27.0,0,
+ACCT11598,2025-07-01,Growth,Annual,EMEA,Software,418.27,67.0,0,
+ACCT11599,2024-05-01,Growth,Annual,North America,Retail/E-comm,802.82,,0,

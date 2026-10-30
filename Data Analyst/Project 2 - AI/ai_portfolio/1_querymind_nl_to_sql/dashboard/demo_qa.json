@@ -1,0 +1,238 @@
+[
+  {
+    "id": "q01",
+    "question": "What was total sales revenue in Q4 2025 (Oct-Dec)?",
+    "sql": "SELECT ROUND(SUM(si.line_total),2) AS total_revenue\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' AND t.transaction_date BETWEEN '2025-10-01' AND '2025-12-31';",
+    "columns": [
+      "total_revenue"
+    ],
+    "rows": [
+      [
+        1912295.82
+      ]
+    ],
+    "insight": "Q4 2025 generated $1,912,295.82 in completed-sale revenue, the strongest quarter in the dataset -- consistent with the built-in holiday-season seasonality (Nov/Dec are weighted ~35-55% above baseline)."
+  },
+  {
+    "id": "q02",
+    "question": "Which store had the highest total revenue in 2025?",
+    "sql": "SELECT s.store_name, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 JOIN stores s ON s.store_id=t.store_id\n                 WHERE t.status='Completed' AND t.transaction_date BETWEEN '2025-01-01' AND '2025-12-31'\n                 GROUP BY s.store_id ORDER BY revenue DESC LIMIT 1;",
+    "columns": [
+      "store_name",
+      "revenue"
+    ],
+    "rows": [
+      [
+        "Store #106",
+        336698.92
+      ]
+    ],
+    "insight": "Store #106 leads all 24 stores with $336,698.92 in 2025 revenue, roughly 8% ahead of the next-highest store -- worth understanding whether that's driven by store type, region, or local demand before using it as a template for underperforming stores."
+  },
+  {
+    "id": "q03",
+    "question": "What is the average transaction value by channel?",
+    "sql": "WITH txn_totals AS (\n                     SELECT t.transaction_id, t.channel, SUM(si.line_total) AS txn_total\n                     FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                     WHERE t.status='Completed' GROUP BY t.transaction_id)\n                 SELECT channel, ROUND(AVG(txn_total),2) AS avg_transaction_value FROM txn_totals GROUP BY channel;",
+    "columns": [
+      "channel",
+      "avg_transaction_value"
+    ],
+    "rows": [
+      [
+        "In-Store",
+        312.12
+      ],
+      [
+        "Online",
+        311.92
+      ]
+    ],
+    "insight": "Average transaction value is nearly identical between In-Store ($312.12) and Online ($311.92) -- channel doesn't meaningfully affect basket size here, so channel-mix shifts should be evaluated on cost-to-serve and conversion, not AOV."
+  },
+  {
+    "id": "q04",
+    "question": "How many loyalty members made a purchase in November 2025?",
+    "sql": "SELECT COUNT(DISTINCT t.customer_id)\n                 FROM sales_transactions t JOIN customers c ON c.customer_id=t.customer_id\n                 WHERE c.loyalty_member=1 AND t.status='Completed'\n                   AND t.transaction_date BETWEEN '2025-11-01' AND '2025-11-30';",
+    "columns": [
+      "COUNT(DISTINCT t.customer_id)"
+    ],
+    "rows": [
+      [
+        724
+      ]
+    ],
+    "insight": "724 loyalty members purchased in November 2025, giving Marketing a concrete, addressable list size for any holiday-season loyalty campaign targeting."
+  },
+  {
+    "id": "q05",
+    "question": "What are the top 5 best-selling products by quantity sold?",
+    "sql": "SELECT p.product_name, SUM(si.quantity) AS total_qty\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' GROUP BY p.product_id ORDER BY total_qty DESC LIMIT 5;",
+    "columns": [
+      "product_name",
+      "total_qty"
+    ],
+    "rows": [
+      [
+        "Accessories Item 5125",
+        562
+      ],
+      [
+        "Apparel Item 5195",
+        546
+      ],
+      [
+        "Outdoor Gear Item 5169",
+        546
+      ],
+      [
+        "Outdoor Gear Item 5116",
+        545
+      ],
+      [
+        "Outdoor Gear Item 5035",
+        539
+      ]
+    ],
+    "insight": "The top 5 best-sellers by units are led by an Accessories item (562 units) but are otherwise dominated by Outdoor Gear (3 of 5 spots) -- Outdoor Gear is punching above its ~16% share of the product catalog in unit velocity."
+  },
+  {
+    "id": "q06",
+    "question": "Which product category generates the most revenue?",
+    "sql": "SELECT p.category, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' GROUP BY p.category ORDER BY revenue DESC LIMIT 1;",
+    "columns": [
+      "category",
+      "revenue"
+    ],
+    "rows": [
+      [
+        "Electronics",
+        3163854.1
+      ]
+    ],
+    "insight": "Electronics is the top-revenue category at $3,163,854.10, despite representing only ~12% of the product catalog -- its high average selling price is doing the work; a unit-volume ranking would likely tell a different story."
+  },
+  {
+    "id": "q08",
+    "question": "What is the average discount percentage applied on transactions in the West region?",
+    "sql": "SELECT ROUND(AVG(si.discount_pct)*100,2) AS avg_discount_pct\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 JOIN stores s ON s.store_id=t.store_id WHERE s.region='West';",
+    "columns": [
+      "avg_discount_pct"
+    ],
+    "rows": [
+      [
+        4.43
+      ]
+    ],
+    "insight": "Transactions in the West region carry a 4.43% average discount, in line with the other regions -- there's no evidence West is being over-discounted relative to the rest of the chain."
+  },
+  {
+    "id": "q11",
+    "question": "Which region has the highest average transaction value?",
+    "sql": "WITH txn_totals AS (\n                     SELECT t.transaction_id, s.region, SUM(si.line_total) AS txn_total\n                     FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                     JOIN stores s ON s.store_id=t.store_id WHERE t.status='Completed' GROUP BY t.transaction_id)\n                 SELECT region, ROUND(AVG(txn_total),2) AS avg_txn_value FROM txn_totals\n                 GROUP BY region ORDER BY avg_txn_value DESC LIMIT 1;",
+    "columns": [
+      "region",
+      "avg_txn_value"
+    ],
+    "rows": [
+      [
+        "South",
+        313.43
+      ]
+    ],
+    "insight": "The South region has the highest average transaction value at $313.43, only marginally above the other regions (~$310-312) -- not a large enough gap to be a standalone strategic signal on its own."
+  },
+  {
+    "id": "q12",
+    "question": "What's the return rate by store type?",
+    "sql": "SELECT s.store_type, ROUND(100.0*SUM(CASE WHEN t.status='Returned' THEN 1 ELSE 0 END)/COUNT(*),2) AS return_rate_pct\n                 FROM sales_transactions t JOIN stores s ON s.store_id=t.store_id\n                 GROUP BY s.store_type ORDER BY return_rate_pct DESC;",
+    "columns": [
+      "store_type",
+      "return_rate_pct"
+    ],
+    "rows": [
+      [
+        "Flagship",
+        6.48
+      ],
+      [
+        "Strip Mall",
+        6.04
+      ],
+      [
+        "Mall",
+        6.02
+      ],
+      [
+        "Outlet",
+        5.73
+      ]
+    ],
+    "insight": "Return rates are tightly clustered across store types (5.7%-6.5%), with Flagship stores highest at 6.48% -- close enough that this likely reflects overall product/category mix rather than a store-type-specific service issue."
+  },
+  {
+    "id": "q17",
+    "question": "List the top 3 products by revenue in the Footwear category.",
+    "sql": "SELECT p.product_name, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE p.category='Footwear' AND t.status='Completed'\n                 GROUP BY p.product_id ORDER BY revenue DESC LIMIT 3;",
+    "columns": [
+      "product_name",
+      "revenue"
+    ],
+    "rows": [
+      [
+        "Footwear Item 5170",
+        90788.17
+      ],
+      [
+        "Footwear Item 5177",
+        90604.12
+      ],
+      [
+        "Footwear Item 5037",
+        88120.09
+      ]
+    ],
+    "insight": "The top 3 Footwear products by revenue are within 3% of each other ($88.1K-$90.8K) -- a genuinely competitive category rather than one dominated by a single hero SKU."
+  },
+  {
+    "id": "q19",
+    "question": "What is the loyalty membership rate among customers who made a purchase in the South region?",
+    "sql": "WITH south_customers AS (\n                     SELECT DISTINCT t.customer_id FROM sales_transactions t JOIN stores s ON s.store_id=t.store_id\n                     WHERE s.region='South' AND t.status='Completed')\n                 SELECT ROUND(100.0*SUM(c.loyalty_member)/COUNT(*),2) AS loyalty_rate_pct\n                 FROM south_customers sc JOIN customers c ON c.customer_id=sc.customer_id;",
+    "columns": [
+      "loyalty_rate_pct"
+    ],
+    "rows": [
+      [
+        38.73
+      ]
+    ],
+    "insight": "38.73% of South-region purchasers are loyalty members, in line with the ~38% loyalty rate in the customer base overall -- the South region isn't under- or over-indexed on loyalty enrollment among buyers."
+  },
+  {
+    "id": "q20",
+    "question": "What's total revenue by payment method, from highest to lowest?",
+    "sql": "SELECT t.payment_method, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                 WHERE t.status='Completed' GROUP BY t.payment_method ORDER BY revenue DESC;",
+    "columns": [
+      "payment_method",
+      "revenue"
+    ],
+    "rows": [
+      [
+        "Credit Card",
+        6008036.55
+      ],
+      [
+        "Debit Card",
+        3243917.15
+      ],
+      [
+        "Cash",
+        1668233.85
+      ],
+      [
+        "Gift Card",
+        987521.87
+      ]
+    ],
+    "insight": "Credit Card is the dominant payment method at $6.0M (46% of revenue), more than 3x Cash ($1.67M) -- any payment-processing fee renegotiation should prioritize the Credit Card rate given its outsized share."
+  }
+]

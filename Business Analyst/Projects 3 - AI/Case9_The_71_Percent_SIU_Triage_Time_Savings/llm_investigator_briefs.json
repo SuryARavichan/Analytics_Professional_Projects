@@ -1,0 +1,78 @@
+{
+  "note": "AI-synthesized investigator briefs for the 12 highest predicted-fraud-probability claims in the held-out test set, scored by the chosen production model. These briefs are a triage/prioritization aid: every brief must be reviewed by a licensed human SIU investigator before any coverage determination is made. No claim here is denied, delayed, or adjudicated by this output.",
+  "model": "Random Forest (chosen production model, see model_results.json)",
+  "briefs": [
+    {
+      "policy_number": 524836,
+      "fraud_probability": 0.774,
+      "actual_fraud_reported": "N",
+      "brief": "Highest-risk claim in the queue: a 3-vehicle collision reported as $56,430 total (52x the $1,082 annual premium) on a Honda CRV, with the fire department -- not police -- listed as the responding authority and no police report on file. Two bodily injuries are recorded but the injury-claim line is $0, an internal inconsistency worth a first look, and the insured shows a $55,000 capital loss on file, a financial-pressure signal an investigator may want to weigh alongside the claim."
+    },
+    {
+      "policy_number": 963761,
+      "fraud_probability": 0.75,
+      "actual_fraud_reported": "N",
+      "brief": "Incident is logged as a single-vehicle collision but the collision_type field reads 'Rear Collision' -- a wording mismatch worth confirming with the insured before anything else. The $60,600 claim runs about 41x the $1,460 annual premium, and although a police report and 2 witnesses are on file, fire (not police) was the responding authority for a claimed rear-end event."
+    },
+    {
+      "policy_number": 991553,
+      "fraud_probability": 0.748,
+      "actual_fraud_reported": "Y",
+      "brief": "Confirmed-fraud case in the training history, and the pattern here matches: a $71,190 claim (77x annual premium) on a 27-year-old Mercedes C300, zero witnesses to a claimed rear collision, and -- again -- a $0 injury-claim line despite 2 reported bodily injuries. Property-damage status is unrecorded ('?'), leaving a gap in the file an investigator should close before any payout discussion."
+    },
+    {
+      "policy_number": 117862,
+      "fraud_probability": 0.724,
+      "actual_fraud_reported": "N",
+      "brief": "A 4-vehicle collision reported at 2:00 AM -- an unusual hour for a multi-car event -- with a $72,800 claim running 74x the $979 annual premium on a 26-year-old Honda Accord. The injury-claim amount ($14,560) is fully booked despite 0 recorded bodily injuries, and the insured shows a $67,000 capital loss on file; both details are worth confirming against the police report before proceeding."
+    },
+    {
+      "policy_number": 947598,
+      "fraud_probability": 0.711,
+      "actual_fraud_reported": "N",
+      "brief": "Side-collision claim reported at 1:00 AM with property-damage status unrecorded ('?') despite a police report on file -- an incomplete documentation trail for a $66,660 claim (60x annual premium). The insured has an 18-year tenure and a $51,300 capital gain on record, which cuts against a pure financial-distress narrative even as the odd hour and missing field keep this in the review queue."
+    },
+    {
+      "policy_number": 532330,
+      "fraud_probability": 0.709,
+      "actual_fraud_reported": "Y",
+      "brief": "Second confirmed-fraud case in the top tier: police were contacted for this 3-vehicle, 2:00 AM collision, but the police_report_available field reads 'NO' -- police involvement without a corroborating report is a real inconsistency, not a coincidence. The $80,850 claim is the largest in this batch (55x annual premium), the policyholder has only a 9-year tenure, and a $5,000,000 umbrella limit sits on a policy with a comparatively modest $1,460 annual premium."
+    },
+    {
+      "policy_number": 689034,
+      "fraud_probability": 0.708,
+      "actual_fraud_reported": "N",
+      "brief": "Single-vehicle claim reported at midnight, authorities_contacted logged as 'Other' rather than police, and police_report_available is 'NO' -- three separate gaps in third-party corroboration for an $83,160 claim (76x the $1,093 annual premium). The insured's capital position shows a $27,700 gain against a $72,400 loss the same year, and a $4,000,000 umbrella limit is on file, both worth a quick underwriting-file cross-check."
+    },
+    {
+      "policy_number": 804219,
+      "fraud_probability": 0.705,
+      "actual_fraud_reported": "N",
+      "brief": "Longer-tenured policyholder (27.5 years) with a $59,500 side-collision claim (37x annual premium); property damage is confirmed YES and 3 witnesses are on record, but police_report_available is unrecorded ('?') despite ambulance response -- the missing report, not the claim shape, is what an investigator should chase down first here."
+    },
+    {
+      "policy_number": 473338,
+      "fraud_probability": 0.704,
+      "actual_fraud_reported": "N",
+      "brief": "Largest claim amount in this batch at $85,250 (55x annual premium) on a 26-year-old Mercedes E400, filed by a 35-year policyholder -- a claim size that stands out sharply against both the vehicle's age and the account's long, otherwise unremarkable history. Police report is unavailable ('NO') despite an ambulance dispatch and confirmed property damage, and the insured's capital-loss line ($67,800) again outweighs the recorded gain."
+    },
+    {
+      "policy_number": 517240,
+      "fraud_probability": 0.703,
+      "actual_fraud_reported": "Y",
+      "brief": "Third confirmed-fraud case in the batch: a $63,840 front-collision claim (47x annual premium) reported at 10:00 PM with 0 bodily injuries recorded, yet the injury-claim line still carries $10,640 -- the same injury-claim-without-injury pattern seen in two other flagged claims in this set. Police report and property damage are both confirmed YES, so the documentation looks clean on its face; the amount mismatch is the detail worth a second look."
+    },
+    {
+      "policy_number": 475588,
+      "fraud_probability": 0.691,
+      "actual_fraud_reported": "Y",
+      "brief": "Fourth confirmed-fraud case: police were the contacted authority for this 3:00 AM single-vehicle collision, yet both police_report_available and property_damage are unrecorded ('?') -- an authority-contacted-but-undocumented pattern echoing claim 532330 above. Zero witnesses are on file for a $59,000 claim (52x the $1,134 annual premium), on a policy with a comparatively short 13-year tenure."
+    },
+    {
+      "policy_number": 795686,
+      "fraud_probability": 0.689,
+      "actual_fraud_reported": "Y",
+      "brief": "Fifth and final confirmed-fraud case in this top-12 set: a 3-vehicle collision with zero witnesses and police_report_available marked 'NO' despite fire department response, on a $64,000 claim (46x annual premium) filed against a 28-year-old BMW X6. A $4,000,000 umbrella limit sits on the policy -- the third claim in this batch to pair a large umbrella limit with an unusually high claim-to-premium ratio, a pattern worth flagging across cases, not just within this one."
+    }
+  ]
+}

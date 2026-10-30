@@ -1,0 +1,1404 @@
+{
+  "coder": "LLM open coding pass (Claude, single coder, no second-rater check)",
+  "n_reviews": 120,
+  "taxonomy": {
+    "CONTENT": "Shallow, thin, or outdated content",
+    "PACING": "Pacing & prerequisite mismatch",
+    "ASSIGN": "Assignment / quiz design friction",
+    "INSTR": "Instructor delivery & clarity",
+    "TECH": "Platform / technical issues",
+    "PRICE": "Price & paywall friction",
+    "PRACTICAL": "Practical, real-world applicability (praise)",
+    "PRAISE": "Generic enthusiastic praise"
+  },
+  "reviews": [
+    {
+      "id": 6536,
+      "stars": 1,
+      "review_preview": "I am very disappointed about the content. It is not a course. Pr David Germano is just reading text. No design no learning experience. I would learn much better with just reading a book. It is a shame I was very interested in the subject.",
+      "themes": [
+        "INSTR",
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity",
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 90601,
+      "stars": 2,
+      "review_preview": "What's there is ok, but there is only a few minutes of lecture material each week.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 63421,
+      "stars": 2,
+      "review_preview": "i do really disappointed because when professor starts the third & 4th week he was only throwing the information without enough explanation so i had to read more about the topics to pass the quiz .",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 16836,
+      "stars": 1,
+      "review_preview": "I'm sorry that I'm going to sound harsh, but this course is useless.It touches so many different topics without going deeply into any of them. All you get is a basic knowledge about All Things Cyber\u2122.The recommended readings are all over the place, the video captions look like they're just a basic speech recognition and like nobody actually proof read them. They're full of errors. Lecturers say one word, captions show a completely different word. Plus, they're full of spelling errors. (Kadafi \u2026",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 90156,
+      "stars": 2,
+      "review_preview": "So I'll start with the positives. The material was appropriate and interesting and well presented. CJ Taylor is an enthusiastic lecturer and the material was presented in an enjoyable easy to understand way and having finished the course, I definitely want to learn more about computational motion planning.The problems I have with this course though are numerous. This is the second part of the Robotics Specialization and compared to the first part, this course was very weak. There was very \u2026",
+      "themes": [
+        "CONTENT",
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content",
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 16018,
+      "stars": 1,
+      "review_preview": "This course doesn't offer much of a learning curve. I would rather suggest taking Data Visualization Using Tableau by Duke University.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 39521,
+      "stars": 3,
+      "review_preview": "Very basic and the guy in the video was just reading out things on slides which made it boring",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 78777,
+      "stars": 2,
+      "review_preview": "This course SEEMS to be a great course. But personally I think it's not.It talks about so many things but none of them are explained clearly. I can't get the picture of this field clearly.The assignment looks nice. But it's not. First, it's not well-organized. Sometimes you need to look at next week's course to do this week's quiz. The programming assignment is VERY VERY unsatisfying. It's not explained clearly; there's no helpful instruction; and it is very confusing. You need to spend hours \u2026",
+      "themes": [
+        "ASSIGN",
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction",
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 16906,
+      "stars": 2,
+      "review_preview": "This course is good but TOO FAR from the real content this specialisation look for (or at least, I was expecting).",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 21170,
+      "stars": 4,
+      "review_preview": "Great course",
+      "themes": [
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 90768,
+      "stars": 1,
+      "review_preview": "The video lectures provide an introduction to quadrotor flight dynamics and path planning. The lectures are ok.Unfortunately:At least one of the coding assignments has a significant bug in the termination condition. The mentors will ignore any help requests that deal with the bug in their code.The assignments involve a lot of hand tuning of PD controllers. That's a reasonable task to perform once or twice, but it rapidly becomes extremely tedious and detracts from the other materials that are \u2026",
+      "themes": [
+        "TECH",
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Platform / technical issues",
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 104321,
+      "stars": 2,
+      "review_preview": "This course can only be taken who have good knowledge in programming.Although there is a assessment quiz at the start of the course It needs to kept in mind that since this course is part of specialization,most people would take it and not all of them are programmers.This course needs a revamp to suit all sorts of security enthusiasts.",
+      "themes": [
+        "PACING"
+      ],
+      "theme_labels": [
+        "Pacing & prerequisite mismatch"
+      ]
+    },
+    {
+      "id": 80929,
+      "stars": 2,
+      "review_preview": "Only few starting videos give new information and techniques, the rest 80% is quite useless. Course would be much better if it gives real tips and techniques rather than constant repetitions of the same information in different forms. If you read the course contents - you already get 75% of what is presented in the videos.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 7206,
+      "stars": 2,
+      "review_preview": "The course a materials are interesting and with significant value, same comment on the teachers, this would be perfect if the third party(the VM) is working fine, I can't say I'm happy about the course where the frustration is probably the right word describing my feeling right now, wish me luck for this week, I might pass might not ......",
+      "themes": [
+        "TECH"
+      ],
+      "theme_labels": [
+        "Platform / technical issues"
+      ]
+    },
+    {
+      "id": 41139,
+      "stars": 3,
+      "review_preview": "A whimsical introduction to game design and the springboard for a Specialization Certificate, therefore important to take.",
+      "themes": [
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 14669,
+      "stars": 3,
+      "review_preview": "It's a good preview, but very little is actually learned here.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 5214,
+      "stars": 5,
+      "review_preview": "Great explanation with real world examples! My basics of probability and inferential statistics are rock solid now!",
+      "themes": [
+        "PRACTICAL"
+      ],
+      "theme_labels": [
+        "Practical, real-world applicability (praise)"
+      ]
+    },
+    {
+      "id": 60584,
+      "stars": 1,
+      "review_preview": "Lousy course.....boring teacher",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 103860,
+      "stars": 3,
+      "review_preview": "There are only a few hours of content across the five weeks. The whole course can be done in a single evening. However, if you try this starting from no programming experience it will likely be extremely hard to complete. Since the course has as a prerequisite that you can already code this shouldn't be an issue for anyone.",
+      "themes": [
+        "CONTENT",
+        "PACING"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content",
+        "Pacing & prerequisite mismatch"
+      ]
+    },
+    {
+      "id": 50086,
+      "stars": 4,
+      "review_preview": "Great course! This course deep dives into the Python and provided me immediate hands on coding. I enjoyed experiments with this language. The quizzes and final exam were tough but fair. The only complaint I have is that the python visualization tool quiz questions were confusing. I like the visualization tool; it allows one to view code execution which was a must for this course.",
+      "themes": [
+        "PRACTICAL"
+      ],
+      "theme_labels": [
+        "Practical, real-world applicability (praise)"
+      ]
+    },
+    {
+      "id": 94684,
+      "stars": 1,
+      "review_preview": "Unfortunately, this specific course lacks in-depth information and problems and exercises in order to get an individual to explore the wide subject, that is, statistics.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 99652,
+      "stars": 1,
+      "review_preview": "I had great expectations, but the course focuses on really basic stuff. If you have worked with spreadsheets before, it won't help much. If you haven't, it will not teach you how to use it.",
+      "themes": [
+        "CONTENT",
+        "PACING"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content",
+        "Pacing & prerequisite mismatch"
+      ]
+    },
+    {
+      "id": 17318,
+      "stars": 1,
+      "review_preview": "Th first three classes are very 'thin' in content and the assignments are easy. The fourth class is basically optional and it has TONS of content. What's the point?",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 30041,
+      "stars": 3,
+      "review_preview": "Explanations and examples are not so good.",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 69549,
+      "stars": 1,
+      "review_preview": "Terrible. Had to verify multiple times. Audio quiz had no sound (struck-thru speaker icon I couldn't fix.)I'd be disappointed with Cousera for foisting this trash if I hadn't taken \"Learning How to Learn,\" much less buggy.Would disenroll if there was any way to do so.",
+      "themes": [
+        "TECH"
+      ],
+      "theme_labels": [
+        "Platform / technical issues"
+      ]
+    },
+    {
+      "id": 93407,
+      "stars": 2,
+      "review_preview": "This course was difficult for me to grasp. The instructor (I believe) assumes that all participants have some background in programming, and since I do not, I have a very difficult time following the examples. I bought the entire series of classes, but need to retake this one after I read some more from other sources and have had a chance to digest what's here.",
+      "themes": [
+        "PACING"
+      ],
+      "theme_labels": [
+        "Pacing & prerequisite mismatch"
+      ]
+    },
+    {
+      "id": 6114,
+      "stars": 1,
+      "review_preview": "I find the week 6 of this course completely irrelevant. Also, I'm attending courses on Coursera to learn and quizzes are IMO an essential part of that process, but definitely not essays. For me personally, essays are just waste of time and there's nothing beneficial about them.Another thing that bugs me is how questionably and often misleadingly are thermodynamical laws interpreted by the professors in this course.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 85166,
+      "stars": 5,
+      "review_preview": "excellent teaching",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 38589,
+      "stars": 3,
+      "review_preview": "The Teacher is not a communicator.",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 75421,
+      "stars": 5,
+      "review_preview": "really great!",
+      "themes": [
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 5703,
+      "stars": 1,
+      "review_preview": "This course gives good perspective on innovation process and how to bring idea to life. However it was disappointing to me that content of the course has nothing to do with Art and Culture.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 17299,
+      "stars": 3,
+      "review_preview": "Found the assignments were 'very loosely' aligned with the lecture material and had poorly formed problems in places.Lectures were reasonably good but not quite up to the standard set with other U of W Data Science courses or other University Data Science / Machine Learning courses I have taken.",
+      "themes": [
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 40774,
+      "stars": 1,
+      "review_preview": "mind-numbingly boring",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 12927,
+      "stars": 5,
+      "review_preview": "It is a great introduction to the topic and does not require previous knowledge to grasp the concepts. Simple and easy to understand",
+      "themes": [
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 61597,
+      "stars": 2,
+      "review_preview": "I think this course could have been more interesting. It was very dry with just slides and majority of the examples were not explained well. Especially the one about the marketing plan was not about plan but about presentation skills. This course content definitely needs update.",
+      "themes": [
+        "INSTR",
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity",
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 38768,
+      "stars": 5,
+      "review_preview": "Professor Picker masterfully wraps law and economics into a gripping story. I have enrolled in several courses before, but this is the first course I went through from A to Z. And thoroughly enjoyed.The material is engaging, the audio and video is brilliant, and the delivery is flawless. I would recommend this to anyone with any interest in the Internet economy.",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 93983,
+      "stars": 2,
+      "review_preview": "Excellent video materials---one of the best classes on this subject, but there has been no support. Missing and incorrect spreadsheets for assignments and no response from TAs for days at a time. This could be a great class if they get the bugs fixec.",
+      "themes": [
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 24934,
+      "stars": 1,
+      "review_preview": "This course should be called \"Intro to fundamentals of website design\". You may learn, in the process of a few days, how to create a website, but not \"how to create a website in a weekend\".",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 99432,
+      "stars": 5,
+      "review_preview": "This course is one of the best that I found on the internet",
+      "themes": [
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 24395,
+      "stars": 1,
+      "review_preview": "Not at all what I expected--big disappointment",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 93605,
+      "stars": 1,
+      "review_preview": "The video lectures will help you to pass the quizzes, as they are primarily theory and background. The lectures will not, however, aide you in any way in completing the programming assignments. The first programming assignment is extremely difficult and very little is done in the lectures, the textbook, or in swirl to pull all of the pieces together prior to the first programming assignment/quiz. There are so many disparate concepts, that it would be nice if the instructor could at the very \u2026",
+      "themes": [
+        "ASSIGN",
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction",
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 29746,
+      "stars": 1,
+      "review_preview": "Perhaps this class would be good for a non - native english speaker. I went through the first, maybe, five videos. From what I could tell, I learned all of the stuff in this class by the age of 10. If this class is for people who english is a second language, it should be more obviose.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 4744,
+      "stars": 2,
+      "review_preview": "The material could be exciting but the presentation is dull. The pass mark on the quizzes is around 80%. As these courses are supposed to be for interest why do you need 80% to pass?",
+      "themes": [
+        "INSTR",
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity",
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 62531,
+      "stars": 1,
+      "review_preview": "Didn't think that this is the best course for people who want to learn about Digital Marketing. The learning process is very slow and sometimes I felt that more could be learnt by just reading a number of books or articles on this topic.There is no dialogue with the professor (or anyone who has more experience or knowledge, the assignments are checked by people who are also taking this course. Though one would expect to learn from the assignments and mistakes he or she makes during it. Instead \u2026",
+      "themes": [
+        "ASSIGN",
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction",
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 84868,
+      "stars": 5,
+      "review_preview": "Great course and great teacher!",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 48546,
+      "stars": 3,
+      "review_preview": "Just a basic introduction to computer science.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 16863,
+      "stars": 1,
+      "review_preview": "Too much statistics, too much coding and inadequate instruction. This is not a coding specialization and if I wanted to learn coding I would have taken a coding course! This 9 weeks course has been a nightmare!",
+      "themes": [
+        "PACING",
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Pacing & prerequisite mismatch",
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 89957,
+      "stars": 3,
+      "review_preview": "Ok, it's an introduction, but it could at least show us some math or pseudocodes. A part from that, the course is really awesome. Well structured classes, good explanations and incredible interviews",
+      "themes": [
+        "CONTENT",
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content",
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 102682,
+      "stars": 1,
+      "review_preview": "All lecture, no use of media",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 69551,
+      "stars": 1,
+      "review_preview": "Unfortunately, not very engaging.",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 644,
+      "stars": 1,
+      "review_preview": "The lectures are just videos of the professor bloviating about Jefferson. There is nothing academic about this course.",
+      "themes": [
+        "INSTR",
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity",
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 19203,
+      "stars": 2,
+      "review_preview": "The information in the videos was very interesting and well presented. I feel like I learned a lot. However, the quizzes and tests seemed to be of a very different level, and often covered material that was hardly discussed in the lectures. I understand that students are expected to do independent learning of material, but the gulf between lectures and test difficulty was extreme. If others were interested in learning about the basics of music theory, I would not recommend this course.",
+      "themes": [
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 32667,
+      "stars": 2,
+      "review_preview": "I was most excited about taking this class (in fact, it's how I found the specialization as a whole) and I did not get as much out of it as I was hoping for. :-\\ I think that it's geared to too wide of an audience, so we didn't get as specific as I was anticipating. I also felt that a lot of the time of the videos were taken up by telling us what not to do. (\"You don't want to be too far to this side, but you don't want to be too far to the other side, right?\") I did get some good information \u2026",
+      "themes": [
+        "CONTENT",
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content",
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 88270,
+      "stars": 1,
+      "review_preview": "I'm not able to submit my assignments",
+      "themes": [
+        "TECH"
+      ],
+      "theme_labels": [
+        "Platform / technical issues"
+      ]
+    },
+    {
+      "id": 69159,
+      "stars": 1,
+      "review_preview": "This course rely on commercial library. I am sorry, I don't believe the convenience of a commercial library is good for your learning. You may end up locked in.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 83582,
+      "stars": 5,
+      "review_preview": "A good course! Everthing is more complex but it is easier to know with Dr. Chuck.",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 93284,
+      "stars": 2,
+      "review_preview": "This course is not set up right, the assignments ask you to do things that aren't explained until the next weeks content, its kind of discouraging. In the end, it does teach you the basics of R, its just too bad that the way to get there is aggravating.The reason I still only give it 2 stars is because of the quality of the courses itself. There are many, many 1 and 2 minute videos, these could've easily been combined. The teacher seems unprepared in his lectures, he stutters and repeats a lot \u2026",
+      "themes": [
+        "ASSIGN",
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction",
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 99791,
+      "stars": 2,
+      "review_preview": "The lectures were very short, the contents are too simple and general, does not have the deepness and comprehensiveness for professionals. Did not live up to expectation.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 643,
+      "stars": 3,
+      "review_preview": "I knew nothing about Jefferson before this course and nothing about his 'age' - not sure I am much the wiser about the latter after it! I enjoyed the tours round the historic sites and I thought the lecturer came over as warm and enthusiastic but it seemed he was preaching about a saint rather than giving a detached academic assessment of a historical figure and I found that it was hard to see the wood for the trees at times. Hagiographic might be an unkind description but it was certainly very \u2026",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 103718,
+      "stars": 1,
+      "review_preview": "I though the class focused too much on enumerating various names of technologies rather than describing them in depth.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 39434,
+      "stars": 3,
+      "review_preview": "one AR lecture is 20 minutes, nearly fell asleep...",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 36336,
+      "stars": 1,
+      "review_preview": "I am disappointed about this course. I was expecting to learn more in this subject as described on the course info. However, the quality of the lectures is not good at all. I haven't found any lecture that present the knowledge as the Ivy league University as Yale. I felt sorry for the students who actually attained this class at Yale campus. The professor was not prepare for the lectures and confused/forgot sometime. I was hoping that the Nobel prize winner would teach something that \u2026",
+      "themes": [
+        "INSTR",
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity",
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 104992,
+      "stars": 1,
+      "review_preview": "Cant understand whats going on",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 104481,
+      "stars": 5,
+      "review_preview": "This is a great course. Profs have an interesting way of getting info to us.",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 86833,
+      "stars": 5,
+      "review_preview": "Fantastic course for people who'd like to work with database colection.",
+      "themes": [
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 14675,
+      "stars": 1,
+      "review_preview": "In my opinion, most of this information should be free and available as a pre-req. for other classes (installing R Studio).It was cheap, but in general, I thought I was going to be more out of this course than I did.",
+      "themes": [
+        "PRICE",
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Price & paywall friction",
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 4545,
+      "stars": 1,
+      "review_preview": "Warning: The lecture videos along will NOT be enough to prepare you for the final assignment! Be prepared to do your own research for the extra study materials. On the forum, many students said they had to drop out during the last week (probably without getting a refund!) because they were completely caught off guard by the huge knowledge gap between lectures and the final assignment. If you are determined to get the specialization certificate, you should definitely start the final assignment \u2026",
+      "themes": [
+        "ASSIGN",
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction",
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 35244,
+      "stars": 3,
+      "review_preview": "Some excellent insights, albeit a bit too superficial in my view. Would have loved to see some concepts explored more in depth",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 7233,
+      "stars": 1,
+      "review_preview": "The last peer review is really hard to do. Hard is because the wording is very ambiguous and not all understand how to review. There was a guy who answered with SQL query. This is hardcore since we have not learned that yet...",
+      "themes": [
+        "ASSIGN",
+        "PACING"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction",
+        "Pacing & prerequisite mismatch"
+      ]
+    },
+    {
+      "id": 85574,
+      "stars": 1,
+      "review_preview": "I've started the course and i have found \"learn to program\" part, but where is \"quality code\"?",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 66652,
+      "stars": 2,
+      "review_preview": "Nice idea, but too many technical difficulties. I tried to complete quiz 4 nine times and eventually passed the deadline. And in order to submit my final assignment I had to embedded my images into a word doc and export it as a PDF... I won't get extra marks for being able to work THAT out! ; )I did enjoy the rest of the course though. Thanks for all your efforts.",
+      "themes": [
+        "TECH"
+      ],
+      "theme_labels": [
+        "Platform / technical issues"
+      ]
+    },
+    {
+      "id": 92058,
+      "stars": 5,
+      "review_preview": "Thank you so much for your sharing, Dr. Chuck!",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 38891,
+      "stars": 2,
+      "review_preview": "Unfortunately it's very poor material and lecturer is not expirienced yet enough :(",
+      "themes": [
+        "CONTENT",
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content",
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 74285,
+      "stars": 3,
+      "review_preview": "This is strictly for beginners. If you have had little hands on experience in Python, you may not find it that useful, though it's good to rehearse a bit. Also this course was on Python 2, so try to identify the differences between 2 and 3. One concern is that Python installation steps are covered in every week's classes which is redundant one.",
+      "themes": [
+        "PACING",
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Pacing & prerequisite mismatch",
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 54376,
+      "stars": 5,
+      "review_preview": "I really enjoyed this course. The teacher was amazing, and make simple the most important concepts behind this branch of IT. It is woderful because it enhance anybody to follow this course, even the ones whith no strong mathematical basis. Thank you very much!",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 103355,
+      "stars": 3,
+      "review_preview": "Although it delves into key elements of trading where it really matters, course lacks explanation on some subjects. Course progresses monotonously.",
+      "themes": [
+        "CONTENT",
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content",
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 50129,
+      "stars": 2,
+      "review_preview": "As someone with a very limited background in statistics, I found the course jumped very quickly from basics to extremely complicated statistical modeling with all the jargon that comes with it. So either the course description didn't provide enough information for a non-statistician to realize it will get very complex, or the language and explanations should have been simplified/more descriptive for the audience.",
+      "themes": [
+        "PACING"
+      ],
+      "theme_labels": [
+        "Pacing & prerequisite mismatch"
+      ]
+    },
+    {
+      "id": 81854,
+      "stars": 2,
+      "review_preview": "I am really disappointed, to be honest! Course covers mostly trivial stuff; lectures are just presenting code snippets; many inaccuracies; nothing about HTML5; entire 4-week-class can easily be completed in one week.Definitely not near the quality I am used to from Coursera. Udacity\u2019s \"Intro to HTML and CSS\" and \"JavaScript Basics\" are way better.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 14981,
+      "stars": 3,
+      "review_preview": "Probably more useful for someone with no background in programming.",
+      "themes": [
+        "PACING"
+      ],
+      "theme_labels": [
+        "Pacing & prerequisite mismatch"
+      ]
+    },
+    {
+      "id": 99654,
+      "stars": 2,
+      "review_preview": "This course is poorly organized and presented in comparison to other MOOCs offered by Wharton.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 70075,
+      "stars": 3,
+      "review_preview": "It was alright ..confusing at times an seemed a bit convoluted. someone needs to come up with a better way to explain these concepts so that they are not so jumbled.",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 16465,
+      "stars": 2,
+      "review_preview": "This isn't a beginners course. I dropped out in first week. I took every note I could and reviewed again and again. I really think the instructor is an intelligent man, but I'm not quite sure he understands how to teach well. I'm really disappointed that I didn't get to take anything away from this class.",
+      "themes": [
+        "PACING",
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Pacing & prerequisite mismatch",
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 16558,
+      "stars": 5,
+      "review_preview": "Great class which inspired me with enormous excitements",
+      "themes": [
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 63299,
+      "stars": 3,
+      "review_preview": "Good Course. Taught well. Should be free certificate. Thank you.",
+      "themes": [
+        "PRAISE",
+        "PRICE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise",
+        "Price & paywall friction"
+      ]
+    },
+    {
+      "id": 79234,
+      "stars": 3,
+      "review_preview": "Presenter seemed a little unsure of what he was presenting by times",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 85609,
+      "stars": 1,
+      "review_preview": "Unfortunately, this is a poorly designed course. It seems like it is strictly scripted, the instructor looks like she's reading the material. It's very boring to watch. And as a student with a business background, I learned zero things related to PR or research. Everything discussed through this course is nothing beyond definitions and general business knowledge. She keeps hinting on discussing the topics further in different section (Which didn't happen) this leaves me confused on why not \u2026",
+      "themes": [
+        "INSTR",
+        "PRICE"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity",
+        "Price & paywall friction"
+      ]
+    },
+    {
+      "id": 81585,
+      "stars": 2,
+      "review_preview": "I'm sorry but I don't like the way this course was presented. Since this is about the science of happiness I would have preferred a more clinical approach.",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 99959,
+      "stars": 2,
+      "review_preview": "Very disappointed that the assignments are not part of the f",
+      "themes": [
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 93269,
+      "stars": 4,
+      "review_preview": "Personally very fulfilling. Learnt all the basic stuff I needed to know.",
+      "themes": [
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 104891,
+      "stars": 1,
+      "review_preview": "The lectures for this class are incredibly weak. Later lectures by the same professor are reasonable and decently structured. These lectures need to be redone. The quizzes are either out-of-order or expect you to do a lot of research on your own beyond the class notes and topics. The class project is unbelievably simple, and the final metric for the class project includes duplication and one portion of the grade assigned simply if you feel the person you're grading \"tried\".",
+      "themes": [
+        "INSTR",
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity",
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 51625,
+      "stars": 3,
+      "review_preview": "It's ok, good for remeber concepts",
+      "themes": [
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 11717,
+      "stars": 2,
+      "review_preview": "Needed of specific information to now how to be more creative in schools as profesionales",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 26644,
+      "stars": 5,
+      "review_preview": "A great class. Comprehensive and thorough with good guidance. Thanks!",
+      "themes": [
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 17943,
+      "stars": 2,
+      "review_preview": "Of all the offerings in the specialization, this one felt like it was thrown together in less than hour. I expected to have to learn quite a bit of material on my own, but even the references to additional materials were very thin.I could have saved many days if more guidance on the project workflow would have been given. The pre-processing of the data was quite extensive (9 steps before generating the ngram tables I used in my model) and was the key to getting decent results IMHO, but one had \u2026",
+      "themes": [
+        "CONTENT",
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content",
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 6538,
+      "stars": 2,
+      "review_preview": "This course feels a lot like it's being taught by a non-teaching professor. The lectures are very long, not chunked for easy viewing (to the point where I couldn't download to my phone for offline/off-wifi use). There are very long locally-hosted readings (so they're hard to print and you can't add them to an offline reader app), and the Reading section for each lesson seems to be a bibliography (rather than actual reading assignments), because there are no links and some refer to \"Selections\" \u2026",
+      "themes": [
+        "INSTR",
+        "TECH"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity",
+        "Platform / technical issues"
+      ]
+    },
+    {
+      "id": 2816,
+      "stars": 5,
+      "review_preview": "Very informative especially with tips on how to implement things in the house with children.",
+      "themes": [
+        "PRACTICAL"
+      ],
+      "theme_labels": [
+        "Practical, real-world applicability (praise)"
+      ]
+    },
+    {
+      "id": 22950,
+      "stars": 1,
+      "review_preview": "Not being allowed to submit quizzes without paying for the course - I am withdrawing from the course and any other Coursera courses where this is the policy - I will enrol in other free online course sites where the are \"free\".",
+      "themes": [
+        "PRICE"
+      ],
+      "theme_labels": [
+        "Price & paywall friction"
+      ]
+    },
+    {
+      "id": 103961,
+      "stars": 1,
+      "review_preview": "this is terrible",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 48355,
+      "stars": 5,
+      "review_preview": "Great course and i l love codeskulptor.But the ui is a little bit boring",
+      "themes": [
+        "PRAISE",
+        "TECH"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise",
+        "Platform / technical issues"
+      ]
+    },
+    {
+      "id": 9742,
+      "stars": 2,
+      "review_preview": "get new material - new videos these videos for all your classes are years old - the quizes dont relate to the material taught and it seems you guys got this set up years ago and just forgot about it",
+      "themes": [
+        "CONTENT",
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content",
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 39285,
+      "stars": 1,
+      "review_preview": "Too theorical and bold course",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 3815,
+      "stars": 1,
+      "review_preview": "If I am auditing this class why can't the quizzes be free also?What happened to free Coursera?",
+      "themes": [
+        "PRICE"
+      ],
+      "theme_labels": [
+        "Price & paywall friction"
+      ]
+    },
+    {
+      "id": 6600,
+      "stars": 2,
+      "review_preview": "presentation has to be better",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 101329,
+      "stars": 2,
+      "review_preview": "The student needed to have a good foundation of statistics and high levels of math to be able to follow the class. I have not taken statistics or trigonometry in many years so I struggled. I would have benefited greatly if there were more examples of how to calculate the models, including the calculations part of it. The professor did not do that and that got me wondering (not knowing) how to calculate the formulas. I think if I had seen a few examples, it would have been enough to understand \u2026",
+      "themes": [
+        "PACING",
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Pacing & prerequisite mismatch",
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 84941,
+      "stars": 5,
+      "review_preview": "Excellent course! as always Professor Chuck delivered another outstanding python lecture.",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 9552,
+      "stars": 5,
+      "review_preview": "The professor is very easy to follow and makes a subject that is constantly deemed as dry much more interesting. I can't wait to learn more.",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 17084,
+      "stars": 3,
+      "review_preview": "Same as the theory class not much examples or case studies....",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 87934,
+      "stars": 5,
+      "review_preview": "Dr Chuck is The Best!!",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 28525,
+      "stars": 3,
+      "review_preview": "insightful, inspirational mostly, informative, but gives an impression of a false pep-talks.. the lecturer is very nice but the over-accentuated humor and false bonding with the audience diminishes the overall good feeling of the course",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 10044,
+      "stars": 3,
+      "review_preview": "The accent of this teacher made me struggle to comprehend some of the most basic concepts she was presenting. I learned way much more on the previous modules of this specialization.The course should be 2/5 stars, but thanks to Boston and McKenzie articles, I will give an extra one.",
+      "themes": [
+        "INSTR",
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity",
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 99670,
+      "stars": 3,
+      "review_preview": "Overall the course was good, but the quiz assignments need work. When entering formula's there should be more clarity. Formula's can be entered in many ways and even when right were often counted as wrong.",
+      "themes": [
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 43167,
+      "stars": 5,
+      "review_preview": "Concepts/techniques that stuck with me specifically:PomodoroSlow and fast learning",
+      "themes": [
+        "PRACTICAL"
+      ],
+      "theme_labels": [
+        "Practical, real-world applicability (praise)"
+      ]
+    },
+    {
+      "id": 95992,
+      "stars": 2,
+      "review_preview": "The speaking style and body language of the instructor was quite monotonous when teaching the content. For the most part of the course, it felt like the instructor was just \"reading\" the teleprompter without blinking for several seconds! He did not attempt to teach the students in these videos. It could have been MUCH better if he had used better presentation tools and shorter sentences.",
+      "themes": [
+        "INSTR"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity"
+      ]
+    },
+    {
+      "id": 9417,
+      "stars": 1,
+      "review_preview": "It was too advanced for me",
+      "themes": [
+        "PACING"
+      ],
+      "theme_labels": [
+        "Pacing & prerequisite mismatch"
+      ]
+    },
+    {
+      "id": 68542,
+      "stars": 3,
+      "review_preview": "It should be 5 stars based on content - though I have a feeling it's a bit dragged out to create as many courses as possible for the Speclialisation.However, I think IPython isn't a great tool for this, especially as the requirement is Python 2.7 for GraphLab as it doesn't support Python 3 yet. Going backwards, I think. I also think ideally you would want to encourage people to write bigger chunks of code rather than get bogged down with word counting.However, the main issue is that the \u2026",
+      "themes": [
+        "ASSIGN",
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction",
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 99398,
+      "stars": 5,
+      "review_preview": "Great course",
+      "themes": [
+        "PRAISE"
+      ],
+      "theme_labels": [
+        "Generic enthusiastic praise"
+      ]
+    },
+    {
+      "id": 94839,
+      "stars": 2,
+      "review_preview": "Could have been more practice than theory.",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 90621,
+      "stars": 3,
+      "review_preview": "Poor structuring of assignments. Unclear objectives and wrong input data.Course Content was good.",
+      "themes": [
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Assignment / quiz design friction"
+      ]
+    },
+    {
+      "id": 3745,
+      "stars": 1,
+      "review_preview": "Startinng it now",
+      "themes": [
+        "CONTENT"
+      ],
+      "theme_labels": [
+        "Shallow, thin, or outdated content"
+      ]
+    },
+    {
+      "id": 58403,
+      "stars": 5,
+      "review_preview": "Excellent teaching and materials, but the assignments held your hand too much. I wish EM was taught as well as gradient descent. However, I'm giving 5 stars because the explanations and examples were A+ work.",
+      "themes": [
+        "INSTR",
+        "ASSIGN"
+      ],
+      "theme_labels": [
+        "Instructor delivery & clarity",
+        "Assignment / quiz design friction"
+      ]
+    }
+  ]
+}

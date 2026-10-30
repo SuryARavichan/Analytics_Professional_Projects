@@ -1,0 +1,162 @@
+[
+  {
+    "id": "q01",
+    "difficulty": "easy",
+    "question": "What was total sales revenue in Q4 2025 (Oct-Dec)?",
+    "gold": "SELECT ROUND(SUM(si.line_total),2) AS total_revenue\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' AND t.transaction_date BETWEEN '2025-10-01' AND '2025-12-31';",
+    "predicted": "SELECT ROUND(SUM(si.line_total),2) AS total_revenue\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' AND t.transaction_date BETWEEN '2025-10-01' AND '2025-12-31';",
+    "note": null
+  },
+  {
+    "id": "q02",
+    "difficulty": "medium",
+    "question": "Which store had the highest total revenue in 2025?",
+    "gold": "SELECT s.store_name, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 JOIN stores s ON s.store_id=t.store_id\n                 WHERE t.status='Completed' AND t.transaction_date BETWEEN '2025-01-01' AND '2025-12-31'\n                 GROUP BY s.store_id ORDER BY revenue DESC LIMIT 1;",
+    "predicted": "SELECT s.store_name, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 JOIN stores s ON s.store_id=t.store_id\n                 WHERE t.status='Completed' AND t.transaction_date BETWEEN '2025-01-01' AND '2025-12-31'\n                 GROUP BY s.store_id ORDER BY revenue DESC LIMIT 1;",
+    "note": null
+  },
+  {
+    "id": "q03",
+    "difficulty": "medium",
+    "question": "What is the average transaction value by channel?",
+    "gold": "WITH txn_totals AS (\n                     SELECT t.transaction_id, t.channel, SUM(si.line_total) AS txn_total\n                     FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                     WHERE t.status='Completed' GROUP BY t.transaction_id)\n                 SELECT channel, ROUND(AVG(txn_total),2) AS avg_transaction_value FROM txn_totals GROUP BY channel;",
+    "predicted": "WITH txn_totals AS (\n                     SELECT t.transaction_id, t.channel, SUM(si.line_total) AS txn_total\n                     FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                     WHERE t.status='Completed' GROUP BY t.transaction_id)\n                 SELECT channel, ROUND(AVG(txn_total),2) AS avg_transaction_value FROM txn_totals GROUP BY channel;",
+    "note": null
+  },
+  {
+    "id": "q04",
+    "difficulty": "easy",
+    "question": "How many loyalty members made a purchase in November 2025?",
+    "gold": "SELECT COUNT(DISTINCT t.customer_id)\n                 FROM sales_transactions t JOIN customers c ON c.customer_id=t.customer_id\n                 WHERE c.loyalty_member=1 AND t.status='Completed'\n                   AND t.transaction_date BETWEEN '2025-11-01' AND '2025-11-30';",
+    "predicted": "SELECT COUNT(DISTINCT t.customer_id)\n                 FROM sales_transactions t JOIN customers c ON c.customer_id=t.customer_id\n                 WHERE c.loyalty_member=1 AND t.status='Completed'\n                   AND t.transaction_date BETWEEN '2025-11-01' AND '2025-11-30';",
+    "note": null
+  },
+  {
+    "id": "q05",
+    "difficulty": "medium",
+    "question": "What are the top 5 best-selling products by quantity sold?",
+    "gold": "SELECT p.product_name, SUM(si.quantity) AS total_qty\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' GROUP BY p.product_id ORDER BY total_qty DESC LIMIT 5;",
+    "predicted": "SELECT p.product_name, SUM(si.quantity) AS total_qty\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' GROUP BY p.product_id ORDER BY total_qty DESC LIMIT 5;",
+    "note": null
+  },
+  {
+    "id": "q06",
+    "difficulty": "easy",
+    "question": "Which product category generates the most revenue?",
+    "gold": "SELECT p.category, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' GROUP BY p.category ORDER BY revenue DESC LIMIT 1;",
+    "predicted": "SELECT p.category, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE t.status='Completed' GROUP BY p.category ORDER BY revenue DESC LIMIT 1;",
+    "note": null
+  },
+  {
+    "id": "q07",
+    "difficulty": "hard",
+    "question": "What percentage of transactions were returned?",
+    "gold": "SELECT ROUND(100.0*SUM(CASE WHEN status='Returned' THEN 1 ELSE 0 END)/COUNT(*),2) AS return_rate_pct\n                 FROM sales_transactions;",
+    "predicted": "SELECT ROUND(100.0*SUM(CASE WHEN t.status='Returned' THEN 1 ELSE 0 END)/COUNT(*),2) AS return_rate_pct\n                 FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id;",
+    "note": "Grain/denominator error: joining sales_items changes the row grain from one-per-transaction to one-per-line-item, so the denominator (and the miscounted numerator) is inflated by the average items-per-transaction -- the percentage is systematically wrong even though the SQL runs cleanly."
+  },
+  {
+    "id": "q08",
+    "difficulty": "medium",
+    "question": "What is the average discount percentage applied on transactions in the West region?",
+    "gold": "SELECT ROUND(AVG(si.discount_pct)*100,2) AS avg_discount_pct\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 JOIN stores s ON s.store_id=t.store_id WHERE s.region='West';",
+    "predicted": "SELECT ROUND(AVG(si.discount_pct)*100,2) AS avg_discount_pct\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 JOIN stores s ON s.store_id=t.store_id WHERE s.region='West';",
+    "note": null
+  },
+  {
+    "id": "q09",
+    "difficulty": "hard",
+    "question": "How many unique customers purchased Electronics in 2025?",
+    "gold": "SELECT COUNT(DISTINCT t.customer_id)\n                 FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                 JOIN products p ON p.product_id=si.product_id\n                 WHERE p.category='Electronics' AND t.status='Completed'\n                   AND t.transaction_date BETWEEN '2025-01-01' AND '2025-12-31';",
+    "predicted": "SELECT COUNT(t.customer_id)\n                 FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                 JOIN products p ON p.product_id=si.product_id\n                 WHERE p.category='Electronics' AND t.status='Completed'\n                   AND t.transaction_date BETWEEN '2025-01-01' AND '2025-12-31';",
+    "note": "Missing DISTINCT: joining sales_items fans out one row per Electronics line item, so a customer who bought 3 Electronics items across 2 transactions is counted 3 times instead of once."
+  },
+  {
+    "id": "q10",
+    "difficulty": "medium",
+    "question": "What is the month-over-month revenue trend for 2025?",
+    "gold": "SELECT strftime('%Y-%m', t.transaction_date) AS month, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                 WHERE t.status='Completed' AND t.transaction_date BETWEEN '2025-01-01' AND '2025-12-31'\n                 GROUP BY month ORDER BY month;",
+    "predicted": "SELECT strftime('%Y-%m', t.transaction_date) AS month, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                 WHERE t.transaction_date BETWEEN '2025-01-01' AND '2025-12-31'\n                 GROUP BY month ORDER BY month;",
+    "note": "Dropped the status='Completed' filter, so Returned and Cancelled transactions' revenue is incorrectly included in every month's total -- a subtle overstatement, not an obvious crash."
+  },
+  {
+    "id": "q11",
+    "difficulty": "hard",
+    "question": "Which region has the highest average transaction value?",
+    "gold": "WITH txn_totals AS (\n                     SELECT t.transaction_id, s.region, SUM(si.line_total) AS txn_total\n                     FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                     JOIN stores s ON s.store_id=t.store_id WHERE t.status='Completed' GROUP BY t.transaction_id)\n                 SELECT region, ROUND(AVG(txn_total),2) AS avg_txn_value FROM txn_totals\n                 GROUP BY region ORDER BY avg_txn_value DESC LIMIT 1;",
+    "predicted": "WITH txn_totals AS (\n                     SELECT t.transaction_id, s.region, SUM(si.line_total) AS txn_total\n                     FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                     JOIN stores s ON s.store_id=t.store_id WHERE t.status='Completed' GROUP BY t.transaction_id)\n                 SELECT region, ROUND(AVG(txn_total),2) AS avg_txn_value FROM txn_totals\n                 GROUP BY region ORDER BY avg_txn_value DESC LIMIT 1;",
+    "note": null
+  },
+  {
+    "id": "q12",
+    "difficulty": "medium",
+    "question": "What's the return rate by store type?",
+    "gold": "SELECT s.store_type, ROUND(100.0*SUM(CASE WHEN t.status='Returned' THEN 1 ELSE 0 END)/COUNT(*),2) AS return_rate_pct\n                 FROM sales_transactions t JOIN stores s ON s.store_id=t.store_id\n                 GROUP BY s.store_type ORDER BY return_rate_pct DESC;",
+    "predicted": "SELECT s.store_type, ROUND(100.0*SUM(CASE WHEN t.status='Returned' THEN 1 ELSE 0 END)/COUNT(*),2) AS return_rate_pct\n                 FROM sales_transactions t JOIN stores s ON s.store_id=t.store_id\n                 GROUP BY s.store_type ORDER BY return_rate_pct DESC;",
+    "note": null
+  },
+  {
+    "id": "q13",
+    "difficulty": "easy",
+    "question": "How many transactions used a Gift Card as the payment method?",
+    "gold": "SELECT COUNT(*) FROM sales_transactions WHERE payment_method='Gift Card';",
+    "predicted": "SELECT COUNT(*) FROM sales_transactions WHERE payment_method='Gift Card';",
+    "note": null
+  },
+  {
+    "id": "q14",
+    "difficulty": "medium",
+    "question": "What is total revenue from customers aged 25-34?",
+    "gold": "SELECT ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 JOIN customers c ON c.customer_id=t.customer_id\n                 WHERE c.age_bracket='25-34' AND t.status='Completed';",
+    "predicted": "SELECT ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 JOIN customers c ON c.customer_id=t.customer_id\n                 WHERE c.age_bracket='25-34' AND t.status='Completed';",
+    "note": null
+  },
+  {
+    "id": "q15",
+    "difficulty": "medium",
+    "question": "What is the average number of items per transaction?",
+    "gold": "WITH item_counts AS (SELECT transaction_id, SUM(quantity) AS n_items FROM sales_items GROUP BY transaction_id)\n                 SELECT ROUND(AVG(n_items),2) AS avg_items_per_txn FROM item_counts;",
+    "predicted": "WITH item_counts AS (SELECT transaction_id, SUM(quantity) AS n_items FROM sales_items GROUP BY transaction_id)\n                 SELECT ROUND(AVG(n_items),2) AS avg_items_per_txn FROM item_counts;",
+    "note": null
+  },
+  {
+    "id": "q16",
+    "difficulty": "hard",
+    "question": "What is the online vs in-store revenue split for the Northeast region?",
+    "gold": "SELECT t.channel, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                 JOIN stores s ON s.store_id=t.store_id\n                 WHERE s.region='Northeast' AND t.status='Completed' GROUP BY t.channel;",
+    "predicted": "SELECT t.channel, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                 JOIN customers c ON c.customer_id=t.customer_id\n                 WHERE c.signup_region='Northeast' AND t.status='Completed' GROUP BY t.channel;",
+    "note": "Ambiguous-entity resolution: 'Northeast region' most naturally means the store/point-of-sale region, but the model resolved it to the customer's signup region instead -- a different, silently-plausible interpretation. Flags why NL-to-SQL output should surface its column choice for ambiguous business terms rather than being trusted blindly."
+  },
+  {
+    "id": "q17",
+    "difficulty": "medium",
+    "question": "List the top 3 products by revenue in the Footwear category.",
+    "gold": "SELECT p.product_name, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE p.category='Footwear' AND t.status='Completed'\n                 GROUP BY p.product_id ORDER BY revenue DESC LIMIT 3;",
+    "predicted": "SELECT p.product_name, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_items si JOIN products p ON p.product_id=si.product_id\n                 JOIN sales_transactions t ON t.transaction_id=si.transaction_id\n                 WHERE p.category='Footwear' AND t.status='Completed'\n                 GROUP BY p.product_id ORDER BY revenue DESC LIMIT 3;",
+    "note": null
+  },
+  {
+    "id": "q18",
+    "difficulty": "easy",
+    "question": "How many Flagship stores are in each region?",
+    "gold": "SELECT region, COUNT(*) AS n_stores FROM stores WHERE store_type='Flagship' GROUP BY region ORDER BY region;",
+    "predicted": "SELECT region, COUNT(*) AS n_stores FROM stores WHERE store_type='Flagship' GROUP BY region ORDER BY region;",
+    "note": null
+  },
+  {
+    "id": "q19",
+    "difficulty": "hard",
+    "question": "What is the loyalty membership rate among customers who made a purchase in the South region?",
+    "gold": "WITH south_customers AS (\n                     SELECT DISTINCT t.customer_id FROM sales_transactions t JOIN stores s ON s.store_id=t.store_id\n                     WHERE s.region='South' AND t.status='Completed')\n                 SELECT ROUND(100.0*SUM(c.loyalty_member)/COUNT(*),2) AS loyalty_rate_pct\n                 FROM south_customers sc JOIN customers c ON c.customer_id=sc.customer_id;",
+    "predicted": "WITH south_customers AS (\n                     SELECT DISTINCT t.customer_id FROM sales_transactions t JOIN stores s ON s.store_id=t.store_id\n                     WHERE s.region='South' AND t.status='Completed')\n                 SELECT ROUND(100.0*SUM(c.loyalty_member)/COUNT(*),2) AS loyalty_rate_pct\n                 FROM south_customers sc JOIN customers c ON c.customer_id=sc.customer_id;",
+    "note": null
+  },
+  {
+    "id": "q20",
+    "difficulty": "easy",
+    "question": "What's total revenue by payment method, from highest to lowest?",
+    "gold": "SELECT t.payment_method, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                 WHERE t.status='Completed' GROUP BY t.payment_method ORDER BY revenue DESC;",
+    "predicted": "SELECT t.payment_method, ROUND(SUM(si.line_total),2) AS revenue\n                 FROM sales_transactions t JOIN sales_items si ON si.transaction_id=t.transaction_id\n                 WHERE t.status='Completed' GROUP BY t.payment_method ORDER BY revenue DESC;",
+    "note": null
+  }
+]

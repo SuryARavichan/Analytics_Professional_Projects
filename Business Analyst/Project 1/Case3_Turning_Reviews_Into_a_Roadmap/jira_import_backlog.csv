@@ -1,0 +1,13 @@
+Issue Type,Summary,Epic Name,Description,Priority,Story Points,Epic Link,Sprint
+Epic,Reliability & Bug Triage,Reliability & Bug Triage,,,,,
+Epic,Transparent Paywall & Usage Limits,Transparent Paywall & Usage Limits,,,,,
+Epic,Conversation Memory & Consistency,Conversation Memory & Consistency,,,,,
+Epic,Frictionless Onboarding,Frictionless Onboarding,,,,,
+Epic,Answer Accuracy & Trust Signals,Answer Accuracy & Trust Signals,,,,,
+Story,Retry a failed message send without duplicating it,,"As a ChatGPT app user, I want this fixed/added so the reliability issue behind it (RICE 7.2) stops recurring.",High,5,Reliability & Bug Triage,Sprint 1
+Story,Show a clear error state (network vs server vs input) instead of a silent failure,,"As a ChatGPT app user, I want this fixed/added so the reliability issue behind it (RICE 6.4) stops recurring.",High,3,Reliability & Bug Triage,Sprint 1
+Story,"Show which features require upgrading before the user attempts them, not after",,"As a ChatGPT app user, I want this fixed/added so the reliability issue behind it (RICE 3.4) stops recurring.",Medium,3,Transparent Paywall & Usage Limits,Sprint 1
+Story,Warn the user before a long chat's context window truncates,,"As a ChatGPT app user, I want this fixed/added so the reliability issue behind it (RICE 2.1) stops recurring.",Medium,8,Conversation Memory & Consistency,Sprint 1
+Story,Let a new user send their first message before requiring account sign-in,,"As a ChatGPT app user, I want this fixed/added so the reliability issue behind it (RICE 1.7) stops recurring.",Medium,8,Frictionless Onboarding,Sprint 2
+Story,Keep the fix to a corrected error from being repeated later in the same chat,,"As a ChatGPT app user, I want this fixed/added so the reliability issue behind it (RICE 1.2) stops recurring.",Low,8,Conversation Memory & Consistency,Sprint 2
+Story,Flag lower-confidence answers on factual / diagram-based questions,,"As a ChatGPT app user, I want this fixed/added so the reliability issue behind it (RICE 1.1) stops recurring.",Low,13,Answer Accuracy & Trust Signals,Sprint 2

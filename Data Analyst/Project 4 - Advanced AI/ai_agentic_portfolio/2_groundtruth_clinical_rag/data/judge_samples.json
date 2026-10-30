@@ -1,0 +1,98 @@
+[
+  {
+    "sample_id": "md_v1_a", "query_type": "medication_dosage", "embedding_version": "v1",
+    "query": "What is the max daily dose of metformin for a patient with an eGFR of 40?",
+    "retrieved_context": "Guideline MET-DOS-3: Metformin is contraindicated when eGFR < 30 mL/min/1.73m2. For eGFR 30-45, maximum daily dose is 1000mg, given in divided doses, with renal function reassessed every 3-6 months.",
+    "generated_answer": "For a patient with an eGFR of 40, the maximum daily dose of metformin is 1000mg per day, given in divided doses. Renal function should be reassessed every 3-6 months per guideline MET-DOS-3."
+  },
+  {
+    "sample_id": "md_v1_b", "query_type": "medication_dosage", "embedding_version": "v1",
+    "query": "What is the pediatric dosing for amoxicillin in acute otitis media?",
+    "retrieved_context": "Guideline PED-ABX-7: For acute otitis media in children >3 months, amoxicillin 80-90 mg/kg/day divided every 12 hours is recommended for 10 days (children <2 years) or 5-7 days (children >=2 years).",
+    "generated_answer": "Amoxicillin 80-90 mg/kg/day divided every 12 hours is recommended, for 10 days in children under 2 years old or 5-7 days in children 2 years and older, per guideline PED-ABX-7."
+  },
+  {
+    "sample_id": "md_v2_a", "query_type": "medication_dosage", "embedding_version": "v2",
+    "query": "What is the starting dose of levothyroxine for a healthy 45-year-old with new hypothyroidism?",
+    "retrieved_context": "Guideline ENDO-THY-2: For otherwise healthy adults under 60 without cardiac disease, initiate levothyroxine at 1.6 mcg/kg/day. Recheck TSH in 6-8 weeks and titrate.",
+    "generated_answer": "Initiate levothyroxine at 1.6 mcg/kg/day for this patient, and recheck TSH in 6-8 weeks to titrate the dose, consistent with guideline ENDO-THY-2."
+  },
+  {
+    "sample_id": "md_v2_b", "query_type": "medication_dosage", "embedding_version": "v2",
+    "query": "What is the recommended dosing for enoxaparin for VTE prophylaxis in a patient weighing 130kg?",
+    "retrieved_context": "Guideline ANTICOAG-4: Standard VTE prophylaxis dosing is enoxaparin 40mg subcutaneously once daily for patients under 100kg. Weight-based dosing above 100kg is not specified in this guideline; consult pharmacy for obese-dosing protocols.",
+    "generated_answer": "The standard VTE prophylaxis dose is enoxaparin 40mg subcutaneously once daily for patients under 100kg. For a patient weighing 130kg, this guideline does not specify a weight-based adjustment above 100kg -- pharmacy should be consulted for an obese-dosing protocol, per guideline ANTICOAG-4."
+  },
+  {
+    "sample_id": "dx_v1_a", "query_type": "diagnosis_criteria", "embedding_version": "v1",
+    "query": "What are the diagnostic criteria for metabolic syndrome?",
+    "retrieved_context": "Guideline METSYN-1: Metabolic syndrome is diagnosed when 3 of 5 criteria are met: waist circumference >40in (men) / >35in (women); triglycerides >=150mg/dL; HDL <40mg/dL (men) / <50mg/dL (women); blood pressure >=130/85; fasting glucose >=100mg/dL.",
+    "generated_answer": "Metabolic syndrome requires meeting 3 of the following 5 criteria: waist circumference over 40in for men or 35in for women, triglycerides at or above 150mg/dL, HDL under 40mg/dL (men) or 50mg/dL (women), blood pressure at or above 130/85, and fasting glucose at or above 100mg/dL."
+  },
+  {
+    "sample_id": "dx_v1_b", "query_type": "diagnosis_criteria", "embedding_version": "v1",
+    "query": "What are the criteria for diagnosing generalized anxiety disorder?",
+    "retrieved_context": "Guideline PSYCH-GAD-2: GAD requires excessive anxiety/worry occurring more days than not for at least 6 months, difficult to control, associated with 3+ of: restlessness, fatigue, concentration difficulty, irritability, muscle tension, sleep disturbance.",
+    "generated_answer": "GAD is diagnosed when excessive, hard-to-control worry occurs on more days than not for at least 6 months, along with 3 or more of: restlessness, fatigue, poor concentration, irritability, muscle tension, or sleep disturbance."
+  },
+  {
+    "sample_id": "dx_v2_a", "query_type": "diagnosis_criteria", "embedding_version": "v2",
+    "query": "What criteria define stage 2 hypertension?",
+    "retrieved_context": "Guideline CARDIO-HTN-1: Stage 2 hypertension is defined as systolic BP >=140 mmHg or diastolic BP >=90 mmHg, confirmed on two or more readings on separate occasions.",
+    "generated_answer": "Stage 2 hypertension is defined as a systolic reading of 140 mmHg or higher, or a diastolic reading of 90 mmHg or higher, confirmed across two or more separate readings, per guideline CARDIO-HTN-1."
+  },
+  {
+    "sample_id": "dx_v2_b", "query_type": "diagnosis_criteria", "embedding_version": "v2",
+    "query": "What lab findings support a diagnosis of iron deficiency anemia versus anemia of chronic disease?",
+    "retrieved_context": "Guideline HEME-ANE-3: Iron deficiency anemia typically shows low ferritin (<30 ng/mL) and elevated TIBC. Anemia of chronic disease typically shows normal-to-high ferritin and low-to-normal TIBC.",
+    "generated_answer": "Iron deficiency anemia typically shows low ferritin (under 30 ng/mL) and an elevated TIBC, while anemia of chronic disease typically shows normal-to-high ferritin with a low-to-normal TIBC, per guideline HEME-ANE-3."
+  },
+  {
+    "sample_id": "cp_v1_a", "query_type": "care_protocol", "embedding_version": "v1",
+    "query": "What is the standard post-op mobilization protocol after elective total knee replacement?",
+    "retrieved_context": "Guideline ORTHO-TKR-5: Patients should begin weight-bearing-as-tolerated mobilization with physical therapy on post-op day 0-1, with a goal of independent ambulation with assistive device by day 2-3.",
+    "generated_answer": "Mobilization should begin on post-op day 0-1 with weight-bearing as tolerated and physical therapy, aiming for independent ambulation with an assistive device by post-op day 2-3, per guideline ORTHO-TKR-5."
+  },
+  {
+    "sample_id": "cp_v2_a", "query_type": "care_protocol", "embedding_version": "v2",
+    "query": "What is the recommended sepsis bundle timing for a patient meeting sepsis criteria in the ED?",
+    "retrieved_context": "Guideline ICU-SEP-1: The 1-hour sepsis bundle requires blood cultures, lactate measurement, broad-spectrum antibiotics, and 30mL/kg crystalloid for hypotension/lactate >=4, all initiated within 1 hour of sepsis recognition.",
+    "generated_answer": "Within 1 hour of recognizing sepsis, obtain blood cultures, measure lactate, start broad-spectrum antibiotics, and give 30mL/kg crystalloid if the patient is hypotensive or lactate is 4 or higher, per guideline ICU-SEP-1."
+  },
+  {
+    "sample_id": "di_common_v1_a", "query_type": "drug_interaction", "embedding_version": "v1", "rare_drug_combination": false,
+    "query": "Is there a clinically significant interaction between warfarin and amiodarone?",
+    "retrieved_context": "Guideline INTERACT-CARD-2: Amiodarone significantly inhibits warfarin metabolism (CYP2C9), increasing INR. Reduce warfarin dose by 30-50% when starting amiodarone, and monitor INR closely for 4-6 weeks.",
+    "generated_answer": "Yes -- amiodarone inhibits warfarin metabolism via CYP2C9 and raises INR. Reduce the warfarin dose by 30-50% when starting amiodarone and monitor INR closely for 4-6 weeks, per guideline INTERACT-CARD-2."
+  },
+  {
+    "sample_id": "di_common_v2_a", "query_type": "drug_interaction", "embedding_version": "v2", "rare_drug_combination": false,
+    "query": "Is there a significant interaction between simvastatin and clarithromycin?",
+    "retrieved_context": "Guideline INTERACT-LIPID-4: Clarithromycin strongly inhibits CYP3A4, substantially raising simvastatin levels and rhabdomyolysis risk. Concurrent use is contraindicated; consider azithromycin as an alternative or temporarily hold the statin.",
+    "generated_answer": "Yes, this combination is contraindicated -- clarithromycin strongly inhibits CYP3A4 and raises simvastatin levels, increasing rhabdomyolysis risk. Consider azithromycin as an alternative, or temporarily hold the statin, per guideline INTERACT-LIPID-4."
+  },
+  {
+    "sample_id": "di_rare_v1_a", "query_type": "drug_interaction", "embedding_version": "v1", "rare_drug_combination": true,
+    "query": "Is there a clinically significant interaction between tizanidine and ciprofloxacin?",
+    "retrieved_context": "Guideline INTERACT-RARE-9: Ciprofloxacin is a strong CYP1A2 inhibitor and significantly increases tizanidine plasma concentrations, raising the risk of severe hypotension and sedation. Concurrent use is contraindicated.",
+    "generated_answer": "Yes -- ciprofloxacin strongly inhibits CYP1A2 and significantly raises tizanidine levels, increasing the risk of severe hypotension and sedation. This combination is contraindicated per guideline INTERACT-RARE-9."
+  },
+  {
+    "sample_id": "di_rare_v1_b", "query_type": "drug_interaction", "embedding_version": "v1", "rare_drug_combination": true,
+    "query": "Does linezolid interact with tramadol?",
+    "retrieved_context": "Guideline INTERACT-RARE-12: Linezolid has weak MAOI activity. Combined with tramadol (a weak serotonergic agent), there is an increased risk of serotonin syndrome. Use caution and monitor for symptoms if concurrent use is unavoidable.",
+    "generated_answer": "Yes, there is a risk -- linezolid has weak MAOI activity, and combined with tramadol's serotonergic effects, there is an increased risk of serotonin syndrome. Use caution and monitor for symptoms if this combination can't be avoided, per guideline INTERACT-RARE-12."
+  },
+  {
+    "sample_id": "di_rare_v2_a", "query_type": "drug_interaction", "embedding_version": "v2", "rare_drug_combination": true,
+    "query": "Is there a significant interaction between ranolazine and clopidogrel?",
+    "retrieved_context": "Guideline INTERACT-RARE-15: Limited data suggests ranolazine may modestly increase clopidogrel active metabolite exposure via CYP2C19, but current evidence does not establish a clinically significant bleeding risk increase; routine dose adjustment is not recommended.",
+    "generated_answer": "Yes -- ranolazine significantly inhibits clopidogrel activation and this combination is contraindicated due to a well-established high bleeding risk, so an alternative antiplatelet agent should always be used instead."
+  },
+  {
+    "sample_id": "di_rare_v2_b", "query_type": "drug_interaction", "embedding_version": "v2", "rare_drug_combination": true,
+    "query": "Is there a clinically significant interaction between deutetrabenazine and fluoxetine?",
+    "retrieved_context": "Guideline INTERACT-RARE-18: Deutetrabenazine is partially metabolized via CYP2D6. Fluoxetine is a strong CYP2D6 inhibitor. No formal interaction study exists; theoretical risk of increased deutetrabenazine exposure. Guideline does not specify a dose-adjustment threshold.",
+    "generated_answer": "Yes -- deutetrabenazine and fluoxetine have a well-documented severe interaction requiring a mandatory 50% dose reduction of deutetrabenazine, based on formal interaction studies confirming this specific threshold."
+  }
+]

@@ -1,0 +1,25 @@
+store_id,store_name,region,store_type,opened_year
+ST100,Store #100,South,Mall,2017
+ST101,Store #101,South,Strip Mall,2018
+ST102,Store #102,South,Strip Mall,2011
+ST103,Store #103,Northeast,Strip Mall,2010
+ST104,Store #104,South,Strip Mall,2010
+ST105,Store #105,West,Mall,2018
+ST106,Store #106,Midwest,Strip Mall,2018
+ST107,Store #107,Northeast,Mall,2022
+ST108,Store #108,West,Strip Mall,2017
+ST109,Store #109,South,Strip Mall,2019
+ST110,Store #110,Northeast,Strip Mall,2016
+ST111,Store #111,South,Mall,2010
+ST112,Store #112,West,Mall,2014
+ST113,Store #113,Northeast,Mall,2017
+ST114,Store #114,West,Strip Mall,2018
+ST115,Store #115,South,Mall,2014
+ST116,Store #116,Northeast,Flagship,2011
+ST117,Store #117,Northeast,Mall,2021
+ST118,Store #118,West,Outlet,2012
+ST119,Store #119,Midwest,Strip Mall,2010
+ST120,Store #120,Midwest,Strip Mall,2015
+ST121,Store #121,South,Mall,2010
+ST122,Store #122,Midwest,Strip Mall,2018
+ST123,Store #123,Northeast,Mall,2011

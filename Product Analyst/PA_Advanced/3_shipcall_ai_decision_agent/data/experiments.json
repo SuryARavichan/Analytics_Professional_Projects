@@ -1,0 +1,264 @@
+{
+  "experiments": [
+    {
+      "experiment_id": "onboarding_redesign_v2",
+      "name": "Onboarding Redesign v2",
+      "primary_metric": "activation_rate",
+      "hypothesis": "Simplifying the setup wizard from 6 steps to 3 increases activation.",
+      "control_n": 5000,
+      "control_conversions": 2173,
+      "treatment_n": 5000,
+      "treatment_conversions": 2374,
+      "guardrails": [
+        {
+          "name": "day7_churn_rate",
+          "direction": "lower_is_better",
+          "control_n": 5000,
+          "control_events": 413,
+          "treatment_n": 5000,
+          "treatment_events": 399
+        },
+        {
+          "name": "support_tickets_rate",
+          "direction": "lower_is_better",
+          "control_n": 5000,
+          "control_events": 619,
+          "treatment_n": 5000,
+          "treatment_events": 595
+        }
+      ],
+      "segments": [
+        {
+          "segment": "Starter",
+          "control_n": 2500,
+          "control_conversions": 1032,
+          "treatment_n": 2500,
+          "treatment_conversions": 1110
+        },
+        {
+          "segment": "Growth",
+          "control_n": 1750,
+          "control_conversions": 743,
+          "treatment_n": 1750,
+          "treatment_conversions": 852
+        },
+        {
+          "segment": "Enterprise",
+          "control_n": 750,
+          "control_conversions": 398,
+          "treatment_n": 750,
+          "treatment_conversions": 412
+        }
+      ],
+      "intended_split": 0.5
+    },
+    {
+      "experiment_id": "aggressive_upsell_banner",
+      "name": "Aggressive Upsell Banner",
+      "primary_metric": "trial_to_paid_conversion",
+      "hypothesis": "A persistent in-app upgrade banner increases trial-to-paid conversion.",
+      "control_n": 6000,
+      "control_conversions": 1081,
+      "treatment_n": 6000,
+      "treatment_conversions": 1208,
+      "guardrails": [
+        {
+          "name": "day7_churn_rate",
+          "direction": "lower_is_better",
+          "control_n": 6000,
+          "control_events": 526,
+          "treatment_n": 6000,
+          "treatment_events": 665
+        },
+        {
+          "name": "support_tickets_rate",
+          "direction": "lower_is_better",
+          "control_n": 6000,
+          "control_events": 576,
+          "treatment_n": 6000,
+          "treatment_events": 633
+        }
+      ],
+      "segments": [
+        {
+          "segment": "Starter",
+          "control_n": 3000,
+          "control_conversions": 500,
+          "treatment_n": 3000,
+          "treatment_conversions": 535
+        },
+        {
+          "segment": "Growth",
+          "control_n": 2000,
+          "control_conversions": 368,
+          "treatment_n": 2000,
+          "treatment_conversions": 426
+        },
+        {
+          "segment": "Enterprise",
+          "control_n": 1000,
+          "control_conversions": 213,
+          "treatment_n": 1000,
+          "treatment_conversions": 247
+        }
+      ],
+      "intended_split": 0.5
+    },
+    {
+      "experiment_id": "new_pricing_page_layout",
+      "name": "New Pricing Page Layout",
+      "primary_metric": "trial_signup_rate",
+      "hypothesis": "A benefits-led pricing page (vs. feature-table) increases trial signups.",
+      "control_n": 6000,
+      "control_conversions": 1345,
+      "treatment_n": 6000,
+      "treatment_conversions": 1349,
+      "guardrails": [
+        {
+          "name": "day7_churn_rate",
+          "direction": "lower_is_better",
+          "control_n": 6000,
+          "control_events": 556,
+          "treatment_n": 6000,
+          "treatment_events": 580
+        },
+        {
+          "name": "support_tickets_rate",
+          "direction": "lower_is_better",
+          "control_n": 6000,
+          "control_events": 655,
+          "treatment_n": 6000,
+          "treatment_events": 639
+        }
+      ],
+      "segments": [
+        {
+          "segment": "Starter",
+          "control_n": 3000,
+          "control_conversions": 596,
+          "treatment_n": 3000,
+          "treatment_conversions": 519
+        },
+        {
+          "segment": "Growth",
+          "control_n": 2000,
+          "control_conversions": 446,
+          "treatment_n": 2000,
+          "treatment_conversions": 484
+        },
+        {
+          "segment": "Enterprise",
+          "control_n": 1000,
+          "control_conversions": 303,
+          "treatment_n": 1000,
+          "treatment_conversions": 346
+        }
+      ],
+      "intended_split": 0.5
+    },
+    {
+      "experiment_id": "search_ranking_algo_v3",
+      "name": "Search Ranking Algorithm v3",
+      "primary_metric": "search_to_click_rate",
+      "hypothesis": "A relevance-tuned ranking model increases search-result click-through.",
+      "control_n": 5450,
+      "control_conversions": 1571,
+      "treatment_n": 4550,
+      "treatment_conversions": 1486,
+      "guardrails": [
+        {
+          "name": "day7_churn_rate",
+          "direction": "lower_is_better",
+          "control_n": 5450,
+          "control_events": 511,
+          "treatment_n": 4550,
+          "treatment_events": 393
+        },
+        {
+          "name": "support_tickets_rate",
+          "direction": "lower_is_better",
+          "control_n": 5450,
+          "control_events": 525,
+          "treatment_n": 4550,
+          "treatment_events": 472
+        }
+      ],
+      "segments": [
+        {
+          "segment": "Starter",
+          "control_n": 2997,
+          "control_conversions": 885,
+          "treatment_n": 2502,
+          "treatment_conversions": 821
+        },
+        {
+          "segment": "Growth",
+          "control_n": 1635,
+          "control_conversions": 501,
+          "treatment_n": 1365,
+          "treatment_conversions": 450
+        },
+        {
+          "segment": "Enterprise",
+          "control_n": 818,
+          "control_conversions": 247,
+          "treatment_n": 683,
+          "treatment_conversions": 235
+        }
+      ],
+      "intended_split": 0.5
+    },
+    {
+      "experiment_id": "dashboard_load_speed_opt",
+      "name": "Dashboard Load Speed Optimization",
+      "primary_metric": "week1_return_rate",
+      "hypothesis": "A 40% dashboard load-time reduction increases week-1 return visits.",
+      "control_n": 4000,
+      "control_conversions": 2246,
+      "treatment_n": 4000,
+      "treatment_conversions": 2235,
+      "guardrails": [
+        {
+          "name": "day7_churn_rate",
+          "direction": "lower_is_better",
+          "control_n": 4000,
+          "control_events": 354,
+          "treatment_n": 4000,
+          "treatment_events": 374
+        },
+        {
+          "name": "support_tickets_rate",
+          "direction": "lower_is_better",
+          "control_n": 4000,
+          "control_events": 375,
+          "treatment_n": 4000,
+          "treatment_events": 408
+        }
+      ],
+      "segments": [
+        {
+          "segment": "Starter",
+          "control_n": 2000,
+          "control_conversions": 1127,
+          "treatment_n": 2000,
+          "treatment_conversions": 1095
+        },
+        {
+          "segment": "Growth",
+          "control_n": 1400,
+          "control_conversions": 772,
+          "treatment_n": 1400,
+          "treatment_conversions": 789
+        },
+        {
+          "segment": "Enterprise",
+          "control_n": 600,
+          "control_conversions": 347,
+          "treatment_n": 600,
+          "treatment_conversions": 351
+        }
+      ],
+      "intended_split": 0.5
+    }
+  ]
+}

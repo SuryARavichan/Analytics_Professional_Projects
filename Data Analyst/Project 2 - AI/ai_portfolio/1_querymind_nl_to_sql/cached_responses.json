@@ -1,0 +1,14 @@
+{
+  "insight_q01": "Q4 2025 generated $1,912,295.82 in completed-sale revenue, the strongest quarter in the dataset -- consistent with the built-in holiday-season seasonality (Nov/Dec are weighted ~35-55% above baseline).",
+  "insight_q02": "Store #106 leads all 24 stores with $336,698.92 in 2025 revenue, roughly 8% ahead of the next-highest store -- worth understanding whether that's driven by store type, region, or local demand before using it as a template for underperforming stores.",
+  "insight_q03": "Average transaction value is nearly identical between In-Store ($312.12) and Online ($311.92) -- channel doesn't meaningfully affect basket size here, so channel-mix shifts should be evaluated on cost-to-serve and conversion, not AOV.",
+  "insight_q04": "724 loyalty members purchased in November 2025, giving Marketing a concrete, addressable list size for any holiday-season loyalty campaign targeting.",
+  "insight_q05": "The top 5 best-sellers by units are led by an Accessories item (562 units) but are otherwise dominated by Outdoor Gear (3 of 5 spots) -- Outdoor Gear is punching above its ~16% share of the product catalog in unit velocity.",
+  "insight_q06": "Electronics is the top-revenue category at $3,163,854.10, despite representing only ~12% of the product catalog -- its high average selling price is doing the work; a unit-volume ranking would likely tell a different story.",
+  "insight_q08": "Transactions in the West region carry a 4.43% average discount, in line with the other regions -- there's no evidence West is being over-discounted relative to the rest of the chain.",
+  "insight_q11": "The South region has the highest average transaction value at $313.43, only marginally above the other regions (~$310-312) -- not a large enough gap to be a standalone strategic signal on its own.",
+  "insight_q12": "Return rates are tightly clustered across store types (5.7%-6.5%), with Flagship stores highest at 6.48% -- close enough that this likely reflects overall product/category mix rather than a store-type-specific service issue.",
+  "insight_q17": "The top 3 Footwear products by revenue are within 3% of each other ($88.1K-$90.8K) -- a genuinely competitive category rather than one dominated by a single hero SKU.",
+  "insight_q19": "38.73% of South-region purchasers are loyalty members, in line with the ~38% loyalty rate in the customer base overall -- the South region isn't under- or over-indexed on loyalty enrollment among buyers.",
+  "insight_q20": "Credit Card is the dominant payment method at $6.0M (46% of revenue), more than 3x Cash ($1.67M) -- any payment-processing fee renegotiation should prioritize the Credit Card rate given its outsized share."
+}
